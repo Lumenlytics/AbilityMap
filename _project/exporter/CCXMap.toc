@@ -1,0 +1,10 @@
+## Interface: 120000, 120100
+## Title: CCX Map |cff00ccffExporter|r
+## Notes: Ability -> buff/debuff/cooldown dumper. /ccx sweep reads ALL 13 classes' talent trees from one character.
+## Author: ClassCodex
+## Version: 2.0.1
+## SavedVariables: CCXMapDB
+## IconTexture: Interface\ICONS\INV_Misc_Book_09
+
+CCXMap.lua
+CCXSweep.lua

@@ -1,0 +1,25 @@
+## Interface: 120000, 120100
+## Title: Ability|cff00ccffMap|r
+## Notes: Shared data library: every ability/talent mapped to its buff/debuff aura, cooldown and spell ID. Read-only API for other addons.
+## Author: Ryrin
+## Version: 2.0.0
+## Category: Development Tools
+## IconTexture: Interface\ICONS\INV_Misc_Book_09
+## X-Website: https://github.com/Lumenlytics
+## AllowLoad: Both
+## DefaultState: Enabled
+
+Core.lua
+Data\DeathKnight.lua
+Data\DemonHunter.lua
+Data\Druid.lua
+Data\Evoker.lua
+Data\Hunter.lua
+Data\Mage.lua
+Data\Monk.lua
+Data\Paladin.lua
+Data\Priest.lua
+Data\Rogue.lua
+Data\Shaman.lua
+Data\Warlock.lua
+Data\Warrior.lua

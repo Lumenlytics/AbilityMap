@@ -1,0 +1,202 @@
+{
+ "260708": {
+  "260708": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "355": {
+  "355": {
+   "harmful": true,
+   "unit": "target"
+  }
+ },
+ "58984": {
+  "58984": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "435222": {
+  "438591": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "6343": {
+  "1278009": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "118038": {
+  "118038": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "167105": {
+  "260708": {
+   "harmful": false,
+   "unit": "player"
+  },
+  "1261189": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "50622": {
+  "1270731": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "97462": {
+  "97463": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "52174": {
+  "202164": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "361584": {
+  "377234": {
+   "harmful": false,
+   "unit": "player"
+  },
+  "1226974": {
+   "harmful": true,
+   "unit": "player"
+  }
+ },
+ "107574": {
+  "107574": {
+   "harmful": false,
+   "unit": "player"
+  },
+  "435615": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "385059": {
+  "1719": {
+   "harmful": false,
+   "unit": "player"
+  },
+  "184362": {
+   "harmful": false,
+   "unit": "player"
+  },
+  "1269349": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "372608": {
+  "388367": {
+   "harmful": false,
+   "unit": "player"
+  },
+  "404184": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "23920": {
+  "23920": {
+   "harmful": false,
+   "unit": "player"
+  },
+  "385391": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "386208": {
+  "386208": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "200749": {
+  "386164": {
+   "harmful": false,
+   "unit": "player"
+  },
+  "386208": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "3411": {
+  "147833": {
+   "harmful": false,
+   "unit": "target"
+  },
+  "438598": {
+   "harmful": false,
+   "unit": "target"
+  }
+ },
+ "100": {
+  "105771": {
+   "harmful": true,
+   "unit": "target"
+  },
+  "1252487": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "1261334": {
+  "1261334": {
+   "harmful": false,
+   "unit": "player"
+  },
+  "297871": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "385061": {
+  "1269349": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "376079": {
+  "1271981": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "18499": {
+  "18499": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "871": {
+  "871": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "12323": {
+  "1244157": {
+   "harmful": false,
+   "unit": "player"
+  }
+ },
+ "446035": {
+  "446035": {
+   "harmful": false,
+   "unit": "player"
+  }
+ }
+}

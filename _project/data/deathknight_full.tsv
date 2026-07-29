@@ -1,0 +1,369 @@
+specID	specName	source	spellID	name	passive	selected	charges	cooldownMS	rechargeMS	overrideSpellID	description	origin
+252	Unholy	talent	207167	Blinding Sleet	false			60000			Targets in a cone in front of you are blinded, causing them to wander disoriented for 5 sec. Damage may cancel the effect. When Blinding Sleet ends, enemies are slowed by 50% for 6 sec.	sweep
+252	Unholy	talent	207104	Runic Attenuation	true			0			Auto attacks have a chance to generate 3 Runic Power.	sweep
+252	Unholy	talent	205727	Anti-Magic Barrier	true			0			Reduces the cooldown of Anti-Magic Shell by 20 sec and increases its duration and amount absorbed by 40%.	sweep
+252	Unholy	talent	374383	Assimilation	true			0			The cooldown of Anti-Magic Zone is reduced by 60 sec and its duration is increased by 2 sec.	sweep
+252	Unholy	talent	457574	Unyielding Will	true			0			Anti-Magic Shell now removes all harmful magical effects when activated, but its cooldown is increased by 20 sec.	sweep
+252	Unholy	talent	391566	Insidious Chill	true			0			Your auto-attacks reduce the target's auto-attack speed by 5% for 30 sec, stacking up to 4 times.	sweep
+252	Unholy	talent	391571	Gloom Ward	true			0			Absorbs are 15% more effective on you. 	sweep
+252	Unholy	talent	454851	Vestigial Shell	true			0			Casting Anti-Magic Shell grants 2 nearby allies a Lesser Anti-Magic Shell that Absorbs up to 10,782 magic damage and reduces the duration of harmful Magic effects against them by 50%. 	sweep
+252	Unholy	talent	206967	Will of the Necropolis	true			0			Damage taken below 30% Health is reduced by 20%.	sweep
+252	Unholy	talent	454788	Runic Protection	true			0			Your chance to be critically struck is reduced by 3% and your Armor is increased by 6%.	sweep
+252	Unholy	talent	374598	Blood Draw	true			0			When you fall below 30% health you drain 3,063 health from nearby enemies, the damage you take is reduced by 10% and your Death Strike cost is reduced by 10 for 8 sec. Can only occur every 2 min.	sweep
+252	Unholy	talent	273952	Grip of the Dead	true			0			Death and Decay reduces the movement speed of enemies within its area by 90%, decaying by 10% every sec.	sweep
+252	Unholy	talent	389682	Unholy Endurance	true			0			Increases Lichborne duration by 2 sec and reduces the cooldown by 30 sec. 	sweep
+252	Unholy	talent	111673	Control Undead	false			0			Dominates the target undead creature up to level 91, forcing it to do your bidding for 5 min.	sweep
+252	Unholy	talent	1267028	Blood Bond	true			0			While you are below 50% health, your Ghoul sacrifices 4% of its maximum health to heal you for 1% of your maximum health every sec.	sweep
+252	Unholy	talent	374504	Brittle	true			0			Your diseases have a chance to weaken your enemy causing your attacks against them to deal 6% increased damage for 5 sec.	sweep
+252	Unholy	talent	221562	Asphyxiate	false			45000			Lifts the enemy target off the ground, crushing their throat with dark energy and stunning them for 5 sec.	sweep
+252	Unholy	talent	276079	Death's Reach	true			0			Increases the range of Death Grip by 10 yds. Killing an enemy that yields experience or honor resets the cooldown of Death Grip.	sweep
+252	Unholy	talent	51052	Anti-Magic Zone	false			240000			Places an Anti-Magic Zone for 6 sec, reducing the magic damage taken by party or raid members by 15%.	sweep
+252	Unholy	talent	207200	Permafrost	true			0			Your auto attack damage grants you an absorb shield equal to 40% of the damage dealt.	sweep
+252	Unholy	talent	374277	Improved Death Strike	true			0			Death Strike's cost is reduced by 10, and its healing is increased by 60%.	sweep
+252	Unholy	talent	48263	Veteran of the Third War	true			0			Stamina increased by 20%. 	sweep
+252	Unholy	talent	374265	Unholy Momentum	true			0			Increases Haste by 2%.	sweep
+252	Unholy	talent	49998	Death Strike	false			0			Focuses dark power into a strike that deals 3,908 Physical damage and heals you for 20.00% of all damage taken in the last 5 sec, minimum 7.0% of maximum health.	sweep
+252	Unholy	talent	46585	Raise Dead	false			120000			Raises a ghoul to fight by your side.  You can have a maximum of one ghoul at a time. Lasts 1 min.	sweep
+252	Unholy	talent	316916	Cleaving Strikes	true			0				sweep
+252	Unholy	talent	391546	March of Darkness	true			0			Death's Advance grants an additional 25% movement speed over the first 3 sec.	sweep
+252	Unholy	talent	212552	Wraith Walk	false			60000			Embrace the power of the Shadowlands, removing all root effects and increasing your movement speed by 70% for 4 sec. Taking any action cancels the effect. While active, your movement speed cannot be reduced below 170%.	sweep
+252	Unholy	talent	48743	Death Pact	false			120000			Create a death pact that heals you for 50% of your maximum health, but absorbs incoming healing equal to 30% of your max health for 15 sec.	sweep
+252	Unholy	talent	374261	Unholy Bond	true			0			Increases the effectiveness of your Runeforge effects by 20%.	sweep
+252	Unholy	talent	374030	Blood Scent	true			0			Increases Leech by 3%.	sweep
+252	Unholy	talent	374574	Rune Mastery	true			0			Consuming a Rune has a chance to increase your Strength by 3% for 8 sec.	sweep
+252	Unholy	talent	454822	Subduing Grasp	true			0			When you would pull an enemy, the damage they deal to you is reduced by 6% for 6 sec.	sweep
+252	Unholy	talent	48792	Icebound Fortitude	false			120000			Your blood freezes, granting immunity to Stun effects and reducing all damage you take by 30% for 8 sec.	sweep
+252	Unholy	talent	378848	Coldthirst	true			0			Successfully interrupting an enemy with Mind Freeze grants 10 Runic Power and reduces its cooldown by 3 sec.	sweep
+252	Unholy	talent	47528	Mind Freeze	false			15000			Smash the target's mind with cold, interrupting spellcasting and preventing any spell in that school from being cast for 5 sec.	sweep
+252	Unholy	talent	194878	Icy Talons	true			0			Your Runic Power spending abilities increase your melee attack speed by 6% for 10 sec, stacking up to 3 times.	sweep
+252	Unholy	talent	454786	Ice Prison	true			0			Chains of Ice now also roots enemies for 4 sec but its cooldown is increased to 12 sec.	sweep
+252	Unholy	talent	374049	Suppression	true			0			Damage taken from area of effect attacks reduced by 3%. When suffering a loss of control effect, this bonus is increased by an additional 6% for 6 sec.	sweep
+252	Unholy	talent	454835	Osmosis	true			0			Anti-Magic Shell increases healing received by 15%.	sweep
+252	Unholy	talent	390196	Magus of the Dead	true			0			Dark Transformation and Army of the Dead summon a Magus of the Dead who hurls Frostbolts and Shadow Bolts at your foes for 15 sec.	sweep
+252	Unholy	talent	390259	Commander of the Dead	true			0			Dark Transformation empowers your Gargoyle, Abomination, Magus and Lesser Ghouls for 30 sec, increasing their damage by 25%. The duration of Lesser Ghouls are increased by 0% of your Mastery.	sweep
+252	Unholy	talent	377440	Unholy Aura	true			0			Each Magus of the Dead under your command grants you 1.0% Haste.	sweep
+252	Unholy	talent	377590	Ancient Power	true			0			Spending Runic Power increases your Strength by 0.50% for 20 sec. Multiple applications may overlap.	sweep
+252	Unholy	talent	1290864	Cycle of Death	true			0			Putrefy reduces the cooldown of Death and Decay by 1.0 sec. Death and Decay reduces the cooldown of Putrefy by 0.3 sec for each enemy it damages, up to 3.0 sec.	sweep
+252	Unholy	talent	390270	Coil of Devastation	true			0			Death Coil deals 10% increased damage and causes the target to take an additional 30% of the direct damage dealt over 4 sec.	sweep
+252	Unholy	talent	377592	Morbidity	true			0			Diseased enemies take 1% increased damage from you per disease they are affected by.	sweep
+252	Unholy	talent	455396	Foul Infections	true			0			Your diseases deal 10% more damage and have a 5% increased chance to critically strike.	sweep
+252	Unholy	talent	1242608	Raise Abomination	true			0			Army of the Dead now raises an Abomination for 30 sec to attack enemies while emitting a disease cloud, dealing 893 Plague damage to nearby enemies every 2 sec.	sweep
+252	Unholy	talent	1242147	Summon Gargoyle	true			0			Army of the Dead now summons a Gargoyle into the battlefield to bombard your enemies for 25 sec. The Gargoyle gains 1% increased damage for every 1 Runic Power you spend and always critically strikes.	sweep
+252	Unholy	talent	276023	Harbinger of Doom	true			0			Sudden Doom triggers 30% more often and can accumulate up to 2 charges. Summoning a Lesser Ghoul with Scourge Strike reduces the cooldown of Putrefy by 2.5 sec.	sweep
+252	Unholy	talent	343294	Soul Reaper	false			15000			Rupture the soul of your enemy, dealing 11,486 Shadowfrost damage and causing the foe to take 20% increased damage from your diseases and minions for 8 sec. Only usable on enemies below 35% maximum health. |cFFFFFFFFConsumes up to 2 available charges to cast Putrefy.|r	sweep
+252	Unholy	talent	194916	All Will Serve	true			0			Raise Dead summons an additional skeletal archer at your command that shoots Blighted Arrows. |T3308646:24|t|cffffffffBlighted Arrow|r An unholy arrow that deals 867 Shadow damage. When consuming Sudden Doom, your Death Coil commands your archer to fire an additional Blighted Arrow at 80% effectiveness. Epidemic will instead cause Blighted Arrow to ricochet and hit up to 5 additional targets. 	sweep
+252	Unholy	talent	1241705	Outnumber	true			0			Each Lesser Ghoul increases the damage of your permanent Ghoul by 10%, and Dark Transformation additionally empowers the Claw attacks of your Lesser Ghouls to Sweeping Claws. |T237535:24|t|cffffffffSweeping Claws|r Rakes an enemy with deformed claws, dealing 1,890 Shadow damage to the target and 1,305 Shadow damage to nearby enemies.	sweep
+252	Unholy	talent	1241858	Unholy Devotion	true			0			Putrefy causes your permanent Ghoul to go on an unholy frenzy, increasing its attack speed and energy regeneration by 25% for 12 sec. Multiple applications may overlap.	sweep
+252	Unholy	talent	1233448	Dark Transformation	false			45000			Corrupt and evolve your Ghoul into a Monstrosity, greatly empowering its abilities for 15 sec. Death Coil and Epidemic extends the duration of this effect by 1.0 sec.	sweep
+252	Unholy	talent	390166	Plague Mastery	true			0			Critical strike damage of your diseases is increased by 25%	sweep
+252	Unholy	talent	1238900	Grave Mastery	true			0			Critical strike damage of your minions is increased by 15%	sweep
+252	Unholy	talent	207272	Infected Claws	true			0			The infected claws of your ghouls have a chance to sicken the foe, dealing 530 Shadow damage over 12 sec. When reapplied, any remaining damage is added to the new effect. 	sweep
+252	Unholy	talent	77575	Outbreak	false			0			Inflicts the target with Dread Plague and Virulent Plague. |T7439189:24|t|cffffffffDread Plague|r A malicious plague that deals 11,208 Shadow damage over 24 sec. Explodes for 4,709 Shadow damage to nearby enemies and infects one when the host dies. Can only be applied to 1 host at a time. |T132099:24|t|cffffffffVirulent Plague|r An infectious plague that spreads to all nearby enemies, dealing 5,113 Shadow damage over 24 sec.	sweep
+252	Unholy	talent	55090	Scourge Strike	false			0			An unholy strike that deals 3,446 Shadow damage and causing your plagues on the target to erupt, dealing their damage an additional time at 35% effectiveness. Applies Virulent Plague or spreads it to a nearby enemy.	sweep
+252	Unholy	talent	49530	Sudden Doom	true			0			Dread Plague has a 35% chance to exhilarate you, making your next Death Coil or Epidemic cost 15 less Runic Power and deal 35% increased damage.	sweep
+252	Unholy	talent	390283	Superstrain	true			0			Dread Plague deals damage to an additional nearby enemy at 75% effectiveness and has a chance to grant you 4 Runic Power.	sweep
+252	Unholy	talent	455397	Festering Scythe	true			0			Festering Strike now follows up with a Festering Scythe that costs no Runes. |T3997563:24|t|cffffffffFestering Scythe|r Slashes through all enemies within 14 yds in front of you, dealing 2,584 Shadow damage and hastening all of your plagues on targets hit to deal damage 35% faster for 25 sec.	sweep
+252	Unholy	talent	377587	Ghoulish Frenzy	true			0			Dark Transformation increases the attack speed and damage of you and your Monstrosity by 5% for 15 sec.	sweep
+252	Unholy	talent	42650	Army of the Dead	false			90000			Summons a legion of 8 empowered Lesser Ghouls that last for 15 sec to swarm your enemies. |cFFFFFFFFGenerates 40 Runic Power.|r	sweep
+252	Unholy	talent	207269	Ebon Fever	true			0			Plagues deal 15% more damage over time in 75% of their duration.	sweep
+252	Unholy	hero	434143	Infliction of Sorrow	true			0			When Vampiric Strike damages an enemy affected by your plagues, it extends the duration of the plagues by 3.0 sec, and deals 10% of the remaining damage to the enemy.	sweep
+252	Unholy	hero	444074	Horsemen's Aid	true			0			While at your aid, the Horsemen will occasionally cast Anti-Magic Shell on you and themselves at 80% effectiveness. You may only benefit from this effect every 45 sec.	sweep
+252	Unholy	hero	444083	Pact of the Apocalypse	true			0			When you take damage, 5% of the damage is redirected to each active horsemen.	sweep
+252	Unholy	hero	434151	Incite Terror	true			0			Vampiric Strike and Scourge Strike cause your targets to take 1% increased Shadow damage, up to 5% for 15 sec. Vampiric Strike benefits from Incite Terror at 400% effectiveness.	sweep
+252	Unholy	hero	444040	Apocalypse Now	true			0			Army of the Dead and Frostwyrm's Fury call upon all 4 Horsemen to aid you for 20 sec.	sweep
+252	Unholy	hero	444069	Fury of the Horsemen	true			0			Every 50 Runic Power you spend extends the duration of the Horsemen's aid in combat by 1 sec, up to 5 sec.	sweep
+252	Unholy	hero	444072	A Feast of Souls	true			0			While you have 2 or more Horsemen aiding you, your  increased damage.	sweep
+252	Unholy	hero	444037	Hungering Thirst	true			0			The damage of your diseases and Death Coil are increased by 5%.	sweep
+252	Unholy	hero	1280658	Inevitable	true			0			Your plagues deal up to 30% increased damage based on the target's missing health.	sweep
+252	Unholy	hero	434260	The Blood is Life	true			0			Dark Transformation summons a Blood Beast to attack your enemy for 10 sec. Each time the Blood Beast attacks, it stores a portion of the damage dealt. When the Blood Beast dies, it explodes, dealing 25% of the damage accumulated to nearby enemies and healing the Death Knight for the same amount. Deals reduced damage beyond 8 targets.	sweep
+252	Unholy	hero	444033	Whitemane's Famine	true			0			When Scourge Strike damages an enemy affected by Undeath it gains 1 stack and infects another nearby enemy.	sweep
+252	Unholy	hero	434033	Blood-Soaked Ground	true			0			While you are within your Death and Decay, your physical damage taken is reduced by 5% and your chance to gain Vampiric Strike is increased by 5%.	sweep
+252	Unholy	hero	1234559	Desecrate	true			0			Death and Decay deals its damage 100% faster.	sweep
+252	Unholy	hero	433901	Vampiric Strike	true			0			Your Death Coil and Death Strike have a 25% chance to make your next Scourge Strike become Vampiric Strike. Vampiric Strike heals you for 2% of your maximum health and grants you Essence of the Blood Queen, increasing your Haste by 1.0%, up to 5.0% for 20 sec. 	sweep
+252	Unholy	hero	434152	Gift of the San'layn	true			0			While Dark Transformation is active you gain Gift of the San'layn. Gift of the San'layn increases the effectiveness of your Essence of the Blood Queen by 200%, and Vampiric Strike replaces your Scourge Strike for the duration. 	sweep
+252	Unholy	hero	444099	Mawsworn Menace	true			0			Scourge Strike deals 15% increased damage and the cooldown of your Death and Decay is reduced by 5 sec.	sweep
+252	Unholy	hero	434261	Pact of the San'layn	true			0			You store 10% of all Shadow damage dealt into your Blood Beast to explode for additional damage when it expires.	sweep
+252	Unholy	hero	434263	Sanguine Scent	true			0			Your Death Coil and Death Strike have a 15% increased chance to trigger Vampiric Strike when damaging enemies below 35% health.	sweep
+252	Unholy	hero	434100	Vampiric Aura	true			0			Your Leech is increased by 2%. While Lichborne is active, the Leech bonus of this effect is increased by 100%, and it affects 4 allies within 12 yds. 	sweep
+252	Unholy	hero	434136	Bloody Fortitude	true			0			Icebound Fortitude reduces all damage you take by up to an additional 20% based on your missing health. Killing an enemy that yields experience or honor reduces the cooldown of Icebound Fortitude by 3 sec.	sweep
+252	Unholy	hero	444052	Nazgrim's Conquest	true			0			If an enemy dies while Nazgrim is active, the strength of Apocalyptic Conquest is increased by 3%. Additionally, each Rune you spend increase its value by 1%.	sweep
+252	Unholy	hero	444008	On a Paler Horse	true			0			While outdoors you are able to mount your Acherus Deathcharger in combat.	sweep
+252	Unholy	hero	444010	Death Charge	true			0			Call upon your Death Charger to break free of movement impairment effects. For 10 sec, while upon your Death Charger your movement speed is increased by 100%, you cannot be slowed below 100% of normal speed, and you are immune to forced movement effects and knockbacks.	sweep
+252	Unholy	hero	444097	Trollbane's Icy Fury	true			0			Scourge Strike shatters Trollbane's Chains of Ice when hit, dealing 2,687 Shadowfrost damage to nearby enemies, and slowing them by 40% for 4 sec. Deals reduced damage beyond 8 targets.	sweep
+252	Unholy	hero	433934	Newly Turned	true			0			Raise Ally revives players at full health and grants you and your ally an absorb shield equal to 20% of your maximum health.	sweep
+252	Unholy	hero	434028	Vampiric Speed	true			0			Death's Advance and Wraith Walk movement speed bonuses are increased by 10%. Activating Death's Advance or Wraith Walk increases 4 nearby allies movement speed by 20% for 5 sec.	sweep
+252	Unholy	hero	434075	Frenzied Bloodthirst	true			0			Essence of the Blood Queen stacks 2 additional times and increases the damage of your Death Coil and Death Strike by 5%, and Epidemic by 5% per stack.	sweep
+252	Unholy	hero	444005	Rider's Champion	true			0			Spending Runes has a chance to call forth the aid of a Horsemen for 10 sec. |cFFFFFFFFMograine|R Casts Death and Decay at his location that follows his position and extends the duration of your diseases by 1.0 sec whenever it deals damage. |cFFFFFFFFWhitemane|R Casts Undeath on your target dealing 175 Shadowfrost damage per stack every 3 sec, for 24 sec. Each time Undeath deals damage it gains a stack. Cannot be refreshed. |cFFFFFFFFTrollbane|R Casts Chains of Ice on your target slowing their movement speed by 40% and increasing the damage they take from you by 5% for 8 sec. |cFFFFFFFFNazgrim|R While Nazgrim is active you gain Apocalyptic Conquest, increasing your Strength by 5%. 	sweep
+252	Unholy	hero	444047	Mograine's Might	true			0			Your damage is increased by 5% and you gain  while inside Mograine's Death and Decay.	sweep
+252	Unholy	talent	373930	Proliferating Chill	true			0			Chains of Ice affects 1 additional nearby enemy.	sweep
+252	Unholy	talent	455135	Menacing Magus	true			0			Your Magus of the Dead Shadow Bolt now fires a volley of Shadow Bolts at up to 8 nearby enemies.	sweep
+252	Unholy	talent	356367	Death's Echo	true			0			Death's Advance, Death and Decay, and Death Grip have 1 additional charge.	sweep
+252	Unholy	talent	454842	Null Magic	true			0			Magic damage taken is reduced by 8% and the duration of harmful Magic effects against you are reduced by 35%.	sweep
+252	Unholy	talent	1271974	Blightfall	true			0			Dark Transformation grants access to Blightfall. |T5976940:24|t|cffffffffBlightfall|r Consume 100% of your plagues around you and deal 100% of their remaining damage instantly. |cFFFFFFFFGrants 1 charge of Putrefy.|r	sweep
+252	Unholy	talent	1254552	Blightburst	true			0			The explosion effect of Putrefy extends the duration of your plagues by 4.5 sec and deals 35% of the damage they would deal over that time instantly. Putrefy now applies your plagues to unaffected targets.	sweep
+252	Unholy	talent	1242604	Scourging	true			0			Scourge Strike now causes your Plagues to erupt at 50% effectiveness. Clawing Shadows can now stack 1 additional times.	sweep
+252	Unholy	talent	1247378	Putrefy	false		1	0	30000		Summon a Lesser Ghoul to strike the enemy for 5,995 Shadow damage and have them explode for 3,101 Shadow damage to nearby enemies.	sweep
+252	Unholy	talent	455386	Doomed Bidding	true			0			Consuming Sudden Doom summons forth a Lesser Ghoul to assist you for 6 sec.	sweep
+252	Unholy	talent	1241567	Clawing Shadows	true			0			Shadows guide your strikes, increasing the damage of your Scourge Strike by 25%, and causing it to grant you Clawing Shadows up to 4 times. For each stack of Clawing Shadows, your Scourge Strike chains to an additional enemy. Each subsequent chain deals 20% reduced damage.	sweep
+252	Unholy	talent	377580	Putrid Echoes	true			0			Putrefy deals 20% increased damage, has 2 additional charges and consumes up to 2 available charges.	sweep
+252	Unholy	talent	377514	Reaping	true			0			Scourge Strike, Festering Strike, and Death Coil deal 30% additional damage to enemies below 35% health. Dark Transformation resets Soul Reaper's cooldown and allows it to be used on any target.	sweep
+252	Unholy	talent	1256813	Reanimation	true			0			When you Putrefy a Lesser Ghoul, it has a 100% chance to reanimate as a Magus of the Dead who hurls Frostbolts and Shadow Bolts at your foes for 15 sec. Magus of the Dead Frostbolts and Shadow Bolts deal 25% increased damage.	sweep
+252	Unholy	hero	1265574	Transfusion	true			0			Vampiric Strike increases the damage of your Dancing Rune Weapons by 20% for 8 sec.  Multiple applications may overlap.	sweep
+252	Unholy	hero	1265547	Thrill of Blood	true			0			Essence of the Blood Queen additionally increases your Mastery by 1.0% per stack. Blood Plague deals 5% increased damage.	sweep
+252	Unholy	hero	434157	Visceral Strength	true			0			When Sudden Doom is consumed, you gain 4% Strength for 5 sec.	sweep
+252	Unholy	hero	1265971	Unholy Armaments	true			0			The abilities that Horsemen cast deal 5% increased damage..	sweep
+252	Unholy	hero	1265949	Let Terror Reign	true			0			Casting Death Coil or Epidemic orders Whitemane to cast her Death Coil or Epidemic alongside you at 125% effectiveness.	sweep
+252	Unholy	hero	1265959	Ride or Die!	true			0			Dark Transformation summons forth Whitemane for 6 sec.	sweep
+252	Unholy	talent	392566	Enfeeble	true			0			Your ghoul's attacks have a chance to apply Enfeeble, reducing the enemies movement speed by 30% and the damage they deal to you by 12% for 6 sec.	sweep
+252	Unholy	talent	1266819	Death Notes	true			0			Raise Ally costs 30 less Runic Power.	sweep
+252	Unholy	talent	1266818	Death Defiance	true			0			The cooldown of Death Pact is reduced by 30 sec, and you receive 50% increased healing while its healing absorb is active.	sweep
+252	Unholy	talent	288848	Necromancer's Cunning	true			0			When your Lesser Ghouls expire, they explode in viscera, dealing 1,078 Shadow damage to enemies nearby.	sweep
+252	Unholy	talent	1242158	Forbidden Knowledge	true			0			Army of the Dead siphons the power of the fallen, transforming Death Coil and Epidemic into Necrotic Coil and Graveyard for 30 sec. |T3528294:24|t|cffffffffNecrotic Coil|r Unleash a vortex of necrotic energy and bone, dealing 5,599 Shadowstrike damage up to 3 foes and 1,761 Shadow damage to all pierced enemies. |T2576086:24|t|cffffffffGraveyard|r The dead erupt beneath all foes with Virulent Plague, dealing 2,436 Shadow damage and 975 Shadow damage to enemies nearby.	sweep
+252	Unholy	talent	1256565	Forbidden Knowledge	true			0			Putrefy causes your next 1 Scourge Strike to summon a Lesser Ghoul, and grants you 3% Mastery for 12 sec. Multiple applications may overlap.	sweep
+252	Unholy	talent	1256566	Forbidden Knowledge	true			0			Each Magus of the Dead under your command increases the damage of Necrotic Coil and Graveyard by 8%. Dread Plague has a 20% chance to rouse the dead, causing a Lesser Ghoul to unearth and leap at the target to Putrefy at 60% effectiveness.	sweep
+250	Blood	talent	1265790	Boiling Point	true			0			Heart Strike has a chance to make your next Blood Boil empowered, dealing 50% increased damage and echoing after 3 sec.	sweep
+250	Blood	talent	391517	Umbilicus Eternus	true			0			After Vampiric Blood expires, you absorb damage equal to 5 times the damage your Blood Plague dealt during Vampiric Blood.	sweep
+250	Blood	talent	391477	Coagulopathy	true			0			Enemies affected by Blood Plague take 5% increased damage from you and Death Strike increases the damage of your Blood Plague by 10% for 15 sec, stacking up to 4 times.	sweep
+250	Blood	talent	108199	Gorefiend's Grasp	false			90000			Shadowy tendrils coil around all enemies within 15 yards of a hostile or friendly target, pulling them to the target's location and Silencing them for 3 sec.	sweep
+250	Blood	talent	1263569	Abomination Limb	false			120000			Sprout an additional limb, pulling enemies further than 8 yds from you every 1 sec.   The same enemy can only be pulled once every 4 sec.	sweep
+250	Blood	talent	273953	Voracious	true			0			Death Strike's healing is increased by 5% and grants you 12% Leech for 8 sec.	sweep
+250	Blood	talent	207167	Blinding Sleet	false			60000			Targets in a cone in front of you are blinded, causing them to wander disoriented for 5 sec. Damage may cancel the effect. When Blinding Sleet ends, enemies are slowed by 50% for 6 sec.	sweep
+250	Blood	talent	207104	Runic Attenuation	true			0			Auto attacks have a chance to generate 3 Runic Power.	sweep
+250	Blood	talent	205727	Anti-Magic Barrier	true			0			Reduces the cooldown of Anti-Magic Shell by 20 sec and increases its duration and amount absorbed by 40%.	sweep
+250	Blood	talent	374383	Assimilation	true			0			The cooldown of Anti-Magic Zone is reduced by 60 sec and its duration is increased by 2 sec.	sweep
+250	Blood	talent	457574	Unyielding Will	true			0			Anti-Magic Shell now removes all harmful magical effects when activated, but its cooldown is increased by 20 sec.	sweep
+250	Blood	talent	391566	Insidious Chill	true			0			Your auto-attacks reduce the target's auto-attack speed by 5% for 30 sec, stacking up to 4 times.	sweep
+250	Blood	talent	391571	Gloom Ward	true			0			Absorbs are 15% more effective on you. 	sweep
+250	Blood	talent	454851	Vestigial Shell	true			0			Casting Anti-Magic Shell grants 2 nearby allies a Lesser Anti-Magic Shell that Absorbs up to 10,782 magic damage and reduces the duration of harmful Magic effects against them by 50%. 	sweep
+250	Blood	talent	206967	Will of the Necropolis	true			0			Damage taken below 30% Health is reduced by 20%.	sweep
+250	Blood	talent	454788	Runic Protection	true			0			Your chance to be critically struck is reduced by 3% and your Armor is increased by 6%.	sweep
+250	Blood	talent	374598	Blood Draw	true			0			When you fall below 30% health you drain 3,063 health from nearby enemies, the damage you take is reduced by 10% and your Death Strike cost is reduced by 10 for 8 sec. Can only occur every 2 min.	sweep
+250	Blood	talent	273952	Grip of the Dead	true			0			Death and Decay reduces the movement speed of enemies within its area by 90%, decaying by 10% every sec.	sweep
+250	Blood	talent	389682	Unholy Endurance	true			0			Increases Lichborne duration by 2 sec and reduces the cooldown by 30 sec. 	sweep
+250	Blood	talent	111673	Control Undead	false			0			Dominates the target undead creature up to level 91, forcing it to do your bidding for 5 min.	sweep
+250	Blood	talent	1267028	Blood Bond	true			0			While you are below 50% health, your Ghoul sacrifices 4% of its maximum health to heal you for 1% of your maximum health every sec.	sweep
+250	Blood	talent	374504	Brittle	true			0			Your diseases have a chance to weaken your enemy causing your attacks against them to deal 6% increased damage for 5 sec.	sweep
+250	Blood	talent	221562	Asphyxiate	false			45000			Lifts the enemy target off the ground, crushing their throat with dark energy and stunning them for 5 sec.	sweep
+250	Blood	talent	276079	Death's Reach	true			0			Increases the range of Death Grip by 10 yds. Killing an enemy that yields experience or honor resets the cooldown of Death Grip.	sweep
+250	Blood	talent	51052	Anti-Magic Zone	false			240000			Places an Anti-Magic Zone for 6 sec, reducing the magic damage taken by party or raid members by 15%.	sweep
+250	Blood	talent	207200	Permafrost	true			0			Your auto attack damage grants you an absorb shield equal to 40% of the damage dealt.	sweep
+250	Blood	talent	374277	Improved Death Strike	true			0			Death Strike's cost is reduced by 10, and its healing is increased by 60%.	sweep
+250	Blood	talent	48263	Veteran of the Third War	true			0			Stamina increased by 20%. 	sweep
+250	Blood	talent	374265	Unholy Momentum	true			0			Increases Haste by 2%.	sweep
+250	Blood	talent	49998	Death Strike	false			0			Focuses dark power into a strike that deals 3,908 Physical damage and heals you for 20.00% of all damage taken in the last 5 sec, minimum 7.0% of maximum health.	sweep
+250	Blood	talent	46585	Raise Dead	false			120000			Raises a ghoul to fight by your side.  You can have a maximum of one ghoul at a time. Lasts 1 min.	sweep
+250	Blood	talent	316916	Cleaving Strikes	true			0				sweep
+250	Blood	talent	391546	March of Darkness	true			0			Death's Advance grants an additional 25% movement speed over the first 3 sec.	sweep
+250	Blood	talent	212552	Wraith Walk	false			60000			Embrace the power of the Shadowlands, removing all root effects and increasing your movement speed by 70% for 4 sec. Taking any action cancels the effect. While active, your movement speed cannot be reduced below 170%.	sweep
+250	Blood	talent	48743	Death Pact	false			120000			Create a death pact that heals you for 50% of your maximum health, but absorbs incoming healing equal to 30% of your max health for 15 sec.	sweep
+250	Blood	talent	374261	Unholy Bond	true			0			Increases the effectiveness of your Runeforge effects by 20%.	sweep
+250	Blood	talent	374030	Blood Scent	true			0			Increases Leech by 3%.	sweep
+250	Blood	talent	374574	Rune Mastery	true			0			Consuming a Rune has a chance to increase your Strength by 3% for 8 sec.	sweep
+250	Blood	talent	454822	Subduing Grasp	true			0			When you would pull an enemy, the damage they deal to you is reduced by 6% for 6 sec.	sweep
+250	Blood	talent	48792	Icebound Fortitude	false			120000			Your blood freezes, granting immunity to Stun effects and reducing all damage you take by 30% for 8 sec.	sweep
+250	Blood	talent	378848	Coldthirst	true			0			Successfully interrupting an enemy with Mind Freeze grants 10 Runic Power and reduces its cooldown by 3 sec.	sweep
+250	Blood	talent	47528	Mind Freeze	false			15000			Smash the target's mind with cold, interrupting spellcasting and preventing any spell in that school from being cast for 5 sec.	sweep
+250	Blood	talent	194878	Icy Talons	true			0			Your Runic Power spending abilities increase your melee attack speed by 6% for 10 sec, stacking up to 3 times.	sweep
+250	Blood	talent	454786	Ice Prison	true			0			Chains of Ice now also roots enemies for 4 sec but its cooldown is increased to 12 sec.	sweep
+250	Blood	talent	374049	Suppression	true			0			Damage taken from area of effect attacks reduced by 3%. When suffering a loss of control effect, this bonus is increased by an additional 6% for 6 sec.	sweep
+250	Blood	talent	454835	Osmosis	true			0			Anti-Magic Shell increases healing received by 15%.	sweep
+250	Blood	talent	374747	Perseverance of the Ebon Blade	true			0			When Crimson Scourge is consumed, you gain 6% Versatility for 6 sec.	sweep
+250	Blood	talent	391398	Bloodshot	true			0			While Blood Shield is active, you deal 8% increased damage.	sweep
+250	Blood	talent	374717	Improved Heart Strike	true			0			Heart Strike damage increased by 15%.	sweep
+250	Blood	talent	1263781	Sanguinary Burst	true			0			When Blood Mist ends it deals 7,045 Shadow damage to 8 nearby enemies, healing you for 15% of the damage dealt. The damage is increased by 2% for every 1 Runic Power spent while Blood Mist was active.	sweep
+250	Blood	talent	1263743	Blood Mist	true			0			When you cast Dancing Rune Weapon, you become enveloped in a blood mist that surrounds you for 8 sec, increasing your Parry by 5%.  Deals 1,633 Shadow damage every 1 sec to enemies within 10 yds. Every time it deals damage you gain 2 Runic Power, up to a maximum of 10 Runic Power. Deals reduced damage beyond 8 targets.	sweep
+250	Blood	talent	377637	Insatiable Blade	true			0			Dancing Rune Weapon's cooldown is reduced by 30 sec and now generates 5 Bone Shield charges.	sweep
+250	Blood	talent	377668	Everlasting Bond	true			0			Summons 1 additional copy of Dancing Rune Weapon and increases its duration by 4 sec.	sweep
+250	Blood	talent	391458	Sanguine Ground	true			0			You deal 6% more damage and receive 5% more healing while standing in your Death and Decay.	sweep
+250	Blood	talent	205723	Red Thirst	true			0			Reduces the cooldown on Vampiric Blood by 2.0 sec per 10 Runic Power spent.	sweep
+250	Blood	talent	114556	Purgatory	true			0			An unholy pact that prevents fatal damage, instead absorbing incoming healing equal to the damage prevented, lasting 3 sec. If any healing absorption remains when this effect expires, you will die. This effect may only occur every 4 min.	sweep
+250	Blood	talent	221536	Heartbreaker	true			0			Your Heart Strike generates 2 additional Runic Power per target hit.	sweep
+250	Blood	talent	273946	Hemostasis	true			0			Each enemy hit by Blood Boil increases the damage and healing done by your next Death Strike by 8%, stacking up to 5 times.	sweep
+250	Blood	talent	49028	Dancing Rune Weapon	false			120000			Summons a rune weapon for 8 sec that mirrors your melee attacks and bolsters your defenses. While active, you gain 25% parry chance.	sweep
+250	Blood	talent	1279633	Bloody Reflection	true			0			While Blood Shield is active, taking direct damage reflects 2,807 Shadow damage back to the attacker. Blood Shield can now absorb up to 65% of your maximum health.	sweep
+250	Blood	talent	317133	Improved Vampiric Blood	true			0			Vampiric Blood's healing and absorb amount is increased by 5% and duration by 2 sec.	sweep
+250	Blood	talent	194662	Rapid Decomposition	true			0			Your Blood Plague and Death and Decay deal damage 15% more often. Additionally, your Blood Plague leeches 50% more Health.	sweep
+250	Blood	talent	374715	Improved Bone Shield	true			0			Bone Shield increases your Haste by 10% and it can stack 2 additional times.	sweep
+250	Blood	talent	1264296	Lifeblood	true			0			Death Strike heals for an additional 20% of its healing over 5 sec. 	sweep
+250	Blood	talent	219786	Ossuary	true			0			While you have at least 5 Bone Shield charges, the cost of Death Strike is reduced by 5 Runic Power. Additionally, your maximum Runic Power is increased by 10.	sweep
+250	Blood	talent	377629	Leeching Strike	true			0			Heart Strike heals you for 0.25% health for each enemy hit while affected by Blood Plague.	sweep
+250	Blood	talent	317610	Relish in Blood	true			0			While Crimson Scourge is active, your next Death and Decay heals you for 761 health per Bone Shield charge and you immediately gain 10 Runic Power.	sweep
+250	Blood	talent	195679	Bloodworms	true			0			Your auto attacks have a chance to summon a Bloodworm. Bloodworms deal minor damage to your target for 15 sec and then burst, healing you for 15% of your missing health. If you drop below 50% health, your Bloodworms will immediately burst and heal you.	sweep
+250	Blood	talent	1264235	Deadly Reach	true			0			Death Strike hits an additional 2 enemies at 75% effectiveness.	sweep
+250	Blood	talent	206974	Foul Bulwark	true			0			Each charge of Bone Shield increases your maximum health by 1%.	sweep
+250	Blood	talent	195182	Marrowrend	false			0			Smash the target, dealing 3,754 Physical damage and generating 3 charges of Bone Shield. |T458717:24|t |cFFFFFFFF|cffffffffBone Shield|r|r Surrounds you with a barrier of whirling bones, increasing Armor by 3,596. Each melee attack against you consumes a charge. Lasts 30 sec or until all charges are consumed.	sweep
+250	Blood	talent	206930	Heart Strike	false			0			Instantly strike the target and 1 other nearby enemy, causing 4,016 Physical damage, and reducing enemies' movement speed by 20% for 8 sec.|r	sweep
+250	Blood	talent	50842	Blood Boil	false		2	0	7500		Deals 4,186 Shadow damage and infects all enemies within 10 yds with Blood Plague. |T237514:24|t |cFFFFFFFF|cffffffffBlood Plague|r|r A shadowy disease that drains 6,836 health from the target over 24 sec. 	sweep
+250	Blood	talent	458572	Bone Collector	true			0			When you would pull an enemy generate 1 charge of Bone Shield. |T458717:24|t |cFFFFFFFF|cffffffffBone Shield|r|r Surrounds you with a barrier of whirling bones, increasing Armor by 3,596. Each melee attack against you consumes a charge. Lasts 30 sec or until all charges are consumed.	sweep
+250	Blood	talent	391395	Iron Heart	true			0			Blood Shield's duration is increased by 2 sec and it absorbs 20% more damage.	sweep
+250	Blood	talent	55233	Vampiric Blood	false			90000			Embrace your undeath, increasing your maximum health by 30% and increasing all healing and absorbs received by 30% for 10 sec.	sweep
+250	Blood	talent	391386	Blood Feast	true			0			Anti-Magic Shell heals you for 100% of the damage it absorbs.	sweep
+250	Blood	hero	443560	Swift and Painful	true			0			If no enemies are struck by Soul Rupture, you gain 10% Strength for 8 sec. Wave of Souls is 100% more effective on the main target of your Reaper's Mark.	sweep
+250	Blood	hero	434143	Infliction of Sorrow	true			0			When Vampiric Strike damages an enemy affected by your plagues, it extends the duration of the plagues by 3.0 sec, and deals 10% of the remaining damage to the enemy.	sweep
+250	Blood	hero	434905	Grim Reaper	true			0			Reaper's Mark initial strike grants Killing Machine. Reaper's Mark explosion deals up to 30% increased damage based on your target's missing health.	sweep
+250	Blood	hero	440476	Pact of the Deathbringer	true			0			When you suffer a damaging effect equal to 25% of your maximum health, you instantly cast Death Pact at 50% effectiveness. May only occur every 2 min. When a Reaper's Mark explodes, the cooldowns of this effect and Death Pact are reduced by 5 sec.	sweep
+250	Blood	hero	440282	Rune Carved Plates	true			0			Each Rune spent reduces the magic damage you take by 1.5% and each Rune generated reduces the physical damage you take by 1.5% for 5 sec, up to 5 times.	sweep
+250	Blood	hero	439851	Wave of Souls	true			0			Reaper's Mark sends forth bursts of Shadowfrost energy and back, dealing 2,468 Shadowfrost damage both ways to all enemies caught in its path. Wave of Souls critical strikes cause enemies to take 5% increased Shadowfrost damage for 15 sec, stacking up to 2 times, and it is always a critical strike on its way back.	sweep
+250	Blood	hero	434151	Incite Terror	true			0			Vampiric Strike and Scourge Strike cause your targets to take 1% increased Shadow damage, up to 5% for 15 sec. Vampiric Strike benefits from Incite Terror at 400% effectiveness.	sweep
+250	Blood	hero	440031	Bind in Darkness	true			0			Rime empowered Howling Blast deals 60% increased damage to its main target, and is now Shadowfrost. Shadowfrost damage applies 2 stacks to Reaper's Mark and 4 stacks when it is a critical strike.	sweep
+250	Blood	hero	1280658	Inevitable	true			0			Your plagues deal up to 30% increased damage based on the target's missing health.	sweep
+250	Blood	hero	434260	The Blood is Life	true			0			Dark Transformation summons a Blood Beast to attack your enemy for 10 sec. Each time the Blood Beast attacks, it stores a portion of the damage dealt. When the Blood Beast dies, it explodes, dealing 25% of the damage accumulated to nearby enemies and healing the Death Knight for the same amount. Deals reduced damage beyond 8 targets.	sweep
+250	Blood	hero	434033	Blood-Soaked Ground	true			0			While you are within your Death and Decay, your physical damage taken is reduced by 5% and your chance to gain Vampiric Strike is increased by 5%.	sweep
+250	Blood	hero	1234559	Desecrate	true			0			Death and Decay deals its damage 100% faster.	sweep
+250	Blood	hero	437122	Death's Messenger	true			0			Reduces the cooldowns of Lichborne and Raise Dead by 30 sec.	sweep
+250	Blood	hero	439948	Expelling Shield	true			0			When an enemy deals direct damage to your Anti-Magic Shell, their cast speed is reduced by 10% for 6 sec.	sweep
+250	Blood	hero	433901	Vampiric Strike	true			0			Your Death Coil and Death Strike have a 25% chance to make your next Scourge Strike become Vampiric Strike. Vampiric Strike heals you for 2% of your maximum health and grants you Essence of the Blood Queen, increasing your Haste by 1.0%, up to 5.0% for 20 sec. 	sweep
+250	Blood	hero	434152	Gift of the San'layn	true			0			While Dark Transformation is active you gain Gift of the San'layn. Gift of the San'layn increases the effectiveness of your Essence of the Blood Queen by 200%, and Vampiric Strike replaces your Scourge Strike for the duration. 	sweep
+250	Blood	hero	434261	Pact of the San'layn	true			0			You store 10% of all Shadow damage dealt into your Blood Beast to explode for additional damage when it expires.	sweep
+250	Blood	hero	434263	Sanguine Scent	true			0			Your Death Coil and Death Strike have a 15% increased chance to trigger Vampiric Strike when damaging enemies below 35% health.	sweep
+250	Blood	hero	434100	Vampiric Aura	true			0			Your Leech is increased by 2%. While Lichborne is active, the Leech bonus of this effect is increased by 100%, and it affects 4 allies within 12 yds. 	sweep
+250	Blood	hero	434136	Bloody Fortitude	true			0			Icebound Fortitude reduces all damage you take by up to an additional 20% based on your missing health. Killing an enemy that yields experience or honor reduces the cooldown of Icebound Fortitude by 3 sec.	sweep
+250	Blood	hero	436687	Dark Talons	true			0			Consuming Killing Machine or Rime has a 25% chance to grant 3 stacks of Icy Talons and increase its maximum stacks by the same amount for 6 sec. Runic Power spending abilities count as Shadowfrost while Icy Talons is active.	sweep
+250	Blood	hero	469870	Reaper's Onslaught	true			0			Reduces the cooldown of Reaper's Mark by 15 sec, but the amount of Obliterates and Frostscythes empowered by Exterminate is reduced by 1.	sweep
+250	Blood	hero	441894	Wither Away	true			0			Frost Fever deals its damage 100% faster, and the second scythe of Exterminate applies Frost Fever.	sweep
+250	Blood	hero	437161	Soul Rupture	true			0			When Reaper's Mark explodes, it deals 20% of the damage dealt to nearby enemies.	sweep
+250	Blood	hero	439843	Reaper's Mark	false			45000			Viciously slice into the soul of your enemy, dealing 7,963 Shadowfrost damage and applying Reaper's Mark. Each time you deal Shadow or Frost damage, add a stack of Reaper's Mark. After 12 sec or reaching 40 stacks, the mark explodes, dealing 1,033 damage per stack. Reaper's Mark travels to an unmarked enemy nearby if the target dies.	sweep
+250	Blood	hero	433934	Newly Turned	true			0			Raise Ally revives players at full health and grants you and your ally an absorb shield equal to 20% of your maximum health.	sweep
+250	Blood	hero	434028	Vampiric Speed	true			0			Death's Advance and Wraith Walk movement speed bonuses are increased by 10%. Activating Death's Advance or Wraith Walk increases 4 nearby allies movement speed by 20% for 5 sec.	sweep
+250	Blood	hero	434075	Frenzied Bloodthirst	true			0			Essence of the Blood Queen stacks 2 additional times and increases the damage of your Death Coil and Death Strike by 5%, and Epidemic by 5% per stack.	sweep
+250	Blood	hero	441378	Exterminate	true			0			After Reaper's Mark explodes, your next 2 Obliterates or Frostscythes cost 1 Rune and summon 2 scythes to strike your enemies. The first scythe strikes your target for 13,538 Shadowfrost damage and the second scythe strikes all enemies around your target for 5,474 Shadowfrost damage. Deals reduced damage beyond 8 targets.	sweep
+250	Blood	talent	373930	Proliferating Chill	true			0			Chains of Ice affects 1 additional nearby enemy.	sweep
+250	Blood	talent	356367	Death's Echo	true			0			Death's Advance, Death and Decay, and Death Grip have 1 additional charge.	sweep
+250	Blood	talent	454842	Null Magic	true			0			Magic damage taken is reduced by 8% and the duration of harmful Magic effects against you are reduced by 35%.	sweep
+250	Blood	talent	458753	Bloodied Blade	true			0			Parrying an attack grants you a charge of Bloodied Blade, increasing your Strength by 0.5%, up to 4.0% for 15 sec. At 8 stacks, your next parry consumes all charges to unleash a Heart Strike at 300% effectiveness, and increases your Strength by 10% for 6 sec.	sweep
+250	Blood	talent	1265869	Plague Infusion	true			0			Your Blood Plague critical hits have a chance to reduce the cooldown of your Blood Boil by 0.25 sec. 	sweep
+250	Blood	talent	1263824	Consumption	false			45000			Empower the runes in your weapon, reducing the damage you take over the duration and unleashing a devastating attack that deals 15,955 Shadow damage and consumes up to 75% of your Blood Plague instantly from enemies in front of you. |cFFFFFFFFI:|r Consumes up to 25% of your Blood Plague. While empowering, your damage taken is reduced by 5% and an additional 8 sec after empowering. |cFFFFFFFFII:|r Consumes up to 50% of your Blood Plague. While empowering, your damage taken is reduced by 10% and an additional 4 sec after empowering. |cFFFFFFFFIII:|r Consumes up to 75% of your Blood Plague. While empowering, your damage taken is reduced by 15% and an additional 2 sec after empowering.	sweep
+250	Blood	talent	458752	Carnage	true			0			Consumption now contributes to your Mastery: Blood Shield. Each time an enemy strikes your Blood Shield, the cooldown of Consumption has chance to be reset.	sweep
+250	Blood	hero	1265855	Echoing Fury	true			0			Reaper's Mark deals 5% increased damage. Casting Dancing Rune Weapon grants 1 stack of Exterminate with 100% first scythe and 100% second scythe effectiveness.	sweep
+250	Blood	hero	1265932	Deathly Blows	true			0			Death Strike damage increased by 12%.	sweep
+250	Blood	hero	1265859	Frigid Resolve	true			0			The effectiveness of Permafrost is increased by 100% and Exterminate grants Permafrost equal to 10% of the damage dealt. |T1031536:24|t|cffffffffPermafrost|r Your auto attack damage grants you an absorb shield equal to 40% of the damage dealt.	sweep
+250	Blood	hero	1265574	Transfusion	true			0			Vampiric Strike increases the damage of your Dancing Rune Weapons by 20% for 8 sec.  Multiple applications may overlap.	sweep
+250	Blood	hero	1265547	Thrill of Blood	true			0			Essence of the Blood Queen additionally increases your Mastery by 1.0% per stack. Blood Plague deals 5% increased damage.	sweep
+250	Blood	hero	434157	Visceral Strength	true			0			When Sudden Doom is consumed, you gain 4% Strength for 5 sec.	sweep
+250	Blood	talent	392566	Enfeeble	true			0			Your ghoul's attacks have a chance to apply Enfeeble, reducing the enemies movement speed by 30% and the damage they deal to you by 12% for 6 sec.	sweep
+250	Blood	talent	1266819	Death Notes	true			0			Raise Ally costs 30 less Runic Power.	sweep
+250	Blood	talent	1266818	Death Defiance	true			0			The cooldown of Death Pact is reduced by 30 sec, and you receive 50% increased healing while its healing absorb is active.	sweep
+250	Blood	talent	1264506	Dance of Midnight	true			0			While Dancing Rune Weapon is active, Parrying an attack has a chance to make your next Heart Strike cost no Runes and deal 150% increased damage.	sweep
+250	Blood	talent	1264405	Dance of Midnight	true			0			For each Dancing Rune Weapon active your damage is increased by 0% and your damage taken is reduced by 0%.	sweep
+250	Blood	talent	1264351	Dance of Midnight	true			0			When you consume a Rune you have a chance to call a Dancing Rune Weapon to your aid for 8 sec.	sweep
+251	Frost	talent	392950	Icebreaker	true			0			When empowered by Rime, Howling Blast deals 30% increased damage to your primary target.	sweep
+251	Frost	talent	1230223	Howling Blades	true			0			Rime empowered Howling Blast unleashes 2 icy blades at its target that deal 643 Frost damage and have 15% chance to grant Killing Machine.	sweep
+251	Frost	talent	207167	Blinding Sleet	false			60000			Targets in a cone in front of you are blinded, causing them to wander disoriented for 5 sec. Damage may cancel the effect. When Blinding Sleet ends, enemies are slowed by 50% for 6 sec.	sweep
+251	Frost	talent	207104	Runic Attenuation	true			0			Auto attacks have a chance to generate 3 Runic Power.	sweep
+251	Frost	talent	205727	Anti-Magic Barrier	true			0			Reduces the cooldown of Anti-Magic Shell by 20 sec and increases its duration and amount absorbed by 40%.	sweep
+251	Frost	talent	374383	Assimilation	true			0			The cooldown of Anti-Magic Zone is reduced by 60 sec and its duration is increased by 2 sec.	sweep
+251	Frost	talent	457574	Unyielding Will	true			0			Anti-Magic Shell now removes all harmful magical effects when activated, but its cooldown is increased by 20 sec.	sweep
+251	Frost	talent	391566	Insidious Chill	true			0			Your auto-attacks reduce the target's auto-attack speed by 5% for 30 sec, stacking up to 4 times.	sweep
+251	Frost	talent	391571	Gloom Ward	true			0			Absorbs are 15% more effective on you. 	sweep
+251	Frost	talent	454851	Vestigial Shell	true			0			Casting Anti-Magic Shell grants 2 nearby allies a Lesser Anti-Magic Shell that Absorbs up to 10,782 magic damage and reduces the duration of harmful Magic effects against them by 50%. 	sweep
+251	Frost	talent	206967	Will of the Necropolis	true			0			Damage taken below 30% Health is reduced by 20%.	sweep
+251	Frost	talent	454788	Runic Protection	true			0			Your chance to be critically struck is reduced by 3% and your Armor is increased by 6%.	sweep
+251	Frost	talent	374598	Blood Draw	true			0			When you fall below 30% health you drain 3,063 health from nearby enemies, the damage you take is reduced by 10% and your Death Strike cost is reduced by 10 for 8 sec. Can only occur every 2 min.	sweep
+251	Frost	talent	273952	Grip of the Dead	true			0			Death and Decay reduces the movement speed of enemies within its area by 90%, decaying by 10% every sec.	sweep
+251	Frost	talent	389682	Unholy Endurance	true			0			Increases Lichborne duration by 2 sec and reduces the cooldown by 30 sec. 	sweep
+251	Frost	talent	111673	Control Undead	false			0			Dominates the target undead creature up to level 91, forcing it to do your bidding for 5 min.	sweep
+251	Frost	talent	1267028	Blood Bond	true			0			While you are below 50% health, your Ghoul sacrifices 4% of its maximum health to heal you for 1% of your maximum health every sec.	sweep
+251	Frost	talent	374504	Brittle	true			0			Your diseases have a chance to weaken your enemy causing your attacks against them to deal 6% increased damage for 5 sec.	sweep
+251	Frost	talent	221562	Asphyxiate	false			45000			Lifts the enemy target off the ground, crushing their throat with dark energy and stunning them for 5 sec.	sweep
+251	Frost	talent	276079	Death's Reach	true			0			Increases the range of Death Grip by 10 yds. Killing an enemy that yields experience or honor resets the cooldown of Death Grip.	sweep
+251	Frost	talent	51052	Anti-Magic Zone	false			240000			Places an Anti-Magic Zone for 6 sec, reducing the magic damage taken by party or raid members by 15%.	sweep
+251	Frost	talent	207200	Permafrost	true			0			Your auto attack damage grants you an absorb shield equal to 40% of the damage dealt.	sweep
+251	Frost	talent	374277	Improved Death Strike	true			0			Death Strike's cost is reduced by 10, and its healing is increased by 60%.	sweep
+251	Frost	talent	48263	Veteran of the Third War	true			0			Stamina increased by 20%. 	sweep
+251	Frost	talent	374265	Unholy Momentum	true			0			Increases Haste by 2%.	sweep
+251	Frost	talent	49998	Death Strike	false			0			Focuses dark power into a strike that deals 3,908 Physical damage and heals you for 20.00% of all damage taken in the last 5 sec, minimum 7.0% of maximum health.	sweep
+251	Frost	talent	46585	Raise Dead	false			120000			Raises a ghoul to fight by your side.  You can have a maximum of one ghoul at a time. Lasts 1 min.	sweep
+251	Frost	talent	316916	Cleaving Strikes	true			0				sweep
+251	Frost	talent	391546	March of Darkness	true			0			Death's Advance grants an additional 25% movement speed over the first 3 sec.	sweep
+251	Frost	talent	212552	Wraith Walk	false			60000			Embrace the power of the Shadowlands, removing all root effects and increasing your movement speed by 70% for 4 sec. Taking any action cancels the effect. While active, your movement speed cannot be reduced below 170%.	sweep
+251	Frost	talent	48743	Death Pact	false			120000			Create a death pact that heals you for 50% of your maximum health, but absorbs incoming healing equal to 30% of your max health for 15 sec.	sweep
+251	Frost	talent	374261	Unholy Bond	true			0			Increases the effectiveness of your Runeforge effects by 20%.	sweep
+251	Frost	talent	374030	Blood Scent	true			0			Increases Leech by 3%.	sweep
+251	Frost	talent	374574	Rune Mastery	true			0			Consuming a Rune has a chance to increase your Strength by 3% for 8 sec.	sweep
+251	Frost	talent	454822	Subduing Grasp	true			0			When you would pull an enemy, the damage they deal to you is reduced by 6% for 6 sec.	sweep
+251	Frost	talent	48792	Icebound Fortitude	false			120000			Your blood freezes, granting immunity to Stun effects and reducing all damage you take by 30% for 8 sec.	sweep
+251	Frost	talent	378848	Coldthirst	true			0			Successfully interrupting an enemy with Mind Freeze grants 10 Runic Power and reduces its cooldown by 3 sec.	sweep
+251	Frost	talent	47528	Mind Freeze	false			15000			Smash the target's mind with cold, interrupting spellcasting and preventing any spell in that school from being cast for 5 sec.	sweep
+251	Frost	talent	194878	Icy Talons	true			0			Your Runic Power spending abilities increase your melee attack speed by 6% for 10 sec, stacking up to 3 times.	sweep
+251	Frost	talent	454786	Ice Prison	true			0			Chains of Ice now also roots enemies for 4 sec but its cooldown is increased to 12 sec.	sweep
+251	Frost	talent	374049	Suppression	true			0			Damage taken from area of effect attacks reduced by 3%. When suffering a loss of control effect, this bonus is increased by an additional 6% for 6 sec.	sweep
+251	Frost	talent	454835	Osmosis	true			0			Anti-Magic Shell increases healing received by 15%.	sweep
+251	Frost	talent	281238	Obliteration	true			0			During Pillar of Frost, Frost Strike and Howling Blast always grant Killing Machine and have a 20% chance to generate a Rune. Additionally during Pillar of Frost, Empower Rune Weapon causes your next Obliterate or Frostscythe to cost no Runes.	sweep
+251	Frost	talent	377073	Frigid Executioner	true			0			Runic Empowerment has a 25% chance to refund 1 additional Rune.	sweep
+251	Frost	talent	1249658	Breath of Sindragosa	false			90000			Call upon Sindragosa's aid in battle for 8 sec, continuously dealing 3,496 Frost damage every 1 sec to enemies in a cone in front of you. Consuming Killing Machine or Rime increases the duration by 0.8 sec. Deals reduced damage to secondary targets. |cFFFFFFFFGrants a charge of Empower Rune Weapon at the start and 2 Runes at the end.|r	sweep
+251	Frost	talent	455993	Frostbane	true			0			Each foe struck with Glacial Advance has a chance to transform your next Frost Strike into Frostbane. The chance increases with the number of Razorice stacks on the target. |T1125284:24|t|cffffffffFrostbane|r Start a frozen onslaught that strikes twice, unleashing the chilling essence of winter, dealing 2,187 Frost damage to all enemies caught in its wake with each strike. Each enemy struck reduces the damage dealt to the next foe by 5%, down to 40%.	sweep
+251	Frost	talent	207057	Shattering Blade	true			0			When Frost Strike damages an enemy with 5 stacks of Razorice it will consume them to deal an additional 115% damage. Frostbane consumes the Razorice on your main target to deal an additional 300% damage.	sweep
+251	Frost	talent	47568	Empower Rune Weapon	false		2	0	30000		Drain the will of your enemy to empower your rune weapon, dealing 5,105 Shadowfrost damage and reduced damage to enemies nearby, gaining 40 Runic Power, and grants you Killing Machine.	sweep
+251	Frost	talent	1230301	Frostreaper	true			0			Obliterate deals 10% increased damage and has a chance to tether the souls of its target and a nearby enemy to yours. Frost Strike severs the tethers, dealing 5,256 Shadowfrost damage to both foes.	sweep
+251	Frost	talent	376938	Everfrost	true			0			Rime empowered Howling Blast deals 50% increased damage to secondary targets. Remorseless Winter deals 6% increased damage to enemies it hits, stacking up to 10 times. 	sweep
+251	Frost	talent	253593	Inexorable Assault	true			0			Gain Inexorable Assault every 4 sec, stacking up to 5 times. Obliterate consumes up to 3 stacks, dealing an additional 672 Frost damage for each stack consumed.	sweep
+251	Frost	talent	435005	Smothering Offense	true			0			Your auto attack damage is increased by 10%.  This amount is increased for each stack of Icy Talons you have and it can stack up to 2 additional times.	sweep
+251	Frost	talent	376251	Runic Command	true			0			Increases your maximum Runic Power by 5. Increases Rune regeneration rate by 10%.	sweep
+251	Frost	talent	316803	Runic Overflow	true			0			Increases Frost Strike and Glacial Advance damage by 10%.	sweep
+251	Frost	talent	207142	Avalanche	true			0			Casting Howling Blast with Rime active causes jagged icicles to fall on enemies nearby your target, applying Razorice and dealing 573 Frost damage.	sweep
+251	Frost	talent	279302	Frostwyrm's Fury	false			90000			Summons a frostwyrm who breathes on all enemies within 40 yd in front of you, dealing 9,463 Frost damage, stunning enemies for 3 sec, and slowing movement speed by 50% for 10 sec.	sweep
+251	Frost	talent	456238	Hyperpyrexia	true			0			Your Runic Power spending abilities have a chance to additionally deal 30% of the damage dealt over 4 sec.	sweep
+251	Frost	talent	1230284	Northwinds	true			0			Howling Blast now hits an additional target with maximum effectiveness.  Rime increases Howling Blast damage done by an additional 75%.	sweep
+251	Frost	talent	194912	Gathering Storm	true			0			Each Rune spent during Remorseless Winter increases its damage by 10%, and extends its duration by 0.5 sec.	sweep
+251	Frost	talent	377056	Biting Cold	true			0			Remorseless Winter damage is increased by 35%. The first time Remorseless Winter deals damage to 3 different enemies, you gain Rime.	sweep
+251	Frost	talent	207230	Frostscythe	false			0			A sweeping attack that strikes all enemies in front of you for 1,021 Frost damage. Deals reduced damage beyond 5 targets.  Consumes Killing Machine to have its critical strikes deal 4 times the normal damage.	sweep
+251	Frost	talent	49184	Howling Blast	false			0			Blast the target with a frigid wind, dealing 551 Frost damage to that foe, and reduced damage to all other enemies within 10 yards, infecting all targets with Frost Fever. |T237522:24|t |cFFFFFFFF|cffffffffFrost Fever|r|r A disease that deals 4,282 Frost damage over 24 sec and has a chance to grant the Death Knight 4 Runic Power each time it deals damage.	sweep
+251	Frost	talent	49143	Frost Strike	false			0			Chill your weapon with icy power and quickly strike the enemy, dealing 3,370 Frost damage.	sweep
+251	Frost	talent	49020	Obliterate	false			0			A brutal attack that deals 3,023 Physical and 3,023 Frost damage.	sweep
+251	Frost	talent	51128	Killing Machine	true			0			Your auto attack critical strikes have a chance to make your next Obliterate deal Frost damage and critically strike, or make your next Frostscythe critically strike for 4 times the normal damage.	sweep
+251	Frost	talent	456230	Arctic Assault	true			0			Consuming Killing Machine fires a Glacial Advance through your target at 60% effectiveness.	sweep
+251	Frost	talent	207061	Murderous Efficiency	true			0			Consuming the Killing Machine effect has a 20% chance to grant you 1 Rune.	sweep
+251	Frost	talent	377098	Bonegrinder	true			0			Consuming Killing Machine grants 1% critical strike chance for 10 sec, stacking up to 5 times. At 5 stacks your next Killing Machine consumes the stacks and grants you 10% increased Frost damage for 10 sec.	sweep
+251	Frost	talent	1230153	Killing Streak	true			0			Obliterate and Frostscythe consume all Killing Machines to deal 25% increased critical strike damage and grant 1.5% Haste for 8 sec for each stack consumed. Multiple applications may overlap.	sweep
+251	Frost	hero	443560	Swift and Painful	true			0			If no enemies are struck by Soul Rupture, you gain 10% Strength for 8 sec. Wave of Souls is 100% more effective on the main target of your Reaper's Mark.	sweep
+251	Frost	hero	434905	Grim Reaper	true			0			Reaper's Mark initial strike grants Killing Machine. Reaper's Mark explosion deals up to 30% increased damage based on your target's missing health.	sweep
+251	Frost	hero	440476	Pact of the Deathbringer	true			0			When you suffer a damaging effect equal to 25% of your maximum health, you instantly cast Death Pact at 50% effectiveness. May only occur every 2 min. When a Reaper's Mark explodes, the cooldowns of this effect and Death Pact are reduced by 5 sec.	sweep
+251	Frost	hero	440282	Rune Carved Plates	true			0			Each Rune spent reduces the magic damage you take by 1.5% and each Rune generated reduces the physical damage you take by 1.5% for 5 sec, up to 5 times.	sweep
+251	Frost	hero	439851	Wave of Souls	true			0			Reaper's Mark sends forth bursts of Shadowfrost energy and back, dealing 2,468 Shadowfrost damage both ways to all enemies caught in its path. Wave of Souls critical strikes cause enemies to take 5% increased Shadowfrost damage for 15 sec, stacking up to 2 times, and it is always a critical strike on its way back.	sweep
+251	Frost	hero	444074	Horsemen's Aid	true			0			While at your aid, the Horsemen will occasionally cast Anti-Magic Shell on you and themselves at 80% effectiveness. You may only benefit from this effect every 45 sec.	sweep
+251	Frost	hero	444083	Pact of the Apocalypse	true			0			When you take damage, 5% of the damage is redirected to each active horsemen.	sweep
+251	Frost	hero	444040	Apocalypse Now	true			0			Army of the Dead and Frostwyrm's Fury call upon all 4 Horsemen to aid you for 20 sec.	sweep
+251	Frost	hero	444069	Fury of the Horsemen	true			0			Every 50 Runic Power you spend extends the duration of the Horsemen's aid in combat by 1 sec, up to 5 sec.	sweep
+251	Frost	hero	444072	A Feast of Souls	true			0			While you have 2 or more Horsemen aiding you, your  increased damage.	sweep
+251	Frost	hero	440031	Bind in Darkness	true			0			Rime empowered Howling Blast deals 60% increased damage to its main target, and is now Shadowfrost. Shadowfrost damage applies 2 stacks to Reaper's Mark and 4 stacks when it is a critical strike.	sweep
+251	Frost	hero	444037	Hungering Thirst	true			0			The damage of your diseases and Death Coil are increased by 5%.	sweep
+251	Frost	hero	444033	Whitemane's Famine	true			0			When Scourge Strike damages an enemy affected by Undeath it gains 1 stack and infects another nearby enemy.	sweep
+251	Frost	hero	437122	Death's Messenger	true			0			Reduces the cooldowns of Lichborne and Raise Dead by 30 sec.	sweep
+251	Frost	hero	439948	Expelling Shield	true			0			When an enemy deals direct damage to your Anti-Magic Shell, their cast speed is reduced by 10% for 6 sec.	sweep
+251	Frost	hero	444099	Mawsworn Menace	true			0			Scourge Strike deals 15% increased damage and the cooldown of your Death and Decay is reduced by 5 sec.	sweep
+251	Frost	hero	436687	Dark Talons	true			0			Consuming Killing Machine or Rime has a 25% chance to grant 3 stacks of Icy Talons and increase its maximum stacks by the same amount for 6 sec. Runic Power spending abilities count as Shadowfrost while Icy Talons is active.	sweep
+251	Frost	hero	469870	Reaper's Onslaught	true			0			Reduces the cooldown of Reaper's Mark by 15 sec, but the amount of Obliterates and Frostscythes empowered by Exterminate is reduced by 1.	sweep
+251	Frost	hero	441894	Wither Away	true			0			Frost Fever deals its damage 100% faster, and the second scythe of Exterminate applies Frost Fever.	sweep
+251	Frost	hero	444052	Nazgrim's Conquest	true			0			If an enemy dies while Nazgrim is active, the strength of Apocalyptic Conquest is increased by 3%. Additionally, each Rune you spend increase its value by 1%.	sweep
+251	Frost	hero	444008	On a Paler Horse	true			0			While outdoors you are able to mount your Acherus Deathcharger in combat.	sweep
+251	Frost	hero	444010	Death Charge	true			0			Call upon your Death Charger to break free of movement impairment effects. For 10 sec, while upon your Death Charger your movement speed is increased by 100%, you cannot be slowed below 100% of normal speed, and you are immune to forced movement effects and knockbacks.	sweep
+251	Frost	hero	437161	Soul Rupture	true			0			When Reaper's Mark explodes, it deals 20% of the damage dealt to nearby enemies.	sweep
+251	Frost	hero	439843	Reaper's Mark	false			45000			Viciously slice into the soul of your enemy, dealing 7,963 Shadowfrost damage and applying Reaper's Mark. Each time you deal Shadow or Frost damage, add a stack of Reaper's Mark. After 12 sec or reaching 40 stacks, the mark explodes, dealing 1,033 damage per stack. Reaper's Mark travels to an unmarked enemy nearby if the target dies.	sweep
+251	Frost	hero	444097	Trollbane's Icy Fury	true			0			Scourge Strike shatters Trollbane's Chains of Ice when hit, dealing 2,687 Shadowfrost damage to nearby enemies, and slowing them by 40% for 4 sec. Deals reduced damage beyond 8 targets.	sweep
+251	Frost	hero	444005	Rider's Champion	true			0			Spending Runes has a chance to call forth the aid of a Horsemen for 10 sec. |cFFFFFFFFMograine|R Casts Death and Decay at his location that follows his position and extends the duration of your diseases by 1.0 sec whenever it deals damage. |cFFFFFFFFWhitemane|R Casts Undeath on your target dealing 175 Shadowfrost damage per stack every 3 sec, for 24 sec. Each time Undeath deals damage it gains a stack. Cannot be refreshed. |cFFFFFFFFTrollbane|R Casts Chains of Ice on your target slowing their movement speed by 40% and increasing the damage they take from you by 5% for 8 sec. |cFFFFFFFFNazgrim|R While Nazgrim is active you gain Apocalyptic Conquest, increasing your Strength by 5%. 	sweep
+251	Frost	hero	444047	Mograine's Might	true			0			Your damage is increased by 5% and you gain  while inside Mograine's Death and Decay.	sweep
+251	Frost	hero	441378	Exterminate	true			0			After Reaper's Mark explodes, your next 2 Obliterates or Frostscythes cost 1 Rune and summon 2 scythes to strike your enemies. The first scythe strikes your target for 13,538 Shadowfrost damage and the second scythe strikes all enemies around your target for 5,474 Shadowfrost damage. Deals reduced damage beyond 8 targets.	sweep
+251	Frost	talent	373930	Proliferating Chill	true			0			Chains of Ice affects 1 additional nearby enemy.	sweep
+251	Frost	talent	51271	Pillar of Frost	false			45000			The power of frost increases your Strength by 30% for 12 sec.	sweep
+251	Frost	talent	377190	Enduring Strength	true			0			When Pillar of Frost expires, your Strength is increased by 8% for 6 sec. This effect lasts 2 sec longer, up to 20 sec, for each Obliterate and Frostscythe critical strike during Pillar of Frost.	sweep
+251	Frost	talent	377076	Rage of the Frozen Champion	true			0			Frost Strike and Glacial Advance have a 15% increased chance to trigger Rime and Howling Blast generates 8 Runic Power while Rime is active.	sweep
+251	Frost	talent	456240	The Long Winter	true			0			While Pillar of Frost is active your auto-attack critical strikes increase its duration by 1 sec, up to a maximum of 4 sec.	sweep
+251	Frost	talent	435010	Icy Death Torrent	true			0			Your auto attack critical strikes have a chance to send out a torrent of ice dealing 2,749 Frost damage to enemies in front of you.	sweep
+251	Frost	talent	356367	Death's Echo	true			0			Death's Advance, Death and Decay, and Death Grip have 1 additional charge.	sweep
+251	Frost	talent	454842	Null Magic	true			0			Magic damage taken is reduced by 8% and the duration of harmful Magic effects against you are reduced by 35%.	sweep
+251	Frost	talent	377226	Frozen Dominion	true			0			Pillar of Frost now summons a Remorseless Winter that lasts 4 sec longer. Each enemy Remorseless Winter damages grants you 4% Mastery, up to 22% for 15 sec.	sweep
+251	Frost	talent	456237	Cryogenic Chamber	true			0			When Howling Blast consumes Rime, 15% of the damage it deals is gathered into the next cast of Remorseless Winter, up to 20 times.	sweep
+251	Frost	talent	1230272	Icy Onslaught	true			0			Frost Strike and Glacial Advance now cause your next Frost Strike and Glacial Advance to deal 15% increased damage and cost 5 more Runic Power.  This effect stacks until the next Runic Empowerment.	sweep
+251	Frost	talent	1238680	Frostbound Will	true			0			Consuming Rime reduces the cooldown of Empower Rune Weapon by 6 sec.	sweep
+251	Frost	hero	1265855	Echoing Fury	true			0			Reaper's Mark deals 5% increased damage. Casting Dancing Rune Weapon grants 1 stack of Exterminate with 100% first scythe and 100% second scythe effectiveness.	sweep
+251	Frost	hero	1265932	Deathly Blows	true			0			Death Strike damage increased by 12%.	sweep
+251	Frost	hero	1265859	Frigid Resolve	true			0			The effectiveness of Permafrost is increased by 100% and Exterminate grants Permafrost equal to 10% of the damage dealt. |T1031536:24|t|cffffffffPermafrost|r Your auto attack damage grants you an absorb shield equal to 40% of the damage dealt.	sweep
+251	Frost	hero	1265971	Unholy Armaments	true			0			The abilities that Horsemen cast deal 5% increased damage..	sweep
+251	Frost	hero	1265949	Let Terror Reign	true			0			Casting Death Coil or Epidemic orders Whitemane to cast her Death Coil or Epidemic alongside you at 125% effectiveness.	sweep
+251	Frost	hero	1265959	Ride or Die!	true			0			Dark Transformation summons forth Whitemane for 6 sec.	sweep
+251	Frost	talent	392566	Enfeeble	true			0			Your ghoul's attacks have a chance to apply Enfeeble, reducing the enemies movement speed by 30% and the damage they deal to you by 12% for 6 sec.	sweep
+251	Frost	talent	1266819	Death Notes	true			0			Raise Ally costs 30 less Runic Power.	sweep
+251	Frost	talent	1266818	Death Defiance	true			0			The cooldown of Death Pact is reduced by 30 sec, and you receive 50% increased healing while its healing absorb is active.	sweep
+251	Frost	talent	1265632	Chosen of Frostbrood	true			0			Frostwyrm's Fury deals 100% increased damage to the first enemy it hits and grants you 15% Haste for 12 sec.	sweep
+251	Frost	talent	1265633	Chosen of Frostbrood	true			0			Frostwyrm's Fury extends the duration of an active Pillar of Frost by 2.0 sec. Enduring Strength grants an additional 4% Strength.	sweep
+251	Frost	talent	1265637	Chosen of Frostbrood	true			0			All Frost damage increased by 10%. Frostwyrm's Fury deals 100% increased damage. After the Frostwyrm flies away, you may cast Frostwyrm's Fury again to recall it at 50% effectiveness.	sweep

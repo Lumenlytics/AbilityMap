@@ -1,0 +1,422 @@
+specID	specName	source	spellID	name	passive	selected	charges	cooldownMS	rechargeMS	overrideSpellID	description	origin
+1467	Devastation	talent	375528	Forger of Mountains	true			0			Landslide's cooldown is reduced by 30 sec, and it can withstand 200% more damage before breaking.	sweep
+1467	Devastation	talent	369990	Ancient Flame	true			0			Casting Emerald Blossom or Verdant Embrace reduces the cast time of your next Living Flame by 40%.	sweep
+1467	Devastation	talent	386272	Titanic Wrath	true			0			Essence Burst increases the damage of affected spells by 15.0%.	sweep
+1467	Devastation	talent	1265867	Azure Sweep	true			0			Eternity Surge upgrades your next Azure Strike to Azure Sweep, damaging all nearby enemies and dealing 75% additional damage. |T4559237:24|t |cffffffffAzure Sweep|r Concentrate azure energy into your tail and sweep to release pure magic upon an enemy and nearby targets for 693 Spellfrost damage. Damage reduced beyond 8 targets.	sweep
+1467	Devastation	talent	375618	Arcane Intensity	true			0			Disintegrate and Azure Strike deal 8% more damage.	sweep
+1467	Devastation	talent	359073	Eternity Surge	false			30000			Focus your energies to release a salvo of pure magic, dealing 4,621 Spellfrost damage to an enemy. Damages additional enemies within 25 yds when empowered. |cFFFFFFFFI:|r   Damages 1 enemy. |cFFFFFFFFII:|r  Damages 2 enemies. |cFFFFFFFFIII:|r Damages 3 enemies.	sweep
+1467	Devastation	talent	369908	Power Nexus	true			0			Increases your maximum Essence to 6.	sweep
+1467	Devastation	talent	369846	Feed the Flames	true			0			After casting 6 Pyres, your next Pyre will explode into a Firestorm. |T4622459:24|t |cffffffffFirestorm|r An explosion bombards the target area with white-hot embers, dealing 6,098 Fire damage to enemies over 10 sec.	sweep
+1467	Devastation	talent	370837	Engulfing Blaze	true			0			Living Flame deals 10% increased damage and healing and its cast time is reduced by 0.3 sec.	sweep
+1467	Devastation	talent	411212	Font of Magic	true			0			Your empower spells' maximum level is increased by 1, and they reach maximum empower level 20% faster.	sweep
+1467	Devastation	talent	386283	Catalyze	true			0			While channeling Disintegrate your Fire Breath on the target deals damage 100% more often.	sweep
+1467	Devastation	talent	375725	Heat Wave	true			0			Fire Breath deals 20% more damage.	sweep
+1467	Devastation	talent	365937	Ruby Embers	true			0			Living Flame deals 133 damage over 12 sec to enemies, or restores 260 health to allies over 12 sec. Stacks 3 times.	sweep
+1467	Devastation	talent	369089	Volatility	true			0			Pyre has a 15% chance to flare up and explode again on a nearby target.	sweep
+1467	Devastation	talent	371034	Lay Waste	true			0			Deep Breath's damage is increased by 20%.	sweep
+1467	Devastation	talent	376872	Ruby Essence Burst	true			0			Your Living Flame has a 20% chance to cause an Essence Burst, making your next Disintegrate or Pyre cost no Essence.	sweep
+1467	Devastation	talent	387341	Walloping Blow	true			0			Wing Buffet and Tail Swipe knock enemies further and daze them, reducing movement speed by 70% for 4 sec. 	sweep
+1467	Devastation	talent	370888	Twin Guardian	true			0			Rescue increases movement speed by 100% and allows spells to be cast while moving for 3 sec.	sweep
+1467	Devastation	talent	370665	Rescue	false			60000			Swoop to an ally and fly with them to the target location. Clears movement impairing effects from you and your ally.	sweep
+1467	Devastation	talent	375406	Obsidian Bulwark	true			0			Obsidian Scales has an additional charge.	sweep
+1467	Devastation	talent	375556	Tailwind	true			0			Hover increases your movement speed by 70% for the first 4 sec.	sweep
+1467	Devastation	talent	370886	Bountiful Bloom	true			0			Emerald Blossom heals 2 additional allies.	sweep
+1467	Devastation	talent	376930	Attuned to the Dream	true			0			Your healing done and healing received are increased by 2%.	sweep
+1467	Devastation	talent	360806	Sleep Walk	false			0			Disorient an enemy for 20 sec, causing them to sleep walk towards you. Damage has a chance to awaken them.	sweep
+1467	Devastation	talent	374251	Cauterizing Flame	false			60000			Cauterize an ally's wounds, removing all Bleed, Poison, Curse, and Disease effects. Heals for 1,487 upon removing any effect.	sweep
+1467	Devastation	talent	375554	Enkindled	true			0			Living Flame deals 3% more damage and healing.	sweep
+1467	Devastation	talent	374346	Overawe	true			0			Oppressing Roar removes 1 Enrage effect from each enemy, and its cooldown is reduced by 30 sec.	sweep
+1467	Devastation	talent	372048	Oppressing Roar	false			120000			Let out a bone-shaking roar at enemies in a cone in front of you, increasing the duration of crowd controls that affect them by 50% in the next 10 sec.	sweep
+1467	Devastation	talent	375542	Exuberance	true			0			While above 75% health, your movement speed is increased by 10%.	sweep
+1467	Devastation	talent	376166	Draconic Legacy	true			0			Your Stamina is increased by 6%.	sweep
+1467	Devastation	talent	371806	Recall	true			0			You may reactivate Deep Breath within 3 sec after landing to travel back in time to your takeoff location.	sweep
+1467	Devastation	talent	375520	Innate Magic	true			0			Essence regenerates 5% faster.	sweep
+1467	Devastation	talent	363916	Obsidian Scales	false		1	1000	90000		Reinforce your scales, reducing damage taken by 30% . Lasts 12 sec.	sweep
+1467	Devastation	talent	358385	Landslide	false			90000			Conjure a path of shifting stone towards the target location, rooting enemies for 15 sec. Damage may cancel the effect.	sweep
+1467	Devastation	talent	365585	Expunge	false			8000			Expunge toxins affecting an ally, removing all Poison effects.	sweep
+1467	Devastation	talent	1264378	Unravel	true			0			Direct damage from Fire Breath consumes absorb shields from enemies, dealing 5,095 additional Spellfrost damage to them.	sweep
+1467	Devastation	talent	410352	Stretch Time	true			0			While flying during Deep Breath, 100% of damage you would take is instead dealt over 10 sec.	sweep
+1467	Devastation	talent	375510	Blast Furnace	true			0			Fire Breath's damage over time lasts 4 sec longer.	sweep
+1467	Devastation	talent	376164	Instinctive Arcana	true			0			Your Magic damage done is increased by 2%.	sweep
+1467	Devastation	talent	386405	Inner Radiance	true			0			Your Living Flame and Emerald Blossom are 30% more effective on yourself.	sweep
+1467	Devastation	talent	369913	Natural Convergence	true			0			Disintegrate channels 20% faster.	sweep
+1467	Devastation	talent	1266151	Strafing Run	true			0			Deep Breath deals 20% increased damage and can be cast again within 18 sec of being used. Recall will be available after the second cast if talented.	sweep
+1467	Devastation	talent	375801	Burnout	true			0			Fire Breath damage has 16% chance to cause your next Living Flame to be instant cast, stacking 2 times.	sweep
+1467	Devastation	talent	1265826	Star Salvo	true			0			Increases Shattering Star damage by 35%. Shattering Stars are exhaled at all of your Eternity Surge targets.	sweep
+1467	Devastation	talent	1265802	Shattering Stars	true			0			Eternity Surge additionally releases a Shattering Star at your target that deals 50% more damage per empower level reached. |T4622449:24|t |cffffffffShattering Star|r Exhale a bolt of concentrated power from your mouth at the target for 737 Spellfrost damage.	sweep
+1467	Devastation	talent	370455	Charged Blast	true			0			Your Blue damage increases the damage of your next Pyre by 2%, stacking 20 times.	sweep
+1467	Devastation	talent	411165	Eye of Infinity	true			0			Eternity Surge deals 15% increased damage to your primary target.	sweep
+1467	Devastation	talent	411164	Event Horizon	true			0			Eternity Surge's cooldown is reduced by 3 sec.	sweep
+1467	Devastation	talent	375722	Essence Attunement	true			0			Essence Burst stacks 2 times.	sweep
+1467	Devastation	talent	375757	Eternity's Span	true			0			Eternity Surge hits twice as many targets.	sweep
+1467	Devastation	talent	370867	Iridescence	true			0			Casting an empower spell increases the damage of your next 2 spells of the same color by 20% within 10 sec.	sweep
+1467	Devastation	talent	370839	Power Swell	true			0			Casting an empower spell increases your Essence regeneration rate by 100% for 4 sec.	sweep
+1467	Devastation	talent	370845	Spellweaver's Dominance	true			0			Your damaging critical strikes deal 230% damage instead of the usual 200%.	sweep
+1467	Devastation	talent	370821	Scintillation	true			0			Disintegrate has a 15% chance each time it deals damage to launch a level 1 Eternity Surge at 40% power.	sweep
+1467	Devastation	talent	1219723	Azure Celerity	true			0			Disintegrate deals damage 25% more often, but deals 10% less damage.	sweep
+1467	Devastation	talent	370781	Imminent Destruction	true			0			Deep Breath reduces the Essence costs of your next 4 Disintegrates and Pyres by 1. Stacks up to 8 times.	sweep
+1467	Devastation	talent	386348	Onyx Legacy	true			0			Deep Breath's cooldown is reduced by 1 min.	sweep
+1467	Devastation	talent	376888	Tyranny	true			0			During Deep Breath and Dragonrage you gain the maximum benefit of Mastery: Giantkiller regardless of targets' health.	sweep
+1467	Devastation	talent	371038	Honed Aggression	true			0			The critical strike chance of your spells is increased by 2%.	sweep
+1467	Devastation	talent	375797	Animosity	true			0			Casting an empower spell extends the duration of Dragonrage by 5 sec. Each time this occurs during Dragonrage, its effectiveness is reduced by 25%.	sweep
+1467	Devastation	talent	375087	Dragonrage	false			120000			Erupt with draconic fury and exhale Pyres at 3 enemies within 25 yds. For 18 sec, Essence Burst's chance to occur is increased to 100%.	sweep
+1467	Devastation	talent	351338	Quell	false			20000			Interrupt an enemy's spellcasting and prevent any spell from that school of magic from being cast for 6 sec.	sweep
+1467	Devastation	talent	375721	Azure Essence Burst	true			0			Azure Strike has a 15% chance to cause an Essence Burst, making your next Disintegrate or Pyre cost no Essence.	sweep
+1467	Devastation	talent	357211	Pyre	false			0			Lob a ball of flame, dealing 1,699 Fire damage to your target and all enemies within 8 yds.	sweep
+1467	Devastation	talent	372469	Scarlet Adaptation	true			0			Store 20% of your effective healing, up to 951. Your next damaging Living Flame consumes all stored healing to increase its damage dealt.	sweep
+1467	Devastation	talent	360995	Verdant Embrace	false		1	500	24000		Fly to an ally and heal them for 4,496, or heal yourself for the same amount.	sweep
+1467	Devastation	talent	371032	Terror of the Skies	true			0			Deep Breath stuns enemies for 3 sec.	sweep
+1467	Devastation	talent	369939	Leaping Flames	true			0			Fire Breath causes your next Living Flame to strike 1 additional target per empower level.	sweep
+1467	Devastation	talent	369459	Source of Magic	false			0			Redirect your excess magic to a friendly healer for 1 |4hour:hrs;. When you cast an empowered spell, you restore 0.25% of their maximum mana per empower level. Limit 1.	sweep
+1467	Devastation	talent	375574	Foci of Life	true			0			Renewing Blaze restores you more quickly, causing damage you take to be healed back over 4 sec.	sweep
+1467	Devastation	talent	374227	Zephyr	false			120000			Conjure an updraft to lift you and your 4 nearest allies within 20 yds into the air, reducing damage taken from area-of-effect attacks by 20% and increasing movement speed by 30% for 8 sec.	sweep
+1467	Devastation	talent	375561	Lush Growth	true			0			Green spells restore 5% more health.	sweep
+1467	Devastation	talent	387761	Panacea	true			0			Emerald Blossom and Verdant Embrace instantly heal you for 850 when cast.	sweep
+1467	Devastation	talent	375517	Extended Flight	true			0			Hover lasts 4 sec longer.	sweep
+1467	Devastation	talent	370553	Tip the Scales	false			120000			Compress time to make your next empowered spell cast instantly at its maximum empower level.	sweep
+1467	Devastation	talent	406732	Spatial Paradox	false			180000			Evoke a paradox for you and a friendly healer, allowing casting while moving and increasing the range of most spells by 100% for 10 sec. Affects the nearest healer within 60 yds, if you do not have a healer targeted.	sweep
+1467	Devastation	talent	374968	Time Spiral	false			120000			Bend time, allowing you and your allies within 40 yds to cast their major movement ability once in the next 10 sec, even if it is on cooldown.	sweep
+1467	Devastation	talent	365933	Aerial Mastery	true			0			Hover gains 1 additional charge.	sweep
+1467	Devastation	talent	387787	Regenerative Magic	true			0			Your Leech is increased by 2%.	sweep
+1467	Devastation	talent	374348	Renewing Blaze	true			0			Obsidian Scales surrounds you with a Renewing Blaze, causing 100% of the damage it prevented to be healed back over 8 sec.	sweep
+1467	Devastation	talent	375544	Inherent Resistance	true			0			Magic damage taken reduced by 2%.	sweep
+1467	Devastation	talent	370819	Scorching Embers	true			0			Enemies affected by Fire Breath's damage over time effect take 25% increased damage from your Red spells.	sweep
+1467	Devastation	talent	375777	Causality	true			0			Disintegrate reduces the remaining cooldown of your empower spells by 0.50 sec each time it deals damage. Pyre reduces the remaining cooldown of your empower spells by 0.40 sec per enemy struck, up to 2.0 sec.	sweep
+1467	Devastation	talent	418101	Potent Mana	true			0			Source of Magic increases the target's healing and damage done by 3%.	sweep
+1467	Devastation	hero	445625	Titanic Precision	true			0			Living Flame and Azure Strike have 1 extra chance to trigger Essence Burst when they critically strike.	sweep
+1467	Devastation	hero	441176	Melt Armor	true			0			Deep Breath causes enemies to take 20% increased damage from Bombardments and Essence abilities for 12 sec. The duration of this effect is extended when Deep Breath is cast multiple times.	sweep
+1467	Devastation	hero	444088	Consume Flame	true			0			Disintegrate damage consumes 1.0 sec of Fire Breath from enemies it damages, detonating it for 150% of the amount consumed. Pyre damage consumes 4 sec of Fire Breath from enemies it damages, detonating it for 115% of the amount consumed.	sweep
+1467	Devastation	hero	1218447	Fulminous Roar	true			0			Fire Breath deals its damage 20% more often.	sweep
+1467	Devastation	hero	431615	Reverberations	true			0			Upheaval deals 50% additional damage over 8 sec.	sweep
+1467	Devastation	hero	441212	Extended Battle	true			0			Essence abilities extend Bombardments by 1 sec.	sweep
+1467	Devastation	hero	441219	Diverted Power	true			0			Bombardments have a chance to generate Essence Burst.	sweep
+1467	Devastation	hero	431875	Afterimage	true			0			Empower spells send up to 3 Chrono Flames to your targets.	sweep
+1467	Devastation	hero	431484	Instability Matrix	true			0			Each time you cast an empower spell, unstable time magic reduces its cooldown by up to 6 sec.	sweep
+1467	Devastation	hero	444322	Lifecinders	true			0			Obsidian Scales also applies to your target or 1 nearby injured ally at 50% value.	sweep
+1467	Devastation	hero	445958	Draconic Instincts	true			0			Your wounds have a small chance to cauterize, healing you for 30% of damage taken. Occurs more often from attacks that deal high damage.	sweep
+1467	Devastation	hero	431874	Double-time	true			0			Ebon Might and Prescience gain a chance equal to your critical strike chance to grant 50% additional stats.	sweep
+1467	Devastation	hero	431984	Time Convergence	true			0			Non-defensive abilities with a 45 second or longer cooldown grant 5% Intellect for 15 sec. Essence spells extend the duration by 1 sec.	sweep
+1467	Devastation	hero	441180	Hardened Scales	true			0			Obsidian Scales reduces damage taken by an additional 10%.	sweep
+1467	Devastation	hero	441181	Menacing Presence	true			0			Knocking enemies up or backwards reduces their damage done to you by 15% for 8 sec.	sweep
+1467	Devastation	hero	441246	Unrelenting Siege	true			0			For each second you are in combat, Azure Strike, Living Flame, and Disintegrate deal 1% increased damage, up to 15%.	sweep
+1467	Devastation	hero	431873	Temporality	true			0			Warp reduces damage taken by 20%, starting high and reducing over 3 sec.	sweep
+1467	Devastation	hero	432008	Motes of Acceleration	true			0			Warp leaves a trail of Motes of Acceleration. Allies who come in contact with a mote gain 20% increased movement speed for 30 sec.	sweep
+1467	Devastation	hero	434300	Bombardments	true			0			Mass Disintegrate marks your primary target for destruction for the next 6 sec. You and your allies have a chance to trigger a Bombardment when attacking marked targets, dealing 2,016 Volcanic damage split amongst all nearby enemies.	sweep
+1467	Devastation	hero	444849	Trailblazer	true			0			Hover and Deep Breath travel 40% faster, and Hover travels 40% further.	sweep
+1467	Devastation	hero	445074	Shape of Flame	true			0			Tail Swipe and Wing Buffet scorch enemies and blind them with ash, causing their next attack within 4 sec to miss.	sweep
+1467	Devastation	hero	436335	Mass Disintegrate	true			0			Empower spells cause your next Disintegrate to strike up to 3 targets. When striking fewer than 3 targets, Disintegrate damage is increased by 10% for each missing target.	sweep
+1467	Devastation	hero	433871	Maneuverability	true			0			Deep Breath can now be steered in your desired direction. In addition, Deep Breath burns targets for 3,002 Volcanic damage over 12 sec. The duration of this effect is extended when Deep Breath is cast multiple times.	sweep
+1467	Devastation	hero	432004	Golden Opportunity	true			0			Prescience lasts 15% longer.	sweep
+1467	Devastation	hero	441253	Nimble Flyer	true			0			While Hovering, damage taken from area of effect attacks is reduced by 10%.	sweep
+1467	Devastation	hero	441257	Slipstream	true			0			Deep Breath resets a charge of Hover.	sweep
+1467	Devastation	hero	441245	Onslaught	true			0			Entering combat grants a charge of Burnout, causing your next Living Flame to cast instantly.	sweep
+1467	Devastation	hero	1264321	Deep Exhalation	true			0			Fire Breath's damage over time lasts 4 sec longer.	sweep
+1467	Devastation	hero	444020	Burning Adrenaline	true			0			Fire Breath reaches its maximum empower level 20% faster.	sweep
+1467	Devastation	hero	431715	Nozdormu Adept	true			0			Prescience cooldown reduced by 2 sec and it grants 1% additional critical strike chance.	sweep
+1467	Devastation	hero	429483	Warp	true			0			Hover now causes you to briefly warp out of existence and appear at your destination. Hover's cooldown is also reduced by 5 sec. Hover continues to allow Evoker spells to be cast while moving.	sweep
+1467	Devastation	hero	444843	Conduit of Flame	true			0			Critical strike chance against targets above 50% health increased by 15%.	sweep
+1467	Devastation	hero	1264269	Legacy of the Lifebinder	true			0			Fire Breath gains an additional charge.	sweep
+1467	Devastation	hero	431657	Primacy	true			0			For each damage over time effect from Upheaval, gain 3% haste, up to 9%.	sweep
+1467	Devastation	hero	441705	Might of the Black Dragonflight	true			0			Black spells deal 20% increased damage.	sweep
+1467	Devastation	hero	441206	Wingleader	true			0			Bombardments reduce the cooldown of Deep Breath by 0.5 sec for each target struck, up to 1.5 sec.	sweep
+1467	Devastation	hero	431442	Chrono Flame	true			0			Living Flame is enhanced with Bronze magic, repeating 25% of the damage or healing you dealt to the target in the last 5 sec as Arcane, up to 1,061.	sweep
+1467	Devastation	hero	431695	Temporal Burst	true			0			Tip the Scales overloads you with temporal energy, increasing your haste, movement speed, and cooldown recovery rate by 30%, decreasing over 30 sec.	sweep
+1467	Devastation	hero	444016	Enkindle	true			0			Essence abilities are enhanced with Flame, dealing 20% of healing or damage done as Fire over 8 sec.	sweep
+1467	Devastation	hero	444845	Expanded Lungs	true			0			Fire Breath's damage over time is increased by 30%. Dream Breath's heal over time is increased by 30%.	sweep
+1467	Devastation	hero	1264365	Ashes in Motion	true			0			Fire Breath's cooldown is reduced by 5 sec.	sweep
+1467	Devastation	talent	368838	Heavy Wingbeats	true			0			Wing Buffet's cooldown is reduced by 2 min.	sweep
+1467	Devastation	talent	375443	Clobbering Sweep	true			0			Tail Swipe's cooldown is reduced by 2 min.	sweep
+1467	Devastation	hero	1260647	Overclock	true			0			Chrono Flames' maximum damage or healing is increased by 40%, up to 1,486 Arcane.	sweep
+1467	Devastation	hero	1291522	Chronal Dynamo	true			0			Living Flame's cast time is reduced by 0.2 sec, and it deals 50% increased damage or healing when it is a non-instant cast.	sweep
+1467	Devastation	hero	1260484	Chronoboon	true			0			Tip the Scales' cooldown is reduced by 30 sec.	sweep
+1467	Devastation	hero	1261452	Refined Essence	true			0			Essence abilities deal 15% additional damage.	sweep
+1467	Devastation	hero	1261448	Concentrated Power	true			0			Mass Disintegrate strikes 1 additional target.	sweep
+1467	Devastation	hero	1260745	Command Squadron	true			0			While flying during Deep Breath you are assisted by a squadron of Dracthyr who assault enemies with Pyre, dealing 764 Fire damage to nearby enemies up to 8 times.	sweep
+1467	Devastation	hero	1265992	Fire Torrent	true			0			Twin Flame bounces to up to 2 additional targets.	sweep
+1467	Devastation	hero	1265993	Essence Well	true			0			Fire Breath has a 50% chance to generate Essence Burst.	sweep
+1467	Devastation	hero	1265979	Twin Flame	true			0			Consuming Essence Burst fires a twin flame, striking your target for 764 Fire damage.	sweep
+1467	Devastation	talent	369909	Protracted Talons	true			0			Azure Strike damages 1 additional enemy.	sweep
+1467	Devastation	talent	1267206	Strike from Above	true			0			Glide speed and height increased by 10%.	sweep
+1467	Devastation	talent	1271687	Rising Fury	true			0			While Dragonrage is active you gain Rising Fury every 6 sec, increasing your haste by 4%, stacking up to 5 times.	sweep
+1467	Devastation	talent	1271796	Rising Fury	true			0			At 5 stacks of Rising Fury, all damage dealt is increased by 8%.	sweep
+1467	Devastation	talent	1271788	Rising Fury	true			0			When Dragonrage ends, gain Risen Fury for 4 sec for each stack of Rising Fury. Risen Fury grants the damage and haste bonuses accumulated from Rising Fury and generates Essence Burst every 4 sec.	sweep
+1468	Preservation	talent	376179	Lifeforce Mender	true			0			Red spells deal 20% additional damage and healing.	sweep
+1468	Preservation	talent	371426	Life-Giver's Flame	true			0			Fire Breath and Deep Breath heal 5 nearby injured allies for 80% of damage done to up to 5 targets, split evenly among them.	sweep
+1468	Preservation	talent	375722	Essence Attunement	true			0			Essence Burst stacks 2 times.	sweep
+1468	Preservation	talent	369297	Essence Burst	true			0			Living Flame has a 20% chance, and Reversion has a 15% chance to make your next Essence ability free.	sweep
+1468	Preservation	talent	355936	Dream Breath	false		1	1000	30000		Inhale, gathering the power of the Dream. Release to exhale, healing yourself and 5 injured allies in a 40 yd cone in front of you for 1,827. |cFFFFFFFFI:|r   Heals 783 instantly and 1,044 over 16 sec. |cFFFFFFFFII:|r  Heals 1,044 instantly and 783 over 12 sec. |cFFFFFFFFIII:|r Heals 1,305 instantly and 522 over 8 sec.	sweep
+1468	Preservation	talent	362874	Temporal Compression	true			0			Each cast of a Bronze spell causes your next empower spell to reach maximum level in 10% less time, stacking up to 4 times.	sweep
+1468	Preservation	talent	376138	Empath	true			0			Empower spells increase your Essence regeneration rate by 100% for 8 sec.	sweep
+1468	Preservation	talent	376150	Spiritual Clarity	true			0			Dream Breath's cooldown is reduced by 10 sec.	sweep
+1468	Preservation	talent	1241669	Dream Simulacrum	true			0			Verdant Embrace healing is increased by 30%. In addition, it no longer causes you to leap to your target, instead sending forth a Dream Simulacrum.	sweep
+1468	Preservation	talent	1241704	Wings of Liberty	true			0			Verdant Embrace gains an additional charge.	sweep
+1468	Preservation	talent	1239581	Unshakable	true			0			Your empower spells are 10% more effective. While charging a healing empower spell, you cannot be knocked back.	sweep
+1468	Preservation	talent	377100	Exhilarating Burst	true			0			Each time you gain Essence Burst, your critical heals are 230% effective instead of the usual 200% for 10 sec.	sweep
+1468	Preservation	talent	359793	Fluttering Seedlings	true			0			Emerald Blossom sends out 1 flying seedling when it bursts, plus up to 2 additional seedlings if Emerald Blossom heals fewer than 3 allies. Seedlings each heal an ally up to 40 yds away for 1,105.	sweep
+1468	Preservation	talent	370062	Field of Dreams	true			0			Every other Emerald Blossom has a 100% chance for one of your Fluttering Seedlings to grow into a new Emerald Blossom.	sweep
+1468	Preservation	talent	369908	Power Nexus	true			0			Increases your maximum Essence to 6.	sweep
+1468	Preservation	talent	373834	Call of Ysera	true			0			Dream Breath healing increased by 20%, and Living Flame healing increased by 30%.	sweep
+1468	Preservation	talent	381921	Ouroboros	true			0			Casting Echo grants one stack of Ouroboros, increasing the healing of your next Emerald Blossom by 30%, stacking up to 5 times.	sweep
+1468	Preservation	talent	375783	Font of Magic	true			0			Your empower spells' maximum level is increased by 1.	sweep
+1468	Preservation	talent	373270	Lifebind	true			0			Verdant Embrace temporarily bonds your life with an ally, causing your healing on either partner to heal the other for 60% of the amount. Lasts 8 sec.	sweep
+1468	Preservation	talent	372527	Time Lord	true			0			Echo replicates 50% more healing.	sweep
+1468	Preservation	talent	378196	Golden Hour	true			0			Reversion instantly heals the target for 15% of damage taken in the last 5 sec.	sweep
+1468	Preservation	talent	385696	Flow State	true			0			Empower spells cause time to flow 10% faster for you, increasing movement speed, cooldown recharge rate, and cast speed. Lasts 10 sec.	sweep
+1468	Preservation	talent	373861	Temporal Anomaly	false			15000			Send forward a vortex of temporal energy, absorbing 2,547 damage on you and any allies in its path. Absorption is reduced beyond 5 targets. Applies Echo at 30% effectiveness on the first 5 allies it passes through.	sweep
+1468	Preservation	talent	1291636	Temporal Barrier	false			15000			Send out a ripple of temporal energy, absorbing 3,825 damage and applying Echo at 30% effectiveness on your target and up to 4 allies within 40 yds.	sweep
+1468	Preservation	talent	376237	Nozdormu's Teachings	true			0			Temporal Anomaly reduces the cooldowns of your empower spells by 5 sec.	sweep
+1468	Preservation	talent	368412	Time of Need	true			120000			When you or an ally fall below 30% health, a version of yourself enters your timeline and heals them for 13,489. Your alternate self continues healing for 8 sec before returning to their timeline. May only occur once every 60 sec.	sweep
+1468	Preservation	talent	376239	Grace Period	true			0			Your healing is increased by 10% on targets with your Reversion.	sweep
+1468	Preservation	talent	372233	Energy Loop	true			0			Disintegrate deals 35% more damage and generates 9,000 mana over its duration.	sweep
+1468	Preservation	talent	1237978	Tempo Charged	true			0			Bronze healing and absorption increased by 15%.	sweep
+1468	Preservation	talent	376240	Timeless Magic	true			0			Reversion, Time Dilation, Echo, and Temporal Anomaly last 15% longer and cost 15% less mana.	sweep
+1468	Preservation	talent	381922	Temporal Artificer	true			0			Rewind's cooldown is reduced by 60 sec.	sweep
+1468	Preservation	talent	1242031	Twin Echoes	true			0			Casting Emerald Blossom causes your next Echo to cast on an additional ally within 25 yards at 100% effectiveness. Stacks up to 2 charges.	sweep
+1468	Preservation	talent	1242745	Inner Flame	true			0			Casting Dream Flight or Stasis increases your healing over time by 60% and causes Living Flame and Reversion to have a 100% increased chance to grant Essence Burst. Lasts 15 sec. 	sweep
+1468	Preservation	talent	359816	Dream Flight	false			120000			Take in a deep breath and fly to the targeted location, healing all allies in your path for 2,125 immediately, and 5,010 over 15 sec, reduced beyond 5 targets. Removes all root effects. You are immune to movement impairing and loss of control effects. Damage taken while you are flying is absorbed, up to 100% of your maximum health.	sweep
+1468	Preservation	talent	370537	Stasis	false			90000			Causes your next 3 helpful spells to be duplicated and stored in a time lock. You may reactivate Stasis any time within 30 sec to quickly unleash their magic.	sweep
+1468	Preservation	talent	371257	Renewing Breath	true			0			Dream Breath healing is increased by 15%.	sweep
+1468	Preservation	talent	377099	Spark of Insight	true			0			Consuming a full Temporal Compression grants you Essence Burst.	sweep
+1468	Preservation	talent	375528	Forger of Mountains	true			0			Landslide's cooldown is reduced by 30 sec, and it can withstand 200% more damage before breaking.	sweep
+1468	Preservation	talent	369990	Ancient Flame	true			0			Casting Emerald Blossom or Verdant Embrace reduces the cast time of your next Living Flame by 40%.	sweep
+1468	Preservation	talent	387341	Walloping Blow	true			0			Wing Buffet and Tail Swipe knock enemies further and daze them, reducing movement speed by 70% for 4 sec. 	sweep
+1468	Preservation	talent	370888	Twin Guardian	true			0			Rescue increases movement speed by 100% and allows spells to be cast while moving for 3 sec.	sweep
+1468	Preservation	talent	370665	Rescue	false			60000			Swoop to an ally and fly with them to the target location. Clears movement impairing effects from you and your ally.	sweep
+1468	Preservation	talent	375406	Obsidian Bulwark	true			0			Obsidian Scales has an additional charge.	sweep
+1468	Preservation	talent	375556	Tailwind	true			0			Hover increases your movement speed by 70% for the first 4 sec.	sweep
+1468	Preservation	talent	370886	Bountiful Bloom	true			0			Emerald Blossom heals 2 additional allies.	sweep
+1468	Preservation	talent	376930	Attuned to the Dream	true			0			Your healing done and healing received are increased by 2%.	sweep
+1468	Preservation	talent	360806	Sleep Walk	false			0			Disorient an enemy for 20 sec, causing them to sleep walk towards you. Damage has a chance to awaken them.	sweep
+1468	Preservation	talent	374251	Cauterizing Flame	false			60000			Cauterize an ally's wounds, removing all Bleed, Poison, Curse, and Disease effects. Heals for 1,487 upon removing any effect.	sweep
+1468	Preservation	talent	375554	Enkindled	true			0			Living Flame deals 3% more damage and healing.	sweep
+1468	Preservation	talent	374346	Overawe	true			0			Oppressing Roar removes 1 Enrage effect from each enemy, and its cooldown is reduced by 30 sec.	sweep
+1468	Preservation	talent	372048	Oppressing Roar	false			120000			Let out a bone-shaking roar at enemies in a cone in front of you, increasing the duration of crowd controls that affect them by 50% in the next 10 sec.	sweep
+1468	Preservation	talent	375542	Exuberance	true			0			While above 75% health, your movement speed is increased by 10%.	sweep
+1468	Preservation	talent	376166	Draconic Legacy	true			0			Your Stamina is increased by 6%.	sweep
+1468	Preservation	talent	371806	Recall	true			0			You may reactivate Deep Breath within 3 sec after landing to travel back in time to your takeoff location.	sweep
+1468	Preservation	talent	375520	Innate Magic	true			0			Essence regenerates 5% faster.	sweep
+1468	Preservation	talent	363916	Obsidian Scales	false		1	1000	90000		Reinforce your scales, reducing damage taken by 30% . Lasts 12 sec.	sweep
+1468	Preservation	talent	358385	Landslide	false			90000			Conjure a path of shifting stone towards the target location, rooting enemies for 15 sec. Damage may cancel the effect.	sweep
+1468	Preservation	talent	365585	Expunge	false			8000			Expunge toxins affecting an ally, removing all Poison effects.	sweep
+1468	Preservation	talent	1264378	Unravel	true			0			Direct damage from Fire Breath consumes absorb shields from enemies, dealing 5,095 additional Spellfrost damage to them.	sweep
+1468	Preservation	talent	410352	Stretch Time	true			0			While flying during Deep Breath, 100% of damage you would take is instead dealt over 10 sec.	sweep
+1468	Preservation	talent	375510	Blast Furnace	true			0			Fire Breath's damage over time lasts 4 sec longer.	sweep
+1468	Preservation	talent	376164	Instinctive Arcana	true			0			Your Magic damage done is increased by 2%.	sweep
+1468	Preservation	talent	386405	Inner Radiance	true			0			Your Living Flame and Emerald Blossom are 30% more effective on yourself.	sweep
+1468	Preservation	talent	369913	Natural Convergence	true			0			Disintegrate channels 20% faster.	sweep
+1468	Preservation	talent	376207	Delay Harm	true			0			15% of delayed damage from Time Dilation is absorbed.	sweep
+1468	Preservation	talent	376204	Just in Time	true			0			Time Dilation gains an additional charge, and its cooldown is reduced by 10 sec.	sweep
+1468	Preservation	talent	357170	Time Dilation	false		1	1000	60000		Stretch time around an ally for the next 8 sec, causing 50% of damage they would take to instead be dealt over 8 sec.	sweep
+1468	Preservation	talent	363534	Rewind	false		1	0	240000		Rewind 30% of damage taken in the last 5 seconds by all allies within 40 yds. Always heals for at least 844. Healing increased by 200% when not in a raid.	sweep
+1468	Preservation	talent	366155	Reversion	false		2	0	9000		Reverse an ally's injuries, healing them for 1,284 over 12 sec. When Reversion critically heals, its duration is extended by 2 sec, up to a maximum of 12 sec.	sweep
+1468	Preservation	talent	364343	Echo	false			0			Wrap an ally with temporal energy, healing them for 1,020 and causing your next healing spell to cast an additional time on that ally at 70% of normal healing. Essence spells cannot be Echoed.	sweep
+1468	Preservation	talent	372469	Scarlet Adaptation	true			0			Store 20% of your effective healing, up to 951. Your next damaging Living Flame consumes all stored healing to increase its damage dealt.	sweep
+1468	Preservation	talent	360995	Verdant Embrace	false		1	500	24000		Fly to an ally and heal them for 4,496, or heal yourself for the same amount.	sweep
+1468	Preservation	talent	371032	Terror of the Skies	true			0			Deep Breath stuns enemies for 3 sec.	sweep
+1468	Preservation	talent	369939	Leaping Flames	true			0			Fire Breath causes your next Living Flame to strike 1 additional target per empower level.	sweep
+1468	Preservation	talent	369459	Source of Magic	false			0			Redirect your excess magic to a friendly healer for 1 |4hour:hrs;. When you cast an empowered spell, you restore 0.25% of their maximum mana per empower level. Limit 1.	sweep
+1468	Preservation	talent	375574	Foci of Life	true			0			Renewing Blaze restores you more quickly, causing damage you take to be healed back over 4 sec.	sweep
+1468	Preservation	talent	374227	Zephyr	false			120000			Conjure an updraft to lift you and your 4 nearest allies within 20 yds into the air, reducing damage taken from area-of-effect attacks by 20% and increasing movement speed by 30% for 8 sec.	sweep
+1468	Preservation	talent	375561	Lush Growth	true			0			Green spells restore 5% more health.	sweep
+1468	Preservation	talent	387761	Panacea	true			0			Emerald Blossom and Verdant Embrace instantly heal you for 850 when cast.	sweep
+1468	Preservation	talent	375517	Extended Flight	true			0			Hover lasts 4 sec longer.	sweep
+1468	Preservation	talent	370553	Tip the Scales	false			120000			Compress time to make your next empowered spell cast instantly at its maximum empower level.	sweep
+1468	Preservation	talent	406732	Spatial Paradox	false			180000			Evoke a paradox for you and a friendly healer, allowing casting while moving and increasing the range of most spells by 100% for 10 sec. Affects the nearest healer within 60 yds, if you do not have a healer targeted.	sweep
+1468	Preservation	talent	374968	Time Spiral	false			120000			Bend time, allowing you and your allies within 40 yds to cast their major movement ability once in the next 10 sec, even if it is on cooldown.	sweep
+1468	Preservation	talent	365933	Aerial Mastery	true			0			Hover gains 1 additional charge.	sweep
+1468	Preservation	talent	387787	Regenerative Magic	true			0			Your Leech is increased by 2%.	sweep
+1468	Preservation	talent	374348	Renewing Blaze	true			0			Obsidian Scales surrounds you with a Renewing Blaze, causing 100% of the damage it prevented to be healed back over 8 sec.	sweep
+1468	Preservation	talent	375544	Inherent Resistance	true			0			Magic damage taken reduced by 2%.	sweep
+1468	Preservation	talent	418101	Potent Mana	true			0			Source of Magic increases the target's healing and damage done by 3%.	sweep
+1468	Preservation	hero	445625	Titanic Precision	true			0			Living Flame and Azure Strike have 1 extra chance to trigger Essence Burst when they critically strike.	sweep
+1468	Preservation	hero	441176	Melt Armor	true			0			Deep Breath causes enemies to take 20% increased damage from Bombardments and Essence abilities for 12 sec. The duration of this effect is extended when Deep Breath is cast multiple times.	sweep
+1468	Preservation	hero	444088	Consume Flame	true			0			Disintegrate damage consumes 1.0 sec of Fire Breath from enemies it damages, detonating it for 150% of the amount consumed. Pyre damage consumes 4 sec of Fire Breath from enemies it damages, detonating it for 115% of the amount consumed.	sweep
+1468	Preservation	hero	1218447	Fulminous Roar	true			0			Fire Breath deals its damage 20% more often.	sweep
+1468	Preservation	hero	431615	Reverberations	true			0			Upheaval deals 50% additional damage over 8 sec.	sweep
+1468	Preservation	hero	441212	Extended Battle	true			0			Essence abilities extend Bombardments by 1 sec.	sweep
+1468	Preservation	hero	441219	Diverted Power	true			0			Bombardments have a chance to generate Essence Burst.	sweep
+1468	Preservation	hero	431875	Afterimage	true			0			Empower spells send up to 3 Chrono Flames to your targets.	sweep
+1468	Preservation	hero	431484	Instability Matrix	true			0			Each time you cast an empower spell, unstable time magic reduces its cooldown by up to 6 sec.	sweep
+1468	Preservation	hero	444322	Lifecinders	true			0			Obsidian Scales also applies to your target or 1 nearby injured ally at 50% value.	sweep
+1468	Preservation	hero	445958	Draconic Instincts	true			0			Your wounds have a small chance to cauterize, healing you for 30% of damage taken. Occurs more often from attacks that deal high damage.	sweep
+1468	Preservation	hero	431874	Double-time	true			0			Ebon Might and Prescience gain a chance equal to your critical strike chance to grant 50% additional stats.	sweep
+1468	Preservation	hero	431984	Time Convergence	true			0			Non-defensive abilities with a 45 second or longer cooldown grant 5% Intellect for 15 sec. Essence spells extend the duration by 1 sec.	sweep
+1468	Preservation	hero	441180	Hardened Scales	true			0			Obsidian Scales reduces damage taken by an additional 10%.	sweep
+1468	Preservation	hero	441181	Menacing Presence	true			0			Knocking enemies up or backwards reduces their damage done to you by 15% for 8 sec.	sweep
+1468	Preservation	hero	441246	Unrelenting Siege	true			0			For each second you are in combat, Azure Strike, Living Flame, and Disintegrate deal 1% increased damage, up to 15%.	sweep
+1468	Preservation	hero	431873	Temporality	true			0			Warp reduces damage taken by 20%, starting high and reducing over 3 sec.	sweep
+1468	Preservation	hero	432008	Motes of Acceleration	true			0			Warp leaves a trail of Motes of Acceleration. Allies who come in contact with a mote gain 20% increased movement speed for 30 sec.	sweep
+1468	Preservation	hero	434300	Bombardments	true			0			Mass Disintegrate marks your primary target for destruction for the next 6 sec. You and your allies have a chance to trigger a Bombardment when attacking marked targets, dealing 2,016 Volcanic damage split amongst all nearby enemies.	sweep
+1468	Preservation	hero	444849	Trailblazer	true			0			Hover and Deep Breath travel 40% faster, and Hover travels 40% further.	sweep
+1468	Preservation	hero	445074	Shape of Flame	true			0			Tail Swipe and Wing Buffet scorch enemies and blind them with ash, causing their next attack within 4 sec to miss.	sweep
+1468	Preservation	hero	433871	Maneuverability	true			0			Deep Breath can now be steered in your desired direction. In addition, Deep Breath burns targets for 3,002 Volcanic damage over 12 sec. The duration of this effect is extended when Deep Breath is cast multiple times.	sweep
+1468	Preservation	hero	432004	Golden Opportunity	true			0			Prescience lasts 15% longer.	sweep
+1468	Preservation	hero	441253	Nimble Flyer	true			0			While Hovering, damage taken from area of effect attacks is reduced by 10%.	sweep
+1468	Preservation	hero	441257	Slipstream	true			0			Deep Breath resets a charge of Hover.	sweep
+1468	Preservation	hero	441245	Onslaught	true			0			Entering combat grants a charge of Burnout, causing your next Living Flame to cast instantly.	sweep
+1468	Preservation	hero	1264321	Deep Exhalation	true			0			Fire Breath's damage over time lasts 4 sec longer.	sweep
+1468	Preservation	hero	444020	Burning Adrenaline	true			0			Fire Breath reaches its maximum empower level 20% faster.	sweep
+1468	Preservation	hero	431715	Nozdormu Adept	true			0			Prescience cooldown reduced by 2 sec and it grants 1% additional critical strike chance.	sweep
+1468	Preservation	hero	429483	Warp	true			0			Hover now causes you to briefly warp out of existence and appear at your destination. Hover's cooldown is also reduced by 5 sec. Hover continues to allow Evoker spells to be cast while moving.	sweep
+1468	Preservation	hero	444843	Conduit of Flame	true			0			Critical strike chance against targets above 50% health increased by 15%.	sweep
+1468	Preservation	hero	1264269	Legacy of the Lifebinder	true			0			Fire Breath gains an additional charge.	sweep
+1468	Preservation	hero	431657	Primacy	true			0			For each damage over time effect from Upheaval, gain 3% haste, up to 9%.	sweep
+1468	Preservation	hero	441705	Might of the Black Dragonflight	true			0			Black spells deal 20% increased damage.	sweep
+1468	Preservation	hero	441206	Wingleader	true			0			Bombardments reduce the cooldown of Deep Breath by 0.5 sec for each target struck, up to 1.5 sec.	sweep
+1468	Preservation	hero	431442	Chrono Flame	true			0			Living Flame is enhanced with Bronze magic, repeating 25% of the damage or healing you dealt to the target in the last 5 sec as Arcane, up to 1,061.	sweep
+1468	Preservation	hero	431695	Temporal Burst	true			0			Tip the Scales overloads you with temporal energy, increasing your haste, movement speed, and cooldown recovery rate by 30%, decreasing over 30 sec.	sweep
+1468	Preservation	hero	444016	Enkindle	true			0			Essence abilities are enhanced with Flame, dealing 20% of healing or damage done as Fire over 8 sec.	sweep
+1468	Preservation	hero	444845	Expanded Lungs	true			0			Fire Breath's damage over time is increased by 30%. Dream Breath's heal over time is increased by 30%.	sweep
+1468	Preservation	talent	443264	Titan's Gift	true			0			Essence Burst increases the effectiveness of your next Essence ability by 35%.	sweep
+1468	Preservation	talent	443177	Lifespark	true			0			Reversion healing has a chance to cause your next Living Flame to cast instantly and deal 50% increased healing or damage. Stacks up to 2 charges.	sweep
+1468	Preservation	hero	1264365	Ashes in Motion	true			0			Fire Breath's cooldown is reduced by 5 sec.	sweep
+1468	Preservation	talent	368838	Heavy Wingbeats	true			0			Wing Buffet's cooldown is reduced by 2 min.	sweep
+1468	Preservation	talent	375443	Clobbering Sweep	true			0			Tail Swipe's cooldown is reduced by 2 min.	sweep
+1468	Preservation	hero	1260647	Overclock	true			0			Chrono Flames' maximum damage or healing is increased by 40%, up to 1,486 Arcane.	sweep
+1468	Preservation	hero	1291522	Chronal Dynamo	true			0			Living Flame's cast time is reduced by 0.2 sec, and it deals 50% increased damage or healing when it is a non-instant cast.	sweep
+1468	Preservation	hero	1260484	Chronoboon	true			0			Tip the Scales' cooldown is reduced by 30 sec.	sweep
+1468	Preservation	hero	1261452	Refined Essence	true			0			Essence abilities deal 15% additional damage.	sweep
+1468	Preservation	hero	1261448	Concentrated Power	true			0			Mass Disintegrate strikes 1 additional target.	sweep
+1468	Preservation	hero	1260745	Command Squadron	true			0			While flying during Deep Breath you are assisted by a squadron of Dracthyr who assault enemies with Pyre, dealing 764 Fire damage to nearby enemies up to 8 times.	sweep
+1468	Preservation	hero	1265992	Fire Torrent	true			0			Twin Flame bounces to up to 2 additional targets.	sweep
+1468	Preservation	hero	1265993	Essence Well	true			0			Fire Breath has a 50% chance to generate Essence Burst.	sweep
+1468	Preservation	hero	1265979	Twin Flame	true			0			Consuming Essence Burst fires a twin flame, striking your target for 764 Fire damage.	sweep
+1468	Preservation	talent	369909	Protracted Talons	true			0			Azure Strike damages 1 additional enemy.	sweep
+1468	Preservation	talent	1267206	Strike from Above	true			0			Glide speed and height increased by 10%.	sweep
+1468	Preservation	talent	1256577	Merithra's Blessing	true			0			Essence abilities have a chance to infuse your next Reversion with the power of the Green Dragonflight, upgrading it to Merithra's Blessing: |T4622475:24|t |cffffffffMerithra's Blessing|r Spring a bloom of life from your target, healing them and up to 4 other allies within 30 yards for 1,062. Blooms may heal your primary target multiple times if no nearby injured allies are present.	sweep
+1468	Preservation	talent	1256682	Merithra's Blessing	true			0			Reversion protects allies, reversing 0.5% of all damage taken and healing them instead.	sweep
+1468	Preservation	talent	1256689	Merithra's Blessing	true			0			Dream Breath's instant healing is increased by 250% and Dream Breath has a 100% chance to grant Merithra's Blessing.	sweep
+1473	Augmentation	talent	1268881	Improved Defy Fate	true			0			Defy Fate healing increased by 100% and its cooldown is reduced by 1 min.	sweep
+1473	Augmentation	talent	410261	Inferno's Blessing	true			0			Fire Breath grants the inferno's blessing for 8 sec to you and a nearby ally, giving their damaging attacks and spells a high chance to deal an additional 1,142 Fire damage.	sweep
+1473	Augmentation	talent	395152	Ebon Might	false			30000			Increase all damage dealing allies' primary stat by 8.0% of your own and increase your own damage by 20% for 10 sec. Ebon Might will split its effect when applied to more than 2 other allies. Eruption, Deep Breath, and your empower spells extend the duration of these effects.	sweep
+1473	Augmentation	talent	351338	Quell	false			20000			Interrupt an enemy's spellcasting and prevent any spell from that school of magic from being cast for 6 sec.	sweep
+1473	Augmentation	talent	395160	Eruption	false			0			Cause a violent eruption beneath an enemy's feet, dealing 1,188 Volcanic damage split between them and nearby enemies.	sweep
+1473	Augmentation	talent	369908	Power Nexus	true			0			Increases your maximum Essence to 6.	sweep
+1473	Augmentation	talent	412733	Unyielding Domain	true			0			Upheaval cannot be interrupted, and has an additional 10% chance to critically strike.	sweep
+1473	Augmentation	talent	408002	Tectonic Locus	true			0			Upheaval deals 50% increased damage to the primary target, and launches them higher.	sweep
+1473	Augmentation	talent	396286	Upheaval	false			40000			Gather earthen power beneath your enemy's feet and send them hurtling upwards, dealing 1,826 Volcanic damage to the target and nearby enemies. Empowering expands the area of effect. |cFFFFFFFFI:|r   3 yd radius. |cFFFFFFFFII:|r  6 yd radius. |cFFFFFFFFIII:|r 9 yd radius.	sweep
+1473	Augmentation	talent	459120	Rumbling Earth	true			0			Upheaval causes an aftershock at its location, dealing 30% of its damage 2 additional times.	sweep
+1473	Augmentation	talent	406904	Volcanism	true			0			Eruption's Essence cost is reduced by 1.	sweep
+1473	Augmentation	talent	408004	Momentum Shift	true			0			Consuming Essence Burst grants you 5% Intellect for 6 sec. Stacks up to 2 times.	sweep
+1473	Augmentation	talent	406659	Ricocheting Pyroclast	true			0			Eruption deals 30% more damage per enemy struck, up to 150%.	sweep
+1473	Augmentation	talent	360827	Blistering Scales	false			30000			Protect an ally with 15 explosive dragonscales, increasing their Armor by 20% of your own. Melee attacks against the target cause 1 scale to explode, dealing 127 Volcanic damage to enemies near them. This damage can only occur every few sec. Blistering Scales can only be placed on one target at a time. Casts on your enemy's target if they have one.	sweep
+1473	Augmentation	talent	409329	Reactive Hide	true			0			Each time Blistering Scales explodes it deals 15% more damage for 12 sec, stacking 10 times.	sweep
+1473	Augmentation	talent	406907	Regenerative Chitin	true			0			Blistering Scales no longer loses charges and deals 20% more damage.	sweep
+1473	Augmentation	talent	410643	Molten Blood	true			0			When cast, Blistering Scales grants the target a shield that absorbs up to 5,094 damage for 30 sec based on their missing health. Lower health targets gain a larger shield.	sweep
+1473	Augmentation	talent	375796	Hoarded Power	true			0			Essence Burst has a 20% chance to not be consumed.	sweep
+1473	Augmentation	talent	410260	Overlord	true			0			Deep Breath casts an Eruption at the first 3 enemies struck. These Eruptions have a 100% chance to create a Mote of Possibility.	sweep
+1473	Augmentation	talent	410685	Symbiotic Bloom	true			0			Emerald Blossom increases targets' healing received by 3% for 10 sec.	sweep
+1473	Augmentation	talent	407243	Aspects' Favor	true			0			Obsidian Scales activates Black Attunement, and amplifies it to increase maximum health by 4.0% for 12 sec. Hover activates Bronze Attunement, and amplifies it to increase movement speed by 25% for 4 sec.	sweep
+1473	Augmentation	talent	403208	Draconic Attunements	true			0			Learn to attune yourself to the essence of the Black or Bronze Dragonflights: |T5199619:24|t|cffffffffBlack Attunement|r: You and your 4 nearest allies have 2% increased maximum health. |T5199623:24|t|cffffffffBronze Attunement|r:You and your 4 nearest allies have 10% increased movement speed.	sweep
+1473	Augmentation	talent	375722	Essence Attunement	true			0			Essence Burst stacks 2 times.	sweep
+1473	Augmentation	talent	396187	Essence Burst	true			0			Your Living Flame has a 20% chance, and your Azure Strike has a 15% chance, to make your next Eruption cost no Essence.	sweep
+1473	Augmentation	talent	407814	Pupil of Alexstrasza	true			0			When cast at an enemy, Living Flame strikes 1 additional enemy for 100% damage.	sweep
+1473	Augmentation	talent	410784	Echoing Strike	true			0			Azure Strike deals 15% increased damage and has a 10% chance per target hit to echo, casting again.	sweep
+1473	Augmentation	talent	404195	Defy Fate	true			0			Fatal attacks are diverted into a nearby timeline, preventing the damage, and your death, in this one. The release of temporal energy restores 11,567 health to you, and 3,856 to 4 nearby allies, over 9 sec. Healing starts high and declines over the duration. May only occur once every 6 min.	sweep
+1473	Augmentation	talent	407869	Anachronism	true			0			Prescience has a 35% chance to grant Essence Burst.	sweep
+1473	Augmentation	talent	454983	Arcane Reach	true			0			The range of your helpful magics is increased by 5 yards.	sweep
+1473	Augmentation	talent	407866	Plot the Future	true			0			Deep Breath grants you Fury of the Aspects for 15 sec after you land, without causing Exhaustion.	sweep
+1473	Augmentation	talent	1250914	Clairvoyant	true			0			Motes of Possibility may now grant Prescience to allies and have a 10% increased chance to activate.	sweep
+1473	Augmentation	talent	407876	Accretion	true			0			Eruption reduces the remaining cooldown of Upheaval by 1.0 sec.	sweep
+1473	Augmentation	talent	409267	Motes of Possibility	true			0			Eruption has a 25% chance to form a mote of diverted essence near you. Allies who comes in contact with the mote gain a random buff from your arsenal.	sweep
+1473	Augmentation	talent	408083	Font of Magic	true			0			Your empower spells' maximum level is increased by 1, and they reach maximum empower level 20% faster.	sweep
+1473	Augmentation	talent	404977	Time Skip	false			180000			Surge forward in time, causing your cooldowns to recover 1,000% faster for 2 sec.	sweep
+1473	Augmentation	talent	403631	Breath of Eons	false			120000			Fly to the targeted location, exposing a |cffffffffTemporal Wound|r on enemies in your path for 10 sec. Removes roots and grants immunity to movement impairing and loss of control effects while flying. |T5199622:24|t |cffffffffTemporal Wound|r 15% of damage dealt by allies affected by Ebon Might is copied as additional Arcane damage to enemies after 10 sec. Damage is reduced if Ebon Might affects more than 2 other allies.	sweep
+1473	Augmentation	talent	410253	Perilous Fate	true			0			Breath of Eons reduces enemies' movement speed by 70%, and reduces their attack speed by 50%, for 10 sec.	sweep
+1473	Augmentation	talent	409676	Chrono Ward	true			0			When allies deal damage with Temporal Wounds, they gain a shield for 100% of the damage dealt. Absorption cannot exceed 30% of your maximum health.	sweep
+1473	Augmentation	talent	375528	Forger of Mountains	true			0			Landslide's cooldown is reduced by 30 sec, and it can withstand 200% more damage before breaking.	sweep
+1473	Augmentation	talent	369990	Ancient Flame	true			0			Casting Emerald Blossom or Verdant Embrace reduces the cast time of your next Living Flame by 40%.	sweep
+1473	Augmentation	talent	387341	Walloping Blow	true			0			Wing Buffet and Tail Swipe knock enemies further and daze them, reducing movement speed by 70% for 4 sec. 	sweep
+1473	Augmentation	talent	370888	Twin Guardian	true			0			Rescue increases movement speed by 100% and allows spells to be cast while moving for 3 sec.	sweep
+1473	Augmentation	talent	370665	Rescue	false			60000			Swoop to an ally and fly with them to the target location. Clears movement impairing effects from you and your ally.	sweep
+1473	Augmentation	talent	375406	Obsidian Bulwark	true			0			Obsidian Scales has an additional charge.	sweep
+1473	Augmentation	talent	375556	Tailwind	true			0			Hover increases your movement speed by 70% for the first 4 sec.	sweep
+1473	Augmentation	talent	370886	Bountiful Bloom	true			0			Emerald Blossom heals 2 additional allies.	sweep
+1473	Augmentation	talent	376930	Attuned to the Dream	true			0			Your healing done and healing received are increased by 2%.	sweep
+1473	Augmentation	talent	360806	Sleep Walk	false			0			Disorient an enemy for 20 sec, causing them to sleep walk towards you. Damage has a chance to awaken them.	sweep
+1473	Augmentation	talent	374251	Cauterizing Flame	false			60000			Cauterize an ally's wounds, removing all Bleed, Poison, Curse, and Disease effects. Heals for 1,487 upon removing any effect.	sweep
+1473	Augmentation	talent	375554	Enkindled	true			0			Living Flame deals 3% more damage and healing.	sweep
+1473	Augmentation	talent	374346	Overawe	true			0			Oppressing Roar removes 1 Enrage effect from each enemy, and its cooldown is reduced by 30 sec.	sweep
+1473	Augmentation	talent	372048	Oppressing Roar	false			120000			Let out a bone-shaking roar at enemies in a cone in front of you, increasing the duration of crowd controls that affect them by 50% in the next 10 sec.	sweep
+1473	Augmentation	talent	375542	Exuberance	true			0			While above 75% health, your movement speed is increased by 10%.	sweep
+1473	Augmentation	talent	376166	Draconic Legacy	true			0			Your Stamina is increased by 6%.	sweep
+1473	Augmentation	talent	371806	Recall	true			0			You may reactivate Deep Breath within 3 sec after landing to travel back in time to your takeoff location.	sweep
+1473	Augmentation	talent	375520	Innate Magic	true			0			Essence regenerates 5% faster.	sweep
+1473	Augmentation	talent	363916	Obsidian Scales	false		1	1000	90000		Reinforce your scales, reducing damage taken by 30% . Lasts 12 sec.	sweep
+1473	Augmentation	talent	358385	Landslide	false			90000			Conjure a path of shifting stone towards the target location, rooting enemies for 15 sec. Damage may cancel the effect.	sweep
+1473	Augmentation	talent	365585	Expunge	false			8000			Expunge toxins affecting an ally, removing all Poison effects.	sweep
+1473	Augmentation	talent	1264378	Unravel	true			0			Direct damage from Fire Breath consumes absorb shields from enemies, dealing 5,095 additional Spellfrost damage to them.	sweep
+1473	Augmentation	talent	410352	Stretch Time	true			0			While flying during Deep Breath, 100% of damage you would take is instead dealt over 10 sec.	sweep
+1473	Augmentation	talent	375510	Blast Furnace	true			0			Fire Breath's damage over time lasts 4 sec longer.	sweep
+1473	Augmentation	talent	376164	Instinctive Arcana	true			0			Your Magic damage done is increased by 2%.	sweep
+1473	Augmentation	talent	386405	Inner Radiance	true			0			Your Living Flame and Emerald Blossom are 30% more effective on yourself.	sweep
+1473	Augmentation	talent	369913	Natural Convergence	true			0			Disintegrate channels 20% faster.	sweep
+1473	Augmentation	talent	372469	Scarlet Adaptation	true			0			Store 20% of your effective healing, up to 951. Your next damaging Living Flame consumes all stored healing to increase its damage dealt.	sweep
+1473	Augmentation	talent	360995	Verdant Embrace	false		1	500	24000		Fly to an ally and heal them for 4,496, or heal yourself for the same amount.	sweep
+1473	Augmentation	talent	371032	Terror of the Skies	true			0			Deep Breath stuns enemies for 3 sec.	sweep
+1473	Augmentation	talent	369939	Leaping Flames	true			0			Fire Breath causes your next Living Flame to strike 1 additional target per empower level.	sweep
+1473	Augmentation	talent	369459	Source of Magic	false			0			Redirect your excess magic to a friendly healer for 1 |4hour:hrs;. When you cast an empowered spell, you restore 0.25% of their maximum mana per empower level. Limit 1.	sweep
+1473	Augmentation	talent	375574	Foci of Life	true			0			Renewing Blaze restores you more quickly, causing damage you take to be healed back over 4 sec.	sweep
+1473	Augmentation	talent	374227	Zephyr	false			120000			Conjure an updraft to lift you and your 4 nearest allies within 20 yds into the air, reducing damage taken from area-of-effect attacks by 20% and increasing movement speed by 30% for 8 sec.	sweep
+1473	Augmentation	talent	375561	Lush Growth	true			0			Green spells restore 5% more health.	sweep
+1473	Augmentation	talent	387761	Panacea	true			0			Emerald Blossom and Verdant Embrace instantly heal you for 850 when cast.	sweep
+1473	Augmentation	talent	375517	Extended Flight	true			0			Hover lasts 4 sec longer.	sweep
+1473	Augmentation	talent	370553	Tip the Scales	false			120000			Compress time to make your next empowered spell cast instantly at its maximum empower level.	sweep
+1473	Augmentation	talent	406732	Spatial Paradox	false			180000			Evoke a paradox for you and a friendly healer, allowing casting while moving and increasing the range of most spells by 100% for 10 sec. Affects the nearest healer within 60 yds, if you do not have a healer targeted.	sweep
+1473	Augmentation	talent	374968	Time Spiral	false			120000			Bend time, allowing you and your allies within 40 yds to cast their major movement ability once in the next 10 sec, even if it is on cooldown.	sweep
+1473	Augmentation	talent	365933	Aerial Mastery	true			0			Hover gains 1 additional charge.	sweep
+1473	Augmentation	talent	387787	Regenerative Magic	true			0			Your Leech is increased by 2%.	sweep
+1473	Augmentation	talent	374348	Renewing Blaze	true			0			Obsidian Scales surrounds you with a Renewing Blaze, causing 100% of the damage it prevented to be healed back over 8 sec.	sweep
+1473	Augmentation	talent	375544	Inherent Resistance	true			0			Magic damage taken reduced by 2%.	sweep
+1473	Augmentation	talent	409311	Prescience	false		2	0	12000		Grant an ally the gift of foresight, increasing their critical strike chance by 3% for 18 sec. Affects the nearest ally within 25 yds, preferring damage dealers with their cooldowns active, if you do not have an ally targeted.	sweep
+1473	Augmentation	talent	410687	Prolong Life	true			0			Your effects that extend Ebon Might also extend Symbiotic Bloom.	sweep
+1473	Augmentation	talent	414969	Dream of Spring	true			0			Emerald Blossom no longer has a cooldown, deals 35% increased healing, and increases the duration of your active Ebon Might effects by 1 sec, but costs 3 Essence.	sweep
+1473	Augmentation	talent	412710	Timelessness	false			0			Enchant an ally to appear out of sync with the normal flow of time, reducing threat they generate by 30% for 1 |4hour:hrs;. Less effective on tank-specialized allies.  May only be placed on one target at a time.	sweep
+1473	Augmentation	talent	412774	Fate Mirror	true			0			Prescience grants the ally a chance for their spells and abilities to echo their damage or healing, dealing 15% of the amount again.	sweep
+1473	Augmentation	talent	408775	Ignition Rush	true			0			Essence Burst reduces the cast time of Eruption by 40% and increases its damage by 20%.	sweep
+1473	Augmentation	talent	412723	Tomorrow, Today	true			0			Time Skip channels for 1 sec longer.	sweep
+1473	Augmentation	talent	412713	Interwoven Threads	true			0			The cooldowns of your spells are reduced by 10%.	sweep
+1473	Augmentation	talent	408233	Bestow Weyrnstone	false			60000			Conjure a pair of Weyrnstones, one for your target ally and one for yourself. Only one ally may bear your Weyrnstone at a time. A Weyrnstone can be activated by the bearer to transport them to the other Weyrnstone's location, if they are within 100 yds.	sweep
+1473	Augmentation	talent	418101	Potent Mana	true			0			Source of Magic increases the target's healing and damage done by 3%.	sweep
+1473	Augmentation	hero	441176	Melt Armor	true			0			Deep Breath causes enemies to take 20% increased damage from Bombardments and Essence abilities for 12 sec. The duration of this effect is extended when Deep Breath is cast multiple times.	sweep
+1473	Augmentation	hero	431615	Reverberations	true			0			Upheaval deals 50% additional damage over 8 sec.	sweep
+1473	Augmentation	hero	441212	Extended Battle	true			0			Essence abilities extend Bombardments by 1 sec.	sweep
+1473	Augmentation	hero	441219	Diverted Power	true			0			Bombardments have a chance to generate Essence Burst.	sweep
+1473	Augmentation	hero	431875	Afterimage	true			0			Empower spells send up to 3 Chrono Flames to your targets.	sweep
+1473	Augmentation	hero	431484	Instability Matrix	true			0			Each time you cast an empower spell, unstable time magic reduces its cooldown by up to 6 sec.	sweep
+1473	Augmentation	hero	431874	Double-time	true			0			Ebon Might and Prescience gain a chance equal to your critical strike chance to grant 50% additional stats.	sweep
+1473	Augmentation	hero	431984	Time Convergence	true			0			Non-defensive abilities with a 45 second or longer cooldown grant 5% Intellect for 15 sec. Essence spells extend the duration by 1 sec.	sweep
+1473	Augmentation	hero	441180	Hardened Scales	true			0			Obsidian Scales reduces damage taken by an additional 10%.	sweep
+1473	Augmentation	hero	441181	Menacing Presence	true			0			Knocking enemies up or backwards reduces their damage done to you by 15% for 8 sec.	sweep
+1473	Augmentation	hero	441246	Unrelenting Siege	true			0			For each second you are in combat, Azure Strike, Living Flame, and Disintegrate deal 1% increased damage, up to 15%.	sweep
+1473	Augmentation	hero	431873	Temporality	true			0			Warp reduces damage taken by 20%, starting high and reducing over 3 sec.	sweep
+1473	Augmentation	hero	432008	Motes of Acceleration	true			0			Warp leaves a trail of Motes of Acceleration. Allies who come in contact with a mote gain 20% increased movement speed for 30 sec.	sweep
+1473	Augmentation	hero	434300	Bombardments	true			0			Mass Disintegrate marks your primary target for destruction for the next 6 sec. You and your allies have a chance to trigger a Bombardment when attacking marked targets, dealing 2,016 Volcanic damage split amongst all nearby enemies.	sweep
+1473	Augmentation	hero	433871	Maneuverability	true			0			Deep Breath can now be steered in your desired direction. In addition, Deep Breath burns targets for 3,002 Volcanic damage over 12 sec. The duration of this effect is extended when Deep Breath is cast multiple times.	sweep
+1473	Augmentation	hero	432004	Golden Opportunity	true			0			Prescience lasts 15% longer.	sweep
+1473	Augmentation	hero	441253	Nimble Flyer	true			0			While Hovering, damage taken from area of effect attacks is reduced by 10%.	sweep
+1473	Augmentation	hero	441257	Slipstream	true			0			Deep Breath resets a charge of Hover.	sweep
+1473	Augmentation	hero	441245	Onslaught	true			0			Entering combat grants a charge of Burnout, causing your next Living Flame to cast instantly.	sweep
+1473	Augmentation	hero	431715	Nozdormu Adept	true			0			Prescience cooldown reduced by 2 sec and it grants 1% additional critical strike chance.	sweep
+1473	Augmentation	hero	429483	Warp	true			0			Hover now causes you to briefly warp out of existence and appear at your destination. Hover's cooldown is also reduced by 5 sec. Hover continues to allow Evoker spells to be cast while moving.	sweep
+1473	Augmentation	hero	431657	Primacy	true			0			For each damage over time effect from Upheaval, gain 3% haste, up to 9%.	sweep
+1473	Augmentation	hero	441705	Might of the Black Dragonflight	true			0			Black spells deal 20% increased damage.	sweep
+1473	Augmentation	hero	441206	Wingleader	true			0			Bombardments reduce the cooldown of Deep Breath by 0.5 sec for each target struck, up to 1.5 sec.	sweep
+1473	Augmentation	hero	431442	Chrono Flame	true			0			Living Flame is enhanced with Bronze magic, repeating 25% of the damage or healing you dealt to the target in the last 5 sec as Arcane, up to 1,061.	sweep
+1473	Augmentation	hero	431695	Temporal Burst	true			0			Tip the Scales overloads you with temporal energy, increasing your haste, movement speed, and cooldown recovery rate by 30%, decreasing over 30 sec.	sweep
+1473	Augmentation	hero	438587	Mass Eruption	true			0			Empower spells cause your next Eruption to strike up to 3 targets. When striking less than 3 targets, Eruption damage is increased by 10% for each missing target.	sweep
+1473	Augmentation	talent	459537	Imminent Destruction	true			0			Deep Breath reduces the Essence cost of your next 6 Eruptions by 1.	sweep
+1473	Augmentation	talent	1291457	Mighty Inferno	true			0			Inferno's Blessing's damage is increased by 40%, and your effects that extend Ebon Might also extend Inferno's Blessing.	sweep
+1473	Augmentation	talent	368838	Heavy Wingbeats	true			0			Wing Buffet's cooldown is reduced by 2 min.	sweep
+1473	Augmentation	talent	375443	Clobbering Sweep	true			0			Tail Swipe's cooldown is reduced by 2 min.	sweep
+1473	Augmentation	hero	1260647	Overclock	true			0			Chrono Flames' maximum damage or healing is increased by 40%, up to 1,486 Arcane.	sweep
+1473	Augmentation	hero	1291522	Chronal Dynamo	true			0			Living Flame's cast time is reduced by 0.2 sec, and it deals 50% increased damage or healing when it is a non-instant cast.	sweep
+1473	Augmentation	hero	1260484	Chronoboon	true			0			Tip the Scales' cooldown is reduced by 30 sec.	sweep
+1473	Augmentation	hero	1261452	Refined Essence	true			0			Essence abilities deal 15% additional damage.	sweep
+1473	Augmentation	hero	1261448	Concentrated Power	true			0			Mass Disintegrate strikes 1 additional target.	sweep
+1473	Augmentation	hero	1260745	Command Squadron	true			0			While flying during Deep Breath you are assisted by a squadron of Dracthyr who assault enemies with Pyre, dealing 764 Fire damage to nearby enemies up to 8 times.	sweep
+1473	Augmentation	talent	369909	Protracted Talons	true			0			Azure Strike damages 1 additional enemy.	sweep
+1473	Augmentation	talent	1267206	Strike from Above	true			0			Glide speed and height increased by 10%.	sweep
+1473	Augmentation	talent	1259173	Duplicate	true			120000			Breath of Eons summons a version of you from the future to assist you in battle, lasting 20 sec. Your duplicate casts Eruption, Fire Breath, and Upheaval.	sweep
+1473	Augmentation	talent	1259174	Duplicate	true			120000			Any time you extend Ebon Might, your duplicate is also extended, equal to 50% of the amount you extended Ebon Might by.	sweep
+1473	Augmentation	talent	1259175	Duplicate	true			120000			While your duplicate is active, your Ebon Might grants 75% additional stats and Upheaval and Eruption deal 25% increased damage.	sweep

@@ -1,0 +1,406 @@
+specID	specName	source	spellID	name	passive	selected	charges	cooldownMS	rechargeMS	overrideSpellID	description	origin
+258	Shadow	talent	373280	Idol of N'Zoth	true			0			You create Horrific Visions when casting harmful spells on enemies. At 50 stacks of Horrific Visions, your target sees a nightmare, dealing 772 Shadow damage and granting you 4 Insanity over 3 sec. At 100 stacks, your target witnesses a vision of N'Zoth, dealing 2,925 Shadow damage and granting you 12 Insanity over 3 sec.	sweep
+258	Shadow	talent	373310	Idol of Y'Shaarj	true			0			While Shadowfiend, Mindbender, or Voidwraith are active, your haste is increased by 10%.	sweep
+258	Shadow	talent	373273	Idol of Yogg-Saron	true			0			After conjuring Shadowy Apparitions, gain a stack of Idol of Yogg-Saron. At 20 stacks, you summon a Thing from Beyond that casts Void Spike at nearby enemies for 20 sec. |T457655:24|t |cffffffffVoid Spike|r Hurls a bolt of dark magic, dealing 398 Shadow damage and 211 Shadow damage to all enemies within 10 yards of the target. Damage reduced beyond 5 targets.	sweep
+258	Shadow	talent	10060	Power Infusion	false			120000			Infuses the target with power for 15 sec, increasing haste by 20%. Can only be cast on players.	sweep
+258	Shadow	talent	392507	Deathspeaker	true			0			Shadow Word: Death damage increased by 25%. Shadow Word: Death gains its damage and talent bonuses against targets below 35% health instead of 20%.	sweep
+258	Shadow	talent	321291	Death and Madness	true			0			If a target dies within 7 sec after being struck by Shadow Word: Death, generate 8 Insanity. When Shadow Word: Death fails to kill a target below 20% health, its cooldown is reset. Cannot occur more than once every 10 sec.	sweep
+258	Shadow	talent	1228516	Subservient Shadows	true			0			Summoned minions last 20% longer and deal an additional 15% damage.	sweep
+258	Shadow	talent	373212	Insidious Ire	true			0			While you have Shadow Word: Pain, Shadow Word: Madness, and Vampiric Touch active on the same target, your Mind Blast, Void Torrent, Mind Flay, and Void Volley deal 20% more damage. 	sweep
+258	Shadow	talent	407469	Spectral Horrors	true			0			Shadow Apparitions deal 30% increased damage to targets affected by your Shadow Word: Madness.	sweep
+258	Shadow	talent	377349	Idol of C'Thun	true			0			Mind Flay has a chance to spawn a Void Tendril that channels Mind Flay or Void Lasher that channels Mind Sear at your target. |T136208:24|t |cffffffffMind Flay|r Assaults the target's mind with Shadow energy, causing 1,366 Shadow damage over 10 sec and slowing their movement speed by 30%. |cFFFFFFFFGenerates 5 Insanity over the duration.|r |T237565:24|t |cffffffffMind Sear|r Corrosive shadow energy radiates from the target, dealing 911 Shadow damage over 10 sec to all enemies within 10 yards of the target. Damage reduced beyond 5 targets. |cFFFFFFFFGenerates 5 Insanity over the duration.|r	sweep
+258	Shadow	talent	373427	Inescapable Torment	true			0			Mind Blast and Shadow Word: Death cause your Shadowfiend, Mindbender, and Voidwraith to teleport behind your target, slashing up to 5 nearby enemies for 357 Shadow damage and extending their durations by 0.7 sec.	sweep
+258	Shadow	talent	391151	Mastermind	true			0			Increases the critical strike chance of Mind Blast, Mind Flay, and Shadow Word: Death by 4% and increases their critical strike damage by 20%.	sweep
+258	Shadow	talent	1242779	Phantom Menace	true			0			Increases the critical strike chance of Shadowy Apparitions by 10% and their critical strike damage by 40%.	sweep
+258	Shadow	talent	407470	Mind's Eye	true			0			Reduces the Insanity cost of Shadow Word: Madness by 5.	sweep
+258	Shadow	talent	409044	Distorted Reality	true			0			Increases the damage of Shadow Word: Madness by 20% and causes it to deal its damage over 12 sec, but increases its Insanity cost by 5.	sweep
+258	Shadow	talent	1230339	Mindbender	true			0			Casting Voidform summons a Mindbender for 10 sec. |T136214:24|t |cffffffffMindbender|r Summons a shadowy fiend to attack your target. |cFFFFFFFFGenerates 1 Insanity each time the Mindbender attacks.|r	sweep
+258	Shadow	talent	375767	Screams of the Void	true			0			Shadow Word: Madness causes your Shadow Word: Pain and Vampiric Touch to deal damage 40% faster on all targets for 3 sec.	sweep
+258	Shadow	talent	341491	Shadowy Apparitions	true			0			Shadow Word: Madness conjures Shadowy Apparitions that float towards all targets afflicted by your Vampiric Touch for 361 Shadow damage.	sweep
+258	Shadow	talent	406788	Thought Harvester	true			0			Mind Blast gains an additional charge.	sweep
+258	Shadow	talent	1279353	Maddening Tentacles	true			0			Tentacle Slam afflicts your target with Shadow Word: Madness at 25% effectiveness.	sweep
+258	Shadow	talent	1279354	Crushing Void	true			0			Tentacle Slam deals 50% increased damage and Void Volley deals 15% increased damage. When Voidform ends, you can cast Void Volley 1 additional time within 30 sec.	sweep
+258	Shadow	talent	341240	Improved Voidform	true			0			Voidform generates 60 Insanity and increases your spell damage by an additonal 5%.	sweep
+258	Shadow	talent	1231346	Ancient Madness	true			0			Casting Shadow Word: Madness increases the duration of Voidform by 3.0 sec. Each time this occurs during Voidform, its effectiveness is reduced by 25%.	sweep
+258	Shadow	talent	228260	Voidform	false			120000			Bombards your target with a Void Volley and twists your Shadowform with void magic, increasing your spell damage by 20% for 20 sec.  This spell is replaced with Void Volley while Voidform is active. |T7439213:24|t |cffffffffVoid Volley|r Releases a volley of pure void energy, firing 10 bolts at your target and 1 bolt at all enemies within 10 yards of your target for 450 Shadow damage. |cFFFFFFFFGenerates 10 Insanity.|r	sweep
+258	Shadow	talent	1279355	Haunting Shadows	true			0			Shadowy Apparition damage increased by 10%. When Shadowy Apparitions deal damage, they extend the duration of your Shadow Word: Pain and Vampiric Touch on the target by 1.0 sec.	sweep
+258	Shadow	talent	1250492	Tormenting Whispers	true			0			Increases Shadow Word: Madness damage by 15%.	sweep
+258	Shadow	talent	1240388	Dark Thoughts	true			0			Increases the chance for Shadowy Insight to occur by 25%. When consuming Shadowy Insight, Mind Blast generates 1 additional Insanity.	sweep
+258	Shadow	talent	391228	Maddening Touch	true			0			Vampiric Touch deals 20% additional damage and has a chance to generate 1 Insanity each time it deals damage.	sweep
+258	Shadow	talent	199484	Psychic Link	true			0			Your direct damage spells inflict 25% of their damage on all other targets afflicted by your Vampiric Touch within 40 yards. Does not apply to damage from Shadowy Apparitions, Shadow Word: Pain, and Vampiric Touch.	sweep
+258	Shadow	talent	335467	Shadow Word: Madness	false			0			A word of madness haunts the target's mind, dealing 965 Shadow damage instantly plus an additional 3,415 Shadow damage over 6 sec. Heals you for 30% of damage dealt. When reapplied to a target, all remaining damage is added to the new effect.	sweep
+258	Shadow	talent	238558	Misery	true			0			Vampiric Touch also applies Shadow Word: Pain to the target. Shadow Word: Pain lasts an additional 5 sec.	sweep
+258	Shadow	talent	1279350	Invoked Nightmare	true			0			Shadow Word: Pain deals 150% increased damage.	sweep
+258	Shadow	talent	155271	Auspicious Spirits	true			0			Your Shadowy Apparitions deal 15% increased damage and have a chance to generate 1 Insanity.	sweep
+258	Shadow	talent	391399	Surge of Insanity	true			0			Mind Flay damage increased by 15% and Insanity generation increased by 30%.	sweep
+258	Shadow	talent	375888	Shadowy Insight	true			0			Shadow Word: Pain periodic damage has a chance to cause your next Mind Blast to be instant and ignore its cooldown.	sweep
+258	Shadow	talent	1242666	Descending Darkness	true			0			Increases Tentacle Slam damage by 300%.	sweep
+258	Shadow	talent	1240394	Madness Weaving	true			0			The damage bonus from your Mastery: Shadow Weaving gains 50% additional benefit from Shadow Word: Madness.	sweep
+258	Shadow	talent	1250818	Spiritual Guidance	true			0			Increases your Intellect by 3%.	sweep
+258	Shadow	talent	459559	Phantom Reach	true			0			Increases the range of most spells by 15%.	sweep
+258	Shadow	talent	108942	Phantasm	true			0			Activating Fade removes all snare effects.	sweep
+258	Shadow	talent	108945	Angelic Bulwark	true			0			When an attack brings you below 30% health, you gain an absorption shield equal to 25% of your maximum health for 20 sec. Cannot occur more than once every 90 sec.	sweep
+258	Shadow	talent	415416	Benevolence	true			0			Increases the healing of your spells by 3%.	sweep
+258	Shadow	talent	1249230	Focused Power	true			0			Increases the damage of your spells by 3%.	sweep
+258	Shadow	talent	193063	Protective Light	true			0			Casting Flash Heal on yourself reduces all damage you take by 10% for 10 sec.	sweep
+258	Shadow	talent	368275	Binding Heals	true			0			20% of Flash Heal healing on other targets also heals you.	sweep
+258	Shadow	talent	373450	Light's Inspiration	true			0			Increases the maximum health gained from Desperate Prayer by 10%.	sweep
+258	Shadow	talent	238100	Angel's Mercy	true			0			Reduces the cooldown of Desperate Prayer by 20 sec.	sweep
+258	Shadow	talent	390972	Twist of Fate	true			0			After damaging or healing a target below 35% health, gain 5% increased damage and healing for 8 sec.	sweep
+258	Shadow	talent	373446	Translucent Image	true			0			Fade reduces damage you take by 10%.	sweep
+258	Shadow	talent	390670	Improved Fade	true			0			Reduces the cooldown of Fade by 5 sec.	sweep
+258	Shadow	talent	1250820	Strength of Resolve	true			0			Increases your Stamina by 6%.	sweep
+258	Shadow	talent	1251077	Twin Disciplines	true			0			Increases the damage and healing of your Holy and Shadow spells by 2%.	sweep
+258	Shadow	talent	9484	Shackle Horror	false			0			Shackles an aberration or undead enemy for 50 sec, preventing all actions and movement. Damage will cancel the effect. Limit 1.	sweep
+258	Shadow	talent	390919	Sheer Terror	true			0			Increases the amount of damage required to break your Psychic Scream by 25%.	sweep
+258	Shadow	talent	55676	Petrifying Scream	true			0			Psychic Scream causes enemies to tremble in place instead of fleeing in fear.	sweep
+258	Shadow	talent	390676	Inspiration	true			0			Reduces your target's physical damage taken by 5% for 15 sec after a critical heal with Flash Heal or Penance.	sweep
+258	Shadow	talent	373456	Unwavering Will	true			0			While above 75% health, the cast time of your Flash Heal, Prayer of Healing, and Smite are reduced by 5%.	sweep
+258	Shadow	talent	390620	Move with Grace	true			0			Reduces the cooldown of Leap of Faith by 30 sec.	sweep
+258	Shadow	talent	8122	Psychic Scream	false			40000			Lets out a psychic scream, causing all enemies within 8 yards to flee, disorienting them for 8 sec. Damage may interrupt the effect.	sweep
+258	Shadow	talent	1249233	Everlasting Light	true			0			Surge of Light occurs up to 50% more often based on your missing mana.	sweep
+258	Shadow	talent	121536	Angelic Feather	false		3	0	20000		Places a feather at the target location, granting the first ally to walk through it 40% increased movement speed for 5 sec. Only 3 feathers can be placed at one time.	sweep
+258	Shadow	talent	213634	Purify Disease	false		1	8000	8000		Removes all Disease effects from a friendly target.	sweep
+258	Shadow	talent	196704	Psychic Voice	true			0			Reduces the cooldown of Psychic Scream by 10 sec.	sweep
+258	Shadow	talent	1250691	Void Tendrils	true			0			Call shadowy tendrils to constrict enemies when Psychic Scream ends, rooting them in place for 4 sec.	sweep
+258	Shadow	talent	605	Mind Control	false			0			Controls a mind up to 1 level above yours for 30 sec. Does not work versus Demonic, Undead, or Mechanical beings. Shares diminishing returns with other disorienting effects.	sweep
+258	Shadow	talent	205364	Dominate Mind	false			30000			Controls a mind up to 1 level above yours for 30 sec while still controlling your own mind. Does not work versus Demonic, Mechanical, or Undead beings or players. This spell shares diminishing returns with other disorienting effects.	sweep
+258	Shadow	talent	373223	Tithe Evasion	true			0			Shadow Word: Death deals 50% less damage to you.	sweep
+258	Shadow	talent	32379	Shadow Word: Death	false		1	0	10000		A word of dark binding that inflicts 360 Shadow damage to your target. If your target is not killed by Shadow Word: Death, you take backlash damage equal to 5% of your maximum health. Damage increased by 150% to targets below 20% health.	sweep
+258	Shadow	talent	8092	Mind Blast	false		1	0	9000		Blast the target's mind for 332 Shadow damage. Costs a high amount of mana.	sweep
+258	Shadow	talent	73325	Leap of Faith	false		1	1000	90000		Pulls the spirit of a party or raid member, instantly moving them directly in front of you.	sweep
+258	Shadow	talent	109186	Surge of Light	true			0			Your healing spells and Smite have a 8% chance to make your next Flash Heal instant and cost 50% less mana. Stacks to 2.	sweep
+258	Shadow	talent	393870	Improved Flash Heal	true			0			Increases healing done by Flash Heal by 15%.	sweep
+258	Shadow	talent	132157	Holy Nova	false			0			An explosion of holy light around you deals up to 174 Holy damage to enemies and up to 134 healing to allies within 12 yds, reduced if there are more than 5 targets.	sweep
+258	Shadow	talent	1246549	Lightburst	true			0			Increases the damage of Holy Nova by 400%, its healing by 500%, and its cooldown by 30 sec.	sweep
+258	Shadow	talent	391284	Tormented Spirits	true			0			Your Shadow Word: Pain damage has a chance to create Shadowy Apparitions that float towards all targets afflicted by your Vampiric Touch.  Critical strikes increase the chance by 100%.	sweep
+258	Shadow	talent	1227280	Tentacle Slam	false		2	0	15000		Summons a massive shadowy appendage to slam the ground, dealing 292 Shadow damage in front of you and 8 yds around your target. Applies Vampiric Touch to up to 6 enemies, prioritizing ones without Vampiric Touch. |cFFFFFFFFGenerates 6 Insanity.	sweep
+258	Shadow	hero	451840	Devour Matter	true			0			Shadow Word: Death consumes absorb shields from your target, dealing 1,082 extra damage to them and granting you 1% mana if a shield was present.	sweep
+258	Shadow	hero	450612	Void Infusion	true			0			While Entropic Rift is active, Atonement healing with Void Blast and Penance is 50% more effective.	sweep
+258	Shadow	hero	448278	Inner Quietus	true			0			Power Word: Shield absorbs 20% additional damage.	sweep
+258	Shadow	hero	453845	Resonant Energy	true			0			Allies healed by your Halo receive 2% increased healing from you for 8 sec, stacking up to 5 times.	sweep
+258	Shadow	hero	453917	Perfected Form	true			0			Your damage dealt is increased by 5% while Voidform is active.	sweep
+258	Shadow	hero	449874	Energy Compression	true			0			Halo damage and healing is increased by 30%.	sweep
+258	Shadow	hero	454001	Sustained Potency	true			0			Creating a Halo extends the duration of Voidform by 1 sec. If Voidform is not active, up to 6 seconds is stored. While out of combat or affected by a loss of control effect, the duration of Voidform is paused for up to 20 sec.	sweep
+258	Shadow	hero	1272308	Energy Conservation	true			0			Power Surge lasts an additional 5 sec.	sweep
+258	Shadow	hero	453109	Power Surge	true			0			Casting Halo also causes you to create a Halo around you at 100% effectiveness every 5 sec for 10 sec.	sweep
+258	Shadow	hero	263165	Void Torrent	false			30000			Channel a torrent of void energy into the target, dealing 4,579 Shadow damage over 3 sec and tearing open an |cffffffffEntropic Rift|r. |T5927657:24|t |cffffffffEntropic Rift|r Mind Blast tears open an Entropic Rift that follows the enemy for 8 sec. Enemies caught in its path suffer 255 Shadow damage every 0.8 sec while within its reach. |cFFFFFFFFGenerates 24 Insanity over the duration.|r	sweep
+258	Shadow	hero	453828	Energy Cycle	true			0			Casting Mind Flay: Insanity has a 100% chance to conjure Shadowy Apparitions.	sweep
+258	Shadow	hero	453852	Shock Pulse	true			0			Halo damage reduces enemy movement speed by 5% for 5 sec, stacking up to 5 times.	sweep
+258	Shadow	hero	453918	Incessant Screams	true			0			Psychic Scream creates an image of you at your location. After 4 sec, the image will let out a Psychic Scream.	sweep
+258	Shadow	hero	453799	Empowered Surges	true			0			Your spells affected by Surge of Light heal for 5% more while Surge of Light is active.	sweep
+258	Shadow	hero	1266845	Quickened Pulse	true			0			Shadow Word: Pain and Entropic Rift deal damage 25% more often.	sweep
+258	Shadow	hero	451204	No Escape	true			0			Entropic Rift slows enemies by up to 70%, increased the closer they are to its center.	sweep
+258	Shadow	hero	451018	Dark Energy	true			0			While Entropic Rift is active, you move 20% faster.	sweep
+258	Shadow	hero	448403	Collapsing Void	true			0			Each time Penance damages or heals, Entropic Rift is empowered, increasing its damage and size by 10%. After Entropic Rift ends it collapses, dealing 1,868 Shadow damage split amongst enemy targets within 15 yds.	sweep
+258	Shadow	hero	450138	Void Empowerment	true			0			Summoning an Entropic Rift extends the duration of your 5 shortest Atonements by 1 sec.	sweep
+258	Shadow	hero	449912	Darkening Horizon	true			0			Void Blast increases the duration of Entropic Rift by 1.0 sec, up to a maximum of 3 sec.	sweep
+258	Shadow	hero	451311	Void Leech	true			0			Every 3 sec siphon an amount equal to 4% of your health from an ally within 40 yds if they are higher health than you.	sweep
+258	Shadow	hero	451569	Embrace the Shadow	true			0			You absorb 3% of all magic damage taken. Absorbing Shadow damage heals you for 100% of the amount absorbed.	sweep
+258	Shadow	hero	120644	Halo	false			60000			Creates a ring of Shadow energy around you that quickly expands to a 40 yd radius, healing allies for 684 and dealing 612 Shadow damage to enemies. Healing reduced beyond 6 targets.	sweep
+258	Shadow	hero	453783	Manifested Power	true			0			Creating a Halo grants Surge of Light. |T135981:24|t |cffffffffSurge of Light|r Your healing spells and Smite have a 8% chance to make your next Flash Heal instant and cost 50% less mana. Stacks to 2.	sweep
+258	Shadow	hero	449806	Divine Halo	true			0			Halo now centers around you and returns to you after it reaches its maximum distance, healing allies and damaging enemies each time it passes through them.	sweep
+258	Shadow	hero	450405	Void Blast	true			0			Entropic Rift upgrades Smite into Void Blast while it is active. |cffffffffVoid Blast|r: Sends a blast of cosmic void energy at the enemy, causing 636 Shadow damage.	sweep
+258	Shadow	hero	451234	Voidwraith	true			0			When Entropic Rift ends, a Voidwraith is summoned from the collapsed rift for 5 sec. |T615099:24|t|cffffffffVoidwraith|r Summon a Voidwraith that casts Void Flay from afar. Void Flay deals bonus damage to high health enemies, up to a maximum of 50% if they are full health. |cFFFFFFFFGenerates 0.5% Mana each time the Voidwraith attacks.|r	sweep
+258	Shadow	talent	1240364	Death's Torment	true			0			Shadow Word: Death deals damage 2 additional times at 15% effectiveness.	sweep
+258	Shadow	talent	375994	Mental Decay	true			0			Increases the damage of Mind Flay by 25%.	sweep
+258	Shadow	talent	391090	Shattered Psyche	true			0			Mind Flay damage increases the critical strike chance of Mind Blast by 8%, stacking up to 12 times. Lasts 10 sec.	sweep
+258	Shadow	talent	391099	Dark Evangelism	true			0			Increases your periodic spell damage by 6%.	sweep
+258	Shadow	talent	407430	Voidtouched	true			0			Increases your Shadow Word: Madness damage by 6% and increases your maximum Insanity by 50.	sweep
+258	Shadow	talent	1242862	Instilled Doubt	true			0			Increases the critical strike chance of Vampiric Touch and Shadow Word: Pain by 8% and their critical strike damage by 20%.	sweep
+258	Shadow	talent	373202	Mind Devourer	true			0			Mind Blast has a 8% chance to make your next Shadow Word: Madness cost no Insanity and deal 20% additional damage.	sweep
+258	Shadow	talent	373466	Twins of the Sun Priestess	true			0			Power Infusion also grants you its effect at 100% value when used on an ally.  If no ally is targeted, it will grant its effect at 100% value to a nearby ally, preferring damage dealers.	sweep
+258	Shadow	talent	1250806	False Autonomy	true			0			Increases the duration of Mind Control and Dominate Mind against enemy creatures by 15 sec.	sweep
+258	Shadow	talent	1251030	Painful Invocation	true			0			Increases the damage of Shadow Word: Pain by 10%.	sweep
+258	Shadow	talent	528	Dispel Magic	false			0			Dispels Magic on the enemy target, removing 1 beneficial Magic effect.	sweep
+258	Shadow	talent	390667	Spell Warding	true			0			Reduces all magic damage taken by 3%.	sweep
+258	Shadow	talent	1251029	Mindpierce	true			0			Increases the damage of Smite by 15%.	sweep
+258	Shadow	talent	19236	Desperate Prayer	false			90000			Increases maximum health by 25% for 10 sec, and instantly heals you for that amount.	sweep
+258	Shadow	talent	1250378	Spectral Illusion	true			0			Fade creates an illusion of you for 4 sec, tricking enemies to attack it instead.	sweep
+258	Shadow	talent	586	Fade	false			30000			Fade out, removing all your threat and reducing enemies' detection range against you for 10 sec.	sweep
+258	Shadow	talent	288733	Intangibility	true			0			Dispersion heals you for an additional 25% of your maximum health over its duration and its cooldown is reduced by 30 sec.	sweep
+258	Shadow	talent	377065	Mental Fortitude	true			0			Healing from Vampiric Touch and Shadow Word: Madness when you are at maximum health will shield you for the same amount. The shield cannot exceed 10% of your maximum health.	sweep
+258	Shadow	talent	34433	Shadowfiend	true			0			Shadow Word: Death has a 40% chance to summon a Shadowfiend for 5 sec when damaging targets below 20% health. |T136199:24|t |cffffffffShadowfiend|r Summons a Shadowfiend to attack your target for 5 sec. |cFFFFFFFFGenerates 0.5% mana each time the Shadowfiend attacks.|r	sweep
+258	Shadow	talent	341167	Mental Agility	true			0			Reduces the mana cost of Purify and Mass Dispel by 50% and Dispel Magic by 10%. 	sweep
+258	Shadow	talent	1250835	Dark Enlightenment	true			0			Increases your haste by 3%.	sweep
+258	Shadow	talent	373218	Sanguine Teachings	true			0			Increases your Leech by 2%.	sweep
+258	Shadow	hero	1272326	Realized Potential	true			0			Shadow Word: Death damage increased by 25% and its cooldown is reduced by 3 sec.	sweep
+258	Shadow	hero	1247178	Spiritwell	true			0			Increases Shadowy Apparition damage by 10%.	sweep
+258	Shadow	hero	453726	Word of Supremacy	true			0			Power Word: Fortitude grants you an additional 5% stamina.	sweep
+258	Shadow	hero	453729	Heightened Alteration	true			0			Increases the duration of Dispersion by 2 sec.	sweep
+258	Shadow	hero	1272320	Focused Outburst	true			0			Void Volley damage increased by 15% and its cooldown is reduced by 4 sec.	sweep
+258	Shadow	hero	1266883	Overwhelming Shadows	true			0			Mind Blast deals 100% increased damage.	sweep
+258	Shadow	hero	1266856	Touch of the Void	true			0			Voidheart now persists for 8 sec after Entropic Rift ends.	sweep
+258	Shadow	hero	449880	Voidheart	true			0			While Entropic Rift is active, your Atonement healing is increased by 20%.	sweep
+258	Shadow	talent	32375	Mass Dispel	false			120000			Dispels magic in a 15 yard radius, removing all harmful Magic from 5 friendly targets and 1 beneficial Magic effect from 5 enemy targets. Potent enough to remove Magic that is normally undispellable.	sweep
+258	Shadow	talent	64129	Body and Soul	true			0			Power Word: Shield and Leap of Faith increase your target's movement speed by 40% for 3 sec.	sweep
+258	Shadow	talent	1264096	Void Apparitions	true			0			When an effect from an Idol is activated, conjure Shadowy Apparitions.	sweep
+258	Shadow	talent	1264104	Void Apparitions	true			0			Shadowy Apparitions have a 15% chance to spawn as Void Apparitions that release a |cffffffffVoid Bolt|r at their target and deal 50% increased damage. |T1035040:24|t |cffffffffVoid Bolt|r Sends a bolt of pure void energy at your target, dealing 636 Shadow damage.	sweep
+258	Shadow	talent	1264107	Void Apparitions	true			0			Tentacle Slam has a 100% chance to activate an effect from one of your Idols. |T627685:24|t |cffffffffIdol of Y'Shaarj|r Summons a Shadowfiend. |T3004126:24|t |cffffffffIdol of N'Zoth|r Your target witnesses a nightmare or vision of N'Zoth. |T298654:24|t |cffffffffIdol of Yogg-Saron|r Summons a Thing From Beyond. |T236407:24|t |cffffffffIdol of C'Thun|r Summons a Void Tendril or Void Lasher.	sweep
+256	Discipline	talent	10060	Power Infusion	false			120000			Infuses the target with power for 15 sec, increasing haste by 20%. Can only be cast on players.	sweep
+256	Discipline	talent	421453	Ultimate Penitence	false			240000			Ascend into the air and unleash a massive barrage of Penance bolts, causing 19,368 Holy damage to enemies or 45,407 healing to allies over 5.1 sec. While ascended, gain a shield for 100% of your health. In addition, you are unaffected by knockbacks or crowd control effects.	sweep
+256	Discipline	talent	62618	Power Word: Barrier	false			180000			Summons a holy barrier to protect all allies at the target location for 10 sec, reducing all damage taken by 20% and preventing damage from delaying spellcasting.	sweep
+256	Discipline	talent	1250218	Purge the Wicked	true			0			Holy damage increased by 10%.	sweep
+256	Discipline	talent	1252215	Shadow Mend	true			0			Shadow Word: Pain damage has a chance to upgrade your next |cffffffffFlash Heal|r to |cffffffffShadow Mend|r. Stacks up to 2 charges. |T136202:24|t |cffffffffShadow Mend|r: Wraps an ally in shadows which heal for 7,570, but at a price. The ally will take 379 damage every 1 sec, until they have taken 3,785 total damage from all sources, or leave combat.	sweep
+256	Discipline	talent	215768	Blaze of Light	true			0			The damage of Smite and Penance is increased by 8%, and Penance increases or decreases your target's movement speed by 25% for 2 sec.	sweep
+256	Discipline	talent	1253724	Greater Smite	true			0			Casting Smite increases the damage of Smite by 15%, stacking 2 times. Lasts 2 sec.	sweep
+256	Discipline	talent	34433	Shadowfiend	true			0			Shadow Word: Death has a 40% chance to summon a Shadowfiend for 5 sec when damaging targets below 20% health. |T136199:24|t |cffffffffShadowfiend|r Summons a Shadowfiend to attack your target for 5 sec. |cFFFFFFFFGenerates 0.5% mana each time the Shadowfiend attacks.|r	sweep
+256	Discipline	talent	197862	Archangel	true			0			Evangelism increases your healing and absorption effects by 15% for 18 sec.	sweep
+256	Discipline	talent	1280137	Mindbender	true			0			Evangelism summons a Mindbender to attack a nearby target for 12 sec. |cFFFFFFFFGenerates 0.2% Mana each time the Mindbender attacks.|r	sweep
+256	Discipline	talent	390691	Borrowed Time	true			0			Casting Power Word: Shield increases your Haste by 5% for 4 sec.	sweep
+256	Discipline	talent	390786	Weal and Woe	true			0			Your Penance bolts increase the absorb of your next Power Word: Shield by 3%. Stacks up to 10 times.	sweep
+256	Discipline	talent	193134	Castigation	true			0			Penance fires one additional bolt of holy light over its duration.	sweep
+256	Discipline	talent	373049	Indemnity	true			0			Atonements granted by Power Word: Shield last an additional 4 sec.	sweep
+256	Discipline	talent	472433	Evangelism	false			90000			Immediately Power Word: Radiance your target at 150% effectiveness, and causes your next 2 casts of Power Word: Radiance to be instant cast with 40% reduced mana cost.	sweep
+256	Discipline	talent	390689	Pain and Suffering	true			0			Increases the damage of Shadow Word: Pain by 8% and increases its duration by 2 sec.	sweep
+256	Discipline	talent	472568	Encroaching Shadows	true			0			Shadow Word: Pain Spreads to a nearby enemy when you cast Penance on the target.	sweep
+256	Discipline	talent	373003	Revel in Darkness	true			0			Shadow Word: Pain deals 5% additional damage and spreads to 1 additional target when you cast Penance to its target.	sweep
+256	Discipline	talent	1235211	Shadow Tap	true			0			Mind Blast deals 150% increased damage, but costs 40% more mana.	sweep
+256	Discipline	talent	1250293	Occultist	true			0			Shadow damage and healing done increased by 15%.	sweep
+256	Discipline	talent	373054	Abyssal Reverie	true			0			Atonement heals for 10% more when activated by Shadow spells.	sweep
+256	Discipline	talent	390832	Expiation	true			0			Mind Blast and Shadow Word: Death consume 1 sec of Shadow Word: Pain, dealing damage equal to 300% of the amount consumed.	sweep
+256	Discipline	talent	1280131	Searing Light	true			0			Your Penance bolts sear the enemy, dealing 20% of its damage over 8 sec.	sweep
+256	Discipline	talent	33206	Pain Suppression	false		1	1500	180000		Reduces all damage taken by a friendly target by 40% for 8 sec. Castable while stunned.	sweep
+256	Discipline	talent	372991	Pain Transformation	true			0			Pain Suppression also heals your target for 15% of their maximum health and applies Atonement.	sweep
+256	Discipline	talent	373035	Protector of the Frail	true			0			Pain Suppression gains an additional charge. Power Word: Shield reduces the cooldown of Pain Suppression by 3 sec.	sweep
+256	Discipline	talent	197045	Shield Discipline	true			0			When your Power Word: Shield is completely absorbed, you restore 0.5% of your maximum mana.	sweep
+256	Discipline	talent	372969	Holy Ray	true			0			Each successive Penance bolt during a channel deals 5% increased damage and healing.	sweep
+256	Discipline	talent	390684	Bright Pupil	true			0			Reduces the cooldown of Power Word: Radiance by 3 sec.	sweep
+256	Discipline	talent	390685	Enduring Luminescence	true			0			Reduces the cast time of Power Word: Radiance by 30% and causes it to apply Atonement at an additional 10% of its normal duration.	sweep
+256	Discipline	talent	322115	Light's Promise	true			0			Power Word: Radiance gains an additional charge.	sweep
+256	Discipline	talent	194509	Power Word: Radiance	false		1	0	18000		A burst of light heals the target and 4 injured allies within 40 yards for 2,443, and applies Atonement for 60% of its normal duration.	sweep
+256	Discipline	talent	81749	Atonement	true			0			Power Word: Shield, Flash Heal, Plea, Penance, and Power Word: Radiance apply Atonement to your target for 15 sec. Your spell damage heals all targets affected by Atonement for 30% of the damage done. Healing is reduced when healing more than 5 targets.	sweep
+256	Discipline	talent	198068	Power of the Dark Side	true			0			Shadow Word: Pain has a chance to empower your next Penance with Shadow, increasing its effectiveness by 30%.	sweep
+256	Discipline	talent	372972	Dark Indulgence	true			0			Mind Blast has a 100% chance to grant Power of the Dark Side and deals 20% additional damage.	sweep
+256	Discipline	talent	390686	Painful Punishment	true			0			Each Penance bolt extends the duration of Shadow Word: Pain on enemies hit by 1.5 sec.	sweep
+256	Discipline	talent	238063	Lenience	true			0			Atonement reduces damage taken by 2%.	sweep
+256	Discipline	talent	472361	Divine Procession	true			0			Smite extends the duration of an active Atonement by 2.0 sec.	sweep
+256	Discipline	talent	373180	Harsh Discipline	true			0			Power Word: Radiance causes your next Penance to fire 3 additional bolts, stacking up to 2 charges.	sweep
+256	Discipline	talent	390693	Inner Focus	true			0			Flash Heal, Power Word: Shield, Penance, and Power Word: Radiance have a 20% increased chance to critically heal.	sweep
+256	Discipline	talent	47515	Divine Aegis	true			0			Direct critical heals create a protective shield on the target, absorbing 30% of the amount healed. Lasts 15 sec.	sweep
+256	Discipline	talent	1250818	Spiritual Guidance	true			0			Increases your Intellect by 3%.	sweep
+256	Discipline	talent	459559	Phantom Reach	true			0			Increases the range of most spells by 15%.	sweep
+256	Discipline	talent	108942	Phantasm	true			0			Activating Fade removes all snare effects.	sweep
+256	Discipline	talent	108945	Angelic Bulwark	true			0			When an attack brings you below 30% health, you gain an absorption shield equal to 25% of your maximum health for 20 sec. Cannot occur more than once every 90 sec.	sweep
+256	Discipline	talent	415416	Benevolence	true			0			Increases the healing of your spells by 3%.	sweep
+256	Discipline	talent	1249230	Focused Power	true			0			Increases the damage of your spells by 3%.	sweep
+256	Discipline	talent	193063	Protective Light	true			0			Casting Flash Heal on yourself reduces all damage you take by 10% for 10 sec.	sweep
+256	Discipline	talent	368275	Binding Heals	true			0			20% of Flash Heal healing on other targets also heals you.	sweep
+256	Discipline	talent	373450	Light's Inspiration	true			0			Increases the maximum health gained from Desperate Prayer by 10%.	sweep
+256	Discipline	talent	238100	Angel's Mercy	true			0			Reduces the cooldown of Desperate Prayer by 20 sec.	sweep
+256	Discipline	talent	390972	Twist of Fate	true			0			After damaging or healing a target below 35% health, gain 5% increased damage and healing for 8 sec.	sweep
+256	Discipline	talent	373446	Translucent Image	true			0			Fade reduces damage you take by 10%.	sweep
+256	Discipline	talent	390670	Improved Fade	true			0			Reduces the cooldown of Fade by 5 sec.	sweep
+256	Discipline	talent	1250820	Strength of Resolve	true			0			Increases your Stamina by 6%.	sweep
+256	Discipline	talent	1251077	Twin Disciplines	true			0			Increases the damage and healing of your Holy and Shadow spells by 2%.	sweep
+256	Discipline	talent	9484	Shackle Horror	false			0			Shackles an aberration or undead enemy for 50 sec, preventing all actions and movement. Damage will cancel the effect. Limit 1.	sweep
+256	Discipline	talent	390919	Sheer Terror	true			0			Increases the amount of damage required to break your Psychic Scream by 25%.	sweep
+256	Discipline	talent	55676	Petrifying Scream	true			0			Psychic Scream causes enemies to tremble in place instead of fleeing in fear.	sweep
+256	Discipline	talent	390676	Inspiration	true			0			Reduces your target's physical damage taken by 5% for 15 sec after a critical heal with Flash Heal or Penance.	sweep
+256	Discipline	talent	373456	Unwavering Will	true			0			While above 75% health, the cast time of your Flash Heal, Prayer of Healing, and Smite are reduced by 5%.	sweep
+256	Discipline	talent	390620	Move with Grace	true			0			Reduces the cooldown of Leap of Faith by 30 sec.	sweep
+256	Discipline	talent	8122	Psychic Scream	false			40000			Lets out a psychic scream, causing all enemies within 8 yards to flee, disorienting them for 8 sec. Damage may interrupt the effect.	sweep
+256	Discipline	talent	1249233	Everlasting Light	true			0			Surge of Light occurs up to 50% more often based on your missing mana.	sweep
+256	Discipline	talent	121536	Angelic Feather	false		3	0	20000		Places a feather at the target location, granting the first ally to walk through it 40% increased movement speed for 5 sec. Only 3 feathers can be placed at one time.	sweep
+256	Discipline	talent	390632	Improved Purify	true			0			Purify additionally removes all Disease effects.	sweep
+256	Discipline	talent	196704	Psychic Voice	true			0			Reduces the cooldown of Psychic Scream by 10 sec.	sweep
+256	Discipline	talent	1250691	Void Tendrils	true			0			Call shadowy tendrils to constrict enemies when Psychic Scream ends, rooting them in place for 4 sec.	sweep
+256	Discipline	talent	605	Mind Control	false			0			Controls a mind up to 1 level above yours for 30 sec. Does not work versus Demonic, Undead, or Mechanical beings. Shares diminishing returns with other disorienting effects.	sweep
+256	Discipline	talent	205364	Dominate Mind	false			30000			Controls a mind up to 1 level above yours for 30 sec while still controlling your own mind. Does not work versus Demonic, Mechanical, or Undead beings or players. This spell shares diminishing returns with other disorienting effects.	sweep
+256	Discipline	talent	373223	Tithe Evasion	true			0			Shadow Word: Death deals 50% less damage to you.	sweep
+256	Discipline	talent	32379	Shadow Word: Death	false		1	0	10000		A word of dark binding that inflicts 360 Shadow damage to your target. If your target is not killed by Shadow Word: Death, you take backlash damage equal to 5% of your maximum health. Damage increased by 150% to targets below 20% health.	sweep
+256	Discipline	talent	8092	Mind Blast	false		1	0	9000		Blast the target's mind for 332 Shadow damage. Costs a high amount of mana.	sweep
+256	Discipline	talent	73325	Leap of Faith	false		1	1000	90000		Pulls the spirit of a party or raid member, instantly moving them directly in front of you.	sweep
+256	Discipline	talent	109186	Surge of Light	true			0			Your healing spells and Smite have a 8% chance to make your next Flash Heal instant and cost 50% less mana. Stacks to 2.	sweep
+256	Discipline	talent	393870	Improved Flash Heal	true			0			Increases healing done by Flash Heal by 15%.	sweep
+256	Discipline	talent	132157	Holy Nova	false			0			An explosion of holy light around you deals up to 174 Holy damage to enemies and up to 134 healing to allies within 12 yds, reduced if there are more than 5 targets.	sweep
+256	Discipline	talent	1246549	Lightburst	true			0			Increases the damage of Holy Nova by 400%, its healing by 500%, and its cooldown by 30 sec.	sweep
+256	Discipline	talent	238135	Eternal Barrier	true			0			Power Word: Shield absorbs 20% additional damage and lasts 5 sec longer.	sweep
+256	Discipline	talent	231682	Sanctuary	true			0			Smite prevents the next 764 damage dealt by the enemy.	sweep
+256	Discipline	hero	451840	Devour Matter	true			0			Shadow Word: Death consumes absorb shields from your target, dealing 1,082 extra damage to them and granting you 1% mana if a shield was present.	sweep
+256	Discipline	hero	450612	Void Infusion	true			0			While Entropic Rift is active, Atonement healing with Void Blast and Penance is 50% more effective.	sweep
+256	Discipline	hero	448278	Inner Quietus	true			0			Power Word: Shield absorbs 20% additional damage.	sweep
+256	Discipline	hero	1246799	Prompt Prognosis	true			0			Casting Prayer of Mending heals your target for 3,995.	sweep
+256	Discipline	hero	440671	Preemptive Care	true			0			Increases the duration of your Renew by 40%. 	sweep
+256	Discipline	hero	440670	Divine Feathers	true			0			Your Angelic Feathers increase movement speed by an additional 10%. When an ally walks through your Angelic Feather, you are also granted 100% of its effect. 	sweep
+256	Discipline	hero	440669	Save the Day	true			0			For 6 sec after casting Leap of Faith you may cast it a second time for free, ignoring its cooldown.	sweep
+256	Discipline	hero	440681	Waste No Time	true			0			Reduces the cooldown of Prayer of Mending by 1.5 sec.	sweep
+256	Discipline	hero	1248423	Guiding Light	true			0			Prayer of Mending gains an additional charge. 	sweep
+256	Discipline	hero	440742	Twinsight	true			0			3 additional Penance bolts are fired at an enemy within 40 yards when healing an ally with Penance, or fired at an ally within 40 yards when damaging an enemy with Penance.	sweep
+256	Discipline	hero	440738	Foreseen Circumstances	true			0			Guardian Spirit lasts an additional 2 sec.	sweep
+256	Discipline	hero	433905	Prophet's Will	true			0			Your Flash Heal and Holy Word: Serenity are 30% more effective when cast on yourself.	sweep
+256	Discipline	hero	458718	Desperate Measures	true			0			Desperate Prayer lasts an additional 10 sec. Angelic Bulwark's absorption effect is increased by 15% of your maximum health.	sweep
+256	Discipline	hero	440766	Assured Safety	true			0			Casting Prayer of Mending applies Power Word: Shield to your target. |T135940:24|t |cffffffffPower Word: Shield|r Shields an ally for 15 sec, absorbing 1,971 damage.	sweep
+256	Discipline	hero	1266845	Quickened Pulse	true			0			Shadow Word: Pain and Entropic Rift deal damage 25% more often.	sweep
+256	Discipline	hero	451204	No Escape	true			0			Entropic Rift slows enemies by up to 70%, increased the closer they are to its center.	sweep
+256	Discipline	hero	451018	Dark Energy	true			0			While Entropic Rift is active, you move 20% faster.	sweep
+256	Discipline	hero	448403	Collapsing Void	true			0			Each time Penance damages or heals, Entropic Rift is empowered, increasing its damage and size by 10%. After Entropic Rift ends it collapses, dealing 1,868 Shadow damage split amongst enemy targets within 15 yds.	sweep
+256	Discipline	hero	450138	Void Empowerment	true			0			Summoning an Entropic Rift extends the duration of your 5 shortest Atonements by 1 sec.	sweep
+256	Discipline	hero	449912	Darkening Horizon	true			0			Void Blast increases the duration of Entropic Rift by 1.0 sec, up to a maximum of 3 sec.	sweep
+256	Discipline	hero	451311	Void Leech	true			0			Every 3 sec siphon an amount equal to 4% of your health from an ally within 40 yds if they are higher health than you.	sweep
+256	Discipline	hero	451569	Embrace the Shadow	true			0			You absorb 3% of all magic damage taken. Absorbing Shadow damage heals you for 100% of the amount absorbed.	sweep
+256	Discipline	hero	440662	Preventive Measures	true			0			Increases the healing done by Prayer of Mending by 15%. All damage dealt by Smite, Holy Fire and Holy Nova increased by 40%. 	sweep
+256	Discipline	hero	1246802	Piety	true			0			20% of overhealing done is redistributed to up to 4 nearby injured allies.	sweep
+256	Discipline	hero	450405	Void Blast	true			0			Entropic Rift upgrades Smite into Void Blast while it is active. |cffffffffVoid Blast|r: Sends a blast of cosmic void energy at the enemy, causing 636 Shadow damage.	sweep
+256	Discipline	hero	451234	Voidwraith	true			0			When Entropic Rift ends, a Voidwraith is summoned from the collapsed rift for 5 sec. |T615099:24|t|cffffffffVoidwraith|r Summon a Voidwraith that casts Void Flay from afar. Void Flay deals bonus damage to high health enemies, up to a maximum of 50% if they are full health. |cFFFFFFFFGenerates 0.5% Mana each time the Voidwraith attacks.|r	sweep
+256	Discipline	talent	373466	Twins of the Sun Priestess	true			0			Power Infusion also grants you its effect at 100% value when used on an ally.  If no ally is targeted, it will grant its effect at 100% value to a nearby ally, preferring damage dealers.	sweep
+256	Discipline	talent	1250806	False Autonomy	true			0			Increases the duration of Mind Control and Dominate Mind against enemy creatures by 15 sec.	sweep
+256	Discipline	talent	1251030	Painful Invocation	true			0			Increases the damage of Shadow Word: Pain by 10%.	sweep
+256	Discipline	talent	528	Dispel Magic	false			0			Dispels Magic on the enemy target, removing 1 beneficial Magic effect.	sweep
+256	Discipline	talent	390667	Spell Warding	true			0			Reduces all magic damage taken by 3%.	sweep
+256	Discipline	talent	1251029	Mindpierce	true			0			Increases the damage of Smite by 15%.	sweep
+256	Discipline	talent	19236	Desperate Prayer	false			90000			Increases maximum health by 25% for 10 sec, and instantly heals you for that amount.	sweep
+256	Discipline	talent	1250378	Spectral Illusion	true			0			Fade creates an illusion of you for 4 sec, tricking enemies to attack it instead.	sweep
+256	Discipline	talent	586	Fade	false			30000			Fade out, removing all your threat and reducing enemies' detection range against you for 10 sec.	sweep
+256	Discipline	talent	341167	Mental Agility	true			0			Reduces the mana cost of Purify and Mass Dispel by 50% and Dispel Magic by 10%. 	sweep
+256	Discipline	talent	1250835	Dark Enlightenment	true			0			Increases your haste by 3%.	sweep
+256	Discipline	talent	373218	Sanguine Teachings	true			0			Increases your Leech by 2%.	sweep
+256	Discipline	hero	1266883	Overwhelming Shadows	true			0			Mind Blast deals 100% increased damage.	sweep
+256	Discipline	hero	1266856	Touch of the Void	true			0			Voidheart now persists for 8 sec after Entropic Rift ends.	sweep
+256	Discipline	hero	449880	Voidheart	true			0			While Entropic Rift is active, your Atonement healing is increased by 20%.	sweep
+256	Discipline	hero	1272363	Unfolding Vision	true			0			 When Power Word: Shield or Void Shield expires with absorption remaining, it jumps to a nearby injured ally and loses 40% of its maximum absorb instead. 	sweep
+256	Discipline	hero	1272352	Words of the Wise	true			0			Flash Heal, Plea, and Power Word: Radiance healing increased by 15%. 	sweep
+256	Discipline	hero	1272359	Prophet's Insight	true			0			Atonement healing from Holy spells is increased by 15%. 	sweep
+256	Discipline	talent	32375	Mass Dispel	false			120000			Dispels magic in a 15 yard radius, removing all harmful Magic from 5 friendly targets and 1 beneficial Magic effect from 5 enemy targets. Potent enough to remove Magic that is normally undispellable.	sweep
+256	Discipline	talent	64129	Body and Soul	true			0			Power Word: Shield and Leap of Faith increase your target's movement speed by 40% for 3 sec.	sweep
+256	Discipline	hero	447444	Entropic Rift	true			0			Mind Blast tears open an Entropic Rift that follows the enemy for 8 sec. Enemies caught in its path suffer 255 Shadow damage every 0.8 sec while within its reach.	sweep
+256	Discipline	talent	1240364	Death's Torment	true			0			Shadow Word: Death deals damage 2 additional times at 15% effectiveness.	sweep
+256	Discipline	talent	373427	Inescapable Torment	true			0			Mind Blast and Shadow Word: Death cause your Shadowfiend, Mindbender, and Voidwraith to teleport behind your target, slashing up to 5 nearby enemies for 357 Shadow damage and extending their durations by 0.7 sec.	sweep
+256	Discipline	talent	1253590	Master the Darkness	true			0			Penance has a high chance to upgrade Power Word: Shield into |cffffffffVoid Shield|r. |T7514191:24|t |cffffffffVoid Shield|r: Shields 3 allies for 15 sec, absorbing 2,975 damage. 	sweep
+256	Discipline	talent	1253845	Master the Darkness	true			0			Shadow damage and Atonement healing increased by 3%.	sweep
+256	Discipline	talent	1253827	Master the Darkness	true			0			Void Shield reflects 25% of damage taken to enemies, causing Atonement healing.	sweep
+257	Holy	talent	392988	Divine Image	true			0			Your Holy Words summon an image of a Naaru at your side. For 9 sec, whenever you cast a healing or damaging spell, the Naaru will cast a similar spell. If an image has already been summoned, that image is empowered instead.	sweep
+257	Holy	talent	10060	Power Infusion	false			120000			Infuses the target with power for 15 sec, increasing haste by 20%. Can only be cast on players.	sweep
+257	Holy	talent	390992	Lightweaver	true			0			Flash Heal reduces the cast time of your next Prayer of Healing within 20 sec by 30% and increases its healing done by 18%. Can accumulate up to 4 charges.	sweep
+257	Holy	talent	1215265	Dispersing Light	true			0			5% of healing done with Flash Heal is replicated to 4 injured allies within 40 yards.	sweep
+257	Holy	talent	200128	Trail of Light	true			0			25% of healing done by Flash Heal is replicated to the previous target you healed with those spells.	sweep
+257	Holy	talent	1250684	Radiant Plea	true			0			Increases Prayer of Mending healing by 15%.	sweep
+257	Holy	talent	372307	Burning Vehemence	true			0			Increases the damage of Holy Fire by 30%. Holy Fire deals 75% of its initial damage to all nearby enemies within 12 yards of your target. Damage reduced beyond 5 targets.	sweep
+257	Holy	talent	414553	Epiphany	true			0			Your Holy Words have a 25% chance to cause your next cast of Prayer of Mending to ignore its cooldown. 	sweep
+257	Holy	talent	391381	Desperate Times	true			0			Increases healing by 10% on friendly targets at or below 50% health.	sweep
+257	Holy	talent	235587	Miracle Worker	true			0			Holy Word: Serenity and Holy Word: Sanctify gain an additional charge.	sweep
+257	Holy	talent	390967	Prismatic Echoes	true			0			Increases the healing done by your Mastery: Echo of Light by 5% and your Renew by 13%.	sweep
+257	Holy	talent	1215275	Holy Celerity	true			0			Reduces the cooldown of your Holy Words by 15 sec.	sweep
+257	Holy	talent	419110	Seraphic Crescendo	true			0			Reduces the cooldown of Divine Hymn by 60 sec.	sweep
+257	Holy	talent	372370	Gales of Song	true			0			While channeling Divine Hymn, place 2 stacks of Prayer of Mending on up to 3 allies within its range every 0.8 sec.	sweep
+257	Holy	talent	200183	Apotheosis	false			120000			Reset the cooldown of your Holy Words, and enter a pure Holy form for 20 sec, increasing the cooldown reductions to your Holy Words by 200% and reducing their cost by 50%.	sweep
+257	Holy	talent	391186	Say Your Prayers	true			0			Prayer of Mending has a 15% chance to not consume a charge when it jumps to a new target.	sweep
+257	Holy	talent	390977	Prayers of the Virtuous	true			0			Prayer of Mending jumps 2 additional times.	sweep
+257	Holy	talent	391233	Divine Service	true			0			Prayer of Mending heals 4% more for each bounce remaining.	sweep
+257	Holy	talent	193155	Enlightenment	true			0			You regenerate mana 10% faster.	sweep
+257	Holy	talent	200199	Censure	true			0			Holy Word: Chastise stuns the target for 4 sec and is not broken by damage.	sweep
+257	Holy	talent	390994	Voice of Harmony	true			0			Prayer of Mending reduces the cooldown of Holy Word: Serenity by 4 sec. Holy Fire reduces the cooldown of Holy Word: Chastise by 4 sec.	sweep
+257	Holy	talent	64843	Divine Hymn	false			180000			Heals all party or raid members within 40 yards for 11,918 over 4.2 sec. Each heal increases all targets' healing taken by 4% for 15 sec, stacking. Healing reduced beyond 5 targets.	sweep
+257	Holy	talent	1250562	Uplifting Words	true			0			Increases the critical strike chance of your Holy Word: Serenity and Holy Word: Sanctify by 10%.	sweep
+257	Holy	talent	1247131	Efficient Prayers	true			0			Reduces the mana cost of Prayer of Healing by 15%.	sweep
+257	Holy	talent	1250565	Angelic Touch	true			0			Your healing spells critically strike for 220% of healing done instead of the usual 200%.	sweep
+257	Holy	talent	390954	Crisis Management	true			0			Increases the critical strike chance of Flash Heal and Prayer of Healing by 15%.	sweep
+257	Holy	talent	196985	Light of the Naaru	true			0			The cooldowns of your Holy Words are reduced by an additional 10% when you cast the relevant spells.	sweep
+257	Holy	talent	238136	Cosmic Ripple	true			0			When Holy Word: Serenity or Holy Word: Sanctify finish their cooldown, you emit a burst of light that heals up to 5 injured targets within 40 yards for 521.	sweep
+257	Holy	talent	34861	Holy Word: Sanctify	false		1	0	60000		Releases miraculous light at a target location, healing up to 5 allies within 10 yds for 2,555. |cFFFFFFFFCooldown reduced by 6 sec when you cast Prayer of Healing.|r	sweep
+257	Holy	talent	596	Prayer of Healing	false			0			A powerful prayer that heals your target and 4 injured allies within 40 yards for 2,460.	sweep
+257	Holy	talent	391209	Prayerful Litany	true			0			The primary target of Prayer of Healing is healed for 125% more.	sweep
+257	Holy	talent	1247166	Healing Focus	true			0			Reduces the mana cost of Flash Heal by 15%.	sweep
+257	Holy	talent	196707	Afterlife	true			0			Increases the duration of Spirit of Redemption by 50% and the range of its spells by 50%.	sweep
+257	Holy	talent	391124	Restitution	true			0			After Spirit of Redemption expires, you will revive at up to 100% health, based on your healing done during Spirit of Redemption. After reviving, you cannot benefit from Spirit of Redemption for 10 min.	sweep
+257	Holy	talent	200209	Guardian Angel	true			0			When Guardian Spirit saves the target from death, it does not expire. When Guardian Spirit expires without saving the target from death, reduce its remaining cooldown to 60 seconds.	sweep
+257	Holy	talent	47788	Guardian Spirit	false			180000			Calls upon a guardian spirit to watch over the friendly target for 10 sec, increasing healing received by 60%. If the target would die, the Spirit sacrifices itself and restores the target to 40% health. Castable while stunned. Cannot save the target from massive damage.	sweep
+257	Holy	talent	2050	Holy Word: Serenity	false		1	0	60000		Perform a miracle, healing an ally for 9,116. |cFFFFFFFFCooldown reduced by 6 sec when you cast Flash Heal.|r	sweep
+257	Holy	talent	88625	Holy Word: Chastise	false			60000			Chastises the target for 1,637 Holy damage and incapacitates them for 4 sec.	sweep
+257	Holy	talent	372616	Empyreal Blaze	true			0			Holy Word: Chastise causes your next 2 casts of Holy Fire to be instant, cost no mana, and incur no cooldown. Refreshing Holy Fire on a target now extends its duration by 7 sec.	sweep
+257	Holy	talent	193157	Light's Resurgence	true			0			Your Prayer of Mending has a 12% chance to leave a Renew on each target it heals. |T135953:24|t |cffffffffRenew|r Fill the target with faith in the light, healing for 1,785 over 15 sec.	sweep
+257	Holy	talent	341997	Renewed Faith	true			0			Your healing on allies with your Renew is increased by 10%.	sweep
+257	Holy	talent	1250818	Spiritual Guidance	true			0			Increases your Intellect by 3%.	sweep
+257	Holy	talent	459559	Phantom Reach	true			0			Increases the range of most spells by 15%.	sweep
+257	Holy	talent	108942	Phantasm	true			0			Activating Fade removes all snare effects.	sweep
+257	Holy	talent	108945	Angelic Bulwark	true			0			When an attack brings you below 30% health, you gain an absorption shield equal to 25% of your maximum health for 20 sec. Cannot occur more than once every 90 sec.	sweep
+257	Holy	talent	415416	Benevolence	true			0			Increases the healing of your spells by 3%.	sweep
+257	Holy	talent	1249230	Focused Power	true			0			Increases the damage of your spells by 3%.	sweep
+257	Holy	talent	193063	Protective Light	true			0			Casting Flash Heal on yourself reduces all damage you take by 10% for 10 sec.	sweep
+257	Holy	talent	368275	Binding Heals	true			0			20% of Flash Heal healing on other targets also heals you.	sweep
+257	Holy	talent	373450	Light's Inspiration	true			0			Increases the maximum health gained from Desperate Prayer by 10%.	sweep
+257	Holy	talent	238100	Angel's Mercy	true			0			Reduces the cooldown of Desperate Prayer by 20 sec.	sweep
+257	Holy	talent	390972	Twist of Fate	true			0			After damaging or healing a target below 35% health, gain 5% increased damage and healing for 8 sec.	sweep
+257	Holy	talent	373446	Translucent Image	true			0			Fade reduces damage you take by 10%.	sweep
+257	Holy	talent	390670	Improved Fade	true			0			Reduces the cooldown of Fade by 5 sec.	sweep
+257	Holy	talent	1250820	Strength of Resolve	true			0			Increases your Stamina by 6%.	sweep
+257	Holy	talent	1251077	Twin Disciplines	true			0			Increases the damage and healing of your Holy and Shadow spells by 2%.	sweep
+257	Holy	talent	9484	Shackle Horror	false			0			Shackles an aberration or undead enemy for 50 sec, preventing all actions and movement. Damage will cancel the effect. Limit 1.	sweep
+257	Holy	talent	390919	Sheer Terror	true			0			Increases the amount of damage required to break your Psychic Scream by 25%.	sweep
+257	Holy	talent	55676	Petrifying Scream	true			0			Psychic Scream causes enemies to tremble in place instead of fleeing in fear.	sweep
+257	Holy	talent	390676	Inspiration	true			0			Reduces your target's physical damage taken by 5% for 15 sec after a critical heal with Flash Heal or Penance.	sweep
+257	Holy	talent	373456	Unwavering Will	true			0			While above 75% health, the cast time of your Flash Heal, Prayer of Healing, and Smite are reduced by 5%.	sweep
+257	Holy	talent	390620	Move with Grace	true			0			Reduces the cooldown of Leap of Faith by 30 sec.	sweep
+257	Holy	talent	8122	Psychic Scream	false			40000			Lets out a psychic scream, causing all enemies within 8 yards to flee, disorienting them for 8 sec. Damage may interrupt the effect.	sweep
+257	Holy	talent	1249233	Everlasting Light	true			0			Surge of Light occurs up to 50% more often based on your missing mana.	sweep
+257	Holy	talent	121536	Angelic Feather	false		3	0	20000		Places a feather at the target location, granting the first ally to walk through it 40% increased movement speed for 5 sec. Only 3 feathers can be placed at one time.	sweep
+257	Holy	talent	390632	Improved Purify	true			0			Purify additionally removes all Disease effects.	sweep
+257	Holy	talent	196704	Psychic Voice	true			0			Reduces the cooldown of Psychic Scream by 10 sec.	sweep
+257	Holy	talent	1250691	Void Tendrils	true			0			Call shadowy tendrils to constrict enemies when Psychic Scream ends, rooting them in place for 4 sec.	sweep
+257	Holy	talent	605	Mind Control	false			0			Controls a mind up to 1 level above yours for 30 sec. Does not work versus Demonic, Undead, or Mechanical beings. Shares diminishing returns with other disorienting effects.	sweep
+257	Holy	talent	205364	Dominate Mind	false			30000			Controls a mind up to 1 level above yours for 30 sec while still controlling your own mind. Does not work versus Demonic, Mechanical, or Undead beings or players. This spell shares diminishing returns with other disorienting effects.	sweep
+257	Holy	talent	373223	Tithe Evasion	true			0			Shadow Word: Death deals 50% less damage to you.	sweep
+257	Holy	talent	32379	Shadow Word: Death	false		1	0	10000		A word of dark binding that inflicts 360 Shadow damage to your target. If your target is not killed by Shadow Word: Death, you take backlash damage equal to 5% of your maximum health. Damage increased by 150% to targets below 20% health.	sweep
+257	Holy	talent	73325	Leap of Faith	false		1	1000	90000		Pulls the spirit of a party or raid member, instantly moving them directly in front of you.	sweep
+257	Holy	talent	109186	Surge of Light	true			0			Your healing spells and Smite have a 8% chance to make your next Flash Heal instant and cost 50% less mana. Stacks to 2.	sweep
+257	Holy	talent	393870	Improved Flash Heal	true			0			Increases healing done by Flash Heal by 15%.	sweep
+257	Holy	talent	132157	Holy Nova	false			0			An explosion of holy light around you deals up to 174 Holy damage to enemies and up to 134 healing to allies within 12 yds, reduced if there are more than 5 targets.	sweep
+257	Holy	talent	1246549	Lightburst	true			0			Increases the damage of Holy Nova by 400%, its healing by 500%, and its cooldown by 30 sec.	sweep
+257	Holy	hero	1246799	Prompt Prognosis	true			0			Casting Prayer of Mending heals your target for 3,995.	sweep
+257	Holy	hero	440671	Preemptive Care	true			0			Increases the duration of your Renew by 40%. 	sweep
+257	Holy	hero	440670	Divine Feathers	true			0			Your Angelic Feathers increase movement speed by an additional 10%. When an ally walks through your Angelic Feather, you are also granted 100% of its effect. 	sweep
+257	Holy	hero	440669	Save the Day	true			0			For 6 sec after casting Leap of Faith you may cast it a second time for free, ignoring its cooldown.	sweep
+257	Holy	hero	453845	Resonant Energy	true			0			Allies healed by your Halo receive 2% increased healing from you for 8 sec, stacking up to 5 times.	sweep
+257	Holy	hero	453917	Perfected Form	true			0			Your damage dealt is increased by 5% while Voidform is active.	sweep
+257	Holy	hero	449874	Energy Compression	true			0			Halo damage and healing is increased by 30%.	sweep
+257	Holy	hero	454001	Sustained Potency	true			0			Creating a Halo extends the duration of Voidform by 1 sec. If Voidform is not active, up to 6 seconds is stored. While out of combat or affected by a loss of control effect, the duration of Voidform is paused for up to 20 sec.	sweep
+257	Holy	hero	440681	Waste No Time	true			0			Reduces the cooldown of Prayer of Mending by 1.5 sec.	sweep
+257	Holy	hero	1272308	Energy Conservation	true			0			Power Surge lasts an additional 5 sec.	sweep
+257	Holy	hero	453109	Power Surge	true			0			Casting Halo also causes you to create a Halo around you at 100% effectiveness every 5 sec for 10 sec.	sweep
+257	Holy	hero	1248423	Guiding Light	true			0			Prayer of Mending gains an additional charge. 	sweep
+257	Holy	hero	453828	Energy Cycle	true			0			Casting Mind Flay: Insanity has a 100% chance to conjure Shadowy Apparitions.	sweep
+257	Holy	hero	453852	Shock Pulse	true			0			Halo damage reduces enemy movement speed by 5% for 5 sec, stacking up to 5 times.	sweep
+257	Holy	hero	453918	Incessant Screams	true			0			Psychic Scream creates an image of you at your location. After 4 sec, the image will let out a Psychic Scream.	sweep
+257	Holy	hero	440742	Twinsight	true			0			3 additional Penance bolts are fired at an enemy within 40 yards when healing an ally with Penance, or fired at an ally within 40 yards when damaging an enemy with Penance.	sweep
+257	Holy	hero	453799	Empowered Surges	true			0			Your spells affected by Surge of Light heal for 5% more while Surge of Light is active.	sweep
+257	Holy	hero	440738	Foreseen Circumstances	true			0			Guardian Spirit lasts an additional 2 sec.	sweep
+257	Holy	hero	433905	Prophet's Will	true			0			Your Flash Heal and Holy Word: Serenity are 30% more effective when cast on yourself.	sweep
+257	Holy	hero	458718	Desperate Measures	true			0			Desperate Prayer lasts an additional 10 sec. Angelic Bulwark's absorption effect is increased by 15% of your maximum health.	sweep
+257	Holy	hero	440766	Assured Safety	true			0			Casting Prayer of Mending applies Power Word: Shield to your target. |T135940:24|t |cffffffffPower Word: Shield|r Shields an ally for 15 sec, absorbing 1,971 damage.	sweep
+257	Holy	hero	440662	Preventive Measures	true			0			Increases the healing done by Prayer of Mending by 15%. All damage dealt by Smite, Holy Fire and Holy Nova increased by 40%. 	sweep
+257	Holy	hero	453783	Manifested Power	true			0			Creating a Halo grants Surge of Light. |T135981:24|t |cffffffffSurge of Light|r Your healing spells and Smite have a 8% chance to make your next Flash Heal instant and cost 50% less mana. Stacks to 2.	sweep
+257	Holy	hero	1246802	Piety	true			0			20% of overhealing done is redistributed to up to 4 nearby injured allies.	sweep
+257	Holy	hero	449806	Divine Halo	true			0			Halo now centers around you and returns to you after it reaches its maximum distance, healing allies and damaging enemies each time it passes through them.	sweep
+257	Holy	talent	1246517	Ultimate Serenity	true			0			Increases the healing done by Holy Word: Serenity by 10% and causes it to heal 4 nearby injured allies within 40 yards for 15% of its healing done. Talents that affect Holy Word: Sanctify instead affect Holy Word: Serenity.	sweep
+257	Holy	talent	471504	Lasting Words	true			0			Holy Word: Serenity applies 12 sec of Renew to its target. Holy Word: Sanctify applies 6 sec of Renew to allies it heals. |T135953:24|t |cffffffffRenew|r Fill the target with faith in the light, healing for 1,428 over 12 sec.	sweep
+257	Holy	talent	471668	Light in the Darkness	true			0			Increases the healing done by Holy Word: Serenity and Holy Word: Sanctify by 30%. Increases the radius of Holy Word: Sanctify by 30%.	sweep
+257	Holy	talent	1248418	Cosmic Wave	true			0			Increases Cosmic Ripple healing by 15%.	sweep
+257	Holy	talent	1215245	Eternal Sanctity	true			0			Increases the duration of Apotheosis by 12 sec.	sweep
+257	Holy	talent	1215241	Divinity	true			0			Your healing is increased by 10% while Apotheosis is active. Casting Apotheosis causes your next 3 Prayer of Healing casts to be instant and heal for 25% more.	sweep
+257	Holy	hero	120517	Halo	false			60000			Creates a ring of Holy energy around you that quickly expands to a 40 yd radius, healing allies for 684 and dealing 612 Holy damage to enemies. Healing reduced beyond 6 targets.	sweep
+257	Holy	talent	14914	Holy Fire	false			10000			Consumes the enemy in Holy flames that cause 1,308 Holy damage and an additional 495 Holy damage over 7 sec.	sweep
+257	Holy	talent	373466	Twins of the Sun Priestess	true			0			Power Infusion also grants you its effect at 100% value when used on an ally.  If no ally is targeted, it will grant its effect at 100% value to a nearby ally, preferring damage dealers.	sweep
+257	Holy	talent	1250806	False Autonomy	true			0			Increases the duration of Mind Control and Dominate Mind against enemy creatures by 15 sec.	sweep
+257	Holy	talent	1251030	Painful Invocation	true			0			Increases the damage of Shadow Word: Pain by 10%.	sweep
+257	Holy	talent	528	Dispel Magic	false			0			Dispels Magic on the enemy target, removing 1 beneficial Magic effect.	sweep
+257	Holy	talent	390667	Spell Warding	true			0			Reduces all magic damage taken by 3%.	sweep
+257	Holy	talent	1251029	Mindpierce	true			0			Increases the damage of Smite by 15%.	sweep
+257	Holy	talent	19236	Desperate Prayer	false			90000			Increases maximum health by 25% for 10 sec, and instantly heals you for that amount.	sweep
+257	Holy	talent	1250378	Spectral Illusion	true			0			Fade creates an illusion of you for 4 sec, tricking enemies to attack it instead.	sweep
+257	Holy	talent	586	Fade	false			30000			Fade out, removing all your threat and reducing enemies' detection range against you for 10 sec.	sweep
+257	Holy	talent	341167	Mental Agility	true			0			Reduces the mana cost of Purify and Mass Dispel by 50% and Dispel Magic by 10%. 	sweep
+257	Holy	talent	1250835	Dark Enlightenment	true			0			Increases your haste by 3%.	sweep
+257	Holy	talent	373218	Sanguine Teachings	true			0			Increases your Leech by 2%.	sweep
+257	Holy	hero	1272326	Realized Potential	true			0			Shadow Word: Death damage increased by 25% and its cooldown is reduced by 3 sec.	sweep
+257	Holy	hero	1247178	Spiritwell	true			0			Increases Shadowy Apparition damage by 10%.	sweep
+257	Holy	hero	453726	Word of Supremacy	true			0			Power Word: Fortitude grants you an additional 5% stamina.	sweep
+257	Holy	hero	453729	Heightened Alteration	true			0			Increases the duration of Dispersion by 2 sec.	sweep
+257	Holy	hero	1272320	Focused Outburst	true			0			Void Volley damage increased by 15% and its cooldown is reduced by 4 sec.	sweep
+257	Holy	hero	1272363	Unfolding Vision	true			0			 When Power Word: Shield or Void Shield expires with absorption remaining, it jumps to a nearby injured ally and loses 40% of its maximum absorb instead. 	sweep
+257	Holy	hero	1272352	Words of the Wise	true			0			Flash Heal, Plea, and Power Word: Radiance healing increased by 15%. 	sweep
+257	Holy	hero	1272359	Prophet's Insight	true			0			Atonement healing from Holy spells is increased by 15%. 	sweep
+257	Holy	talent	32375	Mass Dispel	false			120000			Dispels magic in a 15 yard radius, removing all harmful Magic from 5 friendly targets and 1 beneficial Magic effect from 5 enemy targets. Potent enough to remove Magic that is normally undispellable.	sweep
+257	Holy	talent	64129	Body and Soul	true			0			Power Word: Shield and Leap of Faith increase your target's movement speed by 40% for 3 sec.	sweep
+257	Holy	talent	1262755	Benediction	true			0			Prayer of Mending healing has a chance to upgrade your next Flash Heal to Benediction, healing the target for 30% more and causing a Cosmic Ripple.	sweep
+257	Holy	talent	1262758	Benediction	true			0			Cosmic Ripple healing increased by 25%. All healing done increased by 6%.	sweep
+257	Holy	talent	1262760	Benediction	true			0			Each pulse of Divine Hymn emits a Cosmic Ripple at 75% effectiveness. During Apotheosis, Flash Heal is upgraded to Benediction.	sweep

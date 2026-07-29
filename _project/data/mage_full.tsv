@@ -1,0 +1,382 @@
+specID	specName	source	spellID	name	passive	selected	charges	cooldownMS	rechargeMS	overrideSpellID	description	origin
+63	Fire	talent	30449	Spellsteal	false			0			Steals a beneficial magic effect from the target. This effect lasts a maximum of 2 min.	sweep
+63	Fire	talent	414659	Ice Cold	true			0			Ice Block now reduces all damage taken by 70% for 6 sec but no longer grants Immunity, prevents movement, attacks, or casting spells. Does not incur the Global Cooldown.	sweep
+63	Fire	talent	1265517	Permafrost Bauble	true			0			The cooldown of Ice Block and Ice Cold are reduced by 30 sec.	sweep
+63	Fire	talent	386763	Freezing Cold	true			0			Enemies hit by Cone of Cold are frozen in place for 5 sec instead of snared. When your roots expire or are dispelled, your target is snared by 80%, decaying over 3 sec.	sweep
+63	Fire	talent	157997	Ice Nova	false			25000			Causes a whirl of icy wind around the enemy, dealing 586 Frost damage to the target and all other enemies within 8 yds, freezing them in place for 2 sec. Damage reduced beyond 8 targets.	sweep
+63	Fire	talent	113724	Ring of Frost	false			45000			Summons a Ring of Frost for 10 sec at the target location. Enemies entering the ring are incapacitated for 10 sec. Limit 10 targets. When the incapacitate expires, enemies are slowed by 65% for 4 sec.	sweep
+63	Fire	talent	383121	Mass Polymorph	false			60000			Transforms all enemies within 10 yards into sheep, wandering around incapacitated for 15 sec. While affected, the victims cannot take actions but will regenerate health very quickly. Damage will cancel the effect. Only works on Beasts, Humanoids and Critters.	sweep
+63	Fire	talent	455428	Barrier Diffusion	true			0			When your Barrier is removed, reduce its cooldown by 5 sec.	sweep
+63	Fire	talent	414664	Mass Invisibility	false			300000			You and your allies within 40 yards instantly become invisible for 12 sec. Taking any action will cancel the effect. Does not affect allies in combat.	sweep
+63	Fire	talent	1244031	Spatial Manipulation	true			0			Blink gains an additional charge.	sweep
+63	Fire	talent	1270829	Reflection	true			0			After casting Blink, it is replaced with Reflection for 8 sec. |T132171:24|t |cffffffffReflection|r Teleports you back to where you last Blinked. Castable while casting and unaffected by the global cooldown.	sweep
+63	Fire	talent	382268	Flow of Time	true			0			The cooldowns of Blink and Shimmer are reduced by 3 sec.	sweep
+63	Fire	talent	382490	Tome of Antonidas	true			0			Increases Haste by 2%. 	sweep
+63	Fire	talent	386828	Energized Barriers	true			0			Casting your barrier removes all snare effects.	sweep
+63	Fire	talent	342249	Master of Time	true			0			Reduces the cooldown of Alter Time by 5 sec. 	sweep
+63	Fire	talent	382297	Quick Witted	true			0			Counterspell's cooldown is reduced by 5 sec.	sweep
+63	Fire	talent	212653	Shimmer	false		1	500	30000		Teleports you 20 yds forward, unless something is in the way. Unaffected by the global cooldown and castable while casting.	sweep
+63	Fire	talent	1244340	Improved Blink	true			0			Blink's cooldown is reduced by 2 sec.	sweep
+63	Fire	talent	1250315	Frost Conditioning	true			0			Hypothermia's duration is reduced by 10 sec.	sweep
+63	Fire	talent	343183	Improved Frost Nova	true			0			Frost Nova duration is increased by 2 sec.	sweep
+63	Fire	talent	205036	Ice Ward	true			0			Frost Nova now has 2 charges.	sweep
+63	Fire	talent	382293	Incantation of Swiftness	true			0			Invisibility increases your movement speed by 20% for 6 sec.	sweep
+63	Fire	talent	383092	Arcane Warding	true			0			Reduces magic damage taken by 4%.	sweep
+63	Fire	talent	342245	Alter Time	false			60000			Alters the fabric of time, returning you to your current location and health when cast a second time, or after 10 sec. Effect negated by long distance or death.	sweep
+63	Fire	talent	475	Remove Curse	false			8000			Removes all Curses from a friendly target. 	sweep
+63	Fire	talent	235313	Blazing Barrier	false			30000			Shields you in flame, absorbing 128,852 damage for 1 min. Melee attacks against you cause the attacker to take 61 Fire damage.	sweep
+63	Fire	talent	45438	Ice Block	false		1	0	240000		Encases you in a block of ice, protecting you from all attacks and damage for 10 sec, but during that time you cannot attack, move, or cast spells. Causes Hypothermia, preventing you from recasting Ice Block for 30 sec.	sweep
+63	Fire	talent	382424	Winter's Protection	true			0			The cooldown of Ice Block is reduced by 30 sec.	sweep
+63	Fire	talent	55342	Mirror Image	false			120000			Creates 3 copies of you nearby for 15 sec, which cast spells and attack your enemies. While active, you generate significantly reduced threat. Taking direct damage will cause one of your images to dissipate	sweep
+63	Fire	talent	1270872	Captured Thoughts	true			0			The duration of Clearcasting is increased by 15 sec.	sweep
+63	Fire	talent	382493	Tome of Rhonin	true			0			Increases critical strike chance by 2%.	sweep
+63	Fire	talent	387807	Time Manipulation	true			0			The cooldown of your loss of control spells are reduced by 5 sec.	sweep
+63	Fire	talent	110959	Greater Invisibility	false			120000			Makes you invisible and untargetable for 20 sec, removing all threat. Any action taken cancels this effect. 	sweep
+63	Fire	hero	431178	Flash Freezeburn	true			0			Meteor's damage is increased by 25%. Meteor now grants Frostfire Empowerment.	sweep
+63	Fire	hero	431067	Elemental Affinity	true			0				sweep
+63	Fire	hero	431112	Flame and Frost	true			0			Ice Block and Ice Cold reset the cooldowns of your Fire spells. Cauterize resets the cooldown of your Frost spells with a base cooldown shorter than 4 minutes when it activates.	sweep
+63	Fire	hero	1248014	Dualcasting Adept	true			0			Your Frost and Fire spells deal 20% increased critical strike damage. Ice Lance and Pyroblast  have their damage increased by 40%.	sweep
+63	Fire	hero	431095	Isothermic Core	true			0			Meteor now also calls down a Comet Storm, dealing 2,758 Frost damage to nearby enemies. Comet Storm now also calls down a Meteor, dealing 3,821 Fire damage to nearby enemies.	sweep
+63	Fire	hero	1248016	Blast Radius	true			0			The damage of Meteor and Comet Storm is increased.	sweep
+63	Fire	hero	1248002	Heat Sink	true			0			Flurry and Fire Blast now deal Frostfire damage and their damage is increased by 15%.	sweep
+63	Fire	hero	431166	Frostfire Infusion	true			0			Frostfire Bolt has and additional 5% chance to grant Brain Freeze and its critical strike chance is increased by 15%. The damage of your Frost spells and Fire spells are increased by 4%.	sweep
+63	Fire	hero	431117	Thermal Conditioning	true			0			Frostfire Bolt's cast time is reduced by 10%.	sweep
+63	Fire	hero	431189	Severe Temperatures	true			0			Frostfire Empowerment stacks 1 additional time and it causes Frostfire Bolt to explode for an additional 20% of its damage.	sweep
+63	Fire	hero	431176	Frostfire Empowerment	true			0			Casting Frostfire spells has a 10% chance to activate Frostfire Empowerment, causing your next Frostfire Bolt to be instant cast, deal 60% increased damage, explode for 60% of its damage to nearby enemies. Damage reduced beyond 5 targets. Damage from Frostfire Empowerment applies 1 stack of Freezing.	sweep
+63	Fire	hero	431066	Imbued Warding	true			0				sweep
+63	Fire	hero	431131	Meltdown	true			0			You melt slightly out of your Ice Block and Ice Cold, allowing you to move slowly during Ice Block and increasing your movement speed over time. Ice Block and Ice Cold trigger a Blazing Barrier when they end.	sweep
+63	Fire	hero	1260272	Ashes of Inspiration	true			0			When your Arcane Phoenix expires, it grants you Lesser Time Warp for 6 sec. |T458224:24|t |cffffffffLesser Time Warp|r Warp the flow of time, increasing your haste by 15%.	sweep
+63	Fire	hero	451035	Burden of Power	true			0			Arcane Blast damage increased by 30%. Arcane Pulse damage increased by 20%.	sweep
+63	Fire	hero	449382	Codex of the Sunstriders	true			0			When your Arcane Phoenix is summoned, it consumes all your Spellfire Spheres. Each Sphere consumed increases your spell damage during Arcane Surge by 1% and causes your Arcane Phoenix to cast an exceptional Arcane or Fire spell over its duration.	sweep
+63	Fire	hero	449619	Memory of Al'ar	true			0			During Arcane Surge, you gain twice as many stacks of Mana Cascade. When your Arcane Phoenix expires, it empowers you, granting Arcane Soul for 4.0 sec. |T2065625:24|t|cffffffffArcane Soul|r: Arcane Barrage grants Clearcasting and generates 4 Arcane Charges. Each cast of Arcane Barrage grants 5 stacks of Arcane Salvo and casting Arcane Barrage does not consume Arcane Salvo.	sweep
+63	Fire	hero	448601	Spellfire Spheres	true			0			Casting a damaging spell has a 12% chance to conjure a Spellfire Sphere. While you're out of combat, you will slowly conjure Spellfire Spheres over time. |T6712960:24|t |cffffffffSpellfire Sphere|r Increases your spell damage by 1.0%. Stacks up to 3 times.	sweep
+63	Fire	hero	449596	Rondurmancy	true			0			Spellfire Spheres can now stack up to 5 times.	sweep
+63	Fire	hero	449330	Merely a Setback	true			0			The bonuses provided by your Barrier spells persist an additional 8 sec after your Barrier is removed.	sweep
+63	Fire	hero	1255166	Time Twist	true			0			The cooldown of Alter Time is reduced by 10 sec.	sweep
+63	Fire	hero	449412	Savor the Moment	true			0			When you cast Arcane Surge, its duration is extended by 0.4 sec for each Spellfire Sphere you have, up to 2.0 sec.	sweep
+63	Fire	hero	449349	Sunfury Execution	true			0			Arcane Barrage deals 5% increased damage to enemies affected by your Touch of the Magi.	sweep
+63	Fire	hero	449627	Lessons in Debilitation	true			0			Your Arcane Phoenix has picked up a few tricks, and will Spellsteal when it is summoned and when it expires.	sweep
+63	Fire	hero	1246030	Explosive Potential	true			0			After casting Arcane Surge, your next Blink will cause a Blast Wave at your previous location, dealing 230 Fire damage, knocking enemies back 8 yds, and slowing them by 70% for 6 sec.	sweep
+63	Fire	hero	448658	Invocation: Arcane Phoenix	true			0			When you cast Arcane Surge, summon an Arcane Phoenix to aid you in battle. |T5927654:24|t  |cffffffffArcane Phoenix|r Your Arcane Phoenix aids you for the duration of your Arcane Surge, casting random Arcane and Fire spells.	sweep
+63	Fire	hero	449293	Mana Cascade	true			0			Casting Arcane Blast or Arcane Barrage grants you 0.5% Haste for 10 sec. Stacks up to 10 times. Multiple instances may overlap.	sweep
+63	Fire	talent	108853	Fire Blast	false		1	500	14000		Blasts the enemy, critically striking for 837 Fire damage. Castable while casting other spells.	sweep
+63	Fire	talent	190319	Combustion	false			120000			Engulfs you in flames for 10 sec, increasing your spells' critical strike chance by 100%. Castable while casting other spells.	sweep
+63	Fire	talent	11366	Pyroblast	false			0			Hurls an immense fiery boulder that causes 2,547 Fire damage.	sweep
+63	Fire	talent	383391	Feel the Burn	true			0			Fire Blast increases your mastery by 2% for 4 sec. Multiple applications may overlap.	sweep
+63	Fire	talent	450831	Fire's Ire	true			0			Your spell critical strike chance is increased by 2.5%. Combustion increases your critical strike damage by 2.5%.	sweep
+63	Fire	talent	383967	Slow Burn	true			0			Combustion grants mastery equal to 75% of your Critical Strike stat. Combustion causes your spells to apply Ignite at 15% increased effectiveness.	sweep
+63	Fire	talent	1254512	Burn It All	true			0			Combustion grants you 10% increased spell damage plus an additional 20% of your critical strike chance as spell damage.	sweep
+63	Fire	talent	205029	Flame On	true			0			Fire Blast gains 1 additional charge and its cooldown is reduced by 2.0 sec.	sweep
+63	Fire	talent	269650	Pyroclasm	true			0			Consuming Hot Streak has a 15% chance to make your next non-instant Pyroblast or Flamestrike cast within 15 sec deal 230% additional damage. Maximum 2 stacks.	sweep
+63	Fire	talent	1254857	Deep Impact	true			0			The enemy closest to the center of Meteor's impact takes 75% increased damage. 	sweep
+63	Fire	talent	383810	Fevered Incantation	true			0			Each consecutive critical strike you deal increases critical strike damage you deal by 1%, up to 4% for 6 sec.	sweep
+63	Fire	talent	153561	Meteor	false			45000			Calls down a meteor which lands at the target location after 3 sec, dealing 3,821 Fire damage to all enemies, and burns the ground, dealing 1,766 Fire damage over 4 sec to all enemies in the area. Damage reduced beyond 8 targets.	sweep
+63	Fire	talent	1254194	Kindling	true			0			Combustion's cooldown is reduced by 60 sec.	sweep
+63	Fire	talent	387044	Fervent Flickering	true			0			Fire Blast gains 1 additional charge and its damage is increased by 25%.	sweep
+63	Fire	talent	117216	Critical Mass	true			0			Your spells have a 4% increased chance to deal a critical strike. You gain 10% more of the Critical Strike stat from all sources.	sweep
+63	Fire	talent	31661	Dragon's Breath	false			45000			Enemies in a 12 yd cone in front of you take 284 Fire damage and are disoriented for 4 sec. Damage will cancel the effect.	sweep
+63	Fire	talent	157980	Supernova	false			45000			Pulses arcane energy around the target enemy or ally, dealing 146 Arcane damage to all enemies within 8 yds, and knocking them upward. A primary enemy target will take 100% increased damage.	sweep
+63	Fire	talent	1244087	Time Walk	true			0			Alter Time resets the cooldown of Blink and Shimmer when you return to your original location.	sweep
+63	Fire	talent	1244090	Temporal Realignment	true			0			Upon dropping below 25% health, your past self corrects your timeline, casting Alter Time and instantly returning 50% of your maximum health.	sweep
+63	Fire	talent	321708	Improved Blazing Barrier	true			0			Blazing Barrier's damage is increased by 200% and it now cauterizes your wounds, healing you for 15% of the damage it absorbs.	sweep
+63	Fire	talent	1244107	Charm of Medivh	true			0			Your Mastery is increased by 3%.	sweep
+63	Fire	talent	1244105	Charm of Aegwynn	true			0			The critical strike damage of your spells is increased by 5%.	sweep
+63	Fire	talent	210476	Master of Escape	true			0			Reduces the cooldown of Invisibility by 60 sec.	sweep
+63	Fire	talent	458437	Inspired Intellect	true			0			Arcane Intellect grants you an additional 2% Intellect.	sweep
+63	Fire	talent	390218	Overflowing Energy	true			0			Each time your Arcane Barrage, Fireball, or Frostbolt fails to critically strike, it gains 10% increased critical strike chance. Critical strike bonus is removed when the affected spell critically strikes.	sweep
+63	Fire	talent	1244025	Improved Conjuration	true			0			Mirror Image's cooldown is reduced by 30 sec.	sweep
+63	Fire	talent	342344	From the Ashes	true			0			Fire Blast damage increased by 15%.  Your direct damage spells reduce the cooldown of Fire Blast by 0.50 sec.	sweep
+63	Fire	talent	453282	Flame Accelerant	true			0			The cast time of Pyroblast and Flamestrike is reduced by 20%.	sweep
+63	Fire	talent	384174	Master of Flame	true			0			Ignite deals 15% more damage when Combustion is not active. Fire Blast now spreads an additional 50% of your Ignite.	sweep
+63	Fire	talent	383634	Fiery Rush	true			0			While Combustion is active, Fire Blast recharges 50% faster.	sweep
+63	Fire	talent	1254865	Cinderstorm	true			0			Casting Pyroblast or Flamestrike has a 8% chance to summon a storm of 5 cinders that pursue your target. Upon reaching your target, each cinder deals 849 Fire damage, applies Ignite at 100% effectiveness, and spreads 50% of your Ignite to up to 1 nearby target.	sweep
+63	Fire	talent	457803	Molten Fury	true			0			Damage dealt to targets below 30% health is increased by 15%.	sweep
+63	Fire	talent	343230	Mote of Flame	true			0			All Fire damage dealt increased by 3%.	sweep
+63	Fire	talent	416719	Blast Zone	true			0			Meteor's cooldown is reduced by 15 sec.	sweep
+63	Fire	talent	383669	Controlled Destruction	true			0			Damaging an enemy with Fireball, Pyroblast, or Flamestrike increases the damage it receives from Ignite by 0.2%. Stacks up to 50 times.	sweep
+63	Fire	talent	416714	Intensifying Flame	true			0			While Ignite is on 3 or fewer enemies it flares up dealing an additional 30% of its damage to affected targets.	sweep
+63	Fire	talent	86949	Cauterize	true			0			Fatal damage instead brings you to 35% health and then burns you for 28% of your maximum health over 6 sec. While burning, movement slowing effects are suppressed and your movement speed is increased by 150%. This effect cannot occur more than once every 6 min.	sweep
+63	Fire	talent	1254828	Wildfire	true			0			Fire Blast damage increased by 10% and it now spreads Ignite to 1 additional target.	sweep
+63	Fire	talent	416094	Fuel the Fire	true			0			Flamestrike has a chance equal to 100% of your spell critical strike chance to build up to a Hot Streak. Flamestrike deals 5% increased damage for each enemy it damages, up to 25%.	sweep
+63	Fire	talent	1254756	Ignition	true			0			Fire Blast now spreads 50% of your target's Ignite to 1 enemy. Flamestrike applies 15% more Ignite.	sweep
+63	Fire	talent	450746	Scald	true			0			Fireball always critically strikes enemies below 30% health. When Fireball or Scorch damage an enemy below 30% health, Fireball deals 25% increased damage and Scorch deals 250% increased damage.	sweep
+63	Fire	talent	2120	Flamestrike	false			0			Calls down a pillar of fire, burning all enemies within the area for 1,273 Fire damage. Deals reduced damage beyond 8 targets. |cFFFFFFFFThis spell is cast at a selected location.|r	sweep
+63	Fire	talent	1254851	Flamestrike	false			0			Calls down a pillar of fire on your target, burning all enemies within the area for 1,273 Fire damage. Deals reduced damage beyond 8 targets. |cFFFFFFFFThis spell is cast at your target.|r	sweep
+63	Fire	talent	457735	Heat Shimmer	true			0			While Combustion is not active, damage from Ignite has a small chance to make your next Scorch instant, deal 100% increased damage, and deal damage as though your target was below 30% health.	sweep
+63	Fire	talent	451875	Spontaneous Combustion	true			0			Casting Combustion refreshes up to 1 charge of Fire Blast.	sweep
+63	Fire	hero	1262845	Elemental Conduit	true			0			Meteor and Pyroblast now apply Ignite. Your Haste is increased by 2%.	sweep
+63	Fire	hero	1262844	Molten Chill	true			0			Your Frostfire spells apply Ignite at 10% increased effectiveness.	sweep
+63	Fire	hero	1262843	Duality	true			0			Casting Glacial Spike also casts a Pyroblast, dealing 3,742 Fire damage.	sweep
+63	Fire	hero	1260616	Spellfire Salvo	true			0			Arcane Salvo can stack 5 additional times. Meteorite damage increased by 15%.	sweep
+63	Fire	hero	1260673	Pyrocosm	true			0			Each wave of Arcane Missiles has a 10% chance to summon a Meteorite. When a Meteorite lands, you have a 5% chance to gain Clearcasting.	sweep
+63	Fire	hero	449394	Glorious Incandescence	true			0			Arcane Barrage summons 1 Meteorite for every 6 Arcane Salvo stacks consumed. |T1033911:24|t |cffffffffMeteorite|r Calls down a meteorite which lands at the target location after 3 sec, dealing 433 Fire damage to all enemies hit, reduced beyond 8 targets.	sweep
+63	Fire	hero	431044	Frostfire Bolt	false			0			Launches a bolt of frostfire at the enemy, causing 1,101 Frostfire damage, slowing movement speed by 50%, and causing an additional 108 Frostfire damage over 8 sec.	sweep
+63	Fire	talent	1270847	Improved Remove Curse	true			0			Casting Remove Curse on a friendly target also casts it on yourself, but its cooldown is increased by 20 sec.	sweep
+63	Fire	talent	1270865	Improved Counterspell	true			0			Counterspell prevents casting for an additional 1.0 sec.	sweep
+63	Fire	talent	1270845	Mana Confluence	true			0			Your mana costs are reduced by 5%.	sweep
+63	Fire	talent	461261	Brainstorm	true			0			Gaining Hot Streak increases your Intellect by 1% for 8 sec. Multiple instances may overlap.	sweep
+63	Fire	talent	1270827	Improved Spellsteal	true			0			Spellsteal repeats its effect after 4 sec, but it now has a cooldown of 4.0 sec.	sweep
+63	Fire	talent	417467	Inflame	true			0			Hot Streak increases the amount of Ignite damage from Pyroblast or Flamestrike by an additional 25%.	sweep
+63	Fire	talent	1271171	Conflagration	true			0			Fire Blast deals 170 additional Fire damage to up to 8 nearby enemies.	sweep
+63	Fire	talent	1271177	Burnout	true			0			When Combustion expires, all of your active Ignites explode, dealing 75% of their remaining damage.	sweep
+63	Fire	talent	451466	Pyromaniac	true			0			Casting Pyroblast or Flamestrike while Hot Streak is active has a 6% chance to repeat the spell cast at 50% effectiveness. This effect counts as consuming Hot Streak.	sweep
+63	Fire	talent	205026	Firestarter	true			0			Your Fireball and Pyroblast spells always deal a critical strike when the target is above 90% health.	sweep
+63	Fire	talent	2948	Scorch	false			0			Scorches an enemy for 424 Fire damage. When cast on a target below 30% health, Scorch is a guaranteed critical strike. Castable while moving.	sweep
+63	Fire	talent	1257343	Fired Up	true			0			Consuming Hot Streak has a 20% chance to grant you a stack of Fired Up, increasing your Fire damage by 4% for 12 sec. Multiple applications may overlap.	sweep
+63	Fire	talent	1257349	Fired Up	true			0			Gaining Fired Up reduces the cooldown of Fire Blast by 2.5 sec. All Fire damage dealt is increased by 3%.	sweep
+63	Fire	talent	1257348	Fired Up	true			0			Combustion significantly increases your chance of gaining Fired Up, reducing each time you gain Fired Up. Additionally Fired Up now extends Combustion's duration by 1.0 sec.	sweep
+64	Frost	talent	30449	Spellsteal	false			0			Steals a beneficial magic effect from the target. This effect lasts a maximum of 2 min.	sweep
+64	Frost	talent	414659	Ice Cold	true			0			Ice Block now reduces all damage taken by 70% for 6 sec but no longer grants Immunity, prevents movement, attacks, or casting spells. Does not incur the Global Cooldown.	sweep
+64	Frost	talent	1265517	Permafrost Bauble	true			0			The cooldown of Ice Block and Ice Cold are reduced by 30 sec.	sweep
+64	Frost	talent	386763	Freezing Cold	true			0			Enemies hit by Cone of Cold are frozen in place for 5 sec instead of snared. When your roots expire or are dispelled, your target is snared by 80%, decaying over 3 sec.	sweep
+64	Frost	talent	157997	Ice Nova	false			25000			Causes a whirl of icy wind around the enemy, dealing 586 Frost damage to the target and all other enemies within 8 yds, freezing them in place for 2 sec. Damage reduced beyond 8 targets.	sweep
+64	Frost	talent	113724	Ring of Frost	false			45000			Summons a Ring of Frost for 10 sec at the target location. Enemies entering the ring are incapacitated for 10 sec. Limit 10 targets. When the incapacitate expires, enemies are slowed by 65% for 4 sec.	sweep
+64	Frost	talent	383121	Mass Polymorph	false			60000			Transforms all enemies within 10 yards into sheep, wandering around incapacitated for 15 sec. While affected, the victims cannot take actions but will regenerate health very quickly. Damage will cancel the effect. Only works on Beasts, Humanoids and Critters.	sweep
+64	Frost	talent	455428	Barrier Diffusion	true			0			When your Barrier is removed, reduce its cooldown by 5 sec.	sweep
+64	Frost	talent	414664	Mass Invisibility	false			300000			You and your allies within 40 yards instantly become invisible for 12 sec. Taking any action will cancel the effect. Does not affect allies in combat.	sweep
+64	Frost	talent	1244031	Spatial Manipulation	true			0			Blink gains an additional charge.	sweep
+64	Frost	talent	1270829	Reflection	true			0			After casting Blink, it is replaced with Reflection for 8 sec. |T132171:24|t |cffffffffReflection|r Teleports you back to where you last Blinked. Castable while casting and unaffected by the global cooldown.	sweep
+64	Frost	talent	382268	Flow of Time	true			0			The cooldowns of Blink and Shimmer are reduced by 3 sec.	sweep
+64	Frost	talent	382490	Tome of Antonidas	true			0			Increases Haste by 2%. 	sweep
+64	Frost	talent	386828	Energized Barriers	true			0			Casting your barrier removes all snare effects.	sweep
+64	Frost	talent	342249	Master of Time	true			0			Reduces the cooldown of Alter Time by 5 sec. 	sweep
+64	Frost	talent	382297	Quick Witted	true			0			Counterspell's cooldown is reduced by 5 sec.	sweep
+64	Frost	talent	212653	Shimmer	false		1	500	30000		Teleports you 20 yds forward, unless something is in the way. Unaffected by the global cooldown and castable while casting.	sweep
+64	Frost	talent	1244340	Improved Blink	true			0			Blink's cooldown is reduced by 2 sec.	sweep
+64	Frost	talent	1250315	Frost Conditioning	true			0			Hypothermia's duration is reduced by 10 sec.	sweep
+64	Frost	talent	343183	Improved Frost Nova	true			0			Frost Nova duration is increased by 2 sec.	sweep
+64	Frost	talent	205036	Ice Ward	true			0			Frost Nova now has 2 charges.	sweep
+64	Frost	talent	382293	Incantation of Swiftness	true			0			Invisibility increases your movement speed by 20% for 6 sec.	sweep
+64	Frost	talent	383092	Arcane Warding	true			0			Reduces magic damage taken by 4%.	sweep
+64	Frost	talent	342245	Alter Time	false			60000			Alters the fabric of time, returning you to your current location and health when cast a second time, or after 10 sec. Effect negated by long distance or death.	sweep
+64	Frost	talent	475	Remove Curse	false			8000			Removes all Curses from a friendly target. 	sweep
+64	Frost	talent	11426	Ice Barrier	false		1	0	30000		Shields you with ice, absorbing 128,852 damage for 1 min. Melee attacks against you reduce the attacker's movement speed by 50%.	sweep
+64	Frost	talent	45438	Ice Block	false		1	0	240000		Encases you in a block of ice, protecting you from all attacks and damage for 10 sec, but during that time you cannot attack, move, or cast spells. Causes Hypothermia, preventing you from recasting Ice Block for 30 sec.	sweep
+64	Frost	talent	382424	Winter's Protection	true			0			The cooldown of Ice Block is reduced by 30 sec.	sweep
+64	Frost	talent	55342	Mirror Image	false			120000			Creates 3 copies of you nearby for 15 sec, which cast spells and attack your enemies. While active, you generate significantly reduced threat. Taking direct damage will cause one of your images to dissipate	sweep
+64	Frost	talent	1270872	Captured Thoughts	true			0			The duration of Clearcasting is increased by 15 sec.	sweep
+64	Frost	talent	382493	Tome of Rhonin	true			0			Increases critical strike chance by 2%.	sweep
+64	Frost	talent	387807	Time Manipulation	true			0			The cooldown of your loss of control spells are reduced by 5 sec.	sweep
+64	Frost	talent	417489	Winter's Blessing	true			0			Your Haste is increased by 3%. You gain 5% more Haste from all sources of Haste.	sweep
+64	Frost	talent	378448	Fractured Frost	true			0			Ice Lance strikes 1 additional target at 100% effectiveness, preferring enemies with more stacks of Freezing.	sweep
+64	Frost	talent	205021	Ray of Frost	false		1	0	60000		Channel an icy beam at the enemy for 3.4 sec, dealing 1,910 Frost damage every 0.42 sec. |CFFffffffApplies 8 stacks of Freezing over its duration.|R	sweep
+64	Frost	talent	1248825	Frostbite	true			0			When Frostbolt critically strikes, it applies 1 additional stack of Freezing. Each stack of Freezing that you Shatter deals 95 damage to nearby enemies. Damage reduced beyond 5 targets.	sweep
+64	Frost	talent	56377	Splitting Ice	true			0			Your Flurry and Frostbolt spells strike 1 additional target at 80% effectiveness.	sweep
+64	Frost	talent	112965	Fingers of Frost	true			0			Frostbolt has a 15% chance to grant a charge of Fingers of Frost. Fingers of Frost causes your next Ice Lance to deal Shatter damage equal to 4 stacks of Freezing and does not consume Freezing stacks. Maximum 2 charges.	sweep
+64	Frost	talent	460590	Permafrost Lances	true			0			Frozen Orb increases Shatter's damage by 10% for its duration.	sweep
+64	Frost	talent	378406	Wintertide	true			0			Frozen Orb has a 100% chance to grant Brain Freeze.	sweep
+64	Frost	talent	1281638	White Out	true			0			Ice Lance reduces the cooldown of Frozen Orb by 0.5 sec, increased by 0.1 sec for each stack of Freezing Shattered.	sweep
+64	Frost	talent	1247090	Cone of Frost	true			0			Cone of Cold now applies 3 stacks of Freezing to up to 5 enemies.	sweep
+64	Frost	talent	30455	Ice Lance	false			0			Quickly fling a shard of ice at the target, dealing 780 Frost damage. |CFFffffffShatters 4 stacks of Freezing.|R	sweep
+64	Frost	talent	84714	Frozen Orb	false			60000			Launches an orb of swirling ice in front of you, dealing up to 5,738 Frost damage to all enemies it passes through over 15 sec. After a short delay, Frozen Orb will pursue its target. Deals reduced damage beyond 8 targets. Enemies damaged by the Frozen Orb are slowed by 50% for 8 sec.	sweep
+64	Frost	talent	44614	Flurry	false		2	0	30000		Unleash a flurry of ice, striking the target 3 times for a total of 1,637 Frost damage. |CFFffffffApplies 3 stacks of Freezing.|R	sweep
+64	Frost	talent	190447	Brain Freeze	true			0			Frostbolt has a 25% chance to reset the remaining cooldown on Flurry and cause your next Flurry to deal 50% increased damage.	sweep
+64	Frost	talent	205030	Frozen Touch	true			30000			Frostbolt grants you Fingers of Frost 25% more often and Brain Freeze 20% more often.	sweep
+64	Frost	talent	378919	Piercing Cold	true			0			Frostbolt and Flurry critical strike damage increased by 20%.	sweep
+64	Frost	talent	1247729	Thermal Void	true			0			Consuming Brain Freeze has a 100% chance to cause your next Ice Lance to Shatter 4 additional stacks of Freezing.	sweep
+64	Frost	talent	1247798	Glaciate	true			0			When Ice Lance Shatters a stack of Freezing, the cooldown of Ray of Frost is reduced by 0.10 sec.	sweep
+64	Frost	talent	1247777	Comet Storm	true			0			Casting Ray of Frost replaces your Ray of Frost with Comet Storm, calling down a series of 7 icy comets on and around the target, that deals up to 2,555 Frost damage to all enemies within 8 yds of its impacts. |CFFffffffEach Comet Shatters 1 stack of Freezing.|R	sweep
+64	Frost	talent	385167	Everlasting Frost	true			0			Casting Frozen Orb grants 1 stack of Fingers of Frost. Damaging one or more enemies with Frozen Orb has a 3% chance to grant Fingers of Frost.	sweep
+64	Frost	talent	110959	Greater Invisibility	false			120000			Makes you invisible and untargetable for 20 sec, removing all threat. Any action taken cancels this effect. 	sweep
+64	Frost	hero	431178	Flash Freezeburn	true			0			Meteor's damage is increased by 25%. Meteor now grants Frostfire Empowerment.	sweep
+64	Frost	hero	431067	Elemental Affinity	true			0				sweep
+64	Frost	hero	431112	Flame and Frost	true			0			Ice Block and Ice Cold reset the cooldowns of your Fire spells. Cauterize resets the cooldown of your Frost spells with a base cooldown shorter than 4 minutes when it activates.	sweep
+64	Frost	hero	1248014	Dualcasting Adept	true			0			Your Frost and Fire spells deal 20% increased critical strike damage. Ice Lance and Pyroblast  have their damage increased by 40%.	sweep
+64	Frost	hero	431095	Isothermic Core	true			0			Meteor now also calls down a Comet Storm, dealing 2,758 Frost damage to nearby enemies. Comet Storm now also calls down a Meteor, dealing 3,821 Fire damage to nearby enemies.	sweep
+64	Frost	hero	431044	Frostfire Bolt	false			0			Launches a bolt of frostfire at the enemy, causing 1,101 Frostfire damage, slowing movement speed by 50%, and causing an additional 108 Frostfire damage over 8 sec.	sweep
+64	Frost	hero	1248016	Blast Radius	true			0			The damage of Meteor and Comet Storm is increased.	sweep
+64	Frost	hero	1248002	Heat Sink	true			0			Flurry and Fire Blast now deal Frostfire damage and their damage is increased by 15%.	sweep
+64	Frost	hero	431166	Frostfire Infusion	true			0			Frostfire Bolt has and additional 5% chance to grant Brain Freeze and its critical strike chance is increased by 15%. The damage of your Frost spells and Fire spells are increased by 4%.	sweep
+64	Frost	hero	431117	Thermal Conditioning	true			0			Frostfire Bolt's cast time is reduced by 10%.	sweep
+64	Frost	hero	431189	Severe Temperatures	true			0			Frostfire Empowerment stacks 1 additional time and it causes Frostfire Bolt to explode for an additional 20% of its damage.	sweep
+64	Frost	hero	431176	Frostfire Empowerment	true			0			Casting Frostfire spells has a 10% chance to activate Frostfire Empowerment, causing your next Frostfire Bolt to be instant cast, deal 60% increased damage, explode for 60% of its damage to nearby enemies. Damage reduced beyond 5 targets. Damage from Frostfire Empowerment applies 1 stack of Freezing.	sweep
+64	Frost	hero	431066	Imbued Warding	true			0				sweep
+64	Frost	hero	431131	Meltdown	true			0			You melt slightly out of your Ice Block and Ice Cold, allowing you to move slowly during Ice Block and increasing your movement speed over time. Ice Block and Ice Cold trigger a Blazing Barrier when they end.	sweep
+64	Frost	hero	443783	Splinterstorm	true			0			Casting Arcane Surge generates 8 Arcane Splinters. During Arcane Surge, your chance to conjure an additional Arcane Splinter is increased to 100%.	sweep
+64	Frost	hero	444986	Spellfrost Teachings	true			0			Direct damage from Arcane Splinters reduces the cooldown of Arcane Orb by 0.25 sec.	sweep
+64	Frost	hero	444483	Controlled Instincts	true			0			40% of the direct damage dealt by an Arcane Splinter is also dealt to nearby enemies. Damage reduced beyond 5 targets.	sweep
+64	Frost	hero	470021	Signature Spell	true			0			Arcane Blast and Arcane Pulse damage increased by 15%. Casting Touch of the Magi conjures 4 Arcane Splinters.	sweep
+64	Frost	hero	444968	Archmage's Wrath	true			0			Arcane Surge damage increased by 30%. Your chance to gain Clearcasting is increased by 3%.	sweep
+64	Frost	hero	444752	Slippery Slinging	true			0			You have 40% increased movement speed during Alter Time. 	sweep
+64	Frost	hero	444756	Look Again	true			0			While in combat, Blink summons a Mirror Image at your previous location.	sweep
+64	Frost	hero	444827	Reactive Barrier	true			0			Your Prismatic Barrier can absorb up to 25% more damage based on your missing Health. Max effectiveness when under 25% health.	sweep
+64	Frost	hero	444784	Phantasmal Image	true			0			Your Mirror Image summons 1 extra clone.	sweep
+64	Frost	hero	444256	Splintering Orbs	true			0			Enemies damaged by your Arcane Orb conjure 2 Arcane Splinters, up to 4. Arcane Orb damage is increased by 25%.	sweep
+64	Frost	hero	1280165	Augury Abounds	true			0			Conjuring one or more Arcane Splinters has a 10% chance to conjure a burst of 8 Arcane Splinters.	sweep
+64	Frost	hero	444719	Force of Will	true			0			Casting Arcane Barrage conjures an Arcane Splinter for every 5 Arcane Salvo stacks consumed.	sweep
+64	Frost	hero	443739	Splintering Sorcery	true			0			Casting Arcane Blast or Arcane Pulse conjures an Arcane Splinter. |T5927652:24|t|cffffffffArcane Splinter|r: Conjure raw Arcane magic into a sharp projectile that deals 185 Arcane damage. 	sweep
+64	Frost	talent	31661	Dragon's Breath	false			45000			Enemies in a 12 yd cone in front of you take 284 Fire damage and are disoriented for 4 sec. Damage will cancel the effect.	sweep
+64	Frost	talent	157980	Supernova	false			45000			Pulses arcane energy around the target enemy or ally, dealing 146 Arcane damage to all enemies within 8 yds, and knocking them upward. A primary enemy target will take 100% increased damage.	sweep
+64	Frost	talent	418733	Splintering Ray	true			0			Ray of Frost deals 30% of its damage to 5 nearby enemies.	sweep
+64	Frost	talent	1247055	Frigid Focus	true			0			Ray of Frost damage increased by 30%.	sweep
+64	Frost	talent	235219	Cold Snap	false			300000			Resets the cooldown of your Ice Barrier, Frost Nova, Cone of Cold, Ice Cold, and Ice Block.	sweep
+64	Frost	talent	1244110	Glacial Bulwark	true			0			Ice Block and Ice Barrier now have an additional charge.	sweep
+64	Frost	talent	1244087	Time Walk	true			0			Alter Time resets the cooldown of Blink and Shimmer when you return to your original location.	sweep
+64	Frost	talent	1244090	Temporal Realignment	true			0			Upon dropping below 25% health, your past self corrects your timeline, casting Alter Time and instantly returning 50% of your maximum health.	sweep
+64	Frost	talent	1244069	Improved Ice Barrier	true			0			Ice Barrier reduces your physical damage taken by 10% and absorbs an additional 5% of your maximum health.	sweep
+64	Frost	talent	1244107	Charm of Medivh	true			0			Your Mastery is increased by 3%.	sweep
+64	Frost	talent	1244105	Charm of Aegwynn	true			0			The critical strike damage of your spells is increased by 5%.	sweep
+64	Frost	talent	210476	Master of Escape	true			0			Reduces the cooldown of Invisibility by 60 sec.	sweep
+64	Frost	talent	458437	Inspired Intellect	true			0			Arcane Intellect grants you an additional 2% Intellect.	sweep
+64	Frost	talent	390218	Overflowing Energy	true			0			Each time your Arcane Barrage, Fireball, or Frostbolt fails to critically strike, it gains 10% increased critical strike chance. Critical strike bonus is removed when the affected spell critically strikes.	sweep
+64	Frost	talent	1244025	Improved Conjuration	true			0			Mirror Image's cooldown is reduced by 30 sec.	sweep
+64	Frost	talent	378947	Glacial Assault	true			0			Flurry has a 12% chance each hit to call down an icy comet, crashing into your target and nearby enemies for 636 Frost damage. |CFFffffffApplies 1 stack of Freezing.|R	sweep
+64	Frost	talent	31687	Summon Water Elemental	false			15000			Summons a Water Elemental to follow and fight for you.	sweep
+64	Frost	talent	205024	Lonely Winter	true			0			Spell damage increased by 3%.	sweep
+64	Frost	talent	379993	Flash Freeze	true			0			Casting Glacial Spike has a 100% chance to grant you Fingers of Frost.	sweep
+64	Frost	talent	1247743	Rimecaster	true			0			Frostbolt and Glacial Spike damage increased by 10%.	sweep
+64	Frost	talent	1216953	Freezing Winds	true			0			Shattering enemies inside your Blizzard increases Shatter's area damage by 15%.	sweep
+64	Frost	talent	1247769	Improved Flurry	true			0			Flurry fires 1 additional missile.	sweep
+64	Frost	talent	1247742	Hailstones	true			0			The time it takes to generate an Icicle is reduced by 1.0 sec.	sweep
+64	Frost	talent	1247759	Glacial Attunement	true			0			Flurry and Blizzard damage increased by 10%.	sweep
+64	Frost	talent	1246811	Improved Shatter	true			0			Shatter damage has a 50% increased chance to critically strike.	sweep
+64	Frost	talent	270233	Freezing Rain	true			0			Frozen Orb makes Blizzard instant cast. Blizzard damage increased by 20%.	sweep
+64	Frost	talent	1280779	Glacial Chill	true			0			Glacial Spike deals 5% increased damage and applies 2 additional stacks of Freezing.	sweep
+64	Frost	talent	1280780	Glacial Shatter	true			0			Glacial Spike no longer applies Freezing, and instead Shatters 5 stacks of Freezing.	sweep
+64	Frost	talent	190356	Blizzard	false			12000			Ice shards pelt the target area, dealing 1,466 Frost damage over 10.2 sec and reducing movement speed by 50% for 3 sec. |cFFFFFFFFThis spell is cast at a selected location	sweep
+64	Frost	talent	1248829	Blizzard	false			12000			Ice shards pelt the target area, dealing 1,466 Frost damage over 10.2 sec and reducing movement speed by 50% for 3 sec. |cFFFFFFFFThis spell is cast at your target.|r	sweep
+64	Frost	hero	1261082	Polished Focus	true			0			Casting Arcane Barrage while at 20 or more Arcane Salvo stacks refunds 5 Arcane Salvo stacks. Arcane Barrage damage increased by 15%.	sweep
+64	Frost	hero	1261080	Infused Splinters	true			0			Direct damage from Arcane Splinters have a 25% chance to grant 1 stack Arcane Salvo. |T7439202:24|t |cffffffffArcane Salvo|r Increases the damage of your next Arcane Barrage by 3%.	sweep
+64	Frost	hero	1261106	Attuned Familiar	true			0			Your Arcane Familiar has a 50% chance to conjure a Splinter alongside its Arcane Assault.	sweep
+64	Frost	hero	444675	Shifting Shards	true			0			Gaining Clearcasting conjures 2 Arcane Splinters.	sweep
+64	Frost	hero	1262845	Elemental Conduit	true			0			Meteor and Pyroblast now apply Ignite. Your Haste is increased by 2%.	sweep
+64	Frost	hero	1262844	Molten Chill	true			0			Your Frostfire spells apply Ignite at 10% increased effectiveness.	sweep
+64	Frost	hero	1262843	Duality	true			0			Casting Glacial Spike also casts a Pyroblast, dealing 3,742 Fire damage.	sweep
+64	Frost	talent	1246832	Icicles	true			0			While in combat, Frost crystallizes around you, generating an Icicle every 5.1 sec. Upon generating 5 Icicles, Frostbolt upgrades to Glacial Spike for its next cast. |T1698699:24|t |cffffffffGlacial Spike|r Conjures a massive spike of ice that impales your target, dealing 5,519 damage and slowing the target's movement speed by 50% for 8 sec. |CFFffffffApplies 3 stacks of Freezing.|R	sweep
+64	Frost	talent	1247799	Heart of Ice	true			0			Ice Lance Shatters 1 additional stack of Freezing.	sweep
+64	Frost	talent	1270847	Improved Remove Curse	true			0			Casting Remove Curse on a friendly target also casts it on yourself, but its cooldown is increased by 20 sec.	sweep
+64	Frost	talent	1270865	Improved Counterspell	true			0			Counterspell prevents casting for an additional 1.0 sec.	sweep
+64	Frost	talent	1270845	Mana Confluence	true			0			Your mana costs are reduced by 5%.	sweep
+64	Frost	talent	461261	Brainstorm	true			0			Gaining Hot Streak increases your Intellect by 1% for 8 sec. Multiple instances may overlap.	sweep
+64	Frost	talent	1270827	Improved Spellsteal	true			0			Spellsteal repeats its effect after 4 sec, but it now has a cooldown of 4.0 sec.	sweep
+64	Frost	talent	1247025	Deep Shatter	true			0			Shatter's critical strike damage is increased by 50% of your critical strike chance.	sweep
+64	Frost	talent	1247544	Crystalline Refraction	true			0			Ray of Frost generates 2 stacks of Fingers of Frost over its duration.	sweep
+64	Frost	talent	1262935	Hand of Frost	true			0			Shattering an enemy has a 10% chance to summon a Hand of Frost to pursue your target, dealing 2,123 Frost damage and applying 1 stack of Freezing on contact.	sweep
+64	Frost	talent	1262981	Hand of Frost	true			0			Each stack of Freezing you Shatter increases your chance to summon a Hand of Frost by an additional 1.0%. Damage from Hand of Frost increases your spell damage by 1% for 8 sec. Multiple applications may overlap.	sweep
+64	Frost	talent	1263249	Hand of Frost	true			0			Ray of Frost summons 4 Hands of Frost over its duration. Ray of Frost gains an additional charge and its damage is increased by 25%.	sweep
+62	Arcane	talent	30449	Spellsteal	false			0			Steals a beneficial magic effect from the target. This effect lasts a maximum of 2 min.	sweep
+62	Arcane	talent	414659	Ice Cold	true			0			Ice Block now reduces all damage taken by 70% for 6 sec but no longer grants Immunity, prevents movement, attacks, or casting spells. Does not incur the Global Cooldown.	sweep
+62	Arcane	talent	1265517	Permafrost Bauble	true			0			The cooldown of Ice Block and Ice Cold are reduced by 30 sec.	sweep
+62	Arcane	talent	386763	Freezing Cold	true			0			Enemies hit by Cone of Cold are frozen in place for 5 sec instead of snared. When your roots expire or are dispelled, your target is snared by 80%, decaying over 3 sec.	sweep
+62	Arcane	talent	157997	Ice Nova	false			25000			Causes a whirl of icy wind around the enemy, dealing 586 Frost damage to the target and all other enemies within 8 yds, freezing them in place for 2 sec. Damage reduced beyond 8 targets.	sweep
+62	Arcane	talent	113724	Ring of Frost	false			45000			Summons a Ring of Frost for 10 sec at the target location. Enemies entering the ring are incapacitated for 10 sec. Limit 10 targets. When the incapacitate expires, enemies are slowed by 65% for 4 sec.	sweep
+62	Arcane	talent	383121	Mass Polymorph	false			60000			Transforms all enemies within 10 yards into sheep, wandering around incapacitated for 15 sec. While affected, the victims cannot take actions but will regenerate health very quickly. Damage will cancel the effect. Only works on Beasts, Humanoids and Critters.	sweep
+62	Arcane	talent	455428	Barrier Diffusion	true			0			When your Barrier is removed, reduce its cooldown by 5 sec.	sweep
+62	Arcane	talent	414664	Mass Invisibility	false			300000			You and your allies within 40 yards instantly become invisible for 12 sec. Taking any action will cancel the effect. Does not affect allies in combat.	sweep
+62	Arcane	talent	1244031	Spatial Manipulation	true			0			Blink gains an additional charge.	sweep
+62	Arcane	talent	1270829	Reflection	true			0			After casting Blink, it is replaced with Reflection for 8 sec. |T132171:24|t |cffffffffReflection|r Teleports you back to where you last Blinked. Castable while casting and unaffected by the global cooldown.	sweep
+62	Arcane	talent	382268	Flow of Time	true			0			The cooldowns of Blink and Shimmer are reduced by 3 sec.	sweep
+62	Arcane	talent	382490	Tome of Antonidas	true			0			Increases Haste by 2%. 	sweep
+62	Arcane	talent	386828	Energized Barriers	true			0			Casting your barrier removes all snare effects.	sweep
+62	Arcane	talent	342249	Master of Time	true			0			Reduces the cooldown of Alter Time by 5 sec. 	sweep
+62	Arcane	talent	382297	Quick Witted	true			0			Counterspell's cooldown is reduced by 5 sec.	sweep
+62	Arcane	talent	212653	Shimmer	false		1	500	30000		Teleports you 20 yds forward, unless something is in the way. Unaffected by the global cooldown and castable while casting.	sweep
+62	Arcane	talent	1244340	Improved Blink	true			0			Blink's cooldown is reduced by 2 sec.	sweep
+62	Arcane	talent	1250315	Frost Conditioning	true			0			Hypothermia's duration is reduced by 10 sec.	sweep
+62	Arcane	talent	343183	Improved Frost Nova	true			0			Frost Nova duration is increased by 2 sec.	sweep
+62	Arcane	talent	205036	Ice Ward	true			0			Frost Nova now has 2 charges.	sweep
+62	Arcane	talent	382293	Incantation of Swiftness	true			0			Invisibility increases your movement speed by 20% for 6 sec.	sweep
+62	Arcane	talent	383092	Arcane Warding	true			0			Reduces magic damage taken by 4%.	sweep
+62	Arcane	talent	342245	Alter Time	false			60000			Alters the fabric of time, returning you to your current location and health when cast a second time, or after 10 sec. Effect negated by long distance or death.	sweep
+62	Arcane	talent	475	Remove Curse	false			8000			Removes all Curses from a friendly target. 	sweep
+62	Arcane	talent	235450	Prismatic Barrier	false			30000			Shields you with an arcane force, absorbing 128,852 damage and reducing magic damage taken by 15% for 1 min. The duration of harmful Magic effects against you is reduced by 25%.	sweep
+62	Arcane	talent	45438	Ice Block	false		1	0	240000		Encases you in a block of ice, protecting you from all attacks and damage for 10 sec, but during that time you cannot attack, move, or cast spells. Causes Hypothermia, preventing you from recasting Ice Block for 30 sec.	sweep
+62	Arcane	talent	382424	Winter's Protection	true			0			The cooldown of Ice Block is reduced by 30 sec.	sweep
+62	Arcane	talent	55342	Mirror Image	false			120000			Creates 3 copies of you nearby for 15 sec, which cast spells and attack your enemies. While active, you generate significantly reduced threat. Taking direct damage will cause one of your images to dissipate	sweep
+62	Arcane	talent	1270872	Captured Thoughts	true			0			The duration of Clearcasting is increased by 15 sec.	sweep
+62	Arcane	talent	382493	Tome of Rhonin	true			0			Increases critical strike chance by 2%.	sweep
+62	Arcane	talent	387807	Time Manipulation	true			0			The cooldown of your loss of control spells are reduced by 5 sec.	sweep
+62	Arcane	talent	110959	Greater Invisibility	false			120000			Makes you invisible and untargetable for 20 sec, removing all threat. Any action taken cancels this effect. 	sweep
+62	Arcane	hero	1260272	Ashes of Inspiration	true			0			When your Arcane Phoenix expires, it grants you Lesser Time Warp for 6 sec. |T458224:24|t |cffffffffLesser Time Warp|r Warp the flow of time, increasing your haste by 15%.	sweep
+62	Arcane	hero	451035	Burden of Power	true			0			Arcane Blast damage increased by 30%. Arcane Pulse damage increased by 20%.	sweep
+62	Arcane	hero	449382	Codex of the Sunstriders	true			0			When your Arcane Phoenix is summoned, it consumes all your Spellfire Spheres. Each Sphere consumed increases your spell damage during Arcane Surge by 1% and causes your Arcane Phoenix to cast an exceptional Arcane or Fire spell over its duration.	sweep
+62	Arcane	hero	449619	Memory of Al'ar	true			0			During Arcane Surge, you gain twice as many stacks of Mana Cascade. When your Arcane Phoenix expires, it empowers you, granting Arcane Soul for 4.0 sec. |T2065625:24|t|cffffffffArcane Soul|r: Arcane Barrage grants Clearcasting and generates 4 Arcane Charges. Each cast of Arcane Barrage grants 5 stacks of Arcane Salvo and casting Arcane Barrage does not consume Arcane Salvo.	sweep
+62	Arcane	hero	448601	Spellfire Spheres	true			0			Casting a damaging spell has a 12% chance to conjure a Spellfire Sphere. While you're out of combat, you will slowly conjure Spellfire Spheres over time. |T6712960:24|t |cffffffffSpellfire Sphere|r Increases your spell damage by 1.0%. Stacks up to 3 times.	sweep
+62	Arcane	hero	449596	Rondurmancy	true			0			Spellfire Spheres can now stack up to 5 times.	sweep
+62	Arcane	hero	449330	Merely a Setback	true			0			The bonuses provided by your Barrier spells persist an additional 8 sec after your Barrier is removed.	sweep
+62	Arcane	hero	1255166	Time Twist	true			0			The cooldown of Alter Time is reduced by 10 sec.	sweep
+62	Arcane	hero	449412	Savor the Moment	true			0			When you cast Arcane Surge, its duration is extended by 0.4 sec for each Spellfire Sphere you have, up to 2.0 sec.	sweep
+62	Arcane	hero	449349	Sunfury Execution	true			0			Arcane Barrage deals 5% increased damage to enemies affected by your Touch of the Magi.	sweep
+62	Arcane	hero	449627	Lessons in Debilitation	true			0			Your Arcane Phoenix has picked up a few tricks, and will Spellsteal when it is summoned and when it expires.	sweep
+62	Arcane	hero	1246030	Explosive Potential	true			0			After casting Arcane Surge, your next Blink will cause a Blast Wave at your previous location, dealing 230 Fire damage, knocking enemies back 8 yds, and slowing them by 70% for 6 sec.	sweep
+62	Arcane	hero	448658	Invocation: Arcane Phoenix	true			0			When you cast Arcane Surge, summon an Arcane Phoenix to aid you in battle. |T5927654:24|t  |cffffffffArcane Phoenix|r Your Arcane Phoenix aids you for the duration of your Arcane Surge, casting random Arcane and Fire spells.	sweep
+62	Arcane	hero	449293	Mana Cascade	true			0			Casting Arcane Blast or Arcane Barrage grants you 0.5% Haste for 10 sec. Stacks up to 10 times. Multiple instances may overlap.	sweep
+62	Arcane	hero	443783	Splinterstorm	true			0			Casting Arcane Surge generates 8 Arcane Splinters. During Arcane Surge, your chance to conjure an additional Arcane Splinter is increased to 100%.	sweep
+62	Arcane	hero	444986	Spellfrost Teachings	true			0			Direct damage from Arcane Splinters reduces the cooldown of Arcane Orb by 0.25 sec.	sweep
+62	Arcane	hero	444483	Controlled Instincts	true			0			40% of the direct damage dealt by an Arcane Splinter is also dealt to nearby enemies. Damage reduced beyond 5 targets.	sweep
+62	Arcane	hero	470021	Signature Spell	true			0			Arcane Blast and Arcane Pulse damage increased by 15%. Casting Touch of the Magi conjures 4 Arcane Splinters.	sweep
+62	Arcane	hero	444968	Archmage's Wrath	true			0			Arcane Surge damage increased by 30%. Your chance to gain Clearcasting is increased by 3%.	sweep
+62	Arcane	hero	444752	Slippery Slinging	true			0			You have 40% increased movement speed during Alter Time. 	sweep
+62	Arcane	hero	444756	Look Again	true			0			While in combat, Blink summons a Mirror Image at your previous location.	sweep
+62	Arcane	hero	444827	Reactive Barrier	true			0			Your Prismatic Barrier can absorb up to 25% more damage based on your missing Health. Max effectiveness when under 25% health.	sweep
+62	Arcane	hero	444784	Phantasmal Image	true			0			Your Mirror Image summons 1 extra clone.	sweep
+62	Arcane	hero	444256	Splintering Orbs	true			0			Enemies damaged by your Arcane Orb conjure 2 Arcane Splinters, up to 4. Arcane Orb damage is increased by 25%.	sweep
+62	Arcane	hero	1280165	Augury Abounds	true			0			Conjuring one or more Arcane Splinters has a 10% chance to conjure a burst of 8 Arcane Splinters.	sweep
+62	Arcane	hero	444719	Force of Will	true			0			Casting Arcane Barrage conjures an Arcane Splinter for every 5 Arcane Salvo stacks consumed.	sweep
+62	Arcane	hero	443739	Splintering Sorcery	true			0			Casting Arcane Blast or Arcane Pulse conjures an Arcane Splinter. |T5927652:24|t|cffffffffArcane Splinter|r: Conjure raw Arcane magic into a sharp projectile that deals 185 Arcane damage. 	sweep
+62	Arcane	talent	31661	Dragon's Breath	false			45000			Enemies in a 12 yd cone in front of you take 284 Fire damage and are disoriented for 4 sec. Damage will cancel the effect.	sweep
+62	Arcane	talent	157980	Supernova	false			45000			Pulses arcane energy around the target enemy or ally, dealing 146 Arcane damage to all enemies within 8 yds, and knocking them upward. A primary enemy target will take 100% increased damage.	sweep
+62	Arcane	talent	1243435	Orb Mastery	true			0			Casting Arcane Orb while you have Clearcasting causes you to fire 2 additional Arcane Orbs at 100% effectiveness. Casting Arcane Orb now consumes Clearcasting.	sweep
+62	Arcane	talent	1241462	Arcane Pulse	false			0			A pulse of Arcane magic erupts from underneath your target, dealing 386 Arcane damage to all enemies within 2 yds. Damage reduced beyond 5 targets. Each Arcane Charge increases damage by 60%, radius by 2 yds, and mana cost by 100%.	sweep
+62	Arcane	talent	457521	Mana Bomb	true			0			Arcane Surge's damage is increased by an additional 50% based on your mana spent.	sweep
+62	Arcane	talent	452997	Energized Familiar	true			0			During Arcane Surge, your Familiar fires 4 bolts instead of 1. Damage from your Arcane Familiar has a 6% chance to grant you up to 2% of your maximum mana.	sweep
+62	Arcane	talent	321420	Improved Clearcasting	true			0			Clearcasting can stack up to 2 additional times.	sweep
+62	Arcane	talent	1223798	Intuition	true			0			Upon reaching maximum stacks of Arcane Salvo, your next Arcane Barrage deals 25% increased damage.	sweep
+62	Arcane	talent	365350	Arcane Surge	false			90000			Expend all of your current mana to annihilate your enemy target and nearby enemies for up to 3,158 Arcane damage based on Mana spent. Deals reduced damage beyond 8 targets. For the next 15 sec, your Mana regeneration is increased by 425% and spell damage is increased by 35%. |cFFFFFFFFGenerates Clearcasting.|r	sweep
+62	Arcane	talent	461257	Focusing Crystal	true			0			Each wave of Arcane Missiles has a 50% chance to grant 1 additional stack of Arcane Salvo.	sweep
+62	Arcane	talent	383676	Impetus	true			0			Arcane Blast and Arcane Pulse generate an additional Arcane Charge.	sweep
+62	Arcane	talent	12051	Evocation	false		1	0	45000		Increases your mana regeneration by 1,500% for 2.5 sec.	sweep
+62	Arcane	talent	321526	Mana Adept	true			0			Arcane Barrage grants you 2.0% of your maximum mana per Arcane Charge spent.	sweep
+62	Arcane	talent	205025	Presence of Mind	false			45000			Causes your next 2 Arcane Blasts to be instant cast.	sweep
+62	Arcane	talent	236457	Slipstream	true			0			Arcane Missiles and Evocation can now be channeled while moving.	sweep
+62	Arcane	talent	281482	Reverberate	true			0			Arcane Pulse has a 50% chance to repeat its explosion at 30% effectiveness.	sweep
+62	Arcane	talent	1243507	Aegwynn's Technique	true			0			Casting Touch of the Magi grants Clearcasting.	sweep
+62	Arcane	talent	342231	Arcane Echo	true			0			Direct damage you deal to enemies affected by Touch of the Magi, causes an explosion that deals 42 Arcane damage to all nearby enemies. Deals reduced damage beyond 8 targets.	sweep
+62	Arcane	talent	5143	Arcane Missiles	false			0			|cFFFFFFFFRequires Clearcasting|r Launches 5 waves of Arcane Missiles at the enemy over 2.1 sec, causing a total of 1,831 Arcane damage.	sweep
+62	Arcane	talent	321507	Touch of the Magi	false		1	500	45000		Applies Touch of the Magi to your current target, accumulating 20% of the damage you deal to the target for 12 sec, and then exploding for that amount of Arcane damage to the target and reduced damage to all nearby enemies. |cFFFFFFFFGenerates 4 Arcane Charges.|r	sweep
+62	Arcane	talent	205022	Arcane Familiar	true			0			Casting Arcane Intellect summons a Familiar that attacks your enemies and increases your maximum mana by 10% for 1 |4hour:hrs;.	sweep
+62	Arcane	talent	321387	Enlightened	true			0			Arcane damage dealt is increased based on your current mana, up to 6% at full mana. Mana Regen is increased based on your current mana, up to 20% when out of mana.	sweep
+62	Arcane	talent	231564	Arcing Cleave	true			0			For each Arcane Charge, Arcane Barrage hits 1 additional nearby target for 40% damage.	sweep
+62	Arcane	talent	461248	High Voltage	true			0			Each wave of Arcane Missiles has a 50% chance to grant you 1 Arcane Charge. Arcane Missiles damage increased by 20%.	sweep
+62	Arcane	talent	461251	Charged Missiles	true			0			Each wave of Arcane Missiles will consume an Arcane Charge to increase its damage by 40%.	sweep
+62	Arcane	talent	236628	Amplification	true			0			Arcane Missiles fires 2 additional missiles.	sweep
+62	Arcane	talent	384858	Orb Barrage	true			0			Arcane Barrage has a 4% chance per stack of Arcane Salvo to launch an Arcane Orb in front of you at 100% effectiveness.	sweep
+62	Arcane	talent	384651	Charged Orb	true			0			Arcane Orb gains 1 additional charge. Arcane Orb damage increased by 15%.	sweep
+62	Arcane	talent	1243542	Overflowing Insight	true			0			The damage of Arcane Blast and Arcane Pulse are increased by 15%, but their mana costs are increased by 25%.	sweep
+62	Arcane	talent	384612	Prodigious Savant	true			0			Arcane Charges increase the damage of Arcane Blast, Arcane Pulse, and Arcane Barrage by an additional 10%.	sweep
+62	Arcane	talent	153626	Arcane Orb	false		1	0	20000		Launches an Arcane Orb forward from your position, traveling up to 40 yds, dealing 1,032 Arcane damage to enemies it passes through. |cFFFFFFFFGrants 1 Arcane Charge when cast and every time it deals damage.|r	sweep
+62	Arcane	talent	1243307	Aether Attunement	true			0			Arcane Missiles now damages 2 additional targets at 50% effectiveness.	sweep
+62	Arcane	talent	461260	Consortium's Bauble	true			0			Reduces Arcane Blast's mana cost by 5% and increases its damage by 8%.	sweep
+62	Arcane	talent	1244001	Arcane Singularity	true			0			Arcane Salvo damage bonus increased by 2%. |T7439202:24|t |cffffffffArcane Salvo|r: Increases the damage of your next Arcane Barrage by 3%.	sweep
+62	Arcane	talent	414379	Concentrated Power	true			0			Arcane Missiles channels 20% faster.	sweep
+62	Arcane	talent	384452	Arcane Salvo	true			0			Each wave of Arcane Missiles increases the damage of Arcane Barrage by 3%, up to 60%.	sweep
+62	Arcane	talent	205028	Resonance	true			0			Arcane Barrage deals 8% increased damage per target it hits beyond the first.	sweep
+62	Arcane	talent	384060	Illuminated Thoughts	true			0			Clearcasting has a 3% increased chance to proc.	sweep
+62	Arcane	talent	1244087	Time Walk	true			0			Alter Time resets the cooldown of Blink and Shimmer when you return to your original location.	sweep
+62	Arcane	talent	1244090	Temporal Realignment	true			0			Upon dropping below 25% health, your past self corrects your timeline, casting Alter Time and instantly returning 50% of your maximum health.	sweep
+62	Arcane	talent	1244107	Charm of Medivh	true			0			Your Mastery is increased by 3%.	sweep
+62	Arcane	talent	1244105	Charm of Aegwynn	true			0			The critical strike damage of your spells is increased by 5%.	sweep
+62	Arcane	talent	210476	Master of Escape	true			0			Reduces the cooldown of Invisibility by 60 sec.	sweep
+62	Arcane	talent	458437	Inspired Intellect	true			0			Arcane Intellect grants you an additional 2% Intellect.	sweep
+62	Arcane	talent	390218	Overflowing Energy	true			0			Each time your Arcane Barrage, Fireball, or Frostbolt fails to critically strike, it gains 10% increased critical strike chance. Critical strike bonus is removed when the affected spell critically strikes.	sweep
+62	Arcane	talent	1244025	Improved Conjuration	true			0			Mirror Image's cooldown is reduced by 30 sec.	sweep
+62	Arcane	talent	321745	Improved Prismatic Barrier	true			0			Prismatic Barrier further reduces magical damage taken by an additional 10% and duration of harmful Magic effects by 15%.	sweep
+62	Arcane	talent	452198	Eureka	true			0			When a spell consumes Clearcasting, its damage is increased by 20%.	sweep
+62	Arcane	talent	1243557	Expanded Mind	true			0			Casting Arcane Blast or Arcane Pulse grants 2 stacks of Arcane Salvo. Casting Arcane Orb grants 2 stacks of Arcane Salvo. 	sweep
+62	Arcane	talent	1244329	Overpowered Missiles	true			0			Gaining Clearcasting has a 25% chance to cause your next Arcane Missiles to be Overpowered, causing it to deal 100% increased damage, generate maximum stacks of Arcane Salvo, and strike 3 additional targets at 50% effectiveness.	sweep
+62	Arcane	hero	1261082	Polished Focus	true			0			Casting Arcane Barrage while at 20 or more Arcane Salvo stacks refunds 5 Arcane Salvo stacks. Arcane Barrage damage increased by 15%.	sweep
+62	Arcane	hero	1261080	Infused Splinters	true			0			Direct damage from Arcane Splinters have a 25% chance to grant 1 stack Arcane Salvo. |T7439202:24|t |cffffffffArcane Salvo|r Increases the damage of your next Arcane Barrage by 3%.	sweep
+62	Arcane	hero	1261106	Attuned Familiar	true			0			Your Arcane Familiar has a 50% chance to conjure a Splinter alongside its Arcane Assault.	sweep
+62	Arcane	hero	444675	Shifting Shards	true			0			Gaining Clearcasting conjures 2 Arcane Splinters.	sweep
+62	Arcane	hero	1260616	Spellfire Salvo	true			0			Arcane Salvo can stack 5 additional times. Meteorite damage increased by 15%.	sweep
+62	Arcane	hero	1260673	Pyrocosm	true			0			Each wave of Arcane Missiles has a 10% chance to summon a Meteorite. When a Meteorite lands, you have a 5% chance to gain Clearcasting.	sweep
+62	Arcane	hero	449394	Glorious Incandescence	true			0			Arcane Barrage summons 1 Meteorite for every 6 Arcane Salvo stacks consumed. |T1033911:24|t |cffffffffMeteorite|r Calls down a meteorite which lands at the target location after 3 sec, dealing 433 Fire damage to all enemies hit, reduced beyond 8 targets.	sweep
+62	Arcane	talent	1270847	Improved Remove Curse	true			0			Casting Remove Curse on a friendly target also casts it on yourself, but its cooldown is increased by 20 sec.	sweep
+62	Arcane	talent	1270865	Improved Counterspell	true			0			Counterspell prevents casting for an additional 1.0 sec.	sweep
+62	Arcane	talent	1270845	Mana Confluence	true			0			Your mana costs are reduced by 5%.	sweep
+62	Arcane	talent	461261	Brainstorm	true			0			Gaining Hot Streak increases your Intellect by 1% for 8 sec. Multiple instances may overlap.	sweep
+62	Arcane	talent	1270827	Improved Spellsteal	true			0			Spellsteal repeats its effect after 4 sec, but it now has a cooldown of 4.0 sec.	sweep
+62	Arcane	talent	1257942	Touch of the Archmage	true			0			Touch of the Magi increases the damage your target receives from you by 15%.	sweep
+62	Arcane	talent	1257947	Touch of the Archmage	true			0			Arcane Charges further increase the damage of Arcane Blast, Arcane Pulse, and Arcane Barrage by 15%. Arcane Missiles damage increased by 10%.	sweep
+62	Arcane	talent	1257950	Touch of the Archmage	true			0			When Touch of the Magi explodes, it leaves behind a pulsing rune on its target, dealing 75% of its damage over 6 sec to nearby enemies. Damage is increased by 50% on your initial Touch of the Magi target.	sweep
+62	Arcane	talent	383980	Arcane Tempo	true			0			Your Haste is increased by 2%.	sweep

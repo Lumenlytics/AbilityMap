@@ -1,0 +1,486 @@
+specID	specName	source	spellID	name	passive	selected	charges	cooldownMS	rechargeMS	overrideSpellID	description	origin
+270	Mistweaver	talent	388874	Improved Detox	true			0			Detox additionally removes all Poison and Disease effects.	sweep
+270	Mistweaver	talent	388551	Uplifted Spirits	true			0			The cooldown of Revival is reduced by 30 sec and Revival healing increased by 15%.	sweep
+270	Mistweaver	talent	197900	Mist Wrap	true			0			Increases Enveloping Mist's duration by 1 sec and its healing bonus by 10%.	sweep
+270	Mistweaver	talent	388511	Overflowing Mists	true			0			Your Enveloping Mists heal the target for 2,550 each time they take direct damage.	sweep
+270	Mistweaver	talent	388218	Calming Coalescence	true			0			The absorb amount of Life Cocoon is increased by 80%.	sweep
+270	Mistweaver	talent	467270	Refreshment	true			0			Life Cocoon grants up to 5 stacks of Mana Tea and applies 2 stacks of Healing Elixir to its target.	sweep
+270	Mistweaver	talent	116849	Life Cocoon	false		1	750	120000		Encases the target in a cocoon of Chi energy for 12 sec, absorbing 206,164 damage and increasing all healing over time received by 50%.	sweep
+270	Mistweaver	talent	446260	Crane Style	true			0			Rising Sun Kick now kicks up a Gust of Mist to heal 2 allies within 40 yds for 0.  Spinning Crane Kick and Blackout Kick have a chance to kick up a Gust of Mist to heal 1 ally within 40 yds for 0. 	sweep
+270	Mistweaver	talent	202424	Chrysalis	true			0			Reduces the cooldown of Life Cocoon by 45 sec.	sweep
+270	Mistweaver	talent	399226	Burst of Life	true			0			When Life Cocoon expires, it releases a burst of mist that restores 3,425 health to 3 nearby allies.	sweep
+270	Mistweaver	talent	388548	Mists of Life	true			0			Life Cocoon applies Renewing Mist and Enveloping Mist to the target. 	sweep
+270	Mistweaver	talent	388038	Yu'lon's Whisper	true			0			While channeling Mana Tea you exhale the breath of Yu'lon, healing up to 5 allies within 15 yards for 387 every 0.4 sec.	sweep
+270	Mistweaver	talent	1268807	Emperor's Elixir	true			0			Thunder Focus Tea now empowers Enveloping Mist and Rising Sun Kick further. |T775461:24|t |cffffffffEnveloping Mist|r: Begins a channel of Soothing Mist onto your target. |T642415:24|t |cffffffffRising Sun Kick|r: Releases a Jadefire Stomp infront of you that transfers damage into Ancient Teachings at 20% effectiveness. |T6035313:24|t |cffffffffJadefire Stomp|r: You release a Jadefire Stomp, dealing 2,552 damage to 5 enemies in front of you. 	sweep
+270	Mistweaver	talent	467293	Jadefire Teachings	true			0			Ancient Teachings transfers an additional 270% damage to healing. Your Stamina is increased by 8%.	sweep
+270	Mistweaver	talent	467307	Rushing Wind Kick	false			10000			Kick up a powerful gust of wind, dealing 4,588 Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%. 	sweep
+270	Mistweaver	talent	1271431	Amplified Rush	true			0			The healing of Gusts of Mist caused by Renewing Mist is increased by 100%. 	sweep
+270	Mistweaver	talent	1243155	Way of the Serpent	true			0			Vivify healing increased by 15% and Renewing Mist's healing is increased by 30%.	sweep
+270	Mistweaver	talent	388779	Way of the Crane	true			0			Tiger Palms strike twice, Blackout Kicks strike an additional 2 targets at 20% effectiveness, and Spinning Crane Kick heals 1 nearby allies for 340% of the damage done.	sweep
+270	Mistweaver	talent	438439	Dance of Chi-Ji	true			0			Your spells and abilities have a chance to make your next Spinning Crane Kick deal an additional 400% damage.	sweep
+270	Mistweaver	talent	1268817	Misty Coalescence	true			0			Renewing Mist healing is increased by up to 300% in proportion to its coverage on yourself and your allies.	sweep
+270	Mistweaver	talent	446326	Zen Pulse	true			0			Renewing Mist's heal over time has a chance to cause your next Vivify to also trigger a Zen Pulse on its target and all allies with Renewing Mist, healing them for 680 increased by 6% per Renewing Mist active, up to 30%.	sweep
+270	Mistweaver	talent	122280	Healing Elixir	true			0			You consume a healing elixir when you drop below 40% health or generate excess healing elixirs, instantly healing you for 15% of your maximum health. You generate 1 healing elixir every 30 sec, stacking up to 2 times.	sweep
+270	Mistweaver	talent	274586	Invigorating Mists	true			0			Vivify heals all allies with your Renewing Mist active for 1,373. Sheilun's Gift's healing is increased by 500% on its primary target.	sweep
+270	Mistweaver	talent	388847	Rapid Diffusion	true			0			Rising Sun Kick and Enveloping Mist apply Renewing Mist for 6 seconds to an ally within 40 yds.	sweep
+270	Mistweaver	talent	388701	Dancing Mists	true			0			Renewing Mist has a 8% chance to immediately spread to an additional target when initially cast or when traveling to a new target.	sweep
+270	Mistweaver	talent	388031	Jade Bond	true			0			Chi Cocoons now apply Enveloping Mist for 4 sec when they expire or are consumed, and Chi-Ji's Gusts of Mists healing is increased by 20% and Yu'lon's Soothing Breath healing is increased by 500%.	sweep
+270	Mistweaver	talent	388212	Gift of the Celestials	true			0			Reduces the cooldown of Invoke Yul'on, the Jade Serpent by 1 min, but decreases its duration to 12 sec. 	sweep
+270	Mistweaver	talent	388682	Misty Peaks	true			0			Renewing Mist's heal over time effect has a 5.0% chance to apply Enveloping Mist for 2 sec.	sweep
+270	Mistweaver	talent	197895	Focused Thunder	true			0			Thunder Focus Tea now empowers your next 2 spells.	sweep
+270	Mistweaver	talent	388593	Peaceful Mending	true			0			Allies targeted by Soothing Mist receive 40% more healing from your Enveloping Mist and Renewing Mist effects.	sweep
+270	Mistweaver	talent	387991	Tear of Morning	true			0			Your Invigorating Mist healing is increased by 20% and your Enveloping Mist also heals allies with Renewing Mist for 8% of its healing. The duration of Enveloping Mist is increased by 4 sec while you have a celestial summoned.	sweep
+270	Mistweaver	talent	274909	Rising Mist	true			0			Rising Sun Kick extends your Renewing Mist and Enveloping Mist effects by 4 sec, up to 100% of their original duration.	sweep
+270	Mistweaver	talent	404408	Legacy of Wisdom	true			0			Sheilun's Gift heals 2 additional allies and its cast time is reduced by 0.5 sec.	sweep
+270	Mistweaver	talent	471761	Emperor's Favor	true			0			Sheilun's Gift's healing is increased by 20% and its cast time is reduced by 100%, but it now only heals a single ally.	sweep
+270	Mistweaver	talent	400053	Veil of Pride	true			0			Increases Sheilun's Gift cloud of mist generation to every 4 sec. 	sweep
+270	Mistweaver	talent	1270621	Tranquil Tea	true			0			Consuming Mana Tea generates 1 cloud of mist.	sweep
+270	Mistweaver	talent	399491	Sheilun's Gift	false			0			Draws in all nearby clouds of mist, healing the friendly target and up to 2 nearby allies for 1,772 and an additional 89 per cloud absorbed. A cloud of mist is generated every 8 sec while in combat.	sweep
+270	Mistweaver	talent	458431	Lotus Infusion	true			0			Allies with Renewing Mist receive 6% more healing from you and Renewing Mist's duration is increased by 2 sec.	sweep
+270	Mistweaver	talent	446345	Deep Clarity	true			0			After you fully consume Thunder Focus Tea, your next Vivify triggers Zen Pulse.	sweep
+270	Mistweaver	talent	1280297	Mistline	true			0			Renewing Mist's healing is increased by 500% on your lowest health ally with its effect.	sweep
+270	Mistweaver	talent	388491	Secret Infusion	true			0			After using Thunder Focus Tea, your next spell gives 4% of a stat. Only one stat increase may be active at once: |cffffffffEnveloping Mist|r: Critical strike |cffffffffRenewing Mist|r: Haste |cffffffffRising Sun Kick|r: Versatility	sweep
+270	Mistweaver	talent	467316	Jade Empowerment	true			0			Crackling Jade Lightning's damage is increased by 300% and now chains to 4 additional enemies at 25% effectiveness.	sweep
+270	Mistweaver	talent	1277302	Morning Breeze	true			0			Rising Sun Kick's damage is increased by your Mastery rating and Thunder Focus Tea resets its cooldown.	sweep
+270	Mistweaver	talent	388020	Resplendent Mist	true			0			Gust of Mists has a 30% chance to do 100% more healing.	sweep
+270	Mistweaver	talent	173841	Pool of Mists	true			0			Renewing Mist now has 3 charges and reduces the remaining cooldown of Rising Sun Kick by 1.0 sec. Rising Sun Kick now reduces the remaining cooldown of Renewing Mist by 1.0 sec.	sweep
+270	Mistweaver	talent	343655	Celestial Harmony	true			0			When activated, Yu'lon and Chi-Ji apply Chi Cocoons to 5 targets within 40 yds, absorbing 103,082 damage for 10 sec. Chi-Ji grants 4 stacks of Teachings of the Monastery when invoked. Yu'lon reduces the cast speed of Enveloping Mist by 30%.	sweep
+270	Mistweaver	talent	322118	Invoke Yu'lon, the Jade Serpent	false			120000			Summons an effigy of Yu'lon, the Jade Serpent for 25 sec. Yu'lon will heal injured allies with Soothing Breath, healing the target and up to 2 allies for 892 over 3.8 sec.  Enveloping Mist costs 50% less mana while Yu'lon is active.	sweep
+270	Mistweaver	talent	325197	Invoke Chi-Ji, the Red Crane	false			120000			Summon an effigy of Chi-Ji for 25 sec that kicks up 3 Gust of Mists when you Blackout Kick, Rising Sun Kick, or Spinning Crane Kick, healing up to 2 allies for 0. Chi-Ji's presence makes you immune to movement impairing effects, makes Enveloping Mist instant cast, and reduces the mana cost of Enveloping Mist by 20%.	sweep
+270	Mistweaver	talent	422031	Energizing Brew	true			0			Mana Tea now channels 50% faster and generates 20% more Mana.	sweep
+270	Mistweaver	talent	197915	Lifecycles	true			0			Vivify has a 20% chance to cause your next Rising Sun Kick or Enveloping Mist to generate 1 stack of Mana Tea. Enveloping Mist and Rising Sun Kick have a 20% chance to cause your next Vivify to generate 1 stack of Mana Tea.	sweep
+270	Mistweaver	talent	115310	Revival	false		1	1000	180000		Heals all party and raid members within 40 yds for 25,450 and clears them of 3 harmful Magic, all Poison, and all Disease effects. Healing reduced beyond 5 targets.	sweep
+270	Mistweaver	talent	388615	Restoral	false		1	1000	180000		Heals all party and raid members within 40 yds for 25,450 and clears them of all harmful Poison and Disease effects.  Castable while stunned. Healing reduced beyond 5 targets.	sweep
+270	Mistweaver	talent	115869	Mana Tea	true			0			For every 0 Mana you spend, you gain 1 stack of Mana Tea, with a chance equal to your critical strike chance to generate 1 extra stack. |T608949:24|t|cffffffffMana Tea|r: Consumes 1 stack of Mana Tea per 0.4 sec to restore 5,400 Mana. Can be cast while moving, but movement speed is reduced by 40% while channeling.	sweep
+270	Mistweaver	talent	116680	Thunder Focus Tea	false		1	1000	30000		Receive a jolt of energy, empowering your next spell cast: |cffffffffEnveloping Mist|r: Immediately heals for 3,182 and is instant cast. |cffffffffRenewing Mist|r: Duration increased by 10 sec. |cffffffffRising Sun Kick|r: Cooldown reduced by 9 sec. 	sweep
+270	Mistweaver	talent	124682	Enveloping Mist	false			0			Wraps the target in healing mists, healing for 3,752 over 6 sec, and increasing healing received from your other spells by 10%. 	sweep
+270	Mistweaver	talent	116844	Ring of Peace	false			45000			Form a Ring of Peace at the target location for 5 sec. Enemies that enter will be ejected from the Ring.	sweep
+270	Mistweaver	talent	198898	Song of Chi-Ji	false			30000			Conjures a cloud of hypnotic mist that slowly travels forward. Enemies touched by the mist fall asleep, Disoriented for 20 sec.	sweep
+270	Mistweaver	talent	450595	Spirit's Essence	true			0			Transcendence: Transfer snares targets within 10 yds by 70% for 4 sec when cast.	sweep
+270	Mistweaver	talent	432181	Dance of the Wind	true			0			Your physical damage taken is reduced by 10% and an additional 10% every 4 sec until you receive a physical attack.	sweep
+270	Mistweaver	talent	322113	Improved Touch of Death	true			0			Touch of Death can now be used on targets with less than 15% health remaining, dealing 35% of your maximum health in damage.	sweep
+270	Mistweaver	talent	450432	Pressure Points	true			0			Paralysis now removes all Enrage effects from its target.	sweep
+270	Mistweaver	talent	115078	Paralysis	false			45000			Incapacitates the target for 1 min. Limit 1. Damage may cancel the effect.	sweep
+270	Mistweaver	talent	115175	Soothing Mist	false			0			Heals the target for 7,143 over 6.8 sec. While channeling, Enveloping Mist and Vivify may be cast instantly on the target.	sweep
+270	Mistweaver	talent	388681	Elusive Mists	true			0			Reduces all damage taken by you and your target while channeling Soothing Mists by 6%.	sweep
+270	Mistweaver	talent	388811	Grace of the Crane	true			0			Increases all healing taken by 6%.	sweep
+270	Mistweaver	talent	116841	Tiger's Lust	false			30000			Increases a friendly target's movement speed by 70% for 6 sec and removes all roots and snares.	sweep
+270	Mistweaver	talent	450514	Wind's Reach	true			0			The range of Disable is increased by 5 yds.   The duration of Crashing Momentum is increased by 3 sec and its snare now reduces movement speed by an additional 20%.	sweep
+270	Mistweaver	talent	450335	Crashing Momentum	true			0			Targets you Roll through are snared by 40% for 5 sec.	sweep
+270	Mistweaver	talent	116095	Disable	false			0			Reduces the target's movement speed by 50% for 15 sec, duration refreshed by your melee attacks.	sweep
+270	Mistweaver	talent	388664	Calming Presence	true			0			Reduces all damage taken by 3%.	sweep
+270	Mistweaver	talent	450154	Rushing Reflexes	true			0			Your heightened reflexes allow you to react swiftly to the presence of enemies, causing you to quickly lunge to the nearest enemy in front of you within 10 yards after you Roll.	sweep
+270	Mistweaver	talent	450622	Swift Art	true			0			Roll removes a snare effect once every 30 sec.	sweep
+270	Mistweaver	talent	389579	Save Them All	true			0			Your healing is increased by up to 10%, based on the current health of your target. Lower health targets are healed for more.	sweep
+270	Mistweaver	talent	450503	Quick Footed	true			0			The duration of snare effects on you is reduced by 20%.	sweep
+270	Mistweaver	talent	328670	Hasty Provocation	true			0			Provoked targets move towards you at 50% increased speed.	sweep
+270	Mistweaver	talent	450553	Jade Walk	true			0			While out of combat, your movement speed is increased by 15%.	sweep
+270	Mistweaver	talent	450520	Bounding Agility	true			0			Roll and Chi Torpedo travel a small distance further.	sweep
+270	Mistweaver	talent	450448	Peace and Prosperity	true			0			Reduces the cooldown of Ring of Peace by 5 sec and Song of Chi-Ji's cast time is reduced by 0.5 sec.	sweep
+270	Mistweaver	talent	1242910	Jade Infusion	true			0			Thunder Focus Tea summons a Jade Serpent Statue at your location. When you channel Soothing Mist, the statue will also begin to channel Soothing Mist on your target, healing for 2,381 over 6.8 sec.	sweep
+270	Mistweaver	talent	115313	Summon Jade Serpent Statue	false			10000			Summons a Jade Serpent Statue at the target location. When you channel Soothing Mist, the statue will also begin to channel Soothing Mist on your target, healing for 2,381 over 6.8 sec.	sweep
+270	Mistweaver	talent	414131	Yu'lon's Grace	true			0			Find resilience in the flow of chi in battle, gaining a magic absorb shield for 1.0% of your max health every 3 sec in combat, stacking up to 10%.	sweep
+270	Mistweaver	talent	388674	Ferocity of Xuen	true			0			Increases all damage dealt by 2%.	sweep
+270	Mistweaver	talent	101643	Transcendence	false			10000			Split your body and spirit, leaving your spirit behind for 15 min. Use Transcendence: Transfer to swap locations with your spirit.	sweep
+270	Mistweaver	talent	449582	Lighter Than Air	true			0			Roll causes you to become lighter than air, allowing you to double jump to dash forward a short distance once within 5 sec, but the cooldown of Roll is increased by 2 sec.	sweep
+270	Mistweaver	talent	450426	Chi Proficiency	true			0			Magical damage done increased by 5% and healing done increased by 5%.	sweep
+270	Mistweaver	talent	450569	Flow of Chi	true			0			You gain a bonus effect based on your current health. Above 90% health: Movement speed increased by 5%. This bonus stacks with similar effects. Between 90% and 35% health: Damage taken reduced by 5%. Below 35% health: Healing received increased by 10%. 	sweep
+270	Mistweaver	talent	450560	Healing Winds	true			0			Transcendence: Transfer immediately heals you for 10% of your maximum health.	sweep
+270	Mistweaver	talent	115203	Fortifying Brew	false			360000			Turns your skin to stone for 15 sec.	sweep
+270	Mistweaver	talent	388814	Ironshell Brew	true			0			Increases your maximum health by an additional 10% and your damage taken is reduced by an additional 10% while Fortifying Brew is active.	sweep
+270	Mistweaver	talent	388813	Expeditious Fortification	true			0			Fortifying Brew cooldown reduced by 30 sec.	sweep
+270	Mistweaver	talent	157411	Windwalking	true			0			You and your allies within 10 yards have 10% increased movement speed. Stacks with other similar effects.	sweep
+270	Mistweaver	talent	394110	Escape from Reality	true			0			After you use Transcendence: Transfer, you can use Transcendence: Transfer again within 10 sec, ignoring its cooldown.	sweep
+270	Mistweaver	talent	434774	Transcendence: Linked Spirits	true			10000			Transcendence now tethers your spirit onto an ally for 1 |4hour:hrs;. Use Transcendence: Transfer to teleport to your ally's location.	sweep
+270	Mistweaver	talent	1272452	Chi Transfer	true			0			Touch of Death now heals you for 50% of its damage done.	sweep
+270	Mistweaver	talent	394123	Fatal Touch	true			0			Touch of Death's cooldown is reduced by 90 sec.	sweep
+270	Mistweaver	talent	450427	Martial Instincts	true			0			Increases your Physical damage done by 5% and Avoidance increased by 2%.	sweep
+270	Mistweaver	talent	450638	Celestial Determination	true			0			While your Celestial is active, you cannot be slowed below 90% normal movement speed.	sweep
+270	Mistweaver	talent	264348	Tiger Tail Sweep	true			0			Increases the range of Leg Sweep by 4 yds.	sweep
+270	Mistweaver	talent	115173	Celerity	true			0			Reduces the cooldown of Roll by 5 sec and increases its maximum number of charges by 1.	sweep
+270	Mistweaver	talent	115008	Chi Torpedo	false		2	0	20000		Torpedoes you forward a long distance and increases your movement speed by 30% for 10 sec, stacking up to 2 times.	sweep
+270	Mistweaver	talent	344359	Ancient Arts	true			0			Reduces the cooldown of Paralysis by 15 sec and the cooldown of Leg Sweep by 10 sec.	sweep
+270	Mistweaver	talent	388809	Fast Feet	true			0			Rising Sun Kick deals 70% increased damage. Spinning Crane Kick deals 10% additional damage. 	sweep
+270	Mistweaver	talent	107428	Rising Sun Kick	false			10000			Kick upwards, dealing 3,670 Physical damage.	sweep
+270	Mistweaver	hero	451024	Overwhelming Force	true			0			Rising Sun Kick, Blackout Kick and Tiger Palm deal 15% additional damage to enemies in a line in front of you. Damage reduced above 5 targets.	sweep
+270	Mistweaver	hero	451041	Tiger's Vigor	true			0			Casting Tiger's Lust reduces the remaining cooldown on Roll by 5 sec.	sweep
+270	Mistweaver	hero	451043	Roar from the Heavens	true			0			Tiger's Lust grants 20% movement speed to up to 2 allies near its target.	sweep
+270	Mistweaver	hero	450875	Manifestation	true			0			Chi Burst and Chi Wave deal 50% increased damage and healing.	sweep
+270	Mistweaver	hero	450508	Aspect of Harmony	true			0			Store vitality from 10% of your damage dealt and 30% of your healing. For 10 sec after casting Thunder Focus Tea your spells and abilities draw upon the stored vitality to deal 40% additional healing over 8 sec.	sweep
+270	Mistweaver	hero	450867	Purified Spirit	true			0			When Aspect of Harmony ends, any remaining vitality is expelled as healing over 8 sec, split among nearby targets.	sweep
+270	Mistweaver	hero	450870	Harmonic Gambit	true			0			During Aspect of Harmony, Rising Sun Kick, Blackout Kick, and Tiger Palm also withdraw vitality to damage enemies for an additional 20% over 8 sec.	sweep
+270	Mistweaver	hero	450892	Endless Draught	true			0			Thunder Focus Tea has 1 additional charge.	sweep
+270	Mistweaver	hero	450912	Path of Resurgence	true			0			Chi Burst increases vitality stored by 25% for 10 sec.	sweep
+270	Mistweaver	hero	450965	Way of a Thousand Strikes	true			0			Rising Sun Kick, Blackout Kick and Tiger Palm contribute 30% additional vitality.	sweep
+270	Mistweaver	hero	450529	Coalescence	true			0			When Aspect of Harmony heals, it has a chance to spread to a nearby ally. When you directly heal an affected target, it has a chance to intensify, withdrawing additional vitality to increase its effect by up to 20%. Vivify no longer contributes vitality. While Aspect of Harmony is not active, Vivify instead draws on available vitality to deal an additional 100% healing over 8 sec. Vitality stored by other abilities is increased by 50%.	sweep
+270	Mistweaver	hero	451017	Clarity of Purpose	true			0			Casting Enveloping Mist stores 1,273 additional vitality.	sweep
+270	Mistweaver	hero	451036	Mantra of Purity	true			0			When cast on yourself, your single-target healing spells heal for 10% more and restore an additional 637 health over 6 sec.	sweep
+270	Mistweaver	hero	451029	Mantra of Tenacity	true			0			Fortifying Brew grants 20% Stagger.	sweep
+270	Mistweaver	hero	450889	Balanced Stratagem	true			0			Casting a Physical spell or ability increases the damage and healing of your next Fire or Nature spell or ability by 3%, and vice versa. Stacks up to 5.	sweep
+270	Mistweaver	hero	442719	Restore Balance	true			0				sweep
+270	Mistweaver	hero	443625	Yu'lon's Knowledge	true			0			Rising Sun Kick damage increased by 15%.	sweep
+270	Mistweaver	hero	1273154	Path of the Falling Star	true			0			Celestial Conduit's healing and damage is increased by 100% when striking a single target. Each addtional target reduces this bonus by 20%.	sweep
+270	Mistweaver	hero	443571	Inner Compass	true			0			You switch between alignments every 8 sec, increasing a corresponding secondary stat by 2%. |cFFFFFFFFCrane Stance|r: Haste |cFFFFFFFFTiger Stance|r: Critical Strike |cFFFFFFFFOx Stance|r: Versatility |cFFFFFFFFSerpent Stance|r:  Mastery	sweep
+270	Mistweaver	hero	442743	Temple Training	true			0				sweep
+270	Mistweaver	hero	442687	Xuen's Guidance	true			0			Teachings of the Monastery has a 15% chance to refund a charge when consumed.  The damage of Tiger Palm is increased by 10%.	sweep
+270	Mistweaver	hero	443566	Chi-Ji's Swiftness	true			0			Your movement speed is increased by 75% during Celestial Conduit and by 15% for 3 sec after being assisted by any Celestial. 	sweep
+270	Mistweaver	hero	442747	Niuzao's Protection	true			0			Fortifying Brew grants you an absorb shield for 25% of your maximum health.	sweep
+270	Mistweaver	hero	443059	Jade Sanctuary	true			0			You heal for 10% of your maximum health instantly when you activate Celestial Conduit and receive 15% less damage for its duration.  This effect lingers for an additional 8 sec after Celestial Conduit ends.	sweep
+270	Mistweaver	hero	443589	Unity Within	true			0			Celestial Conduit can be recast once during its duration to call upon all of the August Celestials to assist you at 200% effectiveness. Unity Within is automatically cast when Celestial Conduit ends if not used before expiration.	sweep
+270	Mistweaver	hero	1262756	Stampede of the Ancients	true			0			Strength of the Black Ox's effect is 400% more effective on your primary target.	sweep
+270	Mistweaver	hero	443087	Courage of the White Tiger	true			0			Xuen claws your target for 8,614 Physical damage, healing a nearby ally for 100% of the damage done. Invoking a celestial guarantees your next cast activates this effect.	sweep
+270	Mistweaver	hero	450993	Vigilant Watch	true			0			Blackout Kick deals an additional 30% critical damage.	sweep
+270	Mistweaver	hero	450991	Whirling Steel	true			0			When your health drops below 50%, summon Whirling Steel, increasing your parry chance and avoidance by 15% for 6 sec. This effect can not occur more than once every 180 sec.	sweep
+270	Mistweaver	hero	450992	Predictive Training	true			0			When you dodge or parry an attack, reduce all damage taken by 10% for the next 6 sec.	sweep
+270	Mistweaver	hero	450990	Martial Precision	true			0			Your attacks penetrate 12% armor.	sweep
+270	Mistweaver	hero	450979	Pride of Pandaria	true			0			Flurry Strikes have 15% additional chance to critically strike.	sweep
+270	Mistweaver	hero	450982	High Impact	true			0			Enemies who die within 10 sec of being damaged by a Flurry Strike explode, dealing 2,552 physical damage to uncontrolled enemies within 8 yds.	sweep
+270	Mistweaver	hero	450615	Flurry Strikes	true			0			Your auto attacks have a chance to generate 1-2 Flurry Charges. When you cast Keg Smash, unleash all Flurry Charges, dealing 1,531 Physical damage per charge. 	sweep
+270	Mistweaver	hero	450987	Veteran's Eye	true			0			Haste increased by 5%.	sweep
+270	Mistweaver	hero	450988	One Versus Many	true			0			Auto attack critical strikes generate double the amount of Flurry Charges. Keg Smash damage increased by 35%.	sweep
+270	Mistweaver	hero	450989	Efficient Training	true			0			Energy spenders deal an additional 20% damage. The cooldown of Invoke Niuzao, the Black Ox is reduced by 25 sec.	sweep
+270	Mistweaver	hero	1272821	Wisdom of the Wall	true			0			Invoke Niuzao, the Black Ox causes Breath of Fire to launch 3 Flurry Strikes.	sweep
+270	Mistweaver	hero	450986	Against All Odds	true			0			Your agility is increased by 4%.	sweep
+270	Mistweaver	hero	1272844	Combat Stance	true			0			The cooldown of Roll is decreased by 10%.	sweep
+270	Mistweaver	hero	1272849	Initiator's Edge	true			0			Movement speed is increased by 50% for the first 8 sec of combat.	sweep
+270	Mistweaver	talent	450391	Chi Wave	true			0			Every 15 sec, your next Rising Sun Kick or Vivify releases a wave of Chi energy that flows through friends and foes, dealing 510 Nature damage or 1,522 healing. Bounces up to 7 times to targets within 25 yards.	sweep
+270	Mistweaver	talent	1243287	Diffuse Magic	true			0			Activating Fortifying Brew transfers all currently active harmful magical effects on you back to their original caster if possible.	sweep
+270	Mistweaver	talent	1260511	Spiritfont	true			0			Rising Sun Kick and Vivify have a chance to activate Spiritfont, causing your next Enveloping Mist's cast time to be reduced by 50% and channel Soothing Mist from you onto up to 5 allies at 20% effectiveness for 8 sec. If Spiritfont's Soothing Mists heal a full health target, they will jump to another injured ally or split its healing into your remaining Soothing Mists.	sweep
+270	Mistweaver	talent	1260677	Spiritfont	true			0			Rising Sun Kick damage increased by 10% and Enveloping Mist healing increased by 10%. These bonuses are increased by 50% while Spiritfont is active.	sweep
+270	Mistweaver	talent	1260680	Spiritfont	true			0			Thunder Focus Tea activates Spiritfont and Spiritfont applies Chi Cocoons at 30% effectiveness to allies targeted.	sweep
+270	Mistweaver	hero	1270958	Harmonic Surge	true			0			Casting Thunder Focus Tea grants 2 charges of Potential Energy. Your next cast of Tiger Palm or Vivify consumes all charges of Potential Energy to cause a Harmonic Surge. |T1041235:24|t|cffffffffHarmonic Surge|r: For each charge of Potential Energy, deal 934 Nature damage to your target and 934 Nature damage to other nearby enemies, and heal up to 5 allies for 213. Damage reduced above 5 targets.	sweep
+270	Mistweaver	hero	1271048	Potential Energy	true			0			Casting Keg Smash grants a charge of Potential Energy.	sweep
+270	Mistweaver	hero	1271105	Meditative Focus	true			0			|T574568:24|t Blackout Combo: Increases Tiger Palm damage by an additional 50% and Keg Smash reduces the cooldown on your Brews by an additional 1.0 sec. |T2032605:24|t  Press the Advantage: Nature damage dealt by your main hand auto-attacks is increased by 100% and they now reduce the cooldown on your Brews by an additional 0.25 sec.	sweep
+270	Mistweaver	hero	1262612	Shado Over the Battlefield	true			0			Flurry Strikes deal 1,327 Nature damage to all enemies within 6 yds, reduced beyond 8 targets.	sweep
+270	Mistweaver	hero	1262603	Stand Ready	true			0			Activating Invoke Niuzao, the Black Ox instantly grants 10 stacks of Flurry Strikes that trigger on your next attack at 70% effectiveness.	sweep
+270	Mistweaver	hero	1262610	Weapons of the Wall	true			0			Invoke Niuzao, the Black Ox's stomp damage increased by 20%.	sweep
+270	Mistweaver	hero	1262672	Flowing Wisdom	true			0			Heart of the Jade Serpent increases your haste by 10% while active.	sweep
+270	Mistweaver	hero	443294	Heart of the Jade Serpent	true			0			 upon Yu'lon to increase the cooldown recovery rate of  by 75% for .	sweep
+270	Mistweaver	talent	1266811	Mist Caller	true			0			Vivify and Sheilun's Gift trigger a Gust of Mist on yourself.	sweep
+270	Mistweaver	talent	1266748	Vital Clarity	true			0			Vivify and Sheilun's Gift critical strike chances are increased by 15% on yourself.	sweep
+270	Mistweaver	talent	1266719	Silent Sanctuary	true			0			While no enemies are within 15 yds, you heal for 1,275 every 3 sec.	sweep
+270	Mistweaver	talent	1266733	Stillstep Coil	true			0			Leg Sweep applies Disable for 5.0 sec when it ends.	sweep
+270	Mistweaver	talent	388812	Vivacious Vivification	true			0			After casting Rising Sun Kick, your next Vivify becomes instant cast. This effect also reduces the energy cost of Vivify by 75%. 	sweep
+270	Mistweaver	talent	1266734	Serene Surge	true			0			After casting Enveloping Mist, your next Vivify becomes instant cast. 	sweep
+270	Mistweaver	talent	1266740	Reinvigoration	true			0			After Detox successfully removes an effect from an ally, their movement speed is increased by 30% for 5 sec.	sweep
+270	Mistweaver	hero	443028	Celestial Conduit	false			90000			The August Celestials empower you, causing you to radiate 28,077 Nature damage onto enemies and 23,375 healing onto up to 5 injured allies within 15 yds over 3.4 sec, reduced beyond 5 targets. You may move while channeling, but casting other healing or damaging spells cancels this effect. 	sweep
+270	Mistweaver	talent	1277444	Chi Warding	true			0			You heal for 3% of all magical damage taken.	sweep
+270	Mistweaver	hero	443110	Strength of the Black Ox	true			0				sweep
+270	Mistweaver	hero	1262667	Yu'lon's Avatar	true			0			Vivify and Sheilun's Gift have a chance to trigger Heart of the Jade Serpent for 4 sec at 100% effectiveness.	sweep
+268	Brewmaster	talent	1263346	Swift as a Coursing River	true			0			Drinking from a Brew increases your movement speed by 15% and your auto-attack speed by 10% for 15 sec.	sweep
+268	Brewmaster	talent	119582	Purifying Brew	false		2	1000	20000		Clears 50% of your |CFFffffffStaggered|R damage, or a minimum of 8% of your maximum health.	sweep
+268	Brewmaster	talent	387625	Staggering Strikes	true			0			When you Blackout Kick, your |CFFffffffStagger|R is reduced by 15,222, increased by up to 200% based on your missing health.	sweep
+268	Brewmaster	talent	388505	Quick Sip	true			0			Purify 5% of your Staggered damage each time you gain 3 sec of Shuffle duration.	sweep
+268	Brewmaster	talent	322507	Celestial Brew	false		1	0	45000		A swig of strong brew that coalesces purified chi escaping your body into a celestial guard, absorbing 57,539 damage.	sweep
+268	Brewmaster	talent	1241059	Celestial Infusion	false		1	0	45000		A strong herbal brew that coalesces purified chi escaping your body into a celestial guard, absorbing 30% of incoming damage, up to 57,890 total.	sweep
+268	Brewmaster	talent	322960	Fortifying Brew: Determination	true			0			Fortifying Brew increases |CFFffffffStagger|R effectiveness by 15% while active. Combines with other Fortifying Brew effects.	sweep
+268	Brewmaster	talent	115181	Breath of Fire	false			15000			Breathe fire on targets in front of you, causing 2,552 Fire damage. Deals reduced damage to secondary targets. Targets affected by Keg Smash will also burn, taking 1,684 Fire damage and dealing 5% reduced damage to you for 12 sec.	sweep
+268	Brewmaster	talent	1262334	Jade Flash	true			0			Crackling Jade Lightning deals its damage in 75% less time, costs 75% less Energy, and strikes 4 additional targets, but has a 60 sec cooldown.	sweep
+268	Brewmaster	talent	124502	Gift of the Ox	true			0			When you take damage, you have a chance to summon a Healing Sphere. |T606546:24|t|cffffffffHealing Sphere|r: Summon a Healing Sphere visible only to you. Moving through this Healing Sphere heals you for 8,372.	sweep
+268	Brewmaster	talent	383695	Improved Blackout Kick	true			0			Blackout Kick deals 20% increased damage.	sweep
+268	Brewmaster	talent	322740	Mighty Stomp	true			0			While active, Invoke Niuzao, the Black Ox can be recast to cause Niuzao to stomp mightily and knock nearby enemies into the air.	sweep
+268	Brewmaster	talent	387219	Walk with the Ox	true			0			Your damaging abilities have a chance to invoke Niuzao, causing him to charge to your target's location and Stomp, dealing 10,210 Physical damage to your target and reduced damage to secondary targets. 	sweep
+268	Brewmaster	talent	132578	Invoke Niuzao, the Black Ox	false			120000			Summons an effigy of Niuzao, the Black Ox for 25 sec that attacks your primary target and Stomps when you cast Blackout Kick, damaging all nearby enemies. While active, 40% of damage delayed by Stagger is instead Staggered by Niuzao, and Niuzao is healed for 100% of your purified Stagger.	sweep
+268	Brewmaster	talent	1263353	Celestial Flames	true			0			Drinking from Brews has a 30% chance to coat you with Celestial Flames for 6 sec. While Celestial Flames is active: |T594274:24|t |cffffffffSpecial Delivery|r: Kegs thrown by Special Delivery are ignited and splash upon landing, dealing 2,552 Fire damage to up to 5 nearby enemies. |T606549:24|t |cffffffffRushing Jade Wind|r: Rushing Jade Wind becomes a firestorm, increasing its radius by 30% and causing it to deal Fire damage. 	sweep
+268	Brewmaster	talent	1241136	Zen State	true			0			The effectiveness of your Stagger is increased by up to 15%, based on your missing health.	sweep
+268	Brewmaster	talent	387638	Shadowboxing Treads	true			0			Blackout Kick's damage increased by 20% and it strikes an additional 2 targets.	sweep
+268	Brewmaster	talent	387230	Fluidity of Motion	true			0			Blackout Kick's cooldown is reduced by 1 sec.	sweep
+268	Brewmaster	talent	383785	Counterstrike	true			0			Each time you dodge or an enemy misses you, your next Tiger Palm or Spinning Crane Kick deals 100% increased damage.	sweep
+268	Brewmaster	talent	389942	Face Palm	true			0			Tiger Palm's damage is increased by 100% and reduces the remaining cooldown of your Brews by 0.5 additional sec.	sweep
+268	Brewmaster	talent	386937	Anvil and Stave	true			0			Each time you dodge or an enemy misses you, the remaining cooldown on your Brews is reduced by 0.5 sec. Effect reduced by 50% for each additional recent attacker, up to 5.	sweep
+268	Brewmaster	talent	325093	Light Brewing	true			0			Reduces the cooldown of Purifying Brew, Celestial Brew, and Celestial Infusion by 20%.	sweep
+268	Brewmaster	talent	383714	Training of Niuzao	true			0			Gain up to 15% Mastery based on your current level of Stagger.	sweep
+268	Brewmaster	talent	393357	Tranquil Spirit	true			0			When you consume a Healing Sphere, you clear 5% of your currently |CFFffffffStaggered|R damage.	sweep
+268	Brewmaster	talent	1241097	Niuzao's Resolve	true			0			Healing Spheres now heal over 10 sec, and their healing is increased by up to 80% based on your missing health.	sweep
+268	Brewmaster	talent	455139	Elixir of Determination	true			0			When you fall below 40% health, you gain an absorb for 30% of your recently Purified damage, or a minimum of 8% of your maximum health. Cannot occur more than once every 15 sec.	sweep
+268	Brewmaster	talent	400629	Spirit of the Ox	true			0			Blackout Kick has a chance to summon a Healing Sphere. |T606546:24|t|cffffffffHealing Sphere|r: Summon a Healing Sphere visible only to you. Moving through this Healing Sphere heals you for 8,372.	sweep
+268	Brewmaster	talent	322120	Shuffle	true			0			Niuzao's teachings allow you to shuffle during combat, increasing the effectiveness of your |CFFffffffStagger|R by 100%. Shuffle is granted by attacking enemies with your Keg Smash, Blackout Kick, and Spinning Crane Kick. |T611419:24|t |cffffffffStagger|r: You shrug off attacks, delaying a portion of Physical damage based on your Agility, instead taking it over 10 sec. Affects magical attacks at 58% effectiveness. 	sweep
+268	Brewmaster	talent	121253	Keg Smash	false		1	1000	8000		Smash a keg of brew, dealing 7,274 Physical damage to your primary target and 4,849 Physical damage to all other enemies within 8 yds, and reducing their movement speed by 20% for 15 sec. Deals reduced damage beyond 5 targets.	sweep
+268	Brewmaster	talent	218164	Detox	false		1	0	8000		Removes all Poison and Disease effects from the target.	sweep
+268	Brewmaster	talent	387276	Strength of Spirit	true			0			Expel Harm's healing is increased by up to 100%, based on your missing health.	sweep
+268	Brewmaster	talent	392910	Profound Rebuttal	true			0			Expel Harm's critical healing is increased by 50%.	sweep
+268	Brewmaster	talent	116844	Ring of Peace	false			45000			Form a Ring of Peace at the target location for 5 sec. Enemies that enter will be ejected from the Ring.	sweep
+268	Brewmaster	talent	198898	Song of Chi-Ji	false			30000			Conjures a cloud of hypnotic mist that slowly travels forward. Enemies touched by the mist fall asleep, Disoriented for 20 sec.	sweep
+268	Brewmaster	talent	450595	Spirit's Essence	true			0			Transcendence: Transfer snares targets within 10 yds by 70% for 4 sec when cast.	sweep
+268	Brewmaster	talent	322113	Improved Touch of Death	true			0			Touch of Death can now be used on targets with less than 15% health remaining, dealing 35% of your maximum health in damage.	sweep
+268	Brewmaster	talent	450432	Pressure Points	true			0			Paralysis now removes all Enrage effects from its target.	sweep
+268	Brewmaster	talent	115078	Paralysis	false			45000			Incapacitates the target for 1 min. Limit 1. Damage may cancel the effect.	sweep
+268	Brewmaster	talent	115175	Soothing Mist	false			0			Heals the target for 7,143 over 6.8 sec. While channeling, Enveloping Mist and Vivify may be cast instantly on the target.	sweep
+268	Brewmaster	talent	388681	Elusive Mists	true			0			Reduces all damage taken by you and your target while channeling Soothing Mists by 6%.	sweep
+268	Brewmaster	talent	388812	Vivacious Vivification	true			0			After casting Rising Sun Kick, your next Vivify becomes instant cast. This effect also reduces the energy cost of Vivify by 75%. 	sweep
+268	Brewmaster	talent	388811	Grace of the Crane	true			0			Increases all healing taken by 6%.	sweep
+268	Brewmaster	talent	116841	Tiger's Lust	false			30000			Increases a friendly target's movement speed by 70% for 6 sec and removes all roots and snares.	sweep
+268	Brewmaster	talent	450514	Wind's Reach	true			0			The range of Disable is increased by 5 yds.   The duration of Crashing Momentum is increased by 3 sec and its snare now reduces movement speed by an additional 20%.	sweep
+268	Brewmaster	talent	450335	Crashing Momentum	true			0			Targets you Roll through are snared by 40% for 5 sec.	sweep
+268	Brewmaster	talent	116095	Disable	false			0			Reduces the target's movement speed by 50% for 15 sec, duration refreshed by your melee attacks.	sweep
+268	Brewmaster	talent	450631	Energy Transfer	true			0			Successfully interrupting an enemy reduces the cooldown of Paralysis and Roll by 5 sec.	sweep
+268	Brewmaster	talent	116705	Spear Hand Strike	false			15000			Jabs the target in the throat, interrupting spellcasting and preventing any spell from that school of magic from being cast for 5 sec.	sweep
+268	Brewmaster	talent	388664	Calming Presence	true			0			Reduces all damage taken by 3%.	sweep
+268	Brewmaster	talent	450154	Rushing Reflexes	true			0			Your heightened reflexes allow you to react swiftly to the presence of enemies, causing you to quickly lunge to the nearest enemy in front of you within 10 yards after you Roll.	sweep
+268	Brewmaster	talent	450622	Swift Art	true			0			Roll removes a snare effect once every 30 sec.	sweep
+268	Brewmaster	talent	392900	Vigorous Expulsion	true			0			Expel Harm's healing increased by 5% and critical strike chance increased by 15%. 	sweep
+268	Brewmaster	talent	389579	Save Them All	true			0			Your healing is increased by up to 10%, based on the current health of your target. Lower health targets are healed for more.	sweep
+268	Brewmaster	talent	450503	Quick Footed	true			0			The duration of snare effects on you is reduced by 20%.	sweep
+268	Brewmaster	talent	328670	Hasty Provocation	true			0			Provoked targets move towards you at 50% increased speed.	sweep
+268	Brewmaster	talent	450553	Jade Walk	true			0			While out of combat, your movement speed is increased by 15%.	sweep
+268	Brewmaster	talent	450520	Bounding Agility	true			0			Roll and Chi Torpedo travel a small distance further.	sweep
+268	Brewmaster	talent	450448	Peace and Prosperity	true			0			Reduces the cooldown of Ring of Peace by 5 sec and Song of Chi-Ji's cast time is reduced by 0.5 sec.	sweep
+268	Brewmaster	talent	414131	Yu'lon's Grace	true			0			Find resilience in the flow of chi in battle, gaining a magic absorb shield for 1.0% of your max health every 3 sec in combat, stacking up to 10%.	sweep
+268	Brewmaster	talent	388674	Ferocity of Xuen	true			0			Increases all damage dealt by 2%.	sweep
+268	Brewmaster	talent	101643	Transcendence	false			10000			Split your body and spirit, leaving your spirit behind for 15 min. Use Transcendence: Transfer to swap locations with your spirit.	sweep
+268	Brewmaster	talent	449582	Lighter Than Air	true			0			Roll causes you to become lighter than air, allowing you to double jump to dash forward a short distance once within 5 sec, but the cooldown of Roll is increased by 2 sec.	sweep
+268	Brewmaster	talent	450426	Chi Proficiency	true			0			Magical damage done increased by 5% and healing done increased by 5%.	sweep
+268	Brewmaster	talent	450569	Flow of Chi	true			0			You gain a bonus effect based on your current health. Above 90% health: Movement speed increased by 5%. This bonus stacks with similar effects. Between 90% and 35% health: Damage taken reduced by 5%. Below 35% health: Healing received increased by 10%. 	sweep
+268	Brewmaster	talent	450560	Healing Winds	true			0			Transcendence: Transfer immediately heals you for 10% of your maximum health.	sweep
+268	Brewmaster	talent	115315	Summon Black Ox Statue	false			10000			Summons a Black Ox Statue at the target location for 15 min, pulsing threat to all enemies within 20 yards. You may cast Provoke on the statue to taunt all enemies near the statue.	sweep
+268	Brewmaster	talent	115203	Fortifying Brew	false			360000			Turns your skin to stone for 15 sec.	sweep
+268	Brewmaster	talent	388814	Ironshell Brew	true			0			Increases your maximum health by an additional 10% and your damage taken is reduced by an additional 10% while Fortifying Brew is active.	sweep
+268	Brewmaster	talent	388813	Expeditious Fortification	true			0			Fortifying Brew cooldown reduced by 30 sec.	sweep
+268	Brewmaster	talent	157411	Windwalking	true			0			You and your allies within 10 yards have 10% increased movement speed. Stacks with other similar effects.	sweep
+268	Brewmaster	talent	394110	Escape from Reality	true			0			After you use Transcendence: Transfer, you can use Transcendence: Transfer again within 10 sec, ignoring its cooldown.	sweep
+268	Brewmaster	talent	434774	Transcendence: Linked Spirits	true			10000			Transcendence now tethers your spirit onto an ally for 1 |4hour:hrs;. Use Transcendence: Transfer to teleport to your ally's location.	sweep
+268	Brewmaster	talent	1272452	Chi Transfer	true			0			Touch of Death now heals you for 50% of its damage done.	sweep
+268	Brewmaster	talent	394123	Fatal Touch	true			0			Touch of Death's cooldown is reduced by 90 sec.	sweep
+268	Brewmaster	talent	450427	Martial Instincts	true			0			Increases your Physical damage done by 5% and Avoidance increased by 2%.	sweep
+268	Brewmaster	talent	450638	Celestial Determination	true			0			While your Celestial is active, you cannot be slowed below 90% normal movement speed.	sweep
+268	Brewmaster	talent	414132	Dance of the Wind	true			0			Your dodge chance is increased by 5%.	sweep
+268	Brewmaster	talent	264348	Tiger Tail Sweep	true			0			Increases the range of Leg Sweep by 4 yds.	sweep
+268	Brewmaster	talent	115173	Celerity	true			0			Reduces the cooldown of Roll by 5 sec and increases its maximum number of charges by 1.	sweep
+268	Brewmaster	talent	115008	Chi Torpedo	false		2	0	20000		Torpedoes you forward a long distance and increases your movement speed by 30% for 10 sec, stacking up to 2 times.	sweep
+268	Brewmaster	talent	344359	Ancient Arts	true			0			Reduces the cooldown of Paralysis by 15 sec and the cooldown of Leg Sweep by 10 sec.	sweep
+268	Brewmaster	talent	383994	Dragonfire Brew	true			0			Breath of Fire deals 100% increased damage, and after using Breath of Fire, you breathe fire 2 additional times, each dealing 510 Fire damage.	sweep
+268	Brewmaster	talent	386965	Charred Passions	true			0			Your Breath of Fire ignites your right leg in flame for 8 sec, causing your Blackout Kick and Spinning Crane Kick to deal 50% additional damage as Fire damage and refresh the duration of your Breath of Fire on the target.	sweep
+268	Brewmaster	talent	383698	Scalding Brew	true			0			Keg Smash deals an additional 20% damage to targets affected by Breath of Fire.	sweep
+268	Brewmaster	talent	383697	Sal'salabim's Strength	true			0			When you use Keg Smash, the remaining cooldown on Breath of Fire is reset.	sweep
+268	Brewmaster	talent	196737	High Tolerance	true			0			Stagger is 5% more effective at delaying damage. Purifying Brew refunds 4.0 sec of its cooldown if cast at |cffffffffElevated Stagger|r.	sweep
+268	Brewmaster	talent	280515	Bob and Weave	true			0			Increases the duration of |CFFffffffStagger|R by 5.0 sec, causing |CFFffffffStaggered|R damage to be dealt to you more gradually.	sweep
+268	Brewmaster	talent	115399	Black Ox Brew	false			120000			Chug some Black Ox Brew, which instantly refills your Energy, Purifying Brew charges, and grants one charge of Celestial Brew or Celestial Infusion.	sweep
+268	Brewmaster	talent	418359	Press the Advantage	true			0			Your main hand auto attacks reduce the cooldown on your Brews by 0.50 sec and block your target's chi, dealing 765 additional Nature damage. After 10 attacks, the next casts Tiger Palm at 100% effectiveness.	sweep
+268	Brewmaster	talent	196736	Blackout Combo	true			0			Blackout Kick also empowers your next ability: |T606551:24|t Tiger Palm: Damage increased by 100%. |T594274:24|t Keg Smash: Reduces the remaining cooldown on your Brews by 2 additional sec.	sweep
+268	Brewmaster	talent	383707	Stormstout's Last Keg	true			0			Keg Smash deals 50% additional damage to its primary target, has 1 additional charge, and its range is increased by 10 yards.	sweep
+268	Brewmaster	talent	1262628	Awakening Spirit	true			0			Purifying Brew also surrounds you with protective energies for 15 sec.  When |CFFffffffStaggered|R damage would be dealt to you, you instead absorb up to 50%, until 15,315 has been prevented.	sweep
+268	Brewmaster	talent	1262659	Vital Flame	true			0			Heal for 40% of all Fire or Nature damage dealt by your spells and abilities.	sweep
+268	Brewmaster	talent	325153	Exploding Keg	false			60000			Hurls a flaming keg at the target location, dealing 9,699 Fire damage to nearby enemies, causing your attacks against them to deal 765 additional Fire damage, and causing their melee attacks to deal 100% reduced damage for the next 3 sec. Resets the cooldown of Keg Smash.	sweep
+268	Brewmaster	talent	1262017	Fuel on the Fire	true			0			Exploding Keg also causes your next 2 casts of Keg Smash to summon a whirl of flame which spirals outwards, dealing 5,105 additional Fire damage to each enemy struck.	sweep
+268	Brewmaster	talent	1262329	Empty the Cellar	true			0			Exploding Keg can be reactivated within 20 sec to throw 5 additional kegs at nearby targets, each dealing 5,105 Physical damage and reducing the cooldown of your Brews by 3.0 sec.	sweep
+268	Brewmaster	talent	455068	Ox Stance	true			0			Casting Purifying Brew grants a charge of Ox Stance. When you take damage that is greater than 60% of your current health, a charge is consumed to increase the amount you Stagger.	sweep
+268	Brewmaster	talent	393516	Pretense of Instability	true			0			Drinking a Brew grants you 10% dodge for 5 sec.	sweep
+268	Brewmaster	talent	196730	Special Delivery	true			0			Drinking from your Brews has a 100% chance to toss a keg high into the air that lands nearby after 3 sec, dealing 2,552 Physical damage to all enemies within 8 yards and reducing their movement speed by 50% for 15 sec.	sweep
+268	Brewmaster	talent	116847	Rushing Jade Wind	false			6000			Summons a whirling tornado around you, causing 3,056 Physical damage over 5.1 sec to all enemies within 8 yards. Deals reduced damage beyond 5 targets.	sweep
+268	Brewmaster	hero	451024	Overwhelming Force	true			0			Rising Sun Kick, Blackout Kick and Tiger Palm deal 15% additional damage to enemies in a line in front of you. Damage reduced above 5 targets.	sweep
+268	Brewmaster	hero	451041	Tiger's Vigor	true			0			Casting Tiger's Lust reduces the remaining cooldown on Roll by 5 sec.	sweep
+268	Brewmaster	hero	451043	Roar from the Heavens	true			0			Tiger's Lust grants 20% movement speed to up to 2 allies near its target.	sweep
+268	Brewmaster	hero	450875	Manifestation	true			0			Chi Burst and Chi Wave deal 50% increased damage and healing.	sweep
+268	Brewmaster	hero	450508	Aspect of Harmony	true			0			Store vitality from 10% of your damage dealt and 30% of your healing. For 10 sec after casting Thunder Focus Tea your spells and abilities draw upon the stored vitality to deal 40% additional healing over 8 sec.	sweep
+268	Brewmaster	hero	450867	Purified Spirit	true			0			When Aspect of Harmony ends, any remaining vitality is expelled as healing over 8 sec, split among nearby targets.	sweep
+268	Brewmaster	hero	450870	Harmonic Gambit	true			0			During Aspect of Harmony, Rising Sun Kick, Blackout Kick, and Tiger Palm also withdraw vitality to damage enemies for an additional 20% over 8 sec.	sweep
+268	Brewmaster	hero	450892	Endless Draught	true			0			Thunder Focus Tea has 1 additional charge.	sweep
+268	Brewmaster	hero	450912	Path of Resurgence	true			0			Chi Burst increases vitality stored by 25% for 10 sec.	sweep
+268	Brewmaster	hero	450965	Way of a Thousand Strikes	true			0			Rising Sun Kick, Blackout Kick and Tiger Palm contribute 30% additional vitality.	sweep
+268	Brewmaster	hero	450529	Coalescence	true			0			When Aspect of Harmony heals, it has a chance to spread to a nearby ally. When you directly heal an affected target, it has a chance to intensify, withdrawing additional vitality to increase its effect by up to 20%. Vivify no longer contributes vitality. While Aspect of Harmony is not active, Vivify instead draws on available vitality to deal an additional 100% healing over 8 sec. Vitality stored by other abilities is increased by 50%.	sweep
+268	Brewmaster	hero	451017	Clarity of Purpose	true			0			Casting Enveloping Mist stores 1,273 additional vitality.	sweep
+268	Brewmaster	hero	451036	Mantra of Purity	true			0			When cast on yourself, your single-target healing spells heal for 10% more and restore an additional 637 health over 6 sec.	sweep
+268	Brewmaster	hero	451029	Mantra of Tenacity	true			0			Fortifying Brew grants 20% Stagger.	sweep
+268	Brewmaster	hero	450889	Balanced Stratagem	true			0			Casting a Physical spell or ability increases the damage and healing of your next Fire or Nature spell or ability by 3%, and vice versa. Stacks up to 5.	sweep
+268	Brewmaster	hero	450993	Vigilant Watch	true			0			Blackout Kick deals an additional 30% critical damage.	sweep
+268	Brewmaster	hero	450991	Whirling Steel	true			0			When your health drops below 50%, summon Whirling Steel, increasing your parry chance and avoidance by 15% for 6 sec. This effect can not occur more than once every 180 sec.	sweep
+268	Brewmaster	hero	450992	Predictive Training	true			0			When you dodge or parry an attack, reduce all damage taken by 10% for the next 6 sec.	sweep
+268	Brewmaster	hero	450990	Martial Precision	true			0			Your attacks penetrate 12% armor.	sweep
+268	Brewmaster	hero	450979	Pride of Pandaria	true			0			Flurry Strikes have 15% additional chance to critically strike.	sweep
+268	Brewmaster	hero	450982	High Impact	true			0			Enemies who die within 10 sec of being damaged by a Flurry Strike explode, dealing 2,552 physical damage to uncontrolled enemies within 8 yds.	sweep
+268	Brewmaster	hero	450615	Flurry Strikes	true			0			Your auto attacks have a chance to generate 1-2 Flurry Charges. When you cast Keg Smash, unleash all Flurry Charges, dealing 1,531 Physical damage per charge. 	sweep
+268	Brewmaster	hero	450987	Veteran's Eye	true			0			Haste increased by 5%.	sweep
+268	Brewmaster	hero	450988	One Versus Many	true			0			Auto attack critical strikes generate double the amount of Flurry Charges. Keg Smash damage increased by 35%.	sweep
+268	Brewmaster	hero	450989	Efficient Training	true			0			Energy spenders deal an additional 20% damage. The cooldown of Invoke Niuzao, the Black Ox is reduced by 25 sec.	sweep
+268	Brewmaster	hero	1272821	Wisdom of the Wall	true			0			Invoke Niuzao, the Black Ox causes Breath of Fire to launch 3 Flurry Strikes.	sweep
+268	Brewmaster	hero	450986	Against All Odds	true			0			Your agility is increased by 4%.	sweep
+268	Brewmaster	hero	1272844	Combat Stance	true			0			The cooldown of Roll is decreased by 10%.	sweep
+268	Brewmaster	hero	1272849	Initiator's Edge	true			0			Movement speed is increased by 50% for the first 8 sec of combat.	sweep
+268	Brewmaster	talent	454484	One With the Wind	true			0			You have a 10% chance to not reset your Elusive Brawler stacks after a successful dodge.	sweep
+268	Brewmaster	talent	383700	Gai Plin's Imperial Brew	true			0			Purifying Brew instantly heals you for 25% of the |CFFffffffStaggered|R damage it clears.	sweep
+268	Brewmaster	talent	450391	Chi Wave	true			0			Every 15 sec, your next Rising Sun Kick or Vivify releases a wave of Chi energy that flows through friends and foes, dealing 510 Nature damage or 1,522 healing. Bounces up to 7 times to targets within 25 yards.	sweep
+268	Brewmaster	talent	123986	Chi Burst	false			30000			Hurls a torrent of Chi energy up to 40 yds forward, dealing 7,147 Nature damage to all enemies, and 5,581 healing to the Monk and all allies in its path. Healing and damage reduced beyond 5 targets. Casting Chi Burst does not prevent avoiding attacks.	sweep
+268	Brewmaster	talent	1243287	Diffuse Magic	true			0			Activating Fortifying Brew transfers all currently active harmful magical effects on you back to their original caster if possible.	sweep
+268	Brewmaster	hero	1270958	Harmonic Surge	true			0			Casting Thunder Focus Tea grants 2 charges of Potential Energy. Your next cast of Tiger Palm or Vivify consumes all charges of Potential Energy to cause a Harmonic Surge. |T1041235:24|t|cffffffffHarmonic Surge|r: For each charge of Potential Energy, deal 934 Nature damage to your target and 934 Nature damage to other nearby enemies, and heal up to 5 allies for 213. Damage reduced above 5 targets.	sweep
+268	Brewmaster	hero	1271048	Potential Energy	true			0			Casting Keg Smash grants a charge of Potential Energy.	sweep
+268	Brewmaster	hero	1271105	Meditative Focus	true			0			|T574568:24|t Blackout Combo: Increases Tiger Palm damage by an additional 50% and Keg Smash reduces the cooldown on your Brews by an additional 1.0 sec. |T2032605:24|t  Press the Advantage: Nature damage dealt by your main hand auto-attacks is increased by 100% and they now reduce the cooldown on your Brews by an additional 0.25 sec.	sweep
+268	Brewmaster	hero	1262612	Shado Over the Battlefield	true			0			Flurry Strikes deal 1,327 Nature damage to all enemies within 6 yds, reduced beyond 8 targets.	sweep
+268	Brewmaster	hero	1262603	Stand Ready	true			0			Activating Invoke Niuzao, the Black Ox instantly grants 10 stacks of Flurry Strikes that trigger on your next attack at 70% effectiveness.	sweep
+268	Brewmaster	hero	1262610	Weapons of the Wall	true			0			Invoke Niuzao, the Black Ox's stomp damage increased by 20%.	sweep
+268	Brewmaster	talent	1261543	Fast Feet	true			0			Blackout Kick deals 20% increased damage. Spinning Crane Kick deals 10% additional damage. 	sweep
+268	Brewmaster	talent	115069	Stagger	true			0			You shrug off attacks, delaying a portion of Physical damage based on your Agility, instead taking it over 10 sec. Affects magical attacks at 58% effectiveness.	sweep
+268	Brewmaster	talent	387046	Elusive Footwork	true			0			Blackout Kick deals an additional 5% damage. Blackout Kick critical hits grant an additional 1 stack of Elusive Brawler.	sweep
+268	Brewmaster	talent	454483	August Blessing	true			0			When you would be healed above maximum health, you instead convert an amount equal to 40% of your critical strike chance to a heal over time effect.	sweep
+268	Brewmaster	talent	1263245	Heart of the Ox	true			0			Mastery increased by 5%. Double this effect while Invoke Niuzao, the Black Ox is active.	sweep
+268	Brewmaster	talent	1266719	Silent Sanctuary	true			0			While no enemies are within 15 yds, you heal for 1,275 every 3 sec.	sweep
+268	Brewmaster	talent	1266733	Stillstep Coil	true			0			Leg Sweep applies Disable for 5.0 sec when it ends.	sweep
+268	Brewmaster	talent	1266740	Reinvigoration	true			0			After Detox successfully removes an effect from an ally, their movement speed is increased by 30% for 5 sec.	sweep
+268	Brewmaster	talent	1265129	Bring Me Another	true			0			Drinking a Brew has a 20% chance to leave you with an Empty Barrel, which is tossed along with your next Keg Smash to deal 7,657 Physical damage to your target. Ricochets up to 4 times at 80% effectiveness.	sweep
+268	Brewmaster	talent	1265138	Bring Me Another	true			0			Gaining an Empty Barrel resets the cooldown of Keg Smash and makes its next cast cost 0% less energy.  Physical damage dealt increased by 10%.	sweep
+268	Brewmaster	talent	1265141	Bring Me Another	true			0			When you cast Fortifying Brew or Celestial Brew you tap a fresh keg, granting yourself and 2 nearby allies a refreshing drink, and leaving you with an Empty Barrel. Empty Barrels deal 100% increased damage. |T413581:24|t |cffffffffRefreshing Drink|r: Upon taking damage, automatically consume a refreshing drink to heal for 81,184 over 8 sec.	sweep
+269	Windwalker	talent	458623	Ferociousness	true			0			Critical Strike chance increased by 2%. This effect is increased by 100% while Xuen, the White Tiger is active.	sweep
+269	Windwalker	talent	261917	Sharp Reflexes	true			0			Blackout Kick reduces the cooldown of Rising Sun Kick and Fists of Fury by 1.0 sec.	sweep
+269	Windwalker	talent	115396	Ascension	true			0			Increases your maximum Chi by 1, maximum Energy by 20, and your Energy regeneration by 10%.	sweep
+269	Windwalker	talent	451485	Brawler's Intensity	true			0			The cooldown of Rising Sun Kick is reduced by 1.0 sec and the damage of Blackout Kick is increased by 12%.	sweep
+269	Windwalker	talent	392958	Glory of the Dawn	true			0			Rising Sun Kick has a chance equal to 100% of your haste to trigger a second time, dealing 1,276 Physical damage and restoring 1 Chi.	sweep
+269	Windwalker	talent	392985	Thunderfist	true			0			Strike of the Windlord and Whirling Dragon Punch grant you 4 stacks of Thunderfist and an additional stack for each additional enemy struck.  Thunderfist discharges upon melee strikes, dealing 4,109 Nature damage.	sweep
+269	Windwalker	talent	451576	Communion With Wind	true			0			Strike of the Windlord and Whirling Dragon Punch have their cooldowns reduced by 5 sec and their damage is increased by 20%.	sweep
+269	Windwalker	talent	1248833	Airborne Rhythm	true			0			Slicing Winds now generates 1 Chi when cast.	sweep
+269	Windwalker	talent	1248837	Hurricane's Vault	true			0			Slicing Winds now costs 2 Chi to cast, but its damage is increased by 40%.	sweep
+269	Windwalker	talent	392994	Path of Jade	true			0			Increases the damage of Jadefire Stomp by 10% per target hit by that damage, up to a maximum of 50% additional damage.	sweep
+269	Windwalker	talent	451573	Singularly Focused Jade	true			0			Jadefire Stomp now strikes 1 target, but deals 300% increased damage and healing.	sweep
+269	Windwalker	talent	457974	Jadefire Stomp	true			0			At the end of your Fists of Fury channel, you release a Jadefire Stomp, dealing 2,552 damage to 5 enemies in front of you and increasing your movement speed by 20% for 3 sec.	sweep
+269	Windwalker	talent	1272175	Universal Energy	true			0			Your magical damage is increased by 8%.	sweep
+269	Windwalker	talent	391383	Hardened Soles	true			0			Blackout Kick critical strike chance increased by 10% and critical damage increased by 18%.	sweep
+269	Windwalker	talent	451294	Momentum Boost	true			0			Fists of Fury's damage is increased by 100% of your haste and Fists of Fury does 10% more damage each time it deals damage, resetting when Fists of Fury ends. Your auto attack speed is increased by 60% for 8 sec after Fists of Fury ends.	sweep
+269	Windwalker	talent	388856	Touch of the Tiger	true			0			Tiger Palm damage increased by 50%.	sweep
+269	Windwalker	talent	392979	Jade Ignition	true			0			Spinning Crane Kick detonates into a Chi Explosion, dealing 4,594 Nature damage to all enemies within 8 yards, reduced beyond 5 targets.	sweep
+269	Windwalker	talent	1249832	Obsidian Spiral	true			0			During Zenith, Blackout Kick generates 1 Chi.	sweep
+269	Windwalker	talent	391370	Drinking Horn Cover	true			0			The duration of Zenith is extended by 5 sec.	sweep
+269	Windwalker	talent	280197	Spiritual Focus	true			0			The cooldown of Zenith is reduced by 20 sec.	sweep
+269	Windwalker	talent	1249625	Zenith	false		2	16000	90000		Chi costs are reduced by 1 and Blackout Kick reduces the cooldown of affected abilities by an additional 1 sec for 15 sec. Activating Zenith resets the remaining cooldown on Rising Sun Kick.	sweep
+269	Windwalker	talent	116645	Teachings of the Monastery	true			0			Tiger Palm causes your next Blackout Kick to strike an additional time dealing 2,162 Physical damage, stacking up to 4. Blackout Kick has a 12% chance to reset the remaining cooldown on Rising Sun Kick. 	sweep
+269	Windwalker	talent	451823	Dual Threat	true			0			Your auto attacks have a 30% chance to instead kick your target dealing 9,510 Physical damage. Damage increased while using a two-handed weapon.	sweep
+269	Windwalker	talent	451498	Energy Burst	true			0			When you consume Blackout Kick!, you have a 100% chance to generate 1 Chi.	sweep
+269	Windwalker	talent	1248749	Cyclone's Drift	true			0			You gain 10% more Haste from all sources of Haste.	sweep
+269	Windwalker	talent	1248747	Crashing Fists	true			0			The damage of Fists of Fury is increased by 20%.	sweep
+269	Windwalker	talent	451515	Sequenced Strikes	true			0			You have a 100% chance to gain Blackout Kick! after consuming Dance of Chi-Ji.	sweep
+269	Windwalker	talent	325201	Dance of Chi-Ji	true			0			Spending Chi has a chance to make your next Spinning Crane Kick cost no Chi.	sweep
+269	Windwalker	talent	391330	Meridian Strikes	true			0			The cooldown of Touch of Death is reduced by 45 sec. Touch of Death deals an additional 15% damage.	sweep
+269	Windwalker	talent	392982	Shadowboxing Treads	true			0			Blackout Kick damage increased by 5% and strikes an additional 2 targets at 80% effectiveness.	sweep
+269	Windwalker	talent	116844	Ring of Peace	false			45000			Form a Ring of Peace at the target location for 5 sec. Enemies that enter will be ejected from the Ring.	sweep
+269	Windwalker	talent	198898	Song of Chi-Ji	false			30000			Conjures a cloud of hypnotic mist that slowly travels forward. Enemies touched by the mist fall asleep, Disoriented for 20 sec.	sweep
+269	Windwalker	talent	432181	Dance of the Wind	true			0			Your physical damage taken is reduced by 10% and an additional 10% every 4 sec until you receive a physical attack.	sweep
+269	Windwalker	talent	450595	Spirit's Essence	true			0			Transcendence: Transfer snares targets within 10 yds by 70% for 4 sec when cast.	sweep
+269	Windwalker	talent	322113	Improved Touch of Death	true			0			Touch of Death can now be used on targets with less than 15% health remaining, dealing 35% of your maximum health in damage.	sweep
+269	Windwalker	talent	450432	Pressure Points	true			0			Paralysis now removes all Enrage effects from its target.	sweep
+269	Windwalker	talent	115078	Paralysis	false			45000			Incapacitates the target for 1 min. Limit 1. Damage may cancel the effect.	sweep
+269	Windwalker	talent	115175	Soothing Mist	false			0			Heals the target for 7,143 over 6.8 sec. While channeling, Enveloping Mist and Vivify may be cast instantly on the target.	sweep
+269	Windwalker	talent	388681	Elusive Mists	true			0			Reduces all damage taken by you and your target while channeling Soothing Mists by 6%.	sweep
+269	Windwalker	talent	388811	Grace of the Crane	true			0			Increases all healing taken by 6%.	sweep
+269	Windwalker	talent	116841	Tiger's Lust	false			30000			Increases a friendly target's movement speed by 70% for 6 sec and removes all roots and snares.	sweep
+269	Windwalker	talent	450514	Wind's Reach	true			0			The range of Disable is increased by 5 yds.   The duration of Crashing Momentum is increased by 3 sec and its snare now reduces movement speed by an additional 20%.	sweep
+269	Windwalker	talent	450335	Crashing Momentum	true			0			Targets you Roll through are snared by 40% for 5 sec.	sweep
+269	Windwalker	talent	116095	Disable	false			0			Reduces the target's movement speed by 50% for 15 sec, duration refreshed by your melee attacks.	sweep
+269	Windwalker	talent	218164	Detox	false		1	0	8000		Removes all Poison and Disease effects from the target.	sweep
+269	Windwalker	talent	388664	Calming Presence	true			0			Reduces all damage taken by 3%.	sweep
+269	Windwalker	talent	450154	Rushing Reflexes	true			0			Your heightened reflexes allow you to react swiftly to the presence of enemies, causing you to quickly lunge to the nearest enemy in front of you within 10 yards after you Roll.	sweep
+269	Windwalker	talent	450622	Swift Art	true			0			Roll removes a snare effect once every 30 sec.	sweep
+269	Windwalker	talent	389579	Save Them All	true			0			Your healing is increased by up to 10%, based on the current health of your target. Lower health targets are healed for more.	sweep
+269	Windwalker	talent	450503	Quick Footed	true			0			The duration of snare effects on you is reduced by 20%.	sweep
+269	Windwalker	talent	328670	Hasty Provocation	true			0			Provoked targets move towards you at 50% increased speed.	sweep
+269	Windwalker	talent	1272781	Tiger Fang	true			0			Your auto attack critical strike chance is increased by 15%.	sweep
+269	Windwalker	talent	450553	Jade Walk	true			0			While out of combat, your movement speed is increased by 15%.	sweep
+269	Windwalker	talent	450520	Bounding Agility	true			0			Roll and Chi Torpedo travel a small distance further.	sweep
+269	Windwalker	talent	1272694	Zenith Stomp	true			0			Activating Zenith causes you to release a powerful stomp, dealing 25,525 Nature damage to nearby enemies, reduced beyond 5 targets. |cFFFFFFFFGenerates 2 Chi.	sweep
+269	Windwalker	talent	450448	Peace and Prosperity	true			0			Reduces the cooldown of Ring of Peace by 5 sec and Song of Chi-Ji's cast time is reduced by 0.5 sec.	sweep
+269	Windwalker	talent	414131	Yu'lon's Grace	true			0			Find resilience in the flow of chi in battle, gaining a magic absorb shield for 1.0% of your max health every 3 sec in combat, stacking up to 10%.	sweep
+269	Windwalker	talent	388674	Ferocity of Xuen	true			0			Increases all damage dealt by 2%.	sweep
+269	Windwalker	talent	101643	Transcendence	false			10000			Split your body and spirit, leaving your spirit behind for 15 min. Use Transcendence: Transfer to swap locations with your spirit.	sweep
+269	Windwalker	talent	449582	Lighter Than Air	true			0			Roll causes you to become lighter than air, allowing you to double jump to dash forward a short distance once within 5 sec, but the cooldown of Roll is increased by 2 sec.	sweep
+269	Windwalker	talent	450426	Chi Proficiency	true			0			Magical damage done increased by 5% and healing done increased by 5%.	sweep
+269	Windwalker	talent	450569	Flow of Chi	true			0			You gain a bonus effect based on your current health. Above 90% health: Movement speed increased by 5%. This bonus stacks with similar effects. Between 90% and 35% health: Damage taken reduced by 5%. Below 35% health: Healing received increased by 10%. 	sweep
+269	Windwalker	talent	450560	Healing Winds	true			0			Transcendence: Transfer immediately heals you for 10% of your maximum health.	sweep
+269	Windwalker	talent	115203	Fortifying Brew	false			360000			Turns your skin to stone for 15 sec.	sweep
+269	Windwalker	talent	388814	Ironshell Brew	true			0			Increases your maximum health by an additional 10% and your damage taken is reduced by an additional 10% while Fortifying Brew is active.	sweep
+269	Windwalker	talent	388813	Expeditious Fortification	true			0			Fortifying Brew cooldown reduced by 30 sec.	sweep
+269	Windwalker	talent	157411	Windwalking	true			0			You and your allies within 10 yards have 10% increased movement speed. Stacks with other similar effects.	sweep
+269	Windwalker	talent	394110	Escape from Reality	true			0			After you use Transcendence: Transfer, you can use Transcendence: Transfer again within 10 sec, ignoring its cooldown.	sweep
+269	Windwalker	talent	434774	Transcendence: Linked Spirits	true			10000			Transcendence now tethers your spirit onto an ally for 1 |4hour:hrs;. Use Transcendence: Transfer to teleport to your ally's location.	sweep
+269	Windwalker	talent	1272452	Chi Transfer	true			0			Touch of Death now heals you for 50% of its damage done.	sweep
+269	Windwalker	talent	394123	Fatal Touch	true			0			Touch of Death's cooldown is reduced by 90 sec.	sweep
+269	Windwalker	talent	450427	Martial Instincts	true			0			Increases your Physical damage done by 5% and Avoidance increased by 2%.	sweep
+269	Windwalker	talent	450638	Celestial Determination	true			0			While your Celestial is active, you cannot be slowed below 90% normal movement speed.	sweep
+269	Windwalker	talent	264348	Tiger Tail Sweep	true			0			Increases the range of Leg Sweep by 4 yds.	sweep
+269	Windwalker	talent	115173	Celerity	true			0			Reduces the cooldown of Roll by 5 sec and increases its maximum number of charges by 1.	sweep
+269	Windwalker	talent	115008	Chi Torpedo	false		2	0	20000		Torpedoes you forward a long distance and increases your movement speed by 30% for 10 sec, stacking up to 2 times.	sweep
+269	Windwalker	talent	344359	Ancient Arts	true			0			Reduces the cooldown of Paralysis by 15 sec and the cooldown of Leg Sweep by 10 sec.	sweep
+269	Windwalker	talent	388809	Fast Feet	true			0			Rising Sun Kick deals 70% increased damage. Spinning Crane Kick deals 10% additional damage. 	sweep
+269	Windwalker	talent	107428	Rising Sun Kick	false			10000			Kick upwards, dealing 3,670 Physical damage.	sweep
+269	Windwalker	talent	451524	Revolving Whirl	true			0			Strike of the Windlord and Whirling Dragon Punch have a 100% chance to activate Dance of Chi-Ji.	sweep
+269	Windwalker	talent	1250042	Echo Technique	true			0			Casting Strike of the Windlord or Whirling Dragon Punch grants Blackout Kick!.	sweep
+269	Windwalker	talent	452137	Flurry of Xuen	true			0			Your spells and abilities have a chance to activate Flurry of Xuen, unleashing a barrage of deadly swipes to deal 14,008 Physical damage in a 10 yd cone, damage reduced beyond 5 targets. Invoking Xuen, the White Tiger activates Flurry of Xuen.	sweep
+269	Windwalker	talent	388849	Rising Star	true			0			Rising Sun Kick damage increased by 15% and critical strike damage increased by 10%.	sweep
+269	Windwalker	talent	1272678	Weapon of Wind	true			0			Your damage during Zenith is increased by 10%.	sweep
+269	Windwalker	talent	392983	Strike of the Windlord	false			35000			Strike with both fists at all enemies in front of you, dealing 38,593 Physical damage and reducing movement speed by 50% for 6 sec. Deals reduced damage to secondary targets.	sweep
+269	Windwalker	talent	152175	Whirling Dragon Punch	false			35000			Performs a devastating whirling upward strike, dealing 18,492 damage to all nearby enemies and an additional 11,486 damage to the first target struck. Damage reduced beyond 5 targets. Only usable while both Fists of Fury and Rising Sun Kick are on cooldown.	sweep
+269	Windwalker	talent	1272685	Martial Agility	true			0			Your melee attack speed is increased by 30%. This bonus is increased to 60% during Zenith.	sweep
+269	Windwalker	talent	454969	Memory of the Monastery	true			0			Tiger Palm's chance to activate Blackout Kick! is increased by 75% and Tiger Palm's damage is increased by 30%.	sweep
+269	Windwalker	talent	392993	Xuen's Battlegear	true			0			Rising Sun Kick critical strikes reduce the cooldown of Fists of Fury by 4 sec. Spinning Crane Kick reduces the cooldown of Fists of Fury by 0.5 sec for each unique target struck, up to 2.5 sec. The critical strike chance of Rising Sun Kick is increased by 20%.	sweep
+269	Windwalker	talent	388848	Crane Vortex	true			0			Spinning Crane Kick damage increased by 15% and its radius is increased by 15%.	sweep
+269	Windwalker	talent	451529	Knowledge of the Broken Temple	true			0			Strike of the Windlord and Whirling Dragon Punch grant 4 stacks of Teachings of the Monastery. Teachings of the Monastery can now stack up to 8 times.	sweep
+269	Windwalker	talent	1272415	Sunfire Spiral	true			0			Rising Sun Kick gains 40% additional effectiveness from Mastery: Combo Strikes.	sweep
+269	Windwalker	talent	397768	Inner Peace	true			0			Increases maximum Energy by 30. Tiger Palm's Energy cost reduced by 5.	sweep
+269	Windwalker	talent	137384	Combo Breaker	true			0			You have a 8% chance when you Tiger Palm to cause your next Blackout Kick to cost no Chi within 15 sec.	sweep
+269	Windwalker	talent	196740	Hit Combo	true			0			Each successive attack that triggers Combo Strikes in a row grants 1% increased damage, stacking up to 5 times.	sweep
+269	Windwalker	talent	121817	Combat Wisdom	true			0			While out of combat, your Chi balances to 2 instead of depleting to empty. Every 15 sec, your next Tiger Palm also casts Expel Harm. |T627486:24|t |cffffffffExpel Harm|r Expel negative chi from your body, healing for 510 and dealing 10% of the amount healed as Nature damage to an enemy within 20 yards.	sweep
+269	Windwalker	talent	113656	Fists of Fury	false			24000			Pummels all targets in front of you, dealing 33,287 Physical damage to your primary target and 19,972 damage to all other enemies over 3.4 sec. Deals reduced damage beyond 5 targets. Can be channeled while moving.	sweep
+269	Windwalker	hero	451024	Overwhelming Force	true			0			Rising Sun Kick, Blackout Kick and Tiger Palm deal 15% additional damage to enemies in a line in front of you. Damage reduced above 5 targets.	sweep
+269	Windwalker	hero	451041	Tiger's Vigor	true			0			Casting Tiger's Lust reduces the remaining cooldown on Roll by 5 sec.	sweep
+269	Windwalker	hero	451043	Roar from the Heavens	true			0			Tiger's Lust grants 20% movement speed to up to 2 allies near its target.	sweep
+269	Windwalker	hero	450875	Manifestation	true			0			Chi Burst and Chi Wave deal 50% increased damage and healing.	sweep
+269	Windwalker	hero	450508	Aspect of Harmony	true			0			Store vitality from 10% of your damage dealt and 30% of your healing. For 10 sec after casting Thunder Focus Tea your spells and abilities draw upon the stored vitality to deal 40% additional healing over 8 sec.	sweep
+269	Windwalker	hero	450867	Purified Spirit	true			0			When Aspect of Harmony ends, any remaining vitality is expelled as healing over 8 sec, split among nearby targets.	sweep
+269	Windwalker	hero	450870	Harmonic Gambit	true			0			During Aspect of Harmony, Rising Sun Kick, Blackout Kick, and Tiger Palm also withdraw vitality to damage enemies for an additional 20% over 8 sec.	sweep
+269	Windwalker	hero	450892	Endless Draught	true			0			Thunder Focus Tea has 1 additional charge.	sweep
+269	Windwalker	hero	450912	Path of Resurgence	true			0			Chi Burst increases vitality stored by 25% for 10 sec.	sweep
+269	Windwalker	hero	450965	Way of a Thousand Strikes	true			0			Rising Sun Kick, Blackout Kick and Tiger Palm contribute 30% additional vitality.	sweep
+269	Windwalker	hero	450529	Coalescence	true			0			When Aspect of Harmony heals, it has a chance to spread to a nearby ally. When you directly heal an affected target, it has a chance to intensify, withdrawing additional vitality to increase its effect by up to 20%. Vivify no longer contributes vitality. While Aspect of Harmony is not active, Vivify instead draws on available vitality to deal an additional 100% healing over 8 sec. Vitality stored by other abilities is increased by 50%.	sweep
+269	Windwalker	hero	451017	Clarity of Purpose	true			0			Casting Enveloping Mist stores 1,273 additional vitality.	sweep
+269	Windwalker	hero	451036	Mantra of Purity	true			0			When cast on yourself, your single-target healing spells heal for 10% more and restore an additional 637 health over 6 sec.	sweep
+269	Windwalker	hero	451029	Mantra of Tenacity	true			0			Fortifying Brew grants 20% Stagger.	sweep
+269	Windwalker	hero	450889	Balanced Stratagem	true			0			Casting a Physical spell or ability increases the damage and healing of your next Fire or Nature spell or ability by 3%, and vice versa. Stacks up to 5.	sweep
+269	Windwalker	hero	1273154	Path of the Falling Star	true			0			Celestial Conduit's healing and damage is increased by 100% when striking a single target. Each addtional target reduces this bonus by 20%.	sweep
+269	Windwalker	hero	443571	Inner Compass	true			0			You switch between alignments every 8 sec, increasing a corresponding secondary stat by 2%. |cFFFFFFFFCrane Stance|r: Haste |cFFFFFFFFTiger Stance|r: Critical Strike |cFFFFFFFFOx Stance|r: Versatility |cFFFFFFFFSerpent Stance|r:  Mastery	sweep
+269	Windwalker	hero	442743	Temple Training	true			0				sweep
+269	Windwalker	hero	442687	Xuen's Guidance	true			0			Teachings of the Monastery has a 15% chance to refund a charge when consumed.  The damage of Tiger Palm is increased by 10%.	sweep
+269	Windwalker	hero	443566	Chi-Ji's Swiftness	true			0			Your movement speed is increased by 75% during Celestial Conduit and by 15% for 3 sec after being assisted by any Celestial. 	sweep
+269	Windwalker	hero	442747	Niuzao's Protection	true			0			Fortifying Brew grants you an absorb shield for 25% of your maximum health.	sweep
+269	Windwalker	hero	443059	Jade Sanctuary	true			0			You heal for 10% of your maximum health instantly when you activate Celestial Conduit and receive 15% less damage for its duration.  This effect lingers for an additional 8 sec after Celestial Conduit ends.	sweep
+269	Windwalker	hero	443589	Unity Within	true			0			Celestial Conduit can be recast once during its duration to call upon all of the August Celestials to assist you at 200% effectiveness. Unity Within is automatically cast when Celestial Conduit ends if not used before expiration.	sweep
+269	Windwalker	hero	443087	Courage of the White Tiger	true			0			Xuen claws your target for 8,614 Physical damage, healing a nearby ally for 100% of the damage done. Invoking a celestial guarantees your next cast activates this effect.	sweep
+269	Windwalker	hero	123904	Invoke Xuen, the White Tiger	false			120000			Summons an effigy of Xuen, the White Tiger for 20 sec. Xuen attacks your primary target, and strikes 3 enemies within 10 yards every 0.8 sec with Tiger Lightning for 656 Nature damage.	sweep
+269	Windwalker	hero	450993	Vigilant Watch	true			0			Blackout Kick deals an additional 30% critical damage.	sweep
+269	Windwalker	hero	450991	Whirling Steel	true			0			When your health drops below 50%, summon Whirling Steel, increasing your parry chance and avoidance by 15% for 6 sec. This effect can not occur more than once every 180 sec.	sweep
+269	Windwalker	hero	450992	Predictive Training	true			0			When you dodge or parry an attack, reduce all damage taken by 10% for the next 6 sec.	sweep
+269	Windwalker	hero	450990	Martial Precision	true			0			Your attacks penetrate 12% armor.	sweep
+269	Windwalker	hero	450979	Pride of Pandaria	true			0			Flurry Strikes have 15% additional chance to critically strike.	sweep
+269	Windwalker	hero	450982	High Impact	true			0			Enemies who die within 10 sec of being damaged by a Flurry Strike explode, dealing 2,552 physical damage to uncontrolled enemies within 8 yds.	sweep
+269	Windwalker	hero	450615	Flurry Strikes	true			0			Your auto attacks have a chance to generate 1-2 Flurry Charges. When you cast Keg Smash, unleash all Flurry Charges, dealing 1,531 Physical damage per charge. 	sweep
+269	Windwalker	hero	450987	Veteran's Eye	true			0			Haste increased by 5%.	sweep
+269	Windwalker	hero	450988	One Versus Many	true			0			Auto attack critical strikes generate double the amount of Flurry Charges. Keg Smash damage increased by 35%.	sweep
+269	Windwalker	hero	450989	Efficient Training	true			0			Energy spenders deal an additional 20% damage. The cooldown of Invoke Niuzao, the Black Ox is reduced by 25 sec.	sweep
+269	Windwalker	hero	1272821	Wisdom of the Wall	true			0			Invoke Niuzao, the Black Ox causes Breath of Fire to launch 3 Flurry Strikes.	sweep
+269	Windwalker	hero	450986	Against All Odds	true			0			Your agility is increased by 4%.	sweep
+269	Windwalker	hero	1272844	Combat Stance	true			0			The cooldown of Roll is decreased by 10%.	sweep
+269	Windwalker	hero	1272849	Initiator's Edge	true			0			Movement speed is increased by 50% for the first 8 sec of combat.	sweep
+269	Windwalker	talent	1217413	Slicing Winds	false			30000			Envelop yourself in razor-sharp winds, then lunge forward dealing 11,435 Nature damage to enemies in your path. Damage reduced beyond 5 enemies. Hold to increase lunge distance.	sweep
+269	Windwalker	talent	1248704	Skyfire Heel	true			0			Rising Sun Kick's critical strike chance is increased by 4% for each nearby enemy, up to 5 enemies. 10% of Rising Sun Kick's damage splashes onto nearby enemies. Damage is reduced beyond 5 targets.	sweep
+269	Windwalker	talent	1250041	Harmonic Combo	true			0			Fists of Fury's Chi cost is reduced by 1, but its damage is reduced by 10%.	sweep
+269	Windwalker	talent	1243287	Diffuse Magic	true			0			Activating Fortifying Brew transfers all currently active harmful magical effects on you back to their original caster if possible.	sweep
+269	Windwalker	talent	1250566	Rushing Wind Kick	true			0			After consuming Blackout Kick!, Rising Sun Kick has a 60% chance to become Rushing Wind Kick. |T7439207:24|t|cffffffffRushing Wind Kick|r: Kick up a powerful gust of wind, dealing 4,588 Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%. 	sweep
+269	Windwalker	hero	1270958	Harmonic Surge	true			0			Casting Thunder Focus Tea grants 2 charges of Potential Energy. Your next cast of Tiger Palm or Vivify consumes all charges of Potential Energy to cause a Harmonic Surge. |T1041235:24|t|cffffffffHarmonic Surge|r: For each charge of Potential Energy, deal 934 Nature damage to your target and 934 Nature damage to other nearby enemies, and heal up to 5 allies for 213. Damage reduced above 5 targets.	sweep
+269	Windwalker	hero	1271048	Potential Energy	true			0			Casting Keg Smash grants a charge of Potential Energy.	sweep
+269	Windwalker	hero	1271105	Meditative Focus	true			0			|T574568:24|t Blackout Combo: Increases Tiger Palm damage by an additional 50% and Keg Smash reduces the cooldown on your Brews by an additional 1.0 sec. |T2032605:24|t  Press the Advantage: Nature damage dealt by your main hand auto-attacks is increased by 100% and they now reduce the cooldown on your Brews by an additional 0.25 sec.	sweep
+269	Windwalker	hero	1262612	Shado Over the Battlefield	true			0			Flurry Strikes deal 1,327 Nature damage to all enemies within 6 yds, reduced beyond 8 targets.	sweep
+269	Windwalker	hero	1262603	Stand Ready	true			0			Activating Invoke Niuzao, the Black Ox instantly grants 10 stacks of Flurry Strikes that trigger on your next attack at 70% effectiveness.	sweep
+269	Windwalker	hero	1262610	Weapons of the Wall	true			0			Invoke Niuzao, the Black Ox's stomp damage increased by 20%.	sweep
+269	Windwalker	hero	1262672	Flowing Wisdom	true			0			Heart of the Jade Serpent increases your haste by 10% while active.	sweep
+269	Windwalker	hero	443294	Heart of the Jade Serpent	true			0			 upon Yu'lon to increase the cooldown recovery rate of  by 75% for .	sweep
+269	Windwalker	talent	392900	Vigorous Expulsion	true			0			Expel Harm's healing increased by 5% and critical strike chance increased by 15%. 	sweep
+269	Windwalker	talent	387276	Strength of Spirit	true			0			Expel Harm's healing is increased by up to 100%, based on your missing health.	sweep
+269	Windwalker	talent	392910	Profound Rebuttal	true			0			Expel Harm's critical healing is increased by 50%.	sweep
+269	Windwalker	talent	388812	Vivacious Vivification	true			0			After casting Rising Sun Kick, your next Vivify becomes instant cast. This effect also reduces the energy cost of Vivify by 75%. 	sweep
+269	Windwalker	talent	1266719	Silent Sanctuary	true			0			While no enemies are within 15 yds, you heal for 1,275 every 3 sec.	sweep
+269	Windwalker	talent	1266733	Stillstep Coil	true			0			Leg Sweep applies Disable for 5.0 sec when it ends.	sweep
+269	Windwalker	talent	1266740	Reinvigoration	true			0			After Detox successfully removes an effect from an ally, their movement speed is increased by 30% for 5 sec.	sweep
+269	Windwalker	talent	450631	Energy Transfer	true			0			Successfully interrupting an enemy reduces the cooldown of Paralysis and Roll by 5 sec.	sweep
+269	Windwalker	talent	116705	Spear Hand Strike	false			15000			Jabs the target in the throat, interrupting spellcasting and preventing any spell from that school of magic from being cast for 5 sec.	sweep
+269	Windwalker	hero	443110	Strength of the Black Ox	true			0				sweep
+269	Windwalker	hero	1262667	Yu'lon's Avatar	true			0			Vivify and Sheilun's Gift have a chance to trigger Heart of the Jade Serpent for 4 sec at 100% effectiveness.	sweep
+269	Windwalker	hero	1248989	Celestial Conduit	true			0			After Invoking Xuen, the White Tiger you may cast Celestial Conduit within 1 min. |T5927619:24|t |cffffffffCelestial Conduit|r: The August Celestials empower you, causing you to radiate 28,077 Nature damage onto enemies and 23,375 healing onto up to 5 injured allies within 15 yds over 3.4 sec, reduced beyond 5 targets. You may move while channeling, but casting other healing or damaging spells cancels this effect. 	sweep
+269	Windwalker	hero	442719	Restore Balance	true			0				sweep
+269	Windwalker	hero	392986	Xuen's Bond	true			0			Invoke Xuen, the White Tiger's damage is increased by 30% and its cooldown is reduced by 30 sec.	sweep
+269	Windwalker	talent	1261703	Tigereye Brew	true			0			Every 3 Chi spent generates Tigereye Brew. Zenith consumes up to 20 Tigereye Brew stacks to increase your critical strike chance for its duration by 1% per stack. Generates quickly up to 10 stacks while out of combat and may generate up to a maximum of 30 stacks.	sweep
+269	Windwalker	talent	1261844	Tigereye Brew	true			0			Your spells and abilities deal 5% increased critical strike damage.	sweep
+269	Windwalker	talent	1261849	Tigereye Brew	true			0			Zenith now grants access to 2 additional Zenith Stomps. |T6035313:24|t |cffffffffZenith Stomp|r: Release a powerful stomp, dealing 25,525 Nature damage to nearby enemies, reduced beyond 5 targets. |cFFFFFFFFGenerates 2 Chi.	sweep

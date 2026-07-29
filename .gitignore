@@ -1,0 +1,3 @@
+# SimulationCraft spell-data dumps (~17 MB) — regenerable third-party output.
+# Re-fetch from the matching simc release when refreshing Data/, don't commit.
+_project/simc/

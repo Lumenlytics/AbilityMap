@@ -1,0 +1,432 @@
+specID	specName	source	spellID	name	passive	selected	charges	cooldownMS	rechargeMS	overrideSpellID	description	origin
+66	Protection	talent	53595	Hammer of the Righteous	false		2	0	5000		Hammers the current target for 3,829 Physical damage. |cFFFFFFFFGenerates 1 Holy Power.	sweep
+66	Protection	talent	204019	Blessed Hammer	false		3	0	5000		Throws a Blessed Hammer that spirals outward, dealing 638 Holy damage to enemies and reducing the next damage they deal to you by 761. |cFFFFFFFFGenerates 1 Holy Power.	sweep
+66	Protection	talent	1245354	Vision of Sanctity	true			0			Consecration deals 100% increased damage when it strikes a single target.	sweep
+66	Protection	talent	391142	Zealot's Paragon	true			0			Hammer of Wrath and Judgment deal 10% additional damage and extend the duration of Avenging Wrath by 0.5 sec.	sweep
+66	Protection	talent	378845	Focused Enmity	true			0			When Avenger's Shield strikes a single enemy, it deals 100% additional Holy damage.	sweep
+66	Protection	talent	379021	Sanctuary	true			0			While in your Consecration and for 4.0 sec after leaving it, your damage taken is reduced by 5%.	sweep
+66	Protection	talent	378285	Tyr's Enforcer	true			0			Your Avenger's Shield is imbued with holy fire, causing it to deal 306 Holy damage to all enemies within 5 yards of each target hit.	sweep
+66	Protection	talent	315924	Hand of the Protector	true			0			When you cast Word of Glory on someone other than yourself, its healing is increased by up to 100% based on the target's missing health.	sweep
+66	Protection	talent	1245979	Valiant Crusade	true			0			While out of combat, Divine Steed grants Shield of the Righteous for its duration and an additional 4.0 sec after it fades.	sweep
+66	Protection	talent	204074	Righteous Protector	true			0			Avenging Wrath and Sentinel have 50% reduced cooldown and 40% reduced duration.	sweep
+66	Protection	talent	386738	Divine Resonance	true			0			After casting Holy Prism, Holy Armament, or Divine Toll, you instantly cast Holy Shock every 5 sec for 15 sec.	sweep
+66	Protection	talent	379391	Quickened Invocation	true			0			Divine Toll's, Holy Armament's, and Holy Prism's cooldown is reduced by 15 sec.	sweep
+66	Protection	talent	31850	Ardent Defender	false			90000			Reduces all damage you take by 30% for 12 sec. While Ardent Defender is active, the next attack that would otherwise kill you will instead bring you to 20% of your maximum health.	sweep
+66	Protection	talent	378762	Ferren Marcus's Fervor	true			0			Avenger's Shield deals 10% increased damage to its primary target.	sweep
+66	Protection	talent	31884	Avenging Wrath	false			120000			Call upon the Light to become an avatar of retribution, increasing your damage, healing, and critical strike chance by 20% for 20 sec.	sweep
+66	Protection	talent	389539	Sentinel	false			120000			Call upon the Light and gain 15 stacks of Divine Resolve, increasing your maximum health by 1% and reducing your damage taken by 2% per stack for 20 sec. After 5.0 sec, you will begin to lose 1 stack per second, but each 3 Holy Power spent will delay the loss of your next stack by 1 sec. Combines with Avenging Wrath.	sweep
+66	Protection	talent	378279	Gift of the Golden Val'kyr	true			0			Each enemy hit by Avenger's Shield reduces the remaining cooldown on Guardian of Ancient Kings by 1.0 sec. When you drop below 30% health, you become infused with Guardian of Ancient Kings for 4 sec. This cannot occur again for 45 sec.	sweep
+66	Protection	talent	379022	Consecration in Flame	true			0			Consecration lasts 2 sec longer and its damage is increased by 20%.	sweep
+66	Protection	talent	469883	Refining Fire	true			0			Enemies struck by Avenger's Shield burn with holy fire, suffering 100% additional Radiant damage over 5 sec.	sweep
+66	Protection	talent	85043	Grand Crusader	true			0			When you avoid a melee attack or use Crusader Strike, you have a 15% chance to reset the remaining cooldown on Avenger's Shield.	sweep
+66	Protection	talent	1277162	Instrument of the Divine	true			0			Shield of the Righteous consumes up to 2 more Holy Power and deals 50% increased damage for each additional Holy Power consumed.	sweep
+66	Protection	talent	321136	Shining Light	true			0			Every 3 Shields of the Righteous make your next Word of Glory cost no Holy Power. Maximum 2 stacks.	sweep
+66	Protection	talent	86659	Guardian of Ancient Kings	false		1	0	180000		Empowers you with the spirit of ancient kings, reducing all damage you take by 50% for 8 sec.	sweep
+66	Protection	talent	386653	Bulwark of Righteous Fury	true			0			Avenger's Shield increases the damage of your next Shield of the Righteous by 20% for each target hit by Avenger's Shield, stacking up to 5 times, and increases its radius by 6 yds.	sweep
+66	Protection	talent	1244019	Undying Embers	true			0			You are healed for 100% of the damage dealt by Refining Fire.	sweep
+66	Protection	talent	393071	Strength in Adversity	true			0			For each target hit by Avenger's Shield, gain 3% parry for 15 sec.	sweep
+66	Protection	talent	380188	Crusader's Resolve	true			0			Enemies hit by Avenger's Shield deal 10% reduced melee damage to you for 10 sec. 	sweep
+66	Protection	talent	1276945	Imbued Shield	true			0			Shield of the Righteous reduces magical damage taken by 12%.	sweep
+66	Protection	talent	280373	Redoubt	true			0			Armor granted by Shield of the Righteous is increased by up to 60%, based on your missing health.	sweep
+66	Protection	talent	406101	Faith's Armor	true			0			Word of Glory grants 20% bonus armor for 4.5 sec.	sweep
+66	Protection	talent	1246481	Empyrean Authority	true			0			Guardian of Ancient Kings has 1 additional charge.	sweep
+66	Protection	talent	384815	Seal of Charity	true			0			When you cast Word of Glory on someone other than yourself, you are also healed for 100% of the amount healed.	sweep
+66	Protection	talent	209389	Bulwark of Order	true			0			Avenger's Shield also shields you for 8 sec, absorbing 60% as much damage as it dealt, up to 50% of your maximum health.	sweep
+66	Protection	talent	378425	Uther's Counsel	true			0			Your Lay on Hands, Divine Shield, Blessing of Protection, and Blessing of Spellwarding have 15% reduced cooldown.	sweep
+66	Protection	talent	1244070	Searing Sunlight	true			0			Casting Avenger's Shield causes Consecration to deal its damage and healing again immediately at 100% effectiveness.	sweep
+66	Protection	talent	31935	Avenger's Shield	false			15000			Hurls your shield at an enemy target, dealing 3,956 Holy damage, interrupting and silencing the non-Player target for 3 sec, and then jumping to 2 additional nearby enemies.  	sweep
+66	Protection	talent	378405	Light of the Titans	true			0			Word of Glory heals for an additional 40% over 10 sec. Increased by 200% if cast on yourself while you are afflicted by a harmful damage over time effect.	sweep
+66	Protection	talent	392928	Tirion's Devotion	true			0			Lay on Hands' cooldown is reduced by 1.0 sec per Holy Power spent.	sweep
+66	Protection	talent	204077	Final Stand	true			0			During Divine Shield, all targets within 15 yds are taunted.	sweep
+66	Protection	talent	1246488	Sweeping Verdict	true			0			Judgment chains to 2 additional targets at 50% effectiveness.	sweep
+66	Protection	talent	1277005	Adjudication	true			0			Judgment causes its primary target's successful melee attacks against you to grant a Physical absorb shield for 20% of the damage dealt. Limit 1.	sweep
+66	Protection	talent	383388	Relentless Inquisitor	true			0			Your haste is increased by 5%.	sweep
+66	Protection	talent	213644	Cleanse Toxins	false		1	8000	8000		Cleanses a friendly target, removing all Poison and Disease effects.	sweep
+66	Protection	talent	1241288	Hammer of Wrath	true			0			During Avenging Wrath, Judgment is empowered into Hammer of Wrath. |T7439209:24|t |cffffffffHammer of Wrath|r Hurls a divine hammer that strikes an enemy for 3,158 Holy damage. |cFFFFFFFFGenerates 1 Holy Power.	sweep
+66	Protection	talent	204054	Consecrated Ground	true			0			Your Consecration is 15% larger, and enemies within it have 50% reduced movement speed.	sweep
+66	Protection	talent	633	Lay on Hands	false			600000			Heals a friendly target for an amount equal to 100% your maximum health. Cannot be used on a target with Forbearance. Causes Forbearance for 30 sec.	sweep
+66	Protection	talent	115750	Blinding Light	false			90000			Emits dazzling light in all directions, blinding enemies within 10 yds, causing them to wander disoriented for 6 sec. Damage may cancel the effect.	sweep
+66	Protection	talent	385633	Auras of the Resolute	true			0			Learn Concentration Aura, Devotion Aura, and Crusader Aura: |T135933:24|t|cffffffffConcentration Aura|r: Interrupt and Silence effects on party and raid members within 40 yds are 30% shorter.  |T135893:24|t |cffffffffDevotion Aura|r: Party and raid members within 40 yds are bolstered by their devotion, reducing damage taken by 3%. |T135890:24|t |cffffffffCrusader Aura|r: Increases mounted speed by 20% for all party and raid members within 40 yds.	sweep
+66	Protection	talent	231663	Greater Judgment	true			0			Judgment causes the target to take 20% increased damage from your next Holy Power ability. Multiple applications may overlap.	sweep
+66	Protection	talent	96231	Rebuke	false			15000			Interrupts spellcasting and prevents any spell in that school from being cast for 5 sec.	sweep
+66	Protection	talent	230332	Cavalier	true			0			Divine Steed now has 2 charges.	sweep
+66	Protection	talent	384820	Sacrifice of the Just	true			0			Reduces the cooldown of Blessing of Sacrifice by 60 sec.	sweep
+66	Protection	talent	384914	Recompense	true			0			After your Blessing of Sacrifice ends, 50% of the total damage it diverted is added to your next Judgment as bonus damage, or your next Word of Glory as bonus healing. This effect's bonus damage cannot exceed 30% of your maximum health and its bonus healing cannot exceed 100% of your maximum health.	sweep
+66	Protection	talent	146956	Light's Revocation	true			0			Removing harmful effects with Divine Shield heals you for 10% for each effect removed.  This heal cannot exceed 30% of your maximum health. Divine Shield may now be cast while Forbearance is active.	sweep
+66	Protection	talent	385515	Holy Aegis	true			0			Armor and critical strike chance increased by 4%.	sweep
+66	Protection	talent	204023	Crusader's Judgment	true			0			Judgment now has 2 charges, and Grand Crusader now also reduces the cooldown of Judgment by 3 sec.	sweep
+66	Protection	talent	6940	Blessing of Sacrifice	false			120000			Blesses a party or raid member, reducing their damage taken by 30%, but you suffer 100% of damage prevented. Last 12 sec, or until transferred damage would cause you to fall below 20% health.	sweep
+66	Protection	talent	114154	Unbreakable Spirit	true			0			Reduces the cooldown of your Divine Shield, Divine Protection, and Lay on Hands by 30%.	sweep
+66	Protection	talent	1022	Blessing of Protection	false		1	1500	300000		Blesses a party or raid member, granting immunity to Physical damage and harmful effects for 10 sec. Cannot be used on a target with Forbearance. Causes Forbearance for 30 sec.	sweep
+66	Protection	talent	384909	Improved Blessing of Protection	true			0			Reduces the cooldown of Blessing of Protection by 60 sec.	sweep
+66	Protection	talent	385450	Seal of Might	true			0			Mastery increased by 2% and Intellect increased by 2%.	sweep
+66	Protection	talent	469309	Eye for an Eye	true			0			Melee and ranged attackers receive 148 Holy damage each time they strike you during Divine Protection and Divine Shield.	sweep
+66	Protection	talent	377053	Seal of Reprisal	true			0			Your Crusader Strike deals 20% increased damage.	sweep
+66	Protection	talent	385427	Obduracy	true			0			Speed increased by 2% and damage taken from area of effect attacks reduced by 2%.	sweep
+66	Protection	talent	469304	Steed of Liberty	true			0			Divine Steed also grants Blessing of Freedom for 3.0 sec. |T135968:24|t |cffffffffBlessing of Freedom|r: Blesses a party or raid member, granting immunity to movement impairing effects for 8 sec.	sweep
+66	Protection	talent	1044	Blessing of Freedom	false		1	1500	25000		Blesses a party or raid member, granting immunity to movement impairing effects for 8 sec.	sweep
+66	Protection	talent	190784	Divine Steed	false		1	750	45000		Leap atop your Charger for 3 sec, increasing movement speed by 100%. Usable while indoors or in combat.	sweep
+66	Protection	talent	393114	Improved Ardent Defender	true			0			Ardent Defender reduces damage taken by an additional 10%.	sweep
+66	Protection	talent	204018	Blessing of Spellwarding	false		1	1500	300000		Blesses a party or raid member, granting immunity to magical damage and harmful effects for 10 sec. Cannot be used on a target with Forbearance. Causes Forbearance for 30 sec. Shares a cooldown with Blessing of Protection.	sweep
+66	Protection	talent	402964	Sanctified Plates	true			0			Armor increased by 10%, Stamina increased by 5% and damage taken from area of effect attacks reduced by 3%.	sweep
+66	Protection	talent	10326	Turn Evil	false			15000			The power of the Light compels an Undead, Aberration, or Demon target to flee for up to 40 sec. Damage may break the effect. Lesser creatures have a chance to be destroyed. Only one target can be turned at a time.	sweep
+66	Protection	talent	403530	Punishment	true			0			Successfully interrupting an enemy with Rebuke casts an extra Crusader Strike.	sweep
+66	Protection	talent	469476	Divine Reach	true			0			The radius of your auras is increased by 20 yds.	sweep
+66	Protection	talent	305394	Unbound Freedom	true			0			Blessing of Freedom increases movement speed by 30%, and you gain Blessing of Freedom when cast on a friendly target.	sweep
+66	Protection	talent	385414	Afterimage	true			0			After you spend 20 Holy Power, your next Word of Glory echoes onto a nearby ally at 30% effectiveness.	sweep
+66	Protection	talent	469337	Sacred Strength	true			0			Holy Power spending abilities have 2% increased damage and healing.	sweep
+66	Protection	talent	223817	Divine Purpose	true			0			Holy Power spending abilities have a 15% chance to make your next Holy Power spending ability free and deal 15% increased damage and healing.	sweep
+66	Protection	talent	183416	Blessing of Dawn	true			0			While you are above 85% health, 5% of all damage taken by allies within 20 yds is redirected to you, up to a maximum of 21,345 every 5 sec.	sweep
+66	Protection	hero	431551	Wrathful Descent	true			0			When Empyrean Hammer critically strikes, 50% of its damage is dealt to nearby enemies. Enemies hit by this effect deal 5% reduced damage to you for 8 sec.	sweep
+66	Protection	hero	431687	Higher Calling	true			0			Crusader Strike, Hammer of Wrath and Blade of Justice extend the duration of Shake the Heavens by 1 sec.	sweep
+66	Protection	hero	431730	Sacrosanct Crusade	true			0			Wake of Ashes surrounds you with a Holy barrier for 10% of your maximum health. Hammer of Light heals you for 5% of your maximum health, increased by 1% for each additional target hit. Any overhealing done with this effect gets converted into a Holy barrier instead.	sweep
+66	Protection	hero	427445	Light's Guidance	true			0			Wake of Ashes is replaced with |cffffffffHammer of Light|r for 20 sec after it is cast. |T5342121:24|t |cffffffffHammer of Light|r: Hammer down your enemy with the power of the Light, dealing 17,785 Holy damage and 8,882 Holy damage up to 7 nearby enemies.  Additionally, calls down Empyrean Hammers from the sky to strike 3 nearby enemies for 1,188 Holy damage each. |cFFFFFFFFCosts 5 Holy Power. 	sweep
+66	Protection	hero	432992	Bonds of Fellowship	true			0			You receive 20% less damage from Blessing of Sacrifice and each time its target takes damage, you gain 4% movement speed up to a maximum of 40%.	sweep
+66	Protection	hero	432990	Unrelenting Charger	true			0			Divine Steed lasts 2 sec longer and increases your movement speed by an additional 30% for the first 3 sec.	sweep
+66	Protection	hero	425518	Light's Deliverance	true			0			You gain a stack of Light's Deliverance when you call down an Empyrean Hammer. While Wake of Ashes and Hammer of Light are unavailable, you consume 60 stacks of Light's Deliverance, empowering yourself to cast Hammer of Light an additional time for free.	sweep
+66	Protection	hero	431463	Zealous Vindication	true			0			Hammer of Light instantly calls down 2 Empyrean Hammers on your target when it is cast.	sweep
+66	Protection	hero	432463	Hammerfall	true			0			Templar's Verdict calls down an Empyrean Hammer on a nearby enemy. While Shake the Heavens is active, this effect calls down an additional Empyrean Hammer.	sweep
+66	Protection	hero	432615	Endless Wrath	true			0			Empyrean Hammer has a 10% increased chance to critically strike.	sweep
+66	Protection	hero	432977	Sanctification	true			0			Casting Judgment increases the damage of Empyrean Hammer by 5% for 10 sec. Multiple applications may overlap.	sweep
+66	Protection	hero	432626	Undisputed Ruling	true			0			Hammer of Light applies Judgment to its targets, and increases your Haste by 12% for 6 sec.	sweep
+66	Protection	hero	431533	Shake the Heavens	true			0			After casting Hammer of Light, you call down an Empyrean Hammer on a nearby target every 2 sec, for 8 sec.	sweep
+66	Protection	hero	432802	Solidarity	true			0			If you bestow an Armament upon an ally, you also gain its benefits. If you bestow an Armament upon yourself, a nearby ally also gains its benefits.	sweep
+66	Protection	hero	432919	Valiance	true			0			Consuming Infusion of Light reduces the cooldown of Holy Armaments by 3.0 sec.	sweep
+66	Protection	hero	433011	Blessing of the Forge	true			0			Avenging Wrath summons an additional Sacred Weapon, and during Avenging Wrath your Sacred Weapon casts spells on your target and echoes the effects of your Holy Power abilities.	sweep
+66	Protection	hero	432964	Divine Inspiration	true			0			Your spells and abilities have a chance to manifest a Holy Armament for a nearby ally.	sweep
+66	Protection	hero	432804	Forewarning	true			0			The cooldown of Holy Armaments is reduced by 20%.	sweep
+66	Protection	hero	469886	Authoritative Rebuke	true			0			Successfully dispelling a harmful effect reduces Cleanse's cooldown by 1.0 sec. Effect increased by 100% while wielding a Holy Armament.	sweep
+66	Protection	hero	469701	Tempered in Battle	true			0			When you or an ally wielding a Holy Bulwark are healed above maximum health, transfer 100% of the overhealing to your ally. When you or an ally wielding a Sacred Weapon drop below 40% health, redistribute your health immediately and every 1 sec for 4 sec. May only occur once per cast.	sweep
+66	Protection	hero	433568	Rite of Sanctification	false			0			Imbue your weapon with the power of the Light, increasing your armor by 5% and your primary stat by 2%. Lasts 1 |4hour:hrs;.	sweep
+66	Protection	hero	433583	Rite of Adjuration	false			0			Imbue your weapon with the power of the Light, increasing your Stamina by 3% and causing your Holy Power abilities to sometimes unleash a burst of healing around a target. Lasts 1 |4hour:hrs;.	sweep
+66	Protection	hero	432459	Holy Bulwark	false		2	0	60000		Will the Light to coalesce and become manifest as a Holy Armament, wielded by your friendly target. |T5927636:24|t |cffffffffHoly Bulwark|r: While wielding a Holy Bulwark, gain an absorb shield for 15.0% of your max health and an additional 2.0% every 2 sec. Lasts 20 sec. Becomes Sacred Weapon after use. |cFFFFFFFFGenerates 3 Holy Power.	sweep
+66	Protection	hero	433106	Divine Guidance	true			0			For each Holy Power ability cast, your next Consecration deals 1,273 damage or healing immediately, split across all enemies and allies.	sweep
+66	Protection	hero	433015	Blessed Assurance	true			0			Casting a Holy Power ability increases the damage and healing of your next Crusader Strike by 200%.	sweep
+66	Protection	hero	432866	Laying Down Arms	true			0			When an Armament fades from you, the cooldown of Lay on Hands is reduced by 15.0 sec and you gain Infusion of Light.	sweep
+66	Protection	hero	432821	Shared Resolve	true			0			The effect of your active Aura is increased by 33% on targets with your Armaments.	sweep
+66	Protection	hero	1271466	Reflection of Radiance	true			0			When your Holy Bulwark absorbs damage or your Sacred Weapon deals damage or healing, you have a chance to gain Awakening.	sweep
+66	Protection	talent	1245891	Solace	true			0			Consecration heals you for 300% of the damage it deals.	sweep
+66	Protection	talent	378457	Soaring Shield	true			0			Avenger's Shield jumps to 2 additional targets.	sweep
+66	Protection	talent	406468	Lightforged Blessing	true			0			Shield of the Righteous heals you and up to 2 nearby allies for 2,537.	sweep
+66	Protection	talent	1241958	Vengeful Wrath	true			0			Hammer of Wrath deals up to 50% additional damage based on its target's health. Lower health targets receive more damage.	sweep
+66	Protection	talent	469325	Light's Countenance	true			0			The cooldown of Blinding Light is reduced by 15 sec.	sweep
+66	Protection	talent	460720	Wrench Evil	true			0			Turn Evil's cast time is reduced by 100%.	sweep
+66	Protection	talent	469317	Stand Against Evil	true			0			Turn Evil now affects 5 additional enemies.	sweep
+66	Protection	talent	377128	Golden Path	true			0			Consecration heals you and 5 allies within it for 127 every 0.8 sec.	sweep
+66	Protection	talent	469434	Selfless Healer	true			0			Flash of Light and Holy Light are 30% more effective on your allies and 40% of the healing done also heals you.	sweep
+66	Protection	talent	469409	Divine Spurs	true			0			Divine Steed's cooldown is reduced by 20%, but its duration is reduced by 40%.	sweep
+66	Protection	talent	469411	A Just Reward	true			0			After Cleanse successfully removes an effect from an ally, they are healed for 2,295.	sweep
+66	Protection	talent	387791	Empyreal Ward	true			0			Lay on Hands grants the target 30% increased armor for 8 sec and now ignores healing reduction effects.	sweep
+66	Protection	talent	469445	Holy Reprieve	true			0			Your Forbearance's duration is reduced by 10 sec.	sweep
+66	Protection	talent	469416	Lightbearer	true			0			10% of all healing done to you from other sources heals up to 4 nearby allies, divided evenly among them.	sweep
+66	Protection	talent	469316	Stoicism	true			0			The duration of stun effects on you is reduced by 20%.	sweep
+66	Protection	talent	1241945	Blessing of Dusk	true			0			Damage taken reduced by up to 10%, increasing as your health decreases.	sweep
+66	Protection	talent	469439	Inspired Guard	true			0			Divine Protection increases healing taken by 15% for its duration.	sweep
+66	Protection	talent	469279	Worthy Sacrifice	true			0			You automatically cast Blessing of Sacrifice onto an ally within 40 yds when they are below 35% health and you are not in a loss of control effect. This effect activates 100% of Blessing of Sacrifice's cooldown.	sweep
+66	Protection	talent	469321	Righteous Protection	true			0			Blessing of Sacrifice now removes and prevents all Poison and Disease effects.	sweep
+66	Protection	talent	199422	Holy Ritual	true			0			Allies are healed for 8,500 when you cast Blessing of Protection or Blessing of Sacrifice on them.	sweep
+66	Protection	talent	469780	Lead the Charge	true			0			Divine Steed reduces the cooldown of 4 nearby ally's major movement ability by 3.0 sec. Your movement speed is increased by 3%.	sweep
+66	Protection	talent	469770	Blessed Calling	true			0			Allies affected by your Blessings have 15% increased movement speed.	sweep
+66	Protection	talent	53376	Sanctified Wrath	true			0			Avenging Wrath and Avenging Crusader have 25% increased duration.	sweep
+66	Protection	hero	1271387	Masterwork	true			0			After casting a Holy Armament, your next 3 abilities cast a Lesser Armament of the same kind on a nearby ally.	sweep
+66	Protection	hero	433718	Hammer and Anvil	true			0			Judgment critical strikes cause a shockwave around the target, healing to up to 5 injuried allies for 481.	sweep
+66	Protection	hero	1271553	Resounding Strike	true			0			Holy Armaments activate Hammer and Anvil at 100% effectiveness.	sweep
+66	Protection	hero	1260429	Divine Exaction	true			0			Divine Toll casts 2 additional times on your target at 150% effectiveness.	sweep
+66	Protection	hero	1263252	Seal of the Templar	true			0			Templar's Verdict damage increased by 25%.	sweep
+66	Protection	hero	1261525	Light's Judicator	true			0			Empyrean Hammer deals 20% increased critical strike damage and its critical strikes have 50% chance to grant an additional stack of Light's Deliverance.	sweep
+66	Protection	hero	432929	Divine Hammer	true			0			Divine Toll summons Divine Hammers that spin around you for 8 sec. |T626003:24|t|cffffffffDivine Hammer|r Strikes all enemies nearby for 3,675 Holy damage every 2 sec. Deals reduced damage beyond 8 targets.	sweep
+66	Protection	talent	1265541	Fear No Evil	true			0			Fear duration on you reduced by 20%. This effect is increased to 60% during Avenging Wrath.	sweep
+66	Protection	talent	1265549	Brought to Light	true			0			Killing an enemy that yields experience or honor causes you to explode with holy energy, healing up to 5 nearby allies and yourself for 12,685, split evenly among them.	sweep
+66	Protection	talent	234299	Fist of Justice	true			0			Hammer of Justice's cooldown is reduced by 15 sec.	sweep
+66	Protection	talent	375576	Divine Toll	false			60000			Instantly cast Holy Shock, Avenger's Shield, or Judgment on up to 5 targets within 30 yds.	sweep
+66	Protection	talent	404357	Guided Prayer	true			0			When your health is brought below 25%, you instantly cast a free Word of Glory at 60% effectiveness on yourself. Cannot occur more than once every 60 sec.	sweep
+66	Protection	talent	1267203	Glory of the Vanguard	true			0			Judgment has a chance to grant you Vanguard, causing your next Avenger's Shield to leave an echoing bolt of light in a line between you and the initial target, piercing any enemies for 7,657 Holy damage.	sweep
+66	Protection	talent	1267211	Glory of the Vanguard	true			0			Judgment deals 10% increased damage. When you consume Vanguard you gain 1 Holy Power.	sweep
+66	Protection	talent	1267215	Glory of the Vanguard	true			0			Your next cast of Shield of the Righteous after Vanguard deals 100% additional damage to your primary target and causes light to refract onto 4 other targets for 5,105 Holy damage. During Avenging Wrath your Avenger's Shield always benefits from Vanguard.	sweep
+70	Retribution	talent	406101	Faith's Armor	true			0			Word of Glory grants 20% bonus armor for 4.5 sec.	sweep
+70	Retribution	talent	213644	Cleanse Toxins	false		1	8000	8000		Cleanses a friendly target, removing all Poison and Disease effects.	sweep
+70	Retribution	talent	1241288	Hammer of Wrath	true			0			During Avenging Wrath, Judgment is empowered into Hammer of Wrath. |T7439209:24|t |cffffffffHammer of Wrath|r Hurls a divine hammer that strikes an enemy for 3,158 Holy damage. |cFFFFFFFFGenerates 1 Holy Power.	sweep
+70	Retribution	talent	407067	Rush of Light	true			0			The critical strikes of your Holy Power generating abilities grant you 5% Haste for 10 sec.	sweep
+70	Retribution	talent	383228	Swift Justice	true			0			Reduces the cooldown of Judgment by 2 sec and Crusader Strike by 2 sec.	sweep
+70	Retribution	talent	404436	Light of Justice	true			0			Reduces the cooldown of Blade of Justice by 2 sec.	sweep
+70	Retribution	talent	402912	Righteous Cause	true			0			Each Holy Power spent has a 6% chance to reset the cooldown of Blade of Justice.	sweep
+70	Retribution	talent	406064	Art of War	true			0			Your auto attacks have a 15% chance to reset the cooldown of Blade of Justice. Critical strikes increase the chance by an additional 10%.	sweep
+70	Retribution	talent	255937	Wake of Ashes	false		1	0	30000		Lash out at your enemies, dealing 8,215 Radiant damage to all enemies within 14 yds in front of you, and applying |cffffffffTruth's Wake|r, burning the targets for an additional 5,066 damage over 9 sec. Demon and Undead enemies are also stunned for 5 sec. |cFFFFFFFFGenerates 3 Holy Power.	sweep
+70	Retribution	talent	184575	Blade of Justice	false		1	0	12000		Pierce an enemy with a blade of light, dealing 3,516 Holy damage. |cFFFFFFFFGenerates 1 Holy Power.|r	sweep
+70	Retribution	talent	53385	Divine Storm	false			0			Unleashes a whirl of divine energy, dealing 4,832 Holy damage to all nearby enemies.  Deals reduced damage beyond 5 targets.	sweep
+70	Retribution	talent	383328	Final Verdict	false			0			Unleashes a powerful weapon strike that deals 10,322 Holy damage to an enemy target, Final Verdict has a 15% chance to reset the cooldown of Judgment.	sweep
+70	Retribution	talent	405461	Improved Judgment	true			0			Judgment now has 2 charges.	sweep
+70	Retribution	talent	405278	Boundless Judgment	true			0			Judgment has a 50% increased chance to trigger Mastery: Highlord's Judgment.	sweep
+70	Retribution	talent	404512	Highlord's Wrath	true			0			Mastery: Highlord's Judgment is 50% more effective on Judgment and Hammer of Wrath. Judgment applies an additional stack of Greater Judgment if it is known.	sweep
+70	Retribution	talent	406157	Judge, Jury and Executioner	true			0			Holy Power spending abilities deal 5% increased damage. After casting Execution Sentence, your next 1 Holy Power ability will refund its Holy Power cost.	sweep
+70	Retribution	talent	403010	Blessed Champion	true			0			Crusader Strike and Judgment hit an additional 4 targets but deal 25% reduced damage to secondary targets.	sweep
+70	Retribution	talent	402971	Jurisdiction	true			0			Templar's Verdict and Blade of Justice deal 10% increased damage. The range of Blade of Justice is increased to 20 yds.	sweep
+70	Retribution	talent	204054	Consecrated Ground	true			0			Your Consecration is 15% larger, and enemies within it have 50% reduced movement speed.	sweep
+70	Retribution	talent	31884	Avenging Wrath	false			120000			Call upon the Light to become an avatar of retribution, increasing your damage, healing, and critical strike chance by 20% for 20 sec.	sweep
+70	Retribution	talent	403826	Blade of Vengeance	true			0			Blade of Justice now hits nearby enemies for 1,494 Holy damage.  Deals reduced damage beyond 5 targets.	sweep
+70	Retribution	talent	458359	Radiant Glory	true			0			Avenging Wrath is replaced with Radiant Glory. |T255346:24|t|cffffffffRadiant Glory|r Wake of Ashes activates Avenging Wrath for 8 sec.	sweep
+70	Retribution	talent	633	Lay on Hands	false			600000			Heals a friendly target for an amount equal to 100% your maximum health. Cannot be used on a target with Forbearance. Causes Forbearance for 30 sec.	sweep
+70	Retribution	talent	115750	Blinding Light	false			90000			Emits dazzling light in all directions, blinding enemies within 10 yds, causing them to wander disoriented for 6 sec. Damage may cancel the effect.	sweep
+70	Retribution	talent	385633	Auras of the Resolute	true			0			Learn Concentration Aura, Devotion Aura, and Crusader Aura: |T135933:24|t|cffffffffConcentration Aura|r: Interrupt and Silence effects on party and raid members within 40 yds are 30% shorter.  |T135893:24|t |cffffffffDevotion Aura|r: Party and raid members within 40 yds are bolstered by their devotion, reducing damage taken by 3%. |T135890:24|t |cffffffffCrusader Aura|r: Increases mounted speed by 20% for all party and raid members within 40 yds.	sweep
+70	Retribution	talent	231663	Greater Judgment	true			0			Judgment causes the target to take 20% increased damage from your next Holy Power ability. Multiple applications may overlap.	sweep
+70	Retribution	talent	230332	Cavalier	true			0			Divine Steed now has 2 charges.	sweep
+70	Retribution	talent	384820	Sacrifice of the Just	true			0			Reduces the cooldown of Blessing of Sacrifice by 60 sec.	sweep
+70	Retribution	talent	384914	Recompense	true			0			After your Blessing of Sacrifice ends, 50% of the total damage it diverted is added to your next Judgment as bonus damage, or your next Word of Glory as bonus healing. This effect's bonus damage cannot exceed 30% of your maximum health and its bonus healing cannot exceed 100% of your maximum health.	sweep
+70	Retribution	talent	146956	Light's Revocation	true			0			Removing harmful effects with Divine Shield heals you for 10% for each effect removed.  This heal cannot exceed 30% of your maximum health. Divine Shield may now be cast while Forbearance is active.	sweep
+70	Retribution	talent	385515	Holy Aegis	true			0			Armor and critical strike chance increased by 4%.	sweep
+70	Retribution	talent	6940	Blessing of Sacrifice	false			120000			Blesses a party or raid member, reducing their damage taken by 30%, but you suffer 100% of damage prevented. Last 12 sec, or until transferred damage would cause you to fall below 20% health.	sweep
+70	Retribution	talent	114154	Unbreakable Spirit	true			0			Reduces the cooldown of your Divine Shield, Divine Protection, and Lay on Hands by 30%.	sweep
+70	Retribution	talent	1022	Blessing of Protection	false		1	1500	300000		Blesses a party or raid member, granting immunity to Physical damage and harmful effects for 10 sec. Cannot be used on a target with Forbearance. Causes Forbearance for 30 sec.	sweep
+70	Retribution	talent	384909	Improved Blessing of Protection	true			0			Reduces the cooldown of Blessing of Protection by 60 sec.	sweep
+70	Retribution	talent	469337	Sacred Strength	true			0			Holy Power spending abilities have 2% increased damage and healing.	sweep
+70	Retribution	talent	408459	Divine Purpose	true			0			Holy Power spending abilities have a 10% chance to make your next Holy Power spending ability free and deal 10% increased damage and healing.	sweep
+70	Retribution	talent	385450	Seal of Might	true			0			Mastery increased by 2% and Intellect increased by 2%.	sweep
+70	Retribution	talent	469309	Eye for an Eye	true			0			Melee and ranged attackers receive 148 Holy damage each time they strike you during Divine Protection and Divine Shield.	sweep
+70	Retribution	talent	385427	Obduracy	true			0			Speed increased by 2% and damage taken from area of effect attacks reduced by 2%.	sweep
+70	Retribution	talent	469304	Steed of Liberty	true			0			Divine Steed also grants Blessing of Freedom for 3.0 sec. |T135968:24|t |cffffffffBlessing of Freedom|r: Blesses a party or raid member, granting immunity to movement impairing effects for 8 sec.	sweep
+70	Retribution	talent	1044	Blessing of Freedom	false		1	1500	25000		Blesses a party or raid member, granting immunity to movement impairing effects for 8 sec.	sweep
+70	Retribution	talent	190784	Divine Steed	false		1	750	45000		Leap atop your Charger for 3 sec, increasing movement speed by 100%. Usable while indoors or in combat.	sweep
+70	Retribution	talent	446663	Burn to Ash	true			0			When Truth's Wake critically strikes, its duration is extended by 2 sec. Your other damage over time effects deal 30% increased damage to targets affected by Truth's Wake. 	sweep
+70	Retribution	talent	383344	Expurgation	true			0			Your Blade of Justice causes the target to burn for 2,071 Radiant damage over 9 sec. When reapplied, any remaining damage is added to the new effect.	sweep
+70	Retribution	talent	403745	Improved Blade of Justice	true			0			Blade of Justice now has 2 charges.	sweep
+70	Retribution	talent	383342	Holy Blade	true			0			Blade of Justice generates 1 additional Holy Power.	sweep
+70	Retribution	talent	403026	Burning Crusade	true			0			Your damage over time effects deal 10% more damage.	sweep
+70	Retribution	talent	405355	Seething Flames	true			0			Wake of Ashes deals significantly reduced damage to secondary targets, but now causes you to lash out 2 extra times for 5,798 Radiant damage. 	sweep
+70	Retribution	talent	326732	Empyrean Power	true			0			Crusader Strike has a 15% chance to make your next Divine Storm free and deal 15% additional damage.	sweep
+70	Retribution	talent	403509	Zealot's Fervor	true			0			Auto-attack speed increased by 20%.	sweep
+70	Retribution	talent	403479	Lightforged Blessing	true			0			Divine Storm heals you and up to 2 nearby allies for 2,537.	sweep
+70	Retribution	talent	402964	Sanctified Plates	true			0			Armor increased by 10%, Stamina increased by 5% and damage taken from area of effect attacks reduced by 3%.	sweep
+70	Retribution	talent	10326	Turn Evil	false			15000			The power of the Light compels an Undead, Aberration, or Demon target to flee for up to 40 sec. Damage may break the effect. Lesser creatures have a chance to be destroyed. Only one target can be turned at a time.	sweep
+70	Retribution	talent	406872	Divine Wrath	true			0			Increases the duration of Avenging Wrath or Crusade by 4 sec.	sweep
+70	Retribution	talent	403495	Judgment of Justice	true			0			Judgment deals 10% increased damage and increases your movement speed by 10% for 5 sec. If you have Greater Judgment, Judgment slows enemies by 30% for 8 sec.	sweep
+70	Retribution	talent	403664	Blades of Light	true			0			Crusader Strike, Judgment and Blade of Justice deal 10% increased damage.	sweep
+70	Retribution	talent	469476	Divine Reach	true			0			The radius of your auras is increased by 20 yds.	sweep
+70	Retribution	talent	387170	Empyrean Legacy	true			0			Avenging Wrath empowers your next Word of Glory to automatically activate Light of Dawn with 25% increased effectiveness.	sweep
+70	Retribution	talent	305394	Unbound Freedom	true			0			Blessing of Freedom increases movement speed by 30%, and you gain Blessing of Freedom when cast on a friendly target.	sweep
+70	Retribution	talent	384027	Divine Resonance	true			0			After casting Divine Toll, you instantly cast Holy Shock every 5 sec for 15 sec.	sweep
+70	Retribution	talent	379391	Quickened Invocation	true			0			Divine Toll's, Holy Armament's, and Holy Prism's cooldown is reduced by 15 sec.	sweep
+70	Retribution	talent	385414	Afterimage	true			0			After you spend 20 Holy Power, your next Word of Glory echoes onto a nearby ally at 30% effectiveness.	sweep
+70	Retribution	talent	326734	Healing Hands	true			0			The cooldown of Lay on Hands is reduced up to 60%, based on the target's missing health. Word of Glory's healing is increased by up to 100% on yourself, based on your missing health.	sweep
+70	Retribution	talent	406154	Heart of the Crusader	true			0			Crusader Strike and auto-attacks deal 10% increased damage and deal 10% increased critical strike damage. 	sweep
+70	Retribution	talent	183416	Blessing of Dawn	true			0			While you are above 85% health, 5% of all damage taken by allies within 20 yds is redirected to you, up to a maximum of 21,345 every 5 sec.	sweep
+70	Retribution	hero	439760	Aurora	true			0			After you cast Holy Prism or Divine Toll, gain Divine Purpose. |T135897:24|t |cffffffffDivine Purpose|r Your next Holy Power spending ability is free and deals 15% increased damage and healing.	sweep
+70	Retribution	hero	445200	Blessing of An'she	true			0			The healing and damage of Holy Shock is increased by 15%.	sweep
+70	Retribution	hero	431407	Lingering Radiance	true			0			Dawnlight leaves an Eternal Flame for 6 sec on allies or a Greater Judgment on enemies when it expires or is extended.	sweep
+70	Retribution	hero	431413	Sun Sear	true			0			Holy Shock and Light of Dawn critical strikes cause the target to be healed for an additional 328 over 4 sec.	sweep
+70	Retribution	hero	431482	Morning Star	true			0			Every 5.0 sec, your next Dawnlight's damage or healing is increased by 5%, stacking up to 10 times. Morning Star stacks twice as fast while out of combat.	sweep
+70	Retribution	hero	431480	Gleaming Rays	true			0			Your Holy Power spenders deal 3% additional damage and healing.	sweep
+70	Retribution	hero	431402	Luminosity	true			0			Critical Strike chance of Holy Shock and Light of Dawn increased by 5%.	sweep
+70	Retribution	hero	431474	Second Sunrise	true			0			Light of Dawn and Holy Shock have a 15% chance to cast again at 30% effectiveness.	sweep
+70	Retribution	hero	1263782	Walk Into Light	true			0			Infusion of Light occurs 100% more often during Avenging Wrath.	sweep
+70	Retribution	hero	156322	Eternal Flame	false			0			Heals an ally for 1,606 and an additional 548 over 16 sec. Healing increased by 25% when cast on self.	sweep
+70	Retribution	hero	431423	Illumine	true			0			Dawnlight reduces the movement speed of enemies by 50% and increases the movement speed of allies by 20%.	sweep
+70	Retribution	hero	431406	Will of the Dawn	true			0			Movement speed increased by 5% while above 80% health. When your health is brought below 35%, your movement speed is increased by 40% for 5 sec. Cannot occur more than once every 1 min.	sweep
+70	Retribution	hero	431377	Dawnlight	true			0			Casting Holy Prism or Divine Toll causes your next 2 Holy Power spending abilities to apply Dawnlight on your target, dealing 1,546 Radiant damage or 3,267 healing over 8 sec. 8% of Dawnlight's damage and healing radiates to nearby allies or enemies, reduced beyond 5 targets. Dawnlight's healing does not transfer to Beacon of Light.	sweep
+70	Retribution	hero	431425	Sun's Avatar	true			0			You link to your Dawnlights within 30 yds, causing 91 Radiant damage to enemies or 158 healing to allies that pass through the beams, reduced beyond 5 targets.	sweep
+70	Retribution	hero	431551	Wrathful Descent	true			0			When Empyrean Hammer critically strikes, 50% of its damage is dealt to nearby enemies. Enemies hit by this effect deal 5% reduced damage to you for 8 sec.	sweep
+70	Retribution	hero	431687	Higher Calling	true			0			Crusader Strike, Hammer of Wrath and Blade of Justice extend the duration of Shake the Heavens by 1 sec.	sweep
+70	Retribution	hero	431730	Sacrosanct Crusade	true			0			Wake of Ashes surrounds you with a Holy barrier for 10% of your maximum health. Hammer of Light heals you for 5% of your maximum health, increased by 1% for each additional target hit. Any overhealing done with this effect gets converted into a Holy barrier instead.	sweep
+70	Retribution	hero	427445	Light's Guidance	true			0			Wake of Ashes is replaced with |cffffffffHammer of Light|r for 20 sec after it is cast. |T5342121:24|t |cffffffffHammer of Light|r: Hammer down your enemy with the power of the Light, dealing 17,785 Holy damage and 8,882 Holy damage up to 7 nearby enemies.  Additionally, calls down Empyrean Hammers from the sky to strike 3 nearby enemies for 1,188 Holy damage each. |cFFFFFFFFCosts 5 Holy Power. 	sweep
+70	Retribution	hero	432992	Bonds of Fellowship	true			0			You receive 20% less damage from Blessing of Sacrifice and each time its target takes damage, you gain 4% movement speed up to a maximum of 40%.	sweep
+70	Retribution	hero	432990	Unrelenting Charger	true			0			Divine Steed lasts 2 sec longer and increases your movement speed by an additional 30% for the first 3 sec.	sweep
+70	Retribution	hero	425518	Light's Deliverance	true			0			You gain a stack of Light's Deliverance when you call down an Empyrean Hammer. While Wake of Ashes and Hammer of Light are unavailable, you consume 60 stacks of Light's Deliverance, empowering yourself to cast Hammer of Light an additional time for free.	sweep
+70	Retribution	hero	431463	Zealous Vindication	true			0			Hammer of Light instantly calls down 2 Empyrean Hammers on your target when it is cast.	sweep
+70	Retribution	hero	432463	Hammerfall	true			0			Templar's Verdict calls down an Empyrean Hammer on a nearby enemy. While Shake the Heavens is active, this effect calls down an additional Empyrean Hammer.	sweep
+70	Retribution	hero	432615	Endless Wrath	true			0			Empyrean Hammer has a 10% increased chance to critically strike.	sweep
+70	Retribution	hero	432977	Sanctification	true			0			Casting Judgment increases the damage of Empyrean Hammer by 5% for 10 sec. Multiple applications may overlap.	sweep
+70	Retribution	hero	432626	Undisputed Ruling	true			0			Hammer of Light applies Judgment to its targets, and increases your Haste by 12% for 6 sec.	sweep
+70	Retribution	hero	431533	Shake the Heavens	true			0			After casting Hammer of Light, you call down an Empyrean Hammer on a nearby target every 2 sec, for 8 sec.	sweep
+70	Retribution	talent	1241958	Vengeful Wrath	true			0			Hammer of Wrath deals up to 50% additional damage based on its target's health. Lower health targets receive more damage.	sweep
+70	Retribution	talent	469325	Light's Countenance	true			0			The cooldown of Blinding Light is reduced by 15 sec.	sweep
+70	Retribution	talent	460720	Wrench Evil	true			0			Turn Evil's cast time is reduced by 100%.	sweep
+70	Retribution	talent	469317	Stand Against Evil	true			0			Turn Evil now affects 5 additional enemies.	sweep
+70	Retribution	talent	377128	Golden Path	true			0			Consecration heals you and 5 allies within it for 127 every 0.8 sec.	sweep
+70	Retribution	talent	469434	Selfless Healer	true			0			Flash of Light and Holy Light are 30% more effective on your allies and 40% of the healing done also heals you.	sweep
+70	Retribution	talent	469409	Divine Spurs	true			0			Divine Steed's cooldown is reduced by 20%, but its duration is reduced by 40%.	sweep
+70	Retribution	talent	469411	A Just Reward	true			0			After Cleanse successfully removes an effect from an ally, they are healed for 2,295.	sweep
+70	Retribution	talent	387791	Empyreal Ward	true			0			Lay on Hands grants the target 30% increased armor for 8 sec and now ignores healing reduction effects.	sweep
+70	Retribution	talent	469445	Holy Reprieve	true			0			Your Forbearance's duration is reduced by 10 sec.	sweep
+70	Retribution	talent	469416	Lightbearer	true			0			10% of all healing done to you from other sources heals up to 4 nearby allies, divided evenly among them.	sweep
+70	Retribution	talent	469316	Stoicism	true			0			The duration of stun effects on you is reduced by 20%.	sweep
+70	Retribution	talent	1241945	Blessing of Dusk	true			0			Damage taken reduced by up to 10%, increasing as your health decreases.	sweep
+70	Retribution	talent	469439	Inspired Guard	true			0			Divine Protection increases healing taken by 15% for its duration.	sweep
+70	Retribution	talent	469279	Worthy Sacrifice	true			0			You automatically cast Blessing of Sacrifice onto an ally within 40 yds when they are below 35% health and you are not in a loss of control effect. This effect activates 100% of Blessing of Sacrifice's cooldown.	sweep
+70	Retribution	talent	469321	Righteous Protection	true			0			Blessing of Sacrifice now removes and prevents all Poison and Disease effects.	sweep
+70	Retribution	talent	199422	Holy Ritual	true			0			Allies are healed for 8,500 when you cast Blessing of Protection or Blessing of Sacrifice on them.	sweep
+70	Retribution	talent	469780	Lead the Charge	true			0			Divine Steed reduces the cooldown of 4 nearby ally's major movement ability by 3.0 sec. Your movement speed is increased by 3%.	sweep
+70	Retribution	talent	469770	Blessed Calling	true			0			Allies affected by your Blessings have 15% increased movement speed.	sweep
+70	Retribution	talent	375576	Divine Toll	false			60000			Instantly cast Holy Shock, Avenger's Shield, or Judgment on up to 5 targets within 30 yds.	sweep
+70	Retribution	talent	1253598	Crusade	true			0			Avenging Wrath now grants you 2% Haste. Each Holy Power spent during Avenging Wrath increases Haste by an additional 2%, up to 20%.	sweep
+70	Retribution	talent	382536	Sanctify	true			0			Enemies hit by Divine Storm take 20% more damage from Consecration and Divine Hammers for 12 sec. 	sweep
+70	Retribution	talent	406545	Holy Flames	true			0			You deal 5% increased Holy damage to targets burning from your Expurgation.	sweep
+70	Retribution	talent	383396	Tempest of the Lightbringer	true			0			Divine Storm projects an additional wave of light, striking all enemies up to 20 yds in front of you for 20% of Divine Storm's damage.	sweep
+70	Retribution	talent	343527	Execution Sentence	false			60000			Unleash a heavenly blast around the target, dealing 12,898 Holy damage to all enemies nearby, and call down a hammer that slowly falls from the sky upon the target.  After 10 sec, they suffer 20% of the Holy damage you dealt to all targets affected by the initial blast during that time.	sweep
+70	Retribution	talent	406646	Templar Strikes	true			0			Crusader Strike loses a charge but is now a combo ability. Templar Strike slashes an enemy for 3,190 Radiant damage and gets followed up by Templar Slash that deals 3,669 Radiant damage. Templar Slash always critically strikes.	sweep
+70	Retribution	talent	404542	Crusading Strikes	true			0			Crusader Strike replaces your auto-attacks and deals 5,991 Physical damage, but you auto-attack 20% slower.	sweep
+70	Retribution	hero	1260429	Divine Exaction	true			0			Divine Toll casts 2 additional times on your target at 150% effectiveness.	sweep
+70	Retribution	hero	1263252	Seal of the Templar	true			0			Templar's Verdict damage increased by 25%.	sweep
+70	Retribution	hero	1261525	Light's Judicator	true			0			Empyrean Hammer deals 20% increased critical strike damage and its critical strikes have 50% chance to grant an additional stack of Light's Deliverance.	sweep
+70	Retribution	hero	432929	Divine Hammer	true			0			Divine Toll summons Divine Hammers that spin around you for 8 sec. |T626003:24|t|cffffffffDivine Hammer|r Strikes all enemies nearby for 3,675 Holy damage every 2 sec. Deals reduced damage beyond 8 targets.	sweep
+70	Retribution	hero	1263787	Endless Gleam	true			0			Dawnlight's duration is increased by 0.5 sec when it heals an ally with full health.	sweep
+70	Retribution	hero	1263920	Born in Sunlight	true			0			Dawnlight's critical strike chance is increased by 15% during Avenging Wrath.	sweep
+70	Retribution	hero	431404	Solar Grace	true			0			Haste is increased by 5%.	sweep
+70	Retribution	talent	1261562	Shield of Vengeance	true			0			Divine Protection reduces damage taken by an additional 10% and casts Shield of Vengeance. |T236264:24|t|cffffffffShield of Vengeance|r Creates a barrier of holy light that absorbs 128,852 damage for 10 sec. When the shield expires, it bursts to inflict Holy damage equal to the total amount absorbed, divided among all nearby enemies.	sweep
+70	Retribution	talent	1265541	Fear No Evil	true			0			Fear duration on you reduced by 20%. This effect is increased to 60% during Avenging Wrath.	sweep
+70	Retribution	talent	1265549	Brought to Light	true			0			Killing an enemy that yields experience or honor causes you to explode with holy energy, healing up to 5 nearby allies and yourself for 12,685, split evenly among them.	sweep
+70	Retribution	talent	234299	Fist of Justice	true			0			Hammer of Justice's cooldown is reduced by 15 sec.	sweep
+70	Retribution	talent	404357	Guided Prayer	true			0			When your health is brought below 25%, you instantly cast a free Word of Glory at 60% effectiveness on yourself. Cannot occur more than once every 60 sec.	sweep
+70	Retribution	talent	403530	Punishment	true			0			Successfully interrupting an enemy with Rebuke casts an extra Crusader Strike.	sweep
+70	Retribution	talent	96231	Rebuke	false			15000			Interrupts spellcasting and prevents any spell in that school from being cast for 5 sec.	sweep
+70	Retribution	talent	1261113	Light Within	true			0			Art of War increases the damage of your next Blade of Justice by 150%.	sweep
+70	Retribution	talent	1261111	Light Within	true			0			Avenging Wrath further increases the damage of Templar's Verdict and Divine Storm by 10%.	sweep
+70	Retribution	talent	1261159	Light Within	true			0			Art of War further empowers Blade of Justice to unleash a wave of Holy energy, dealing 28,240 Holy damage to its primary target and 11,296 Holy damage to all other enemies in its path.	sweep
+65	Holy	talent	406101	Faith's Armor	true			0			Word of Glory grants 20% bonus armor for 4.5 sec.	sweep
+65	Holy	talent	375576	Divine Toll	false			60000			Instantly cast Holy Shock, Avenger's Shield, or Judgment on up to 5 targets within 30 yds.	sweep
+65	Holy	talent	114165	Holy Prism	false			45000			Fires a beam of light that scatters to strike a clump of targets.  If the beam is aimed at an enemy target, it deals 2,751 Holy damage and radiates 2,924 healing to 5 allies within 30 yds. If the beam is aimed at a friendly target, it heals for 6,747 and radiates 1,043 Holy damage to 5 enemies within 30 yds. |cFFFFFFFFGenerates 3 Holy Power.	sweep
+65	Holy	talent	393024	Improved Cleanse	true			0			Cleanse additionally removes all Disease and Poison effects.	sweep
+65	Holy	talent	1241288	Hammer of Wrath	true			0			During Avenging Wrath, Judgment is empowered into Hammer of Wrath. |T7439209:24|t |cffffffffHammer of Wrath|r Hurls a divine hammer that strikes an enemy for 3,158 Holy damage. |cFFFFFFFFGenerates 1 Holy Power.	sweep
+65	Holy	talent	204054	Consecrated Ground	true			0			Your Consecration is 15% larger, and enemies within it have 50% reduced movement speed.	sweep
+65	Holy	talent	156910	Beacon of Faith	false			0			Mark a second target as a Beacon, mimicking the effects of Beacon of Light. Your heals will now heal both of your Beacons, but at 30% reduced effectiveness.	sweep
+65	Holy	talent	200025	Beacon of Virtue	false			15000			Apply a Beacon of Light to your target and 4 injured allies within 30 yds for 9 sec. All affected allies will be healed for 10% of the amount of your other healing done.	sweep
+65	Holy	talent	20473	Holy Shock	false		1	0	6000		Triggers a burst of Light on the target, dealing 917 Holy damage to an enemy, or 2,863 healing to an ally. |cFFFFFFFFGenerates 1 Holy Power. 	sweep
+65	Holy	talent	461244	Overflowing Light	true			0			30% of Holy Shock's overhealing is converted into an absorb shield. The shield amount cannot exceed 10% of your max health.	sweep
+65	Holy	talent	392961	Imbued Infusions	true			0			Consuming Infusion of Light reduces the cooldown of Holy Shock by 1.0 sec.	sweep
+65	Holy	talent	415364	Reclamation	true			0			Holy Shock refunds up to 10% of its Mana cost and deals up to 50% more healing or damage, based on the target's missing health.	sweep
+65	Holy	talent	448040	Bestow Light	true			0			Light of the Martyr's health threshold is reduced to 70% and increases Holy Shock's healing by an additional 5% for every 5 sec Light of the Martyr is active, stacking up to 3 times. While below 70% health, the light urgently heals you for 85 every 1 sec.	sweep
+65	Holy	talent	447985	Light of the Martyr	true			0			While above 80% health, Holy Shock's healing is increased 20%, but creates a heal absorb on you for 30% of the amount healed that prevents Beacon of Light from healing you until it has dissipated.	sweep
+65	Holy	talent	414443	Shining Righteousness	true			0			Shield of the Righteous deals 1,087 damage to its first target struck. Shield of the Righteous now has a 35% chance to activate Divine Purpose if talented.	sweep
+65	Holy	talent	417855	Awestruck	true			0			Holy Shock, Holy Light, and Flash of Light critical healing increased by 20%.	sweep
+65	Holy	talent	85222	Light of Dawn	false			0			Unleashes Holy energy, healing up to 5 injured allies within a 40 yd radius around you for 2,153.	sweep
+65	Holy	talent	392911	Unwavering Spirit	true			0			The cooldown of Aura Mastery is reduced by 30 sec.	sweep
+65	Holy	talent	200430	Protection of Tyr	true			0			Aura Mastery also increases all healing received by party or raid members within 40 yards by 10%.	sweep
+65	Holy	talent	31821	Aura Mastery	false			180000			Empowers your chosen aura for 8 sec. |cffffffffDevotion Aura|r: Damage reduction increased to 12%. |cffffffffCrusader Aura|r: Mount speed bonus increased to 60%. |cffffffffConcentration Aura|r: Affected allies immune to interrupts and silences.	sweep
+65	Holy	talent	197446	Beacon of the Lightbringer	true			0			Mastery: Lightbringer now increases your healing based on the target's proximity to either you or your Beacon of Light, whichever is closer.	sweep
+65	Holy	talent	53576	Infusion of Light	true			0			Your Holy Shocks have a 10% chance to empower your next spell cast: |cffffffffFlash of Light|r: healing increased by 200% and becomes instant cast. |cffffffffJudgment|r: Greater Judgment prevents an additional 150% damage dealt by the target and generates 1 additional Holy Power.	sweep
+65	Holy	talent	1270916	Divine Favor	true			0			The mana cost of Holy Light is reduced by 10% and its cast time is reduced by 15%.	sweep
+65	Holy	talent	387786	Moment of Compassion	true			0			Your Flash of Light heals for an additional 50% when cast on a target affected by your Beacon of Light.	sweep
+65	Holy	talent	392902	Resplendent Light	true			0			Holy Light heals up to 5 targets within 12 yds for 8% of its healing.	sweep
+65	Holy	talent	414720	Tirion's Devotion	true			0			Lay on Hands' cooldown is reduced by 30% and restores 5% of your Mana.	sweep
+65	Holy	talent	157047	Saved by the Light	true			0			When an ally with your Beacon of Light is damaged, they absorb the next 63 damage, increasing by up to 300% based on their current health. Lower health allies are shielded for more.	sweep
+65	Holy	talent	1271221	Unending Light	true			0			Light of Dawn receives 20% increased benefit from Mastery: Lightbringer.	sweep
+65	Holy	talent	1241805	Glistening Radiance	true			0			While at maximum health, targets with Beacon of Light generate an absorb shield equal to 1% of their health every 3 sec, up to a maximum of 5%.	sweep
+65	Holy	talent	387808	Divine Revelations	true			0			While empowered by Infusion of Light, Flash of Light heals for an additional 20% and Judgment refunds 0.5% of your maximum mana.	sweep
+65	Holy	talent	1232616	Pillars of Light	true			0			|T1030095:24|t |cffffffffBeacon of Faith|r: Allies with Beacon of Light or Beacon of Faith are healed for 140 every 3 sec. |T1030094:24|t |cffffffffBeacon of Virtue|r: Beacon of Virtue instantly heals allies for 1,660.	sweep
+65	Holy	talent	387781	Commanding Light	true			0			Beacon of Light transfers an additional 5% of the amount healed.	sweep
+65	Holy	talent	392938	Veneration	true			0			Judgment grants an absorb shield on up to 5 injured allies for 8% of the damage done, split evenly among them. Flash of Light and Holy Light critical strikes reset the cooldown of Judgment.	sweep
+65	Holy	talent	387879	Breaking Dawn	true			0			Increases Light of Dawn's healing by 5%.	sweep
+65	Holy	talent	31884	Avenging Wrath	false			120000			Call upon the Light to become an avatar of retribution, increasing your damage, healing, and critical strike chance by 20% for 20 sec.	sweep
+65	Holy	talent	216331	Avenging Crusader	false			60000			You become the ultimate crusader of light, for 15 sec. Auto-attack damage is increased by 1,000%, Judgment and Crusader Strike heal up to 5 injured allies within 40 yds for 80% of the damage done, split evenly among them. This spell is replaced with Crusader Strike while active. |T135891:24|t|cffffffffCrusader Strike|r: Strike the target for 3,573 Physical damage. |cFFFFFFFFGenerates 1 Holy Power.	sweep
+65	Holy	talent	387805	Divine Glimpse	true			0			Holy Shock and Judgment have a 8% increased critical strike chance.	sweep
+65	Holy	talent	1241511	Call of the Righteous	true			0			Avenging Wrath's cooldown is reduced by 30 sec, but its duration is reduced by 5.0 sec. Avenging Crusader's cooldown is reduced by 30.0 sec, but its duration is reduced by 3.0 sec.	sweep
+65	Holy	talent	1241275	Tyr's Deliverance	true			0			Activating Avenging Wrath releases the Light within yourself, healing 5 injured allies instantly and an injured ally every 0.8 sec within 40 yds for 149. Allies healed also receive 10% increased healing from your Holy Light, Flash of Light, and Holy Shock spells for 12 sec. 	sweep
+65	Holy	talent	1242008	Hand of Divinity	true			0			Activating Avenging Wrath calls upon the Light to empower you, causing your next 2 Holy Lights to be instant cast and cost 50% less mana.	sweep
+65	Holy	talent	1271077	Divine Overload	true			0			Holy Light's healing is increased by 30%, but its mana cost is increased by 20%.	sweep
+65	Holy	talent	461278	Extrication	true			0			Word of Glory and Light of Dawn gain up to 30% additional chance to critically strike, based on their target's current health. Lower health targets are more likely to be critically struck.	sweep
+65	Holy	talent	392907	Inflorescence of the Sunwell	true			0			Infusion of Light has 1 additional charge.	sweep
+65	Holy	talent	53376	Sanctified Wrath	true			0			Avenging Wrath and Avenging Crusader have 25% increased duration.	sweep
+65	Holy	talent	414195	Awakening	true			0			While in combat, your Holy Power spenders have a 10% chance to cause your next Judgment to deal 30% increased damage and critically strike. Activating Avenging Wrath activates Awakening.	sweep
+65	Holy	talent	1241714	Seraphic Barrier	true			0			Word of Glory and Light of Dawn now convert 15% of their healing into an absorb shield instead.	sweep
+65	Holy	talent	1271016	Seek Deliverance	true			0			While Avenging Wrath is not active, you gain 5% Mastery. While Avenging Wrath is active, you gain 30% movement speed.	sweep
+65	Holy	talent	1277651	Rising Sunlight	true			0			Your healing is increased by up to 10%, based on the average health percentage of allies with your Beacon of Light.	sweep
+65	Holy	talent	633	Lay on Hands	false			600000			Heals a friendly target for an amount equal to 100% your maximum health. Cannot be used on a target with Forbearance. Causes Forbearance for 30 sec.	sweep
+65	Holy	talent	115750	Blinding Light	false			90000			Emits dazzling light in all directions, blinding enemies within 10 yds, causing them to wander disoriented for 6 sec. Damage may cancel the effect.	sweep
+65	Holy	talent	385633	Auras of the Resolute	true			0			Learn Concentration Aura, Devotion Aura, and Crusader Aura: |T135933:24|t|cffffffffConcentration Aura|r: Interrupt and Silence effects on party and raid members within 40 yds are 30% shorter.  |T135893:24|t |cffffffffDevotion Aura|r: Party and raid members within 40 yds are bolstered by their devotion, reducing damage taken by 3%. |T135890:24|t |cffffffffCrusader Aura|r: Increases mounted speed by 20% for all party and raid members within 40 yds.	sweep
+65	Holy	talent	230332	Cavalier	true			0			Divine Steed now has 2 charges.	sweep
+65	Holy	talent	384820	Sacrifice of the Just	true			0			Reduces the cooldown of Blessing of Sacrifice by 60 sec.	sweep
+65	Holy	talent	384914	Recompense	true			0			After your Blessing of Sacrifice ends, 50% of the total damage it diverted is added to your next Judgment as bonus damage, or your next Word of Glory as bonus healing. This effect's bonus damage cannot exceed 30% of your maximum health and its bonus healing cannot exceed 100% of your maximum health.	sweep
+65	Holy	talent	146956	Light's Revocation	true			0			Removing harmful effects with Divine Shield heals you for 10% for each effect removed.  This heal cannot exceed 30% of your maximum health. Divine Shield may now be cast while Forbearance is active.	sweep
+65	Holy	talent	385515	Holy Aegis	true			0			Armor and critical strike chance increased by 4%.	sweep
+65	Holy	talent	385414	Afterimage	true			0			After you spend 20 Holy Power, your next Word of Glory echoes onto a nearby ally at 30% effectiveness.	sweep
+65	Holy	talent	6940	Blessing of Sacrifice	false			120000			Blesses a party or raid member, reducing their damage taken by 30%, but you suffer 100% of damage prevented. Last 12 sec, or until transferred damage would cause you to fall below 20% health.	sweep
+65	Holy	talent	114154	Unbreakable Spirit	true			0			Reduces the cooldown of your Divine Shield, Divine Protection, and Lay on Hands by 30%.	sweep
+65	Holy	talent	1022	Blessing of Protection	false		1	1500	300000		Blesses a party or raid member, granting immunity to Physical damage and harmful effects for 10 sec. Cannot be used on a target with Forbearance. Causes Forbearance for 30 sec.	sweep
+65	Holy	talent	384909	Improved Blessing of Protection	true			0			Reduces the cooldown of Blessing of Protection by 60 sec.	sweep
+65	Holy	talent	385450	Seal of Might	true			0			Mastery increased by 2% and Intellect increased by 2%.	sweep
+65	Holy	talent	469309	Eye for an Eye	true			0			Melee and ranged attackers receive 148 Holy damage each time they strike you during Divine Protection and Divine Shield.	sweep
+65	Holy	talent	385427	Obduracy	true			0			Speed increased by 2% and damage taken from area of effect attacks reduced by 2%.	sweep
+65	Holy	talent	469304	Steed of Liberty	true			0			Divine Steed also grants Blessing of Freedom for 3.0 sec. |T135968:24|t |cffffffffBlessing of Freedom|r: Blesses a party or raid member, granting immunity to movement impairing effects for 8 sec.	sweep
+65	Holy	talent	1044	Blessing of Freedom	false		1	1500	25000		Blesses a party or raid member, granting immunity to movement impairing effects for 8 sec.	sweep
+65	Holy	talent	190784	Divine Steed	false		1	750	45000		Leap atop your Charger for 3 sec, increasing movement speed by 100%. Usable while indoors or in combat.	sweep
+65	Holy	talent	231644	Greater Judgment	true			0			Judgment deems the target unworthy, preventing the next 2,050 damage dealt by the target. 	sweep
+65	Holy	talent	402964	Sanctified Plates	true			0			Armor increased by 10%, Stamina increased by 5% and damage taken from area of effect attacks reduced by 3%.	sweep
+65	Holy	talent	10326	Turn Evil	false			15000			The power of the Light compels an Undead, Aberration, or Demon target to flee for up to 40 sec. Damage may break the effect. Lesser creatures have a chance to be destroyed. Only one target can be turned at a time.	sweep
+65	Holy	talent	469476	Divine Reach	true			0			The radius of your auras is increased by 20 yds.	sweep
+65	Holy	talent	386738	Divine Resonance	true			0			After casting Holy Prism, Holy Armament, or Divine Toll, you instantly cast Holy Shock every 5 sec for 15 sec.	sweep
+65	Holy	talent	379391	Quickened Invocation	true			0			Divine Toll's, Holy Armament's, and Holy Prism's cooldown is reduced by 15 sec.	sweep
+65	Holy	talent	469337	Sacred Strength	true			0			Holy Power spending abilities have 2% increased damage and healing.	sweep
+65	Holy	talent	223817	Divine Purpose	true			0			Holy Power spending abilities have a 15% chance to make your next Holy Power spending ability free and deal 15% increased damage and healing.	sweep
+65	Holy	talent	183416	Blessing of Dawn	true			0			While you are above 85% health, 5% of all damage taken by allies within 20 yds is redirected to you, up to a maximum of 21,345 every 5 sec.	sweep
+65	Holy	talent	387801	Echoing Blessings	true			0			Blessing of Freedom increases the target's movement speed by 30%. Blessing of Protection and Blessing of Sacrifice reduce the target's damage taken by 15%. These effects linger for 8 sec after the Blessing ends.	sweep
+65	Holy	talent	305394	Unbound Freedom	true			0			Blessing of Freedom increases movement speed by 30%, and you gain Blessing of Freedom when cast on a friendly target.	sweep
+65	Holy	talent	461246	Glorious Dawn	true			0			Holy Shock has a 12% chance to refund a charge when cast and its healing is increased by 10%.	sweep
+65	Holy	talent	461243	Light's Protection	true			0			Allies with Beacon of Light receive 5% less damage.	sweep
+65	Holy	talent	414113	Righteous Judgment	true			0			Judgment has a 100% chance to cast Consecration at the target's location. The limit on Consecration does not apply to this effect.	sweep
+65	Holy	talent	414073	Light's Conviction	true			0			Holy Shock now has 2 charges and it refunds 50% of its mana cost when cast on an enemy.	sweep
+65	Holy	hero	439760	Aurora	true			0			After you cast Holy Prism or Divine Toll, gain Divine Purpose. |T135897:24|t |cffffffffDivine Purpose|r Your next Holy Power spending ability is free and deals 15% increased damage and healing.	sweep
+65	Holy	hero	445200	Blessing of An'she	true			0			The healing and damage of Holy Shock is increased by 15%.	sweep
+65	Holy	hero	431407	Lingering Radiance	true			0			Dawnlight leaves an Eternal Flame for 6 sec on allies or a Greater Judgment on enemies when it expires or is extended.	sweep
+65	Holy	hero	431413	Sun Sear	true			0			Holy Shock and Light of Dawn critical strikes cause the target to be healed for an additional 328 over 4 sec.	sweep
+65	Holy	hero	431482	Morning Star	true			0			Every 5.0 sec, your next Dawnlight's damage or healing is increased by 5%, stacking up to 10 times. Morning Star stacks twice as fast while out of combat.	sweep
+65	Holy	hero	431480	Gleaming Rays	true			0			Your Holy Power spenders deal 3% additional damage and healing.	sweep
+65	Holy	hero	431402	Luminosity	true			0			Critical Strike chance of Holy Shock and Light of Dawn increased by 5%.	sweep
+65	Holy	hero	431474	Second Sunrise	true			0			Light of Dawn and Holy Shock have a 15% chance to cast again at 30% effectiveness.	sweep
+65	Holy	hero	1263782	Walk Into Light	true			0			Infusion of Light occurs 100% more often during Avenging Wrath.	sweep
+65	Holy	hero	156322	Eternal Flame	false			0			Heals an ally for 1,606 and an additional 548 over 16 sec. Healing increased by 25% when cast on self.	sweep
+65	Holy	hero	431423	Illumine	true			0			Dawnlight reduces the movement speed of enemies by 50% and increases the movement speed of allies by 20%.	sweep
+65	Holy	hero	431406	Will of the Dawn	true			0			Movement speed increased by 5% while above 80% health. When your health is brought below 35%, your movement speed is increased by 40% for 5 sec. Cannot occur more than once every 1 min.	sweep
+65	Holy	hero	431377	Dawnlight	true			0			Casting Holy Prism or Divine Toll causes your next 2 Holy Power spending abilities to apply Dawnlight on your target, dealing 1,546 Radiant damage or 3,267 healing over 8 sec. 8% of Dawnlight's damage and healing radiates to nearby allies or enemies, reduced beyond 5 targets. Dawnlight's healing does not transfer to Beacon of Light.	sweep
+65	Holy	hero	431425	Sun's Avatar	true			0			You link to your Dawnlights within 30 yds, causing 91 Radiant damage to enemies or 158 healing to allies that pass through the beams, reduced beyond 5 targets.	sweep
+65	Holy	hero	432802	Solidarity	true			0			If you bestow an Armament upon an ally, you also gain its benefits. If you bestow an Armament upon yourself, a nearby ally also gains its benefits.	sweep
+65	Holy	hero	432919	Valiance	true			0			Consuming Infusion of Light reduces the cooldown of Holy Armaments by 3.0 sec.	sweep
+65	Holy	hero	433011	Blessing of the Forge	true			0			Avenging Wrath summons an additional Sacred Weapon, and during Avenging Wrath your Sacred Weapon casts spells on your target and echoes the effects of your Holy Power abilities.	sweep
+65	Holy	hero	432964	Divine Inspiration	true			0			Your spells and abilities have a chance to manifest a Holy Armament for a nearby ally.	sweep
+65	Holy	hero	432804	Forewarning	true			0			The cooldown of Holy Armaments is reduced by 20%.	sweep
+65	Holy	hero	469886	Authoritative Rebuke	true			0			Successfully dispelling a harmful effect reduces Cleanse's cooldown by 1.0 sec. Effect increased by 100% while wielding a Holy Armament.	sweep
+65	Holy	hero	469701	Tempered in Battle	true			0			When you or an ally wielding a Holy Bulwark are healed above maximum health, transfer 100% of the overhealing to your ally. When you or an ally wielding a Sacred Weapon drop below 40% health, redistribute your health immediately and every 1 sec for 4 sec. May only occur once per cast.	sweep
+65	Holy	hero	433568	Rite of Sanctification	false			0			Imbue your weapon with the power of the Light, increasing your armor by 5% and your primary stat by 2%. Lasts 1 |4hour:hrs;.	sweep
+65	Holy	hero	433583	Rite of Adjuration	false			0			Imbue your weapon with the power of the Light, increasing your Stamina by 3% and causing your Holy Power abilities to sometimes unleash a burst of healing around a target. Lasts 1 |4hour:hrs;.	sweep
+65	Holy	hero	433106	Divine Guidance	true			0			For each Holy Power ability cast, your next Consecration deals 1,273 damage or healing immediately, split across all enemies and allies.	sweep
+65	Holy	hero	433015	Blessed Assurance	true			0			Casting a Holy Power ability increases the damage and healing of your next Crusader Strike by 200%.	sweep
+65	Holy	hero	432866	Laying Down Arms	true			0			When an Armament fades from you, the cooldown of Lay on Hands is reduced by 15.0 sec and you gain Infusion of Light.	sweep
+65	Holy	hero	432821	Shared Resolve	true			0			The effect of your active Aura is increased by 33% on targets with your Armaments.	sweep
+65	Holy	hero	1271466	Reflection of Radiance	true			0			When your Holy Bulwark absorbs damage or your Sacred Weapon deals damage or healing, you have a chance to gain Awakening.	sweep
+65	Holy	talent	461287	Liberation	true			0			12% of Word of Glory and Light of Dawn's healing is converted into Holy damage that strikes a nearby enemy.	sweep
+65	Holy	talent	196926	Crusader's Might	true			0			Holy Shock reduces the cooldown of Judgment by 1.5 sec and Crusader Strike reduces the cooldown of Judgment by 1.5 sec.	sweep
+65	Holy	talent	1241358	Empyrean Legacy	true			0			Judgment critical strikes empower your next Word of Glory to automatically activate Light of Dawn at 30% effectiveness.	sweep
+65	Holy	talent	1241958	Vengeful Wrath	true			0			Hammer of Wrath deals up to 50% additional damage based on its target's health. Lower health targets receive more damage.	sweep
+65	Holy	talent	406468	Lightforged Blessing	true			0			Shield of the Righteous heals you and up to 2 nearby allies for 2,537.	sweep
+65	Holy	talent	469325	Light's Countenance	true			0			The cooldown of Blinding Light is reduced by 15 sec.	sweep
+65	Holy	talent	460720	Wrench Evil	true			0			Turn Evil's cast time is reduced by 100%.	sweep
+65	Holy	talent	469317	Stand Against Evil	true			0			Turn Evil now affects 5 additional enemies.	sweep
+65	Holy	talent	377128	Golden Path	true			0			Consecration heals you and 5 allies within it for 127 every 0.8 sec.	sweep
+65	Holy	talent	469434	Selfless Healer	true			0			Flash of Light and Holy Light are 30% more effective on your allies and 40% of the healing done also heals you.	sweep
+65	Holy	talent	469409	Divine Spurs	true			0			Divine Steed's cooldown is reduced by 20%, but its duration is reduced by 40%.	sweep
+65	Holy	talent	469411	A Just Reward	true			0			After Cleanse successfully removes an effect from an ally, they are healed for 2,295.	sweep
+65	Holy	talent	387791	Empyreal Ward	true			0			Lay on Hands grants the target 30% increased armor for 8 sec and now ignores healing reduction effects.	sweep
+65	Holy	talent	469445	Holy Reprieve	true			0			Your Forbearance's duration is reduced by 10 sec.	sweep
+65	Holy	talent	469416	Lightbearer	true			0			10% of all healing done to you from other sources heals up to 4 nearby allies, divided evenly among them.	sweep
+65	Holy	talent	469316	Stoicism	true			0			The duration of stun effects on you is reduced by 20%.	sweep
+65	Holy	talent	1241945	Blessing of Dusk	true			0			Damage taken reduced by up to 10%, increasing as your health decreases.	sweep
+65	Holy	talent	469439	Inspired Guard	true			0			Divine Protection increases healing taken by 15% for its duration.	sweep
+65	Holy	talent	469279	Worthy Sacrifice	true			0			You automatically cast Blessing of Sacrifice onto an ally within 40 yds when they are below 35% health and you are not in a loss of control effect. This effect activates 100% of Blessing of Sacrifice's cooldown.	sweep
+65	Holy	talent	469321	Righteous Protection	true			0			Blessing of Sacrifice now removes and prevents all Poison and Disease effects.	sweep
+65	Holy	talent	199422	Holy Ritual	true			0			Allies are healed for 8,500 when you cast Blessing of Protection or Blessing of Sacrifice on them.	sweep
+65	Holy	talent	469780	Lead the Charge	true			0			Divine Steed reduces the cooldown of 4 nearby ally's major movement ability by 3.0 sec. Your movement speed is increased by 3%.	sweep
+65	Holy	talent	469770	Blessed Calling	true			0			Allies affected by your Blessings have 15% increased movement speed.	sweep
+65	Holy	talent	461273	Truth Prevails	true			0			Judgment heals you for 1,020 and its mana cost is reduced by 30%. 50% of overhealing from this effect is transferred onto 2 allies within 40 yds.	sweep
+65	Holy	talent	1241542	Ringing of the Heavens	true			0			Activating Aura Mastery also casts a Divine Toll at 100% effectiveness.	sweep
+65	Holy	hero	1271387	Masterwork	true			0			After casting a Holy Armament, your next 3 abilities cast a Lesser Armament of the same kind on a nearby ally.	sweep
+65	Holy	hero	433718	Hammer and Anvil	true			0			Judgment critical strikes cause a shockwave around the target, healing to up to 5 injuried allies for 481.	sweep
+65	Holy	hero	1271553	Resounding Strike	true			0			Holy Armaments activate Hammer and Anvil at 100% effectiveness.	sweep
+65	Holy	hero	1263787	Endless Gleam	true			0			Dawnlight's duration is increased by 0.5 sec when it heals an ally with full health.	sweep
+65	Holy	hero	1263920	Born in Sunlight	true			0			Dawnlight's critical strike chance is increased by 15% during Avenging Wrath.	sweep
+65	Holy	hero	431404	Solar Grace	true			0			Haste is increased by 5%.	sweep
+65	Holy	talent	1265541	Fear No Evil	true			0			Fear duration on you reduced by 20%. This effect is increased to 60% during Avenging Wrath.	sweep
+65	Holy	talent	1265549	Brought to Light	true			0			Killing an enemy that yields experience or honor causes you to explode with holy energy, healing up to 5 nearby allies and yourself for 12,685, split evenly among them.	sweep
+65	Holy	talent	234299	Fist of Justice	true			0			Hammer of Justice's cooldown is reduced by 15 sec.	sweep
+65	Holy	talent	404357	Guided Prayer	true			0			When your health is brought below 25%, you instantly cast a free Word of Glory at 60% effectiveness on yourself. Cannot occur more than once every 60 sec.	sweep
+65	Holy	talent	1277443	Armory of Light	true			0			While holding a shield, you have a 15% chance to block incoming spells, reducing their damage by 20%.  Without a shield, you have a 15% chance to parry incoming melee attacks, reducing their damage by 20%.	sweep
+65	Holy	hero	432459	Holy Bulwark	false		2	0	60000		Will the Light to coalesce and become manifest as a Holy Armament, wielded by your friendly target. |T5927636:24|t |cffffffffHoly Bulwark|r: While wielding a Holy Bulwark, gain an absorb shield for 15.0% of your max health and an additional 2.0% every 2 sec. Lasts 20 sec. Becomes Sacred Weapon after use. |cFFFFFFFFGenerates 3 Holy Power.	sweep
+65	Holy	talent	1244878	Beacon of the Savior	true			0			While in combat, apply a Beacon of the Savior to the lowest health ally within 30 yds that causes your direct healing on others to also heal that ally for 10% of the amount healed. Beacon of the Savior transfers to the lowest health ally within 30 yds if it heals a target past maximum health or if an ally drops below 50% health.	sweep
+65	Holy	talent	1245367	Beacon of the Savior	true			0			Beacon of the Savior transfers an additional 10% of the amount healed and allies with Beacon of the Savior receive 10% more healing from you.	sweep
+65	Holy	talent	1245368	Beacon of the Savior	true			0			Every 8 sec or when Beacon of the Savior transfers to a new injured target, they are granted an absorb shield that prevents the next 1,195 damage and reduces damage taken by 10% for 15 sec. Beacon of the Savior now additionally follows the target of your Holy Light and Flash of Light spells once every 5 sec.	sweep

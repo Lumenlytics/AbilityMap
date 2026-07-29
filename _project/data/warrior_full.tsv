@@ -1,0 +1,474 @@
+specID	specName	source	spellID	name	passive	selected	charges	cooldownMS	rechargeMS	overrideSpellID	description	origin
+72	Fury	talent	386196	Berserker Stance	false	true		3000			An aggressive combat state that increases the damage of your auto-attacks by 15% and reduces the duration of Fear, Sap and Incapacitate effects on you by 10%. Lasts until canceled.	own
+72	Fury	talent	202168	Impending Victory	false	true		25000			Instantly attack the target, causing 1,911 damage and healing you for 30% of your maximum health. Killing an enemy that yields experience or honor resets the cooldown of Impending Victory and makes it cost no Rage.	own
+72	Fury	talent	262231	War Machine	true	true		0			Your auto-attacks generate 20% more Rage. Killing an enemy instantly generates 5 Rage and increases your movement speed by 30% for 8 sec.	own
+72	Fury	talent	97462	Rallying Cry	false	true		180000			Lets loose a rallying cry, granting all party or raid members within 40 yards 10% temporary and maximum health for 10 sec. Health granted increased by 50% when not in a raid.	own
+72	Fury	talent	29838	Second Wind	true			0			Restores 6% health every 1 sec when you have not taken damage for 5 sec. Restores 2% health every 1 sec while you are below 35% health. The amount restored increases the closer you are to death.	own
+72	Fury	talent	107570	Storm Bolt	false	true		30000			Hurls your weapon at an enemy, causing 923 Physical damage and stunning for 4 sec. Also hits 2 additional nearby targets, stunning for 2 sec.	own
+72	Fury	talent	6343	Thunder Clap	false	true		6000			Blasts all enemies within 12 yards for 10,916 Physical damage and reduces their movement speed by 40% for 10 sec. Deals reduced damage beyond 5 targets. Inflicts Rend on all targets. |cFFFFFFFFGenerates 8 Rage.	own
+72	Fury	talent	382260	Fast Footwork	true			0			Movement speed increased by 5%.	own
+72	Fury	talent	6544	Heroic Leap	false	true	1	1500	30000		Leap through the air toward a target location, slamming down with destructive force to deal 761 Physical damage to all enemies within 8 yards.	own
+72	Fury	talent	383082	Barbaric Training	true	true		0			 Thunder Clap, Whirlwind, and Raging Blow deal 10% more damage and 5% increased critical strike damage.	own
+72	Fury	talent	384100	Berserker Shout	false			60000			Go berserk, removing and granting immunity to Fear, Sap, and Incapacitate effects for 6 sec. Also remove fear effects from group members within 12 yds.	own
+72	Fury	talent	1271925	Fearless	true			0			Cooldown of Berserker Rage is reduced by 50% and Berseker Rage removes all movement speed-impairing effects.	own
+72	Fury	talent	384110	Wrecking Throw	false	true		45000			Hurl your weapon at the enemy, causing 23,321 Physical damage, ignoring armor. Deals up to 500% increased damage to absorb shields. 	own
+72	Fury	talent	64382	Shattering Throw	false	true		180000			Hurl your weapon at the enemy,  removing any magical immunities and causing 23,321 Physical damage, ignoring armor. Deals up to 500% increased damage to absorb shields.	own
+72	Fury	talent	392792	Frothing Berserker	true	true		0			Rampage has a 20% chance to immediately refund 10% of the Rage spent.	own
+72	Fury	talent	382549	Pain and Gain	true	true		0			When you take any damage, heal for 2.0% of your maximum health.  This can only occur once every 10 sec.	own
+72	Fury	talent	202163	Bounding Stride	true	true		0			Reduces the cooldown of Heroic Leap by 15 sec and Heroic Leap also increases your movement speed by 70% for 3 sec.	own
+72	Fury	talent	382946	Wild Strikes	true	true		0			Haste increased by 1% and your auto-attack critical strikes increase your auto-attack speed by 10% for 10 sec.	own
+72	Fury	talent	384124	Armored to the Teeth	true	true		0			Gain Strength equal to 5% of your Armor.	own
+72	Fury	talent	382939	Reinforced Plates	true	true		0			Stamina increased by 5% and Armor increased by 5%.	own
+72	Fury	talent	382258	Leeching Strikes	true			0			Leech increased by 3%.	own
+72	Fury	talent	382900	Dual Wield Specialization	true	true		0			While dual wielding your damage is increased by 3% and movement speed is increased by 2%.	own
+72	Fury	talent	275339	Rumbling Earth	true	true		0			Shockwave's range increased by 6 yards and when it strikes at least 3 targets its cooldown is reduced by 15 sec.	own
+72	Fury	talent	46968	Shockwave	false	true		40000			Sends a wave of force in a frontal cone, causing 648 damage and stunning all enemies within 16 yards for 2 sec.	own
+72	Fury	talent	382767	Overwhelming Rage	true	true		0			Maximum Rage increased by 30.	own
+72	Fury	talent	376079	Champion's Spear	false	true		90000			Throw a spear at the target location, chaining all enemies in the area to the spear's location and dealing 9,299 Physical damage instantly and an additional 12,202 Physical damage over 6 sec.  While the spear is active, activating this ability will cause you to leap to the spear, dealing 1,827 Physical damage to all targets. All damage dealt reduced beyond 5 targets. |cFFFFFFFFGenerates 10 Rage.|r	own
+72	Fury	talent	392777	Cruel Strikes	true	true		0			Critical strike chance increased by 1% and critical strike damage of Execute increased by 5%. 	own
+72	Fury	talent	103827	Double Time	true	true		0			Charge gains 1 additional charge and its cooldown is reduced by 3 sec.	own
+72	Fury	talent	23920	Spell Reflection	false	true	1	1000	22500		Raise your weapon, reflecting the first spell cast on you and reducing magic damage you take by 20% for 5 sec.	own
+72	Fury	talent	392936	Wrath and Fury	true			0			Raging Blow deals 15% increased damage and while Enraged, Raging Blow has a 10% increased chance to instantly reset its own cooldown. 	own
+72	Fury	talent	396749	Reckless Abandon	true	true		0			Activating Recklessness generates 50 Rage and while Recklessness is active, Raging Blow and Bloodthirst are upgraded to Crushing Blow and Bloodbath. |T132215:24|t |cffffffffCrushing Blow|r Deals increased damage and deals 20% additional critical strike damage. |T236304:24|t |cffffffffBloodbath|r Deals increased damage and wounds the target to suffer 1,943 Bleed damage over 6 sec. Using Bloodbath on a target affected by Bloodbath extends the bleed by 6 sec.	own
+72	Fury	talent	383854	Improved Raging Blow	true	true		0			Raging Blow has 2 charges and has a 25% chance to instantly reset its own cooldown.	own
+72	Fury	talent	1265357	Rampaging Ruin	true			0			While Improved Whirlwind is active Rampage instead strikes all targets in front of you for 16,448 Physical damage. Deals reduced damage beyond 5 targets.	own
+72	Fury	talent	23881	Bloodthirst	false	true		4500			Assault the target in a bloodthirsty craze, dealing 18,936 Physical damage and restoring 3% of your health. |cFFFFFFFFGenerates 8 Rage and has a 45% chance to Enrage you.|r	own
+72	Fury	talent	208154	Warpaint	true	true		0			You take 10% reduced damage while Enrage is active.	own
+72	Fury	talent	184364	Enraged Regeneration	false			120000			Reduces damage taken by 30% and Bloodthirst restores an additional 20% health for 8 sec. Usable while stunned or incapacitated.	own
+72	Fury	talent	85288	Raging Blow	false	true	2	0	6924		A mighty blow with both weapons that deals a total of 14,437 Physical damage. Raging Blow has a 25% chance to instantly reset its own cooldown. |cFFFFFFFFGenerates 12 Rage.|r	own
+72	Fury	talent	383852	Spite	true	true		0			Bloodthirst and Raging Blow damage increased by 2.5% and critical strike damage increased by 2.5%.	own
+72	Fury	talent	383848	Frenzied Enrage	true	true		0			Enrage increases your haste by 15% and your movement speed by 10%.	own
+72	Fury	talent	440277	Powerful Enrage	true	true		0			Enrage increases your mastery by 15% and your Leech by 3%.	own
+72	Fury	talent	215568	Fresh Meat	true	true		0			Bloodthirst always Enrages you the first time you strike a target and it has a 15% increased chance to trigger Enrage.	own
+72	Fury	talent	385703	Bloodborne	true	true		0			Bloodthirst causes your Bleeds to deal 20% additional damage for 8 sec.	own
+72	Fury	talent	383959	Cold Steel, Hot Blood	true	true		0			Bloodthirst critical strikes generate 4 additional Rage and inflict a Gushing Wound that deals 3,935 Bleed damage over 6 sec and heals you for the damage dealt.	own
+72	Fury	talent	383486	Focus in Chaos	true	true		0			While Enraged, your auto-attacks can no longer miss.	own
+72	Fury	talent	393950	Bloodcraze	true			0			Raging Blow increases the damage of your next Bloodthirst by 5%, stacking up to 5 times.	own
+72	Fury	talent	335077	Frenzy	true	true		0			Rampage increases your haste by 2% for 12 sec. Multiple instances of this effect may overlap.	own
+72	Fury	talent	383877	Hack and Slash	true			0			Rampage has a 100% chance to refund a charge of Raging Blow.	own
+72	Fury	talent	184367	Rampage	false	true		0			Unleash a series of 4 brutal strikes for a total of 24,673 Physical damage. |cFFFFFFFFEnrages you.|r	own
+72	Fury	talent	206315	Massacre	true	true		0			Execute is usable on targets below 35% health and its cooldown is reduced by 1.5 sec.	own
+72	Fury	talent	1719	Recklessness	false	true		90000			Go berserk, increasing all Rage generation by 50% and granting your abilities 20% increased critical strike chance for 18 sec. |cFFFFFFFFGenerates 50 Rage.|r	own
+72	Fury	talent	107574	Avatar	false	true		90000			Transform into a colossus, increasing all damage you deal by 20% and increasing your movement speed by 5% for 20 sec.	own
+72	Fury	talent	227847	Bladestorm	false	true	1	90000	90000		Become an unstoppable storm of destructive force, striking all nearby enemies for 54,777 Physical damage over 3.5 sec. Deals reduced damage beyond 8 targets. You are immune to movement impairing and loss of control effects, but can use defensive abilities and can avoid attacks. |cFFFFFFFFGenerates 5 Rage on each strike.|r	own
+72	Fury	talent	383295	Deft Experience	true	true		0			Bloodthirst's critical strike chance increased by 5% and if you are Enraged, Bloodthirst extends your Enrage by 0.5 sec. This extension is doubled if Bloodthirst critically strikes your primary target.	own
+72	Fury	talent	383297	Critical Thinking	true			0			Raging Blow's critical strike chance increased by 5% and critical strike damage increased by 5%.	own
+72	Fury	talent	12950	Improved Whirlwind	true	true		0			Whirlwind and Thunder Clap cause your next 4 single-target attacks to strike up to 4 additional targets for 65% damage. Whirlwind generates 3 Rage plus an additional 1 per target hit. Maximum 8 Rage. If you know Rend, Whirlwind inflicts Rend on all targets.	own
+72	Fury	talent	392931	Cruelty	true	true		0			While Enraged, Bloodthirst and Raging Blow deal 5% increased damage.	own
+72	Fury	talent	316402	Improved Execute	true	true		0			Execute no longer costs Rage and now generates 20 Rage.	own
+72	Fury	talent	29725	Sudden Death	true	true		0			Your attacks have a chance to make your next Execute be usable on any target regardless of their health.	own
+72	Fury	talent	386208	Defensive Stance	false	true		3000			A defensive combat state that reduces all damage you take by 15% and all damage you deal by 10%. Lasts until canceled.	own
+72	Fury	hero	444771	Show No Mercy	true			0			Executioner also increases your Execute critical strike chance and critical strike damage by 3% per stack.	own
+72	Fury	hero	435607	Thunder Blast	true	true		0			Shield Slam and Bloodthirst have a 35% chance to grant you Thunder Blast, stacking up to 2 charges. |T460957:24|t|cFFFFFFFF|cffffffffThunder Blast|r|r Your next Thunder Clap becomes a Thunder Blast that deals 9,619 Stormstrike damage and generates 10 Rage.	own
+72	Fury	hero	444778	Culling Cyclone	true			0			Each strike of Bladestorm deals an additional 20% damage evenly split across all targets.	own
+72	Fury	hero	446085	Brutal Finish	true			0			Your next Rampage after Bladestorm ends deals 50% additional damage.	own
+72	Fury	hero	444773	Fierce Followthrough	true			0			Bloodthirst critical strikes increase the damage of your next Bloodthirst by 20%. 	own
+72	Fury	hero	444774	Opportunist	true			0			When Raging Blow resets its own cooldown, your next Raging Blow deals 10% additional damage and 10% additional critical damage. Stacking up to 2 times.	own
+72	Fury	hero	444769	Imminent Demise	true			0			Every 3 Slayer's Strikes you gain Sudden Death. Using Sudden Death accelerates your next Bladestorm, striking 1 additional time (max 3). Bladestorm's total duration is unchanged. Sudden Death has a 100% chance to trigger Reap the Storm at 100% effectiveness.	own
+72	Fury	hero	436201	Gathering Clouds	true	true		0			Your attacks trigger Lightning Strikes 30% more often.	own
+72	Fury	hero	436152	Thorim's Might	true	true		0			Lightning Strikes generate 3 Rage. Raging Blow and Execute damage increased by 25%.	own
+72	Fury	hero	444776	Relentless Pursuit	true			0			Charge increases your movement speed by 70% for 3 sec. Charge removes all movement impairing effects, this effect cannot occur more than once every 30 sec. 	own
+72	Fury	hero	444777	Vicious Agility	true			0			Heroic Leap reduces the cooldown of Charge by 5 sec and Charge reduces the cooldown of Heroic Leap by 2 sec.	own
+72	Fury	hero	437079	Flashing Skies	true	true		0			Thunder Blast calls down a Lightning Strike on an enemy it hits.	own
+72	Fury	hero	456270	Snap Induction	true	true		0			Activating Recklessness grants a charge of Thunder Blast.	own
+72	Fury	hero	438590	Keep Your Feet on the Ground	true	true		0			Physical damage taken reduced by 2%. Thunder Blast reduces damage you take by 8% for 5 sec.	own
+72	Fury	hero	434970	Steadfast as the Peaks	true	true		0			Stamina increased by 5%. Impending Victory increases your maximum health by 10% for 5 sec. When this health increase expires, you heal for any amount of the original Impending Victory that healed you in excess of your full health.	own
+72	Fury	hero	436148	Ground Current	true	true		0			Lightning Strikes also deal 1,520 Nature damage to enemies near their target. Damage reduced beyond 5 targets.	own
+72	Fury	hero	444779	Slayer's Malice	true			0			Raging Blow and Execute damage increased by 15%.	own
+72	Fury	hero	434969	Lightning Strikes	true	true		0			Damaging enemies with Thunder Clap, Raging Blow, or Execute has a 25% chance to also strike one with a lightning bolt, dealing 7,717 Nature damage and generating 3 Rage. Lightning Strikes occur 30% more often during Avatar.	own
+72	Fury	hero	437134	Avatar of the Storm	true	true		0			Casting Avatar grants you 2 charges of Thunder Blast and resets the cooldown of Thunder Clap. While Avatar is not active, Lightning Strikes have a 10% chance to grant you Avatar for 4 secs. |T460957:24|t|cFFFFFFFF|cffffffffThunder Blast|r|r Your next Thunder Clap becomes a Thunder Blast that deals Stormstrike damage.	own
+72	Fury	hero	437118	Burst of Power	true	true		0			Lightning Strikes have a 15% chance to make your next 2 Bloodthirsts have no cooldown, deal 35% increased damage, and generate 2 additional Rage.	own
+72	Fury	hero	437068	Strength of the Mountain	true	true		0			Shield Slam damage increased by 15%. Bloodthirst and Rampage damage increased by 25%.	own
+72	Fury	hero	444775	Reap the Storm	true			0			When Rampage hits 3 or more targets via Improved Whirlwind you have a 20% chance to unleash a flurry of steel, striking all nearby enemies for 25,002 Physical damage and applying Overwhelmed. Deals reduced damage beyond 8 targets. 	own
+72	Fury	hero	444772	Overwhelming Blades	true			0			Each strike of Bladestorm applies Overwhelmed to all enemies affected, increasing damage you deal to them by 1% for 20 sec, max 5 stacks.	own
+72	Fury	hero	444770	Death Drive	true			0			You heal for 15% of damage dealt by Sudden Death.	own
+72	Fury	hero	444767	Slayer's Dominance	true	true		0			Your attacks against your primary target have a 15% chance to overwhelm their defenses and trigger a Slayer's Strike, dealing 27,222 Physical damage and granting you a stack of Executioner, increasing your Execute damage by 3% for 12 sec. Multiple stacks of Executioner may overlap.	own
+72	Fury	hero	436707	Crashing Thunder	true	true		0			Stormstrike or Nature damage your abilities deal is increased by 5%. Stormstrike damage ignores Armor. Thunder Clap damage increased by 30%, no longer costs Rage, and now generates 8 Rage. Improved Whirlwind, Meat Cleaver, and Barbaric Training affect Thunder Clap in addition to Whirlwind.	own
+72	Fury	hero	436162	Storm Bolts	true	true		0			Storm Bolt also hits 2 additional nearby targets, stunning them for 2 sec, but its cooldown is increased by 10 sec.	own
+72	Fury	hero	438597	Storm Shield	true	true		0			Intervening a target grants them a shield for 5 sec that absorbs magic damage equal to 3 times your Armor.	own
+72	Fury	hero	444780	Unrelenting Onslaught	true			0			Using Sudden Death causes you to both reduce the cooldown of Bladestorm by 5 sec and apply 1 stack of Overwhelmed to your primary target per stack of Executioner you have. You can use Pummel and Storm Bolt while Bladestorming. Bladestorm damage increased by 20%.	own
+72	Fury	talent	391271	Honed Reflexes	true	true		0			Cooldown of Enraged Regeneration, Intervene, Interpose, Spell Reflection, Storm Bolt, and Pummel reduced by 10%. Successfully interrupting an enemy increases the damage you deal to them by 5% for 10 sec.	own
+72	Fury	talent	203201	Crackling Thunder	true	true		0			Thunder Clap's radius is increased by 50% and it reduces affected target's movement speed by an additional 20%.	own
+72	Fury	talent	1280961	Stance Mastery	true			0			Your stances have additional effects. |T132275:24|t |cffffffffBerserker Stance|r Increases your auto-attack speed by 3%. |T132341:24|t |cffffffffDefensive Stance|r When an attack deals 20% or more of your maximum health in damage, that damage is reduced by 15%.	own
+72	Fury	talent	152278	Anger Management	true	true		0			Every 20 Rage you spend on attacks reduces the remaining cooldown on Avatar and Recklessness by 1 sec.	own
+72	Fury	talent	424742	Battlefield Commander	true			0			Your Shout abilities have additional effects. |T132333:24|t |cffffffffBattle Shout|r: Grants you an additional 3% attack power. |T132351:24|t |cffffffffRallying Cry|r: Grants an additional 2% health and duration increased by 3 sec. |T136147:24|t |cffffffffPiercing Howl|r: Radius increased by 100% |T136009:24|t |cffffffffBerserker Shout|r: Radius increased by 100%. |T132154:24|t |cffffffffIntimidating Shout|r: Cooldown reduced by 15 sec. 	own
+72	Fury	talent	3411	Intervene	false		1	1500	27000		Run at high speed toward an ally, intercepting all melee and ranged attacks against them for 6 sec while they remain within 10 yds.	own
+72	Fury	talent	1244088	Interpose	false		1	1500	27000		Run at high speed toward a target location near your allies, taking 30% of all damage dealt to allies within 3 yards for 8 sec or until you take at least 92,568 damage from this effect.	own
+72	Fury	talent	1243660	Resonant Voice	true			0			The effects of your shouts last 20% longer.	own
+72	Fury	talent	382764	Crushing Force	true	true		0			Bloodthirst deals an additional 5% damage and deals 5% increased critical strike damage.	own
+72	Fury	talent	5246	Intimidating Shout	false	true		90000			Causes the targeted enemy to cower in fear while all enemies within 8 yards flee from you and their movement speed is reduced by 70% for 8 sec. Damage may cancel the effect.	own
+72	Fury	talent	12323	Piercing Howl	false	true		90000			Snares all enemies within 12 yards, reducing their movement speed by 70% for 8 sec. Spurs all allies within 6 yards, increasing their movement speed by 30% for 4 sec.	own
+72	Fury	talent	772	Rend	false	true		6000			Lash out with your weapon, striking all targets within 10 yds for 8,397 Physical damage instantly and wounding them for an additional 7,126 Bleed damage over 15 sec.	own
+72	Fury	hero	1270724	Capacitance	true	true		0			During Avatar, Thunder Blast extends Avatar's duration by 2.0 sec.	own
+72	Fury	hero	1270723	Conductivity	true	true		0			Lightning Strike damage increased by 10% and critical strike damage increased by 10%.	own
+72	Fury	hero	275336	Storm Surge	true	true		0			Avatar increases the damage of Thunder Clap by 50% and reduces its cooldown by 50%.	own
+72	Fury	hero	386628	Unhinged	true			0			Every 2 strikes of Bladestorm, you automatically cast a Bloodthirst at your target or random nearby enemy, dealing 100% of normal damage. 	own
+72	Fury	hero	1270718	Deadly Focus	true			0			Executioner's duration is increased by 6 sec.	own
+72	Fury	hero	1270717	Violent Euphoria	true			0			Bladestorm puts you into a battle trance, granting you 15% haste for 8 sec after you stop Bladestorming.	own
+72	Fury	talent	1265356	Ragedrinker	true			0			Bloodthirst critical strikes restore 3% additional health and increase the damage of Raging Blow by 10% for 4 sec.	own
+72	Fury	talent	383885	Vicious Contempt	true	true		0			Bloodthirst deals 25% increased damage to enemies who are below 35% health.	own
+72	Fury	talent	1265359	Surge of Adrenaline	true			0			When Raging Blow resets its own cooldown, your auto-attack damage and speed is increased by 30% for 6 sec.	own
+72	Fury	talent	1265361	Kill or Be Killed	true			0			When you would sustain fatal damage, you instead fly into an unstoppable rage, becoming unkillable and immune to movement-impairing effects for 8 sec as you seek revenge on your would-be killer. If you kill your killer in that time, you emerge from your blind rage triumphant, with at least 20% of your max health intact. If you are not victorious, you die. This effect can only occur once every 5 min and if your killer is alive when you sustain fatal damage.	own
+72	Fury	talent	1261060	Deep Wounds	true	true		0			Execute inflicts Deep Wounds on the target. |T132090:24|t |cffffffffDeep Wounds|r Causes the target to suffer 4,712 Bleed damage over 6 sec. If this effect is reapplied, any remaining damage will be added to the new Deep Wounds.	own
+72	Fury	talent	280392	Meat Cleaver	true	true		0			Whirlwind and Thunder Clap deal 50% additional damage when they hit 3 or more targets.	own
+72	Fury	talent	1265570	Executioner's Wrath	true	true		0			Execute generates 5 additional Rage and increases the damage of Rampage by 10% for 4 sec.	own
+72	Fury	talent	1265355	Scent of Blood	true	true		0			Rampage increases the damage of your next Bloodthirst by 10%, stacking up to 2 times.	own
+72	Fury	talent	1271948	Javelineer	true	true		0			Range of your thrown abilities is increased by 5 yards. Damage dealt by Champion's Spear, Shattering Throw, and Wrecking Throw increased by 20%. Shattering Throw and Wrecking Throw silence non-players for 3 sec.	own
+72	Fury	talent	1271926	Field Dressing	true			0			Healing received increased by 3% and all self-healing increased by an additional 10%.	own
+72	Fury	talent	385059	Odyn's Fury	false	true		45000			Unleashes your power, dealing 21,347 Physical damage and an additional 20,380 Bleed damage over 4 sec to all enemies within 12 yards. Deals reduced damage beyond 8 targets. |cFFFFFFFFEnrages you and generates 20 Rage.|r 	own
+72	Fury	talent	383468	Invigorating Fury	true			0			Enraged Regeneration lasts 3 sec longer and instantly heals for 10% of your maximum health.	own
+72	Fury	talent	1269308	Rampaging Berserker	true	true		0			Rampage damage increased by 10% and Rampage makes you go Berserk, increasing your Strength by 3% for 8 sec. Multiple applications of Berserk may overlap.	own
+72	Fury	talent	1269309	Rampaging Berserker	true	true		0			Rampage's Rage cost is reduced by 15 and damage is increased by a further 5% during Recklessness.	own
+72	Fury	talent	1269310	Rampaging Berserker	true	true		0			Recklessness grants 3 stacks of Berserk and duration of Recklessness increased by 50%.	own
+72	Fury	baseline	6603	Auto Attack	false			0			Automatically attacks a target in melee with an equipped weapon. This ability can be toggled on or off.	own
+72	Fury	baseline	83958	Mobile Banking	false			3600000			Summons a Guild Chest that allows access to your guild bank for 5 min. Only guild members with guild reputation of friendly and above are allowed to use a Guild Chest.	own
+72	Fury	baseline	1231411	Recuperate	false			0			Take a breather, prepare some food and have a meal. Restores 50% of your maximum health over 10 sec.	own
+72	Fury	baseline	125439	Revive Battle Pets	false			480000			Heals and resurrects all of your battle pets to 100% health.	own
+72	Fury	baseline	58984	Shadowmeld	false			120000			Activate to slip into the shadows, reducing the chance for enemies to detect your presence. Lasts until cancelled or upon moving. Any threat is restored versus enemies still in combat upon cancellation of this effect.	own
+72	Fury	baseline	251463	Vindicaar Matrix Crystal	false			0			Unlock powers at the Vindicaar's Matrix Core to use while on Argus. 	own
+72	Fury	baseline	6673	Battle Shout	false			0			Increases the attack power of all raid and party members within 100 yards by 5% for 1 |4hour:hrs;.	own
+72	Fury	baseline	18499	Berserker Rage	false			60000			Go berserk, removing and granting immunity to Fear, Sap, and some Incapacitate effects for 6 sec.	own
+72	Fury	baseline	100	Charge	false		2	1500	17000		Charge to an enemy, dealing 680 Physical damage, rooting it for 1 sec. |cFFFFFFFFGenerates 20 Rage.|r	own
+72	Fury	baseline	280735	Execute	false			4500			Attempt to finish off a wounded foe, causing 23,265 Physical damage. Only usable on enemies that have less than 35% health. |cFFFFFFFFGenerates 25 Rage.|r	own
+72	Fury	baseline	1715	Hamstring	false			0			Maims the enemy for 486 Physical damage, reducing movement speed by 50% for 15 sec.	own
+72	Fury	baseline	57755	Heroic Throw	false			6000			Throws your weapon at the enemy, causing 1,134 Physical damage. Generates high threat.	own
+72	Fury	baseline	6552	Pummel	false			15000			Pummels the target, interrupting spellcasting and preventing any spell in that school from being cast for 5 sec.	own
+72	Fury	baseline	2565	Shield Block	false		1	1000	13848		Raise your shield, blocking all melee attacks against you for 6 sec.	own
+72	Fury	baseline	23922	Shield Slam	false			9000			Slams the target with your shield, causing 8,589 Physical damage. |cFFFFFFFFGenerates 15 Rage.|r	own
+72	Fury	baseline	355	Taunt	false			8000			Taunts the target to attack you, and increases the threat you generate against them by 800% for 6 sec.	own
+72	Fury	baseline	190411	Whirlwind	false			0			Unleashes a whirlwind of steel, striking all nearby enemies for 8,034 Physical damage. Deals reduced damage beyond 5 targets. Causes your next 4 single-target melee attacks to strike up to 4 additional targets for 65% damage. |cFFFFFFFFGenerates 3 Rage, plus an additional 1 per target hit.|r	own
+72	Fury	baseline	845	Cleave	false			4500			Strikes all enemies in front of you for 8,379 Physical damage. Deals reduced damage beyond 5 targets.	own
+72	Fury	baseline	167105	Colossus Smash	false			45000			Smash the ground and shatter the armor of all enemies within 10 yds, dealing 9,920 Physical damage and increasing damage you deal to them by 30% for 10 sec. Deals reduced damage beyond 8 targets. 	own
+72	Fury	baseline	436358	Demolish	false			45000			Unleash a series of precise and powerful strikes against your target, dealing 74,344 damage to it, and 39,916 damage to enemies within 10 yds of it. Deals reduced damage beyond 8 targets. While channeling Demolish, you take 10% less damage and are immune to stuns, knockbacks, and forced movement effects. You can block, parry, dodge, and use certain defensive abilities while channeling Demolish.	own
+72	Fury	baseline	118038	Die by the Sword	false			120000			Increases your parry chance by 100% and reduces all damage you take by 30% for 8 sec.	own
+72	Fury	baseline	1277297	Ignore Pain	false			20000			Fight through the pain, ignoring 50% of damage taken for 12 sec or until 42,514 damage has been prevented.	own
+72	Fury	baseline	12294	Mortal Strike	false			6000			A vicious strike that deals 16,847 Physical damage and reduces the effectiveness of healing on the target by 50% for 10 sec.	own
+72	Fury	baseline	7384	Overpower	false		1	0	12000		Overpower the enemy, dealing 12,490 Physical damage. Cannot be blocked, dodged, or parried. 	own
+72	Fury	baseline	228920	Ravager	false		1	90000	90000		Throws a whirling weapon at your target that chases nearby enemies, inflicting 23,227 Physical damage to all enemies over 10.4 sec. Deals reduced damage beyond 8 targets. 	own
+72	Fury	baseline	1464	Slam	false			0		184367	Slams an opponent, causing 9,830 Physical damage.	own
+72	Fury	baseline	260708	Sweeping Strikes	false			30000			Your next 12 damaging single-target abilities hit 1 additional target within 8 yds for 75% damage. Lasts 30 sec.	own
+72	Fury	baseline	1161	Challenging Shout	false			120000			Taunts all enemies within 10 yds to attack you for 6 sec, and increases the threat you generate against them by 800% for 6 sec.	own
+72	Fury	baseline	1160	Demoralizing Shout	false			45000			Demoralizes all enemies within 10 yards, reducing the damage they deal to you by 25% for 8 sec.	own
+72	Fury	baseline	20243	Devastate	false			0			A direct strike, dealing 4,149 Physical damage.	own
+72	Fury	baseline	386071	Disrupting Shout	false			90000			Taunts all enemies within 14 yds to attack you for 6 sec, interrupts all spellcasting within 14 yds and prevents any spell in that school from being cast for 6 sec. Increases the threat you generate against the target by 800%. 	own
+72	Fury	baseline	190456	Ignore Pain	false			1000			Fight through the pain, ignoring 50% of damage taken until 34,275 damage has been prevented.	own
+72	Fury	baseline	6572	Revenge	false			0			Swing in a wide arc, dealing 9,503 Physical damage to all enemies in front of you. Deals reduced damage beyond 5 targets. Your successful dodges and parries have a chance to make your next Revenge cost no Rage.	own
+72	Fury	baseline	385952	Shield Charge	false			45000			Charge to an enemy with your shield, granting you Shield Block and dealing 27,208 Physical damage to it and 8,693 Physical damage to all enemies within 10 yards. Also stuns the primary target for 4 sec. |cFFFFFFFFGenerates 20 Rage.|r	own
+72	Fury	baseline	871	Shield Wall	false		1	8000	162000		Reduces all damage you take by 40% for 8 sec.	own
+73	Protection	talent	386164	Battle Stance	false	true		3000			A balanced combat state that increases the critical strike chance of your abilities by 3%, the critical strike damage of your abilities by 3%, and reduces the duration of movement impairing effects by 10%.  Lasts until canceled.	own
+73	Protection	talent	385704	Bloodborne	true			0			Your Deep Wounds and Rend deal 25% increased damage.	own
+73	Protection	talent	29725	Sudden Death	true			0			Your attacks have a chance to make your next Execute be usable on any target regardless of their health.	own
+73	Protection	talent	386477	Violent Outburst	true	true		0			Every 250 rage you spend triggers a Violent Outburst, causing your next Shield Slam to deal 200% increased damage, generate 50% more Rage and grant Ignore Pain.	own
+73	Protection	talent	190456	Ignore Pain	false	true		1000			Fight through the pain, ignoring 50% of damage taken until 37,930 damage has been prevented. Repeated uses of Ignore Pain accumulate, up to 204,474 total damage prevented.	own
+73	Protection	talent	1264330	Devastating Focus	true			0			You focus on the target struck by your Devastator, dealing 30% additional Revenge damage to them. Only one target can have your focus at a time.	own
+73	Protection	talent	236279	Devastator	true	true		0			Your auto-attacks deal an additional 4,955 Physical damage and have a 25% chance to reset the remaining cooldown on Shield Slam.	own
+73	Protection	talent	6572	Revenge	false	true		0			Swing in a wide arc, dealing 11,066 Physical damage to all enemies in front of you. Deals reduced damage beyond 5 targets. Your successful dodges and parries have a chance to make your next Revenge cost no Rage.	own
+73	Protection	talent	452494	Fight Through the Flames	true	true		0			Defensive Stance additionally reduces magic damage you take by 6%.	own
+73	Protection	talent	384361	Bloodsurge	true	true		0			Damage from Rend has a chance to generate 5 Rage.	own
+73	Protection	talent	394311	Instigate	true	true		0			Devastate deals 20% increased damage and generates 2 Rage. Devastator deals 10% increased damage and generates 2 Rage.	own
+73	Protection	talent	871	Shield Wall	false	true	2	8000	108000		Reduces all damage you take by 40% for 8 sec.	own
+73	Protection	talent	384041	Strategist	true	true		0			Devastate, Thunder Clap, Revenge, and Execute have a 25% chance to reset the remaining cooldown on Shield Slam.	own
+73	Protection	talent	386030	Brace For Impact	true	true		0			Using Shield Slam increases the damage of Shield Slam by 10% and the block value of your shield by 5% for 16 sec. Stacking up to 3 times.	own
+73	Protection	talent	1160	Demoralizing Shout	false	true		45000			Demoralizes all enemies within 15 yards, reducing the damage they deal to you by 25% for 8 sec. |cFFFFFFFFGenerates 20 Rage.|r	own
+73	Protection	talent	1234769	Armor Specialization	true			0			Armor increased by 6%.	own
+73	Protection	talent	385840	Thunderlord	true	true		0			Increases the radius of Demoralizing Shout by 5 yards. Each enemy hit by Thunder Clap reduces the remaining cooldown on Demoralizing Shout by 1.5 sec, up to 4.5 sec.	own
+73	Protection	talent	202560	Best Served Cold	true	true		0			Your dodges and parries make your Revenge cost no Rage 20% more frequently and increase the damage your free Revenges deal by 15%. Revenge increases the damage of your next Thunder Clap by 8%.	own
+73	Protection	talent	1261060	Deep Wounds	true			0			Execute inflicts Deep Wounds on the target. |T132090:24|t |cffffffffDeep Wounds|r Causes the target to suffer 4,988 Bleed damage over 6 sec. If this effect is reapplied, any remaining damage will be added to the new Deep Wounds.	own
+73	Protection	talent	386027	Enduring Defenses	true	true		0			Shield Block lasts 1 sec longer.	own
+73	Protection	talent	203177	Heavy Repercussions	true	true		0			Shield Slam generates 2 more Rage and extends the duration of Shield Block by 1.0 sec.	own
+73	Protection	talent	202603	Into the Fray	true	true		0			You gain 2% Haste for each enemy or ally within 10 yards, up to 8% Haste.	own
+73	Protection	talent	1235088	Heavy Handed	true			0			Execute hits up to 2 additional targets for 70% damage.	own
+73	Protection	talent	202743	Booming Voice	true	true		0			Demoralizing Shout also generates 20 Rage and increases damage you deal to affected targets by 20%.	own
+73	Protection	talent	386011	Shield Specialization	true	true		0			Increases Block chance by 8% and your Block value by 16%.	own
+73	Protection	talent	385952	Shield Charge	false	true		45000			Charge to an enemy with your shield, granting you Shield Block and dealing 57,601 Physical damage to it and 18,405 Physical damage to all enemies within 10 yards. Also stuns the primary target for 4 sec. |cFFFFFFFFGenerates 20 Rage.|r	own
+73	Protection	talent	397103	Defender's Aegis	true	true		0			Shield Wall gains 1 additional charge and its cooldown is reduced by 60 sec.	own
+73	Protection	talent	384072	Impenetrable Wall	true	true		0			Shield Slam reduces the remaining cooldown of Shield Wall by 6 sec.	own
+73	Protection	talent	383103	Fueled by Violence	true	true		0			You are healed for 110% of the Bleed damage dealt by Rend and Deep Wounds.	own
+73	Protection	talent	385888	Tough as Nails	true	true		0			Blocking an attack deals 4,114 Physical damage to the attacker. Critical blocks deal double damage. Generates high threat.	own
+73	Protection	talent	382895	One-Handed Weapon Specialization	true	true		0			While wielding one-handed weapons your damage is increased by 3% and Leech increased by 2%.	own
+73	Protection	talent	202168	Impending Victory	false	true		25000			Instantly attack the target, causing 2,023 damage and healing you for 30% of your maximum health. Killing an enemy that yields experience or honor resets the cooldown of Impending Victory and makes it cost no Rage.	own
+73	Protection	talent	262231	War Machine	true	true		0			Your auto-attacks generate 50% more Rage. Killing an enemy instantly generates 5 Rage and increases your movement speed by 30% for 8 sec.	own
+73	Protection	talent	3411	Intervene	false	true	1	1500	27000		Run at high speed toward an ally, intercepting all melee and ranged attacks against them for 6 sec while they remain within 10 yds.	own
+73	Protection	talent	386208	Defensive Stance	false	true		3000			A defensive combat state that reduces all damage you take by 20% and all magic damage you take by an additional 6%. When an attack deals 20% or more of your maximum health in damage, that damage is reduced by 15%. Lasts until canceled.	own
+73	Protection	talent	97462	Rallying Cry	false	true		180000			Lets loose a rallying cry, granting all party or raid members within 40 yards 12% temporary and maximum health for 13 sec. Health granted increased by 50% when not in a raid.	own
+73	Protection	talent	29838	Second Wind	true			0			Restores 6% health every 1 sec when you have not taken damage for 5 sec. Restores 2% health every 1 sec while you are below 35% health. The amount restored increases the closer you are to death.	own
+73	Protection	talent	107570	Storm Bolt	false	true		30000			Hurls your weapon at an enemy, causing 977 Physical damage and stunning for 4 sec.	own
+73	Protection	talent	6343	Thunder Clap	false	true		6000			Blasts all enemies within 12 yards for 13,866 Physical damage and reduces their movement speed by 40% for 10 sec. Deals reduced damage beyond 5 targets. Inflicts Rend on all targets. |cFFFFFFFFGenerates 5 Rage.	own
+73	Protection	talent	382260	Fast Footwork	true			0			Movement speed increased by 5%.	own
+73	Protection	talent	6544	Heroic Leap	false	true	1	1500	30000		Leap through the air toward a target location, slamming down with destructive force to deal 805 Physical damage to all enemies within 8 yards and resetting the remaining cooldown on Taunt.	own
+73	Protection	talent	383082	Barbaric Training	true			0			Revenge deals 10% more damage and 5% increased critical strike damage.	own
+73	Protection	talent	384100	Berserker Shout	false			60000			Go berserk, removing and granting immunity to Fear, Sap, and Incapacitate effects for 6 sec. Also remove fear effects from group members within 24 yds.	own
+73	Protection	talent	1271925	Fearless	true			0			Cooldown of Berserker Rage is reduced by 50% and Berseker Rage removes all movement speed-impairing effects.	own
+73	Protection	talent	384110	Wrecking Throw	false	true		45000			Hurl your weapon at the enemy, causing 24,686 Physical damage, ignoring armor. Deals up to 500% increased damage to absorb shields. 	own
+73	Protection	talent	64382	Shattering Throw	false	true		180000			Hurl your weapon at the enemy,  removing any magical immunities and causing 24,686 Physical damage, ignoring armor. Deals up to 500% increased damage to absorb shields.	own
+73	Protection	talent	392792	Frothing Berserker	true	true		0			Revenge has a 20% chance to immediately refund 50% of the Rage spent.	own
+73	Protection	talent	382549	Pain and Gain	true			0			When you take any damage, heal for 2.0% of your maximum health.  This can only occur once every 10 sec.	own
+73	Protection	talent	202163	Bounding Stride	true	true		0			Reduces the cooldown of Heroic Leap by 15 sec and Heroic Leap also increases your movement speed by 70% for 3 sec.	own
+73	Protection	talent	382946	Wild Strikes	true	true		0			Haste increased by 1% and your auto-attack critical strikes increase your auto-attack speed by 10% for 10 sec.	own
+73	Protection	talent	384124	Armored to the Teeth	true	true		0			Gain Strength equal to 2% of your Armor.	own
+73	Protection	talent	382939	Reinforced Plates	true	true		0			Stamina increased by 5% and Armor increased by 8%.	own
+73	Protection	talent	382258	Leeching Strikes	true			0			Leech increased by 3%.	own
+73	Protection	talent	275339	Rumbling Earth	true	true		0			Shockwave's range increased by 6 yards and when it strikes at least 3 targets its cooldown is reduced by 15 sec.	own
+73	Protection	talent	46968	Shockwave	false	true		40000			Sends a wave of force in a frontal cone, causing 685 damage and stunning all enemies within 16 yards for 2 sec.	own
+73	Protection	talent	382767	Overwhelming Rage	true	true		0			Maximum Rage increased by 30.	own
+73	Protection	talent	376079	Champion's Spear	false			90000			Throw a spear at the target location, chaining all enemies in the area to the spear's location and dealing 9,843 Physical damage instantly and an additional 14,123 Physical damage over 6 sec.  While the spear is active, activating this ability will cause you to leap to the spear, dealing 1,934 Physical damage to all targets. All damage dealt reduced beyond 5 targets. |cFFFFFFFFGenerates 10 Rage.|r	own
+73	Protection	talent	392777	Cruel Strikes	true	true		0			Critical strike chance increased by 1% and critical strike damage of Execute increased by 5%. 	own
+73	Protection	talent	103827	Double Time	true	true		0			Charge gains 1 additional charge and its cooldown is reduced by 3 sec.	own
+73	Protection	talent	23920	Spell Reflection	false	true	1	1000	18000		Raise your shield, reflecting the first spell cast on you and reducing magic damage you take by 25% for 5 sec.	own
+73	Protection	talent	1235113	Whirling Blade	true	true		0			Your attacks have a chance to target a nearby enemy with Ravager for 4 sec.	own
+73	Protection	talent	228920	Ravager	false	true	1	90000	90000		Throws a whirling weapon at your target that chases nearby enemies, inflicting 24,586 Physical damage to all enemies over 9.5 sec. Deals reduced damage beyond 8 targets. Revenge and Thunder Clap deal 50% increased damage while Ravager is active. |cFFFFFFFFGenerates 10 Rage each time it deals damage.|r	own
+73	Protection	talent	107574	Avatar	false	true		90000			Transform into a colossus, increasing all damage you deal by 20% and reducing all damage you take by 3% for 20 sec.	own
+73	Protection	talent	202095	Indomitable	true			0			Your maximum health is increased by 10% and every 15 Rage you spend heals you for 1% of your maximum health.	own
+73	Protection	talent	386394	Battle-Scarred Veteran	true			0			When your health is brought below 30%, you take 80% less damage for 8 sec and healing you receive is increased by 100%. Cannot occur more than once every 3 min.	own
+73	Protection	talent	275334	Punish	true	true		0			Shield Slam deals 15% increased damage and reduces enemies' damage against you by 3% for 9 sec. Multiple punishments may overlap.	own
+73	Protection	talent	1235047	Unyielding Stance	true	true		0			Defensive Stance reduces damage taken by an additional 4%.	own
+73	Protection	talent	1235023	Spellbreaker	true			0			You have a 8% chance to disrupt magic damage dealt to you, reducing the damage it deals by 50%.	own
+73	Protection	talent	1235022	Hunker Down	true			0			Damage you take from area of effect attacks is reduced by 2%. Spell Reflection reduces magic damage taken by an additional 10%.	own
+73	Protection	talent	384036	Brutal Vitality	true	true		0			8% of damage you deal adds to your active Ignore Pain or the next Ignore Pain you activate. Your next Ignore Pain can be increased by up to 102,237.	own
+73	Protection	hero	435607	Thunder Blast	true	true		0			Shield Slam and Bloodthirst have a 35% chance to grant you Thunder Blast, stacking up to 2 charges. |T460957:24|t|cFFFFFFFF|cffffffffThunder Blast|r|r Your next Thunder Clap becomes a Thunder Blast that deals 22,237 Stormstrike damage and generates 8 Rage.	own
+73	Protection	hero	429639	Boneshaker	true			0			Shockwave's stun duration is increased by 1 sec and reduces the movement speed of affected enemies by 40% for 3 sec after the stun ends.	own
+73	Protection	hero	440992	Earthquaker	true			0			Shockwave also knocks enemies into the air and its cooldown is reduced by 5 sec.	own
+73	Protection	hero	436201	Gathering Clouds	true	true		0			Your attacks trigger Lightning Strikes 30% more often.	own
+73	Protection	hero	436152	Thorim's Might	true	true		0			Lightning Strikes generate 3 Rage. Revenge and Execute damage increased by 25%.	own
+73	Protection	hero	429636	Dominance of the Colossus	true			0			Colossal Might stacks up to 10 times. If you would gain a stack of Colossal Might and are at max stacks, the cooldown of Demolish is reduced by 5 sec. Enemies affected by Demolish take up to 20% more damage from you and deal up to 10% less damage to you for 10 sec based on the number of stacks of Colossal Might consumed by Demolish.	own
+73	Protection	hero	431548	Precise Might	true			0			Shield Slam critical strikes grant an additional stack of Colossal Might.	own
+73	Protection	hero	429647	Practiced Strikes	true			0			Shield Slam damage increased by 25%. Revenge and Thunder Clap damage increased by 15%. Shield Slam generates an additional 3 Rage.	own
+73	Protection	hero	437079	Flashing Skies	true	true		0			Thunder Blast calls down a Lightning Strike on an enemy it hits.	own
+73	Protection	hero	456270	Snap Induction	true	true		0			Activating Demoralizing Shout grants a charge of Thunder Blast.	own
+73	Protection	hero	438590	Keep Your Feet on the Ground	true	true		0			Physical damage taken reduced by 2%. Thunder Blast reduces damage you take by 8% for 5 sec.	own
+73	Protection	hero	434970	Steadfast as the Peaks	true	true		0			Stamina increased by 5%. Impending Victory increases your maximum health by 10% for 5 sec. When this health increase expires, you heal for any amount of the original Impending Victory that healed you in excess of your full health.	own
+73	Protection	hero	429637	One Against Many	true			0			Shockwave and Revenge deal 3% more damage per target affected up to 5.	own
+73	Protection	hero	440995	Arterial Bleed	true			0			Colossal Might increases the damage of your Rend and Deep Wounds by 3% per stack. 	own
+73	Protection	hero	436148	Ground Current	true	true		0			Lightning Strikes also deal 4,024 Nature damage to enemies near their target. Damage reduced beyond 5 targets.	own
+73	Protection	hero	434969	Lightning Strikes	true	true		0			Damaging enemies with Thunder Clap, Revenge, or Execute has a 25% chance to also strike one with a lightning bolt, dealing 6,142 Nature damage and generating 3 Rage. Lightning Strikes occur 30% more often during Avatar.	own
+73	Protection	hero	437134	Avatar of the Storm	true	true		0			Casting Avatar grants you 2 charges of Thunder Blast and resets the cooldown of Thunder Clap. While Avatar is not active, Lightning Strikes have a 10% chance to grant you Avatar for 6 secs. |T460957:24|t|cFFFFFFFF|cffffffffThunder Blast|r|r Your next Thunder Clap becomes a Thunder Blast that deals Stormstrike damage.	own
+73	Protection	hero	429642	Mountain of Muscle and Scars	true			0			You deal 5% more damage and take 5% less damage. Size increased by 5%.	own
+73	Protection	hero	437118	Burst of Power	true	true		0			Lightning Strikes have a 15% chance to make your next 2 Shield Slams have no cooldown.	own
+73	Protection	hero	437068	Strength of the Mountain	true	true		0			Shield Slam damage increased by 15%. Demoralizing Shout reduces damage enemies deal to you by an additional 5%.	own
+73	Protection	hero	429641	Tide of Battle	true			0			Colossal Might increases the damage of your Revenge by 3% per stack.	own
+73	Protection	hero	429638	Martial Expert	true			0			Critical strike damage of your abilities is increased by 10% and the amount of damage blocked by your critical blocks is increased by 20%.	own
+73	Protection	hero	429644	No Stranger to Pain	true			0			Damage prevented by each use of Ignore Pain is increased by 20%.	own
+73	Protection	hero	440993	Veteran Vitality	true			0			When your health is brought below 35%, you gain a Second Wind, healing you for 12% of your max health over 2 sec. This effect cannot occur more than once every 60 sec.	own
+73	Protection	hero	436707	Crashing Thunder	true	true		0			Stormstrike or Nature damage your abilities deal is increased by 5%. Stormstrike damage ignores Armor. Thunder Clap damage increased by 30%.	own
+73	Protection	hero	436162	Storm Bolts	true	true		0			Storm Bolt also hits 2 additional nearby targets, stunning them for 2 sec, but its cooldown is increased by 10 sec.	own
+73	Protection	hero	438597	Storm Shield	true	true		0			Intervening a target grants them a shield for 5 sec that absorbs magic damage equal to 3 times your Armor.	own
+73	Protection	hero	436358	Demolish	false	true		45000			Unleash a series of precise and powerful strikes against your target, dealing 78,696 damage to it, and 42,253 damage to enemies within 10 yds of it. Deals reduced damage beyond 8 targets. While channeling Demolish, you take 10% less damage and are immune to stuns, knockbacks, and forced movement effects. You can block, parry, dodge, and use certain defensive abilities while channeling Demolish.	own
+73	Protection	hero	429634	Colossal Might	true			0			Colossal Might increases damage dealt by your next Demolish by 5%, stacking up to 5 times. Shield Slam grants a stack of Colossal Might and Revenge grants a stack of Colossal Might when it strikes 3 or more targets.	own
+73	Protection	talent	391271	Honed Reflexes	true	true		0			Cooldown of Shield Wall, Intervene, Spell Reflection, Storm Bolt, and Pummel reduced by 10%. Successfully interrupting an enemy increases the damage you deal to them by 5% for 10 sec.	own
+73	Protection	talent	203201	Crackling Thunder	true	true		0			Thunder Clap's radius is increased by 50% and it reduces affected target's movement speed by an additional 20%.	own
+73	Protection	talent	281001	Massacre	true			0			Execute is usable on targets below 35% health. 	own
+73	Protection	talent	1243659	Last Stand	true			0			Activating Shield Wall increases your maximum health by 30% for 8 sec and instantly heals you for that amount.	own
+73	Protection	talent	384063	Enduring Alacrity	true	true		0			Increases Stamina by 5% and your Haste by 2%.	own
+73	Protection	talent	384067	Focused Vigor	true	true		0			Increases Strength by 3% and your critical strike chance by 1%. 	own
+73	Protection	talent	386071	Disrupting Shout	false	true		90000			Taunts all enemies within 14 yds to attack you for 6 sec, interrupts all spellcasting within 14 yds and prevents any spell in that school from being cast for 6 sec. Increases the threat you generate against the target by 800%. 	own
+73	Protection	talent	1280961	Stance Mastery	true	true		0			Your stances have additional effects. |T132349:24|t |cffffffffBattle Stance|r Increases the critical strike damage of your abilities by 3%. |T132341:24|t |cffffffffDefensive Stance|r When an attack deals 20% or more of your maximum health in damage, that damage is reduced by 15%.	own
+73	Protection	talent	152278	Anger Management	true	true		0			Every 20 Rage you spend reduces the remaining cooldown on Avatar and Shield Wall by 1 sec.	own
+73	Protection	talent	424742	Battlefield Commander	true	true		0			Your Shout abilities have additional effects. |T132333:24|t |cffffffffBattle Shout|r: Grants you an additional 3% attack power. |T132351:24|t |cffffffffRallying Cry|r: Grants an additional 2% health and duration increased by 3 sec. |T136147:24|t |cffffffffPiercing Howl|r: Radius increased by 100% |T136009:24|t |cffffffffBerserker Shout|r: Radius increased by 100%. |T132154:24|t |cffffffffIntimidating Shout|r: Cooldown reduced by 15 sec. 	own
+73	Protection	talent	1243660	Resonant Voice	true			0			The effects of your shouts last 20% longer.	own
+73	Protection	talent	382764	Crushing Force	true	true		0			Shield Slam deals an additional 5% damage and deals 5% increased critical strike damage.	own
+73	Protection	talent	5246	Intimidating Shout	false	true		90000			Causes the targeted enemy to cower in fear while all enemies within 8 yards flee from you and their movement speed is reduced by 70% for 8 sec. Damage may cancel the effect.	own
+73	Protection	talent	12323	Piercing Howl	false	true		90000			Snares all enemies within 24 yards, reducing their movement speed by 70% for 8 sec. Spurs all allies within 12 yards, increasing their movement speed by 30% for 4 sec.	own
+73	Protection	talent	772	Rend	false	true		6000			Lash out with your weapon, striking all targets within 10 yds for 8,888 Physical damage instantly and wounding them for an additional 8,248 Bleed damage over 15 sec.	own
+73	Protection	hero	1270724	Capacitance	true	true		0			During Avatar, Thunder Blast extends Avatar's duration by 2.0 sec.	own
+73	Protection	hero	1270723	Conductivity	true	true		0			Lightning Strike damage increased by 10% and critical strike damage increased by 10%.	own
+73	Protection	hero	275336	Storm Surge	true	true		0			Avatar increases the damage of Thunder Clap by 50% and reduces its cooldown by 50%.	own
+73	Protection	hero	1270710	Celeritous Conclusion	true			0			Demolish's final strike grants 10% Haste for 10 sec and increases the critical strike chance of your next Shield Slam by 100%.	own
+73	Protection	hero	1270709	Cut to the Bone	true			0			Shield Slam critical strikes increase your Rend and Deep Wounds damage by 15% for 8 sec.	own
+73	Protection	hero	1270704	Decimator	true			0			Demolish's final strike applies Deep Wounds to all targets at 100% effectiveness.	own
+73	Protection	talent	1271948	Javelineer	true	true		0			Range of your thrown abilities is increased by 5 yards. Damage dealt by Champion's Spear, Shattering Throw, and Wrecking Throw increased by 20%. Shattering Throw and Wrecking Throw silence non-players for 3 sec.	own
+73	Protection	talent	1271926	Field Dressing	true			0			Healing received increased by 3% and all self-healing increased by an additional 10%.	own
+73	Protection	talent	1269311	Phalanx	true	true		0			Thunder Clap causes your next Shield Slam to deal 10% additional damage and unleash a wave of force, dealing 8,146 Physical damage to all enemies in front of you.	own
+73	Protection	talent	1269312	Phalanx	true	true		0			Damage dealt by Thunder Clap and Phalanx's wave of force is increased by 10%.	own
+73	Protection	talent	1269313	Phalanx	true	true		0			While Shield Block is active, Shield Slam deals 10% additional damage and has a 20% increased chance to critically strike. Enemies damaged by Phalanx's wave of force deal 8.0% reduced damage to you for 8 sec.	own
+73	Protection	baseline	6603	Auto Attack	false			0			Automatically attacks a target in melee with an equipped weapon. This ability can be toggled on or off.	own
+73	Protection	baseline	83958	Mobile Banking	false			3600000			Summons a Guild Chest that allows access to your guild bank for 5 min. Only guild members with guild reputation of friendly and above are allowed to use a Guild Chest.	own
+73	Protection	baseline	1231411	Recuperate	false			0			Take a breather, prepare some food and have a meal. Restores 50% of your maximum health over 10 sec.	own
+73	Protection	baseline	125439	Revive Battle Pets	false			480000			Heals and resurrects all of your battle pets to 100% health.	own
+73	Protection	baseline	58984	Shadowmeld	false			120000			Activate to slip into the shadows, reducing the chance for enemies to detect your presence. Lasts until cancelled or upon moving. Any threat is restored versus enemies still in combat upon cancellation of this effect.	own
+73	Protection	baseline	251463	Vindicaar Matrix Crystal	false			0			Unlock powers at the Vindicaar's Matrix Core to use while on Argus. 	own
+73	Protection	baseline	6673	Battle Shout	false			0			Increases the attack power of all raid and party members within 100 yards by 5% for 1 |4hour:hrs;.	own
+73	Protection	baseline	18499	Berserker Rage	false			60000			Go berserk, removing and granting immunity to Fear, Sap, and some Incapacitate effects for 6 sec.	own
+73	Protection	baseline	100	Charge	false		2	1500	17000		Charge to an enemy, dealing 720 Physical damage, rooting it for 1 sec. |cFFFFFFFFGenerates 20 Rage.|r	own
+73	Protection	baseline	163201	Execute	false			6000			Attempts to finish off a foe, causing up to 24,904 Physical damage based on Rage spent. Only usable on enemies that have less than 20% health.	own
+73	Protection	baseline	1715	Hamstring	false			0			Maims the enemy for 514 Physical damage, reducing movement speed by 50% for 15 sec.	own
+73	Protection	baseline	57755	Heroic Throw	false			6000			Throws your weapon at the enemy, causing 1,200 Physical damage. Generates high threat.	own
+73	Protection	baseline	6552	Pummel	false			15000			Pummels the target, interrupting spellcasting and preventing any spell in that school from being cast for 5 sec.	own
+73	Protection	baseline	2565	Shield Block	false		2	1000	12669		Raise your shield, blocking all melee attacks against you for 8 sec. These blocks can be critical blocks. Increases Shield Slam damage by 40% while active.	own
+73	Protection	baseline	23922	Shield Slam	false			9000			Slams the target with your shield, causing 12,076 Physical damage. |cFFFFFFFFGenerates 15 Rage.|r	own
+73	Protection	baseline	355	Taunt	false			8000			Taunts the target to attack you, and increases the threat you generate against them by 800% for 6 sec.	own
+73	Protection	baseline	1680	Whirlwind	false			0			Unleashes a whirlwind of steel, striking all nearby targets for 7,127 Physical damage. Deals reduced damage beyond 5 targets.	own
+73	Protection	baseline	227847	Bladestorm	false		1	90000	90000		Become an unstoppable storm of destructive force, striking all nearby enemies for 65,182 Physical damage over 4.8 sec. Deals reduced damage beyond 8 targets. You are immune to movement impairing and loss of control effects, but can use defensive abilities and can avoid attacks. 	own
+73	Protection	baseline	845	Cleave	false			4500			Strikes all enemies in front of you for 8,869 Physical damage. Deals reduced damage beyond 5 targets.	own
+73	Protection	baseline	167105	Colossus Smash	false			45000			Smash the ground and shatter the armor of all enemies within 10 yds, dealing 10,501 Physical damage and increasing damage you deal to them by 30% for 10 sec. Deals reduced damage beyond 8 targets. 	own
+73	Protection	baseline	118038	Die by the Sword	false			120000			Increases your parry chance by 100% and reduces all damage you take by 30% for 8 sec.	own
+73	Protection	baseline	1277297	Ignore Pain	false			20000			Fight through the pain, ignoring 50% of damage taken for 12 sec or until 47,048 damage has been prevented.	own
+73	Protection	baseline	12294	Mortal Strike	false			6000			A vicious strike that deals 17,833 Physical damage and reduces the effectiveness of healing on the target by 50% for 10 sec.	own
+73	Protection	baseline	7384	Overpower	false		1	0	12000		Overpower the enemy, dealing 13,221 Physical damage. Cannot be blocked, dodged, or parried. 	own
+73	Protection	baseline	1464	Slam	false			0		6572	Slams an opponent, causing 10,405 Physical damage.	own
+73	Protection	baseline	260708	Sweeping Strikes	false			30000			Your next 12 damaging single-target abilities hit 1 additional target within 8 yds for 75% damage. Lasts 30 sec.	own
+73	Protection	baseline	23881	Bloodthirst	false			4500			Assault the target in a bloodthirsty craze, dealing 18,181 Physical damage and restoring 3% of your health. |cFFFFFFFFGenerates 8 Rage and has a 30% chance to Enrage you.|r	own
+73	Protection	baseline	184364	Enraged Regeneration	false			120000			Reduces damage taken by 30% and Bloodthirst restores an additional 20% health for 8 sec. Usable while stunned or incapacitated.	own
+73	Protection	baseline	5308	Execute	false			6000			Attempt to finish off a wounded foe, causing 28,225 Physical damage. Only usable on enemies that have less than 20% health. 	own
+73	Protection	baseline	385059	Odyn's Fury	false			45000			Unleashes your power, dealing 17,836 Physical damage and an additional 17,829 Bleed damage over 4 sec to all enemies within 12 yards. Deals reduced damage beyond 8 targets. |cFFFFFFFFEnrages you and generates 20 Rage.|r 	own
+73	Protection	baseline	85288	Raging Blow	false		1	0	8000		A mighty blow with both weapons that deals a total of 12,637 Physical damage. |cFFFFFFFFGenerates 12 Rage.|r	own
+73	Protection	baseline	184367	Rampage	false			0			Unleash a series of 4 brutal strikes for a total of 20,224 Physical damage. |cFFFFFFFFEnrages you.|r	own
+73	Protection	baseline	1719	Recklessness	false			90000			Go berserk, increasing all Rage generation by 50% and granting your abilities 20% increased critical strike chance for 12 sec.	own
+73	Protection	baseline	190411	Whirlwind	false			0			Unleashes a whirlwind of steel, striking all nearby enemies for 7,384 Physical damage. Deals reduced damage beyond 5 targets.	own
+71	Arms	talent	202316	Fervor of Battle	true	true		0			If Cleave or Whirlwind hits 3 or more targets you also Slam your primary target. This Slam deals 50% additional damage.	own
+71	Arms	talent	118038	Die by the Sword	false	true		120000			Increases your parry chance by 100% and reduces all damage you take by 30% for 8 sec.	own
+71	Arms	talent	12294	Mortal Strike	false	true		6000			A vicious strike that deals 33,490 Physical damage and reduces the effectiveness of healing on the target by 50% for 10 sec.	own
+71	Arms	talent	7384	Overpower	false	true	2	0	12000		Overpower the enemy, dealing 20,719 Physical damage. Cannot be blocked, dodged, or parried. 	own
+71	Arms	talent	316405	Improved Execute	true			0				own
+71	Arms	talent	29725	Sudden Death	true	true		0			Your attacks have a chance to make your next Execute cost no Rage, be usable on any target regardless of their health, and deal damage as if you spent 40 Rage.	own
+71	Arms	talent	383103	Fueled by Violence	true	true		0			You are healed for 85% of the Bleed damage dealt by Rend and Deep Wounds.	own
+71	Arms	talent	1277297	Ignore Pain	false	true		20000			Fight through the pain, ignoring 50% of damage taken for 12 sec or until 40,840 damage has been prevented.	own
+71	Arms	talent	384361	Bloodsurge	true	true		0			Damage from Rend has a chance to generate 5 Rage.	own
+71	Arms	talent	385571	Improved Overpower	true	true		0			Overpower has 2 charges and deals 15% more damage.	own
+71	Arms	talent	184783	Tactician	true	true		0			You have a 30% chance to gain a charge of Overpower when you use an attack that has a Rage cost. This effect applies even if that ability's Rage cost has been reduced to zero.	own
+71	Arms	talent	383287	Bloodborne	true	true		0			Your Bleed effects deal 5% increased damage and 5% increased critical strike damage.	own
+71	Arms	talent	262150	Dreadnaught	true	true		0			Overpower causes a seismic wave, dealing 3,761 damage to all enemies in a 10 yd line. Deals reduced damage beyond 5 targets.	own
+71	Arms	talent	167105	Colossus Smash	false	true		45000			Smash the ground and shatter the armor of all enemies within 10 yds, dealing 13,008 Physical damage and increasing damage you deal to them by 35% for 10 sec. Deals reduced damage beyond 8 targets. 	own
+71	Arms	talent	281001	Massacre	true			0				own
+71	Arms	talent	383430	Impale	true	true		0			Critical strike damage of your abilities is increased by 10%.	own
+71	Arms	talent	845	Cleave	false	true		4500			Strikes all enemies in front of you for 16,054 Physical damage. Deals reduced damage beyond 5 targets.	own
+71	Arms	talent	382896	Two-Handed Weapon Specialization	true	true		0			While wielding two-handed weapons your damage is increased by 3% and damage taken from area of effect attacks is reduced by 2%.	own
+71	Arms	talent	202168	Impending Victory	false	true		25000			Instantly attack the target, causing 2,506 damage and healing you for 30% of your maximum health. Killing an enemy that yields experience or honor resets the cooldown of Impending Victory and makes it cost no Rage.	own
+71	Arms	talent	386164	Battle Stance	false	true		3000			A balanced combat state that increases the critical strike chance of your abilities by 3% and reduces the duration of movement impairing effects by 10%.  Lasts until canceled.	own
+71	Arms	talent	262231	War Machine	true	true		0			Your auto-attacks generate 10% more Rage. Killing an enemy instantly generates 5 Rage and increases your movement speed by 30% for 8 sec.	own
+71	Arms	talent	97462	Rallying Cry	false	true		180000			Lets loose a rallying cry, granting all party or raid members within 40 yards 12% temporary and maximum health for 13 sec. Health granted increased by 50% when not in a raid.	own
+71	Arms	talent	29838	Second Wind	true			0				own
+71	Arms	talent	107570	Storm Bolt	false	true		30000			Hurls your weapon at an enemy, causing 1,210 Physical damage and stunning for 4 sec.	own
+71	Arms	talent	6343	Thunder Clap	false			6000				own
+71	Arms	talent	382260	Fast Footwork	true			0				own
+71	Arms	talent	6544	Heroic Leap	false	true	1	1500	30000		Leap through the air toward a target location, slamming down with destructive force to deal 998 Physical damage to all enemies within 8 yards.	own
+71	Arms	talent	383082	Barbaric Training	true	true		0			Slam, Whirlwind, and Cleave deal 10% more damage and 5% increased critical strike damage.	own
+71	Arms	talent	384100	Berserker Shout	false	true		60000				own
+71	Arms	talent	1271925	Fearless	true	true		0			Cooldown of Berserker Rage is reduced by 50% and Berseker Rage removes all movement speed-impairing effects.	own
+71	Arms	talent	384110	Wrecking Throw	false	true		45000			Hurl your weapon at the enemy, causing 30,582 Physical damage, ignoring armor. Deals up to 500% increased damage to absorb shields. 	own
+71	Arms	talent	64382	Shattering Throw	false	true		180000				own
+71	Arms	talent	392792	Frothing Berserker	true	true		0			Mortal Strike and Cleave have a 20% chance to immediately refund 10% of the Rage spent.	own
+71	Arms	talent	382549	Pain and Gain	true	true		0			When you take any damage, heal for 2.0% of your maximum health.  This can only occur once every 10 sec.	own
+71	Arms	talent	202163	Bounding Stride	true	true		0			Reduces the cooldown of Heroic Leap by 15 sec and Heroic Leap also increases your movement speed by 70% for 3 sec.	own
+71	Arms	talent	382946	Wild Strikes	true	true		0			Haste increased by 1% and your auto-attack critical strikes increase your auto-attack speed by 10% for 10 sec.	own
+71	Arms	talent	384124	Armored to the Teeth	true	true		0			Gain Strength equal to 5% of your Armor.	own
+71	Arms	talent	382939	Reinforced Plates	true	true		0			Stamina increased by 5% and Armor increased by 5%.	own
+71	Arms	talent	382258	Leeching Strikes	true	true		0			Leech increased by 3%.	own
+71	Arms	talent	275339	Rumbling Earth	true	true		0			Shockwave's range increased by 6 yards and when it strikes at least 3 targets its cooldown is reduced by 15 sec.	own
+71	Arms	talent	46968	Shockwave	false	true		40000			Sends a wave of force in a frontal cone, causing 849 damage and stunning all enemies within 16 yards for 2 sec.	own
+71	Arms	talent	382767	Overwhelming Rage	true	true		0			Maximum Rage increased by 30.	own
+71	Arms	talent	376079	Champion's Spear	false			90000				own
+71	Arms	talent	392777	Cruel Strikes	true	true		0			Critical strike chance increased by 1% and critical strike damage of Execute increased by 5%. 	own
+71	Arms	talent	103827	Double Time	true	true		0			Charge gains 1 additional charge and its cooldown is reduced by 3 sec.	own
+71	Arms	talent	23920	Spell Reflection	false	true	1	1000	22500		Raise your weapon, reflecting the first spell cast on you and reducing magic damage you take by 20% for 5 sec.	own
+71	Arms	talent	383154	Bloodletting	true	true		0			Rend and Deep Wounds' Bleed effects last 33% longer and have a 5% increased critical strike chance. If you know Rend, Mortal Strike inflicts Rend on targets below 35% health. 	own
+71	Arms	talent	383703	Fatality	true			0				own
+71	Arms	talent	227847	Bladestorm	false	true	1	90000	90000		Become an unstoppable storm of destructive force, striking all nearby enemies for 80,792 Physical damage over 5.1 sec. Deals reduced damage beyond 8 targets. You are immune to movement impairing and loss of control effects, but can use defensive abilities and can avoid attacks. 	own
+71	Arms	talent	228920	Ravager	false	true	1	90000	90000		Throws a whirling weapon at your target that chases nearby enemies, inflicting 30,459 Physical damage to all enemies over 10.2 sec. Deals reduced damage beyond 8 targets. Cleave and Whirlwind deal 50% increased damage while Ravager is active	own
+71	Arms	talent	389306	Critical Thinking	true			0				own
+71	Arms	talent	386634	Executioner's Precision	true	true		0			Execute increases the damage of your next Mortal Strike by 35%, stacking up to 2 times.	own
+71	Arms	talent	383341	Sharpened Blades	true	true		0			Mortal Strike, Cleave, and Execute damage increased by 5% and critical strike damage increased by 5%.	own
+71	Arms	talent	383155	Improved Sweeping Strikes	true	true		0				own
+71	Arms	talent	1261050	Powerful Momentum	true	true		0			Secondary targets take an additional 25% damage from Sweeping Strikes.	own
+71	Arms	talent	386208	Defensive Stance	false	true		3000			A defensive combat state that reduces all damage you take by 15% and all damage you deal by 10%. Lasts until canceled.	own
+71	Arms	talent	400205	Overpowering Finish	true			0				own
+71	Arms	talent	386630	Battlelord	true	true		0			Overpower has a 35% chance to reset the cooldown of Mortal Strike and reduce the cost of your next Mortal Strike by 33%.	own
+71	Arms	hero	444771	Show No Mercy	true			0				own
+71	Arms	hero	444778	Culling Cyclone	true			0				own
+71	Arms	hero	446085	Brutal Finish	true			0				own
+71	Arms	hero	444773	Fierce Followthrough	true			0				own
+71	Arms	hero	444774	Opportunist	true			0				own
+71	Arms	hero	444769	Imminent Demise	true			0				own
+71	Arms	hero	429639	Boneshaker	true	true		0				own
+71	Arms	hero	440992	Earthquaker	true	true		0			Shockwave also knocks enemies into the air and its cooldown is reduced by 5 sec.	own
+71	Arms	hero	429636	Dominance of the Colossus	true	true		0			Colossal Might stacks up to 10 times. If you would gain a stack of Colossal Might and are at max stacks, the cooldown of Demolish is reduced by 5 sec. Enemies affected by Demolish take up to 10% more damage from you and deal up to 10% less damage to you for 10 sec based on the number of stacks of Colossal Might consumed by Demolish.	own
+71	Arms	hero	431548	Precise Might	true	true		0			Mortal Strike critical strikes grant an additional stack of Colossal Might.	own
+71	Arms	hero	444776	Relentless Pursuit	true			0				own
+71	Arms	hero	444777	Vicious Agility	true			0				own
+71	Arms	hero	429647	Practiced Strikes	true	true		0			Mortal Strike and Slam damage increased by 25%. Cleave and Whirlwind damage increased by 15%.	own
+71	Arms	hero	429637	One Against Many	true	true		0			Shockwave, Cleave, and Whirlwind deal 5% more damage per target affected up to 5.	own
+71	Arms	hero	440995	Arterial Bleed	true	true		0				own
+71	Arms	hero	444779	Slayer's Malice	true			0				own
+71	Arms	hero	429642	Mountain of Muscle and Scars	true	true		0			You deal 5% more damage and take 5% less damage. Size increased by 5%.	own
+71	Arms	hero	444775	Reap the Storm	true			0			When Cleave hits 3 or more targets you have a 20% chance to unleash a flurry of steel, striking all nearby enemies for 32,787 Physical damage and applying Overwhelmed. Deals reduced damage beyond 8 targets. 	own
+71	Arms	hero	444772	Overwhelming Blades	true			0				own
+71	Arms	hero	429641	Tide of Battle	true	true		0			Colossal Might increases the damage of your Overpower by 3% per stack.	own
+71	Arms	hero	429638	Martial Expert	true	true		0			Critical strike damage of your abilities is increased by 10% and the amount of damage blocked by your critical blocks is increased by 20%.	own
+71	Arms	hero	444770	Death Drive	true			0				own
+71	Arms	hero	444767	Slayer's Dominance	true	true		0				own
+71	Arms	hero	429644	No Stranger to Pain	true	true		0				own
+71	Arms	hero	440993	Veteran Vitality	true	true		0			When your health is brought below 35%, you gain a Second Wind, healing you for 12% of your max health over 2 sec. This effect cannot occur more than once every 60 sec.	own
+71	Arms	hero	436358	Demolish	false	true		45000			Unleash a series of precise and powerful strikes against your target, dealing 97,492 damage to it, and 52,345 damage to enemies within 10 yds of it. Deals reduced damage beyond 8 targets. While channeling Demolish, you take 10% less damage and are immune to stuns, knockbacks, and forced movement effects. You can block, parry, dodge, and use certain defensive abilities while channeling Demolish.	own
+71	Arms	hero	429634	Colossal Might	true	true		0			Colossal Might increases damage dealt by your next Demolish by 5%, stacking up to 10 times. Mortal Strike grants a stack of Colossal Might and Cleave grants a stack of Colossal Might when it strikes 3 or more targets.	own
+71	Arms	hero	444780	Unrelenting Onslaught	true			0				own
+71	Arms	talent	391271	Honed Reflexes	true	true		0			Cooldown of Die By the Sword, Intervene, Interpose, Spell Reflection, Storm Bolt, and Pummel reduced by 10%. Successfully interrupting an enemy increases the damage you deal to them by 5% for 10 sec.	own
+71	Arms	talent	203201	Crackling Thunder	true			0				own
+71	Arms	talent	1280961	Stance Mastery	true			0				own
+71	Arms	talent	152278	Anger Management	true	true		0			Every 20 Rage you spend on attacks reduces the remaining cooldown on Avatar and Colossus Smash by 1 sec.	own
+71	Arms	talent	424742	Battlefield Commander	true	true		0			Your Shout abilities have additional effects. |T132333:24|t |cffffffffBattle Shout|r: Grants you an additional 3% attack power. |T132351:24|t |cffffffffRallying Cry|r: Grants an additional 2% health and duration increased by 3 sec. |T136147:24|t |cffffffffPiercing Howl|r: Radius increased by 100% |T136009:24|t |cffffffffBerserker Shout|r: Radius increased by 100%. |T132154:24|t |cffffffffIntimidating Shout|r: Cooldown reduced by 15 sec. 	own
+71	Arms	talent	3411	Intervene	false		1	1500	27000			own
+71	Arms	talent	1244088	Interpose	false		1	1500	27000			own
+71	Arms	talent	1243660	Resonant Voice	true			0				own
+71	Arms	talent	382764	Crushing Force	true	true		0			Mortal Strike deals an additional 5% damage and deals 5% increased critical strike damage.	own
+71	Arms	talent	5246	Intimidating Shout	false			90000				own
+71	Arms	talent	12323	Piercing Howl	false			90000				own
+71	Arms	talent	772	Rend	false	true		6000			Lash out with your weapon, striking all targets within 10 yds for 11,011 Physical damage instantly and wounding them for an additional 13,951 Bleed damage over 20.0 sec.	own
+71	Arms	talent	1261057	Master Tactician	true			0				own
+71	Arms	talent	1273062	Martial Prowess	true			0				own
+71	Arms	talent	1261046	Brute Force	true			0				own
+71	Arms	talent	1261047	Efficiency	true			0				own
+71	Arms	talent	334779	Collateral Damage	true	true		0			When an ability used during Sweeping Strikes damages a second target, your next Cleave or Whirlwind deals 25% increased damage, stacking up to 3 times.	own
+71	Arms	talent	1261051	Tactical Edge	true	true		0				own
+71	Arms	talent	1261056	Crushing Combo	true	true		0			Colossus Smash causes your next 2 Cleaves within 20 sec to trigger no cooldown.	own
+71	Arms	talent	1261060	Deep Wounds	true			0				own
+71	Arms	talent	1261062	Mortal Wounds	true	true		0			Mortal Strike and Slam critical strikes inflict Deep Wounds at 100% effectiveness. |T132090:24|t |cffffffffDeep Wounds|r 	own
+71	Arms	talent	1261048	Just Warming Up	true	true		0				own
+71	Arms	talent	1261049	Broad Strokes	true	true		0			Colossus Smash grants you Sweeping Strikes.	own
+71	Arms	talent	400803	Strength of Arms	true	true		0			Overpower and Slam damage increased by 5% and critical strike damage increased by 5%. Critical strike chance of Slam and Overpower increased by 5%.	own
+71	Arms	hero	1270710	Celeritous Conclusion	true	true		0			Demolish's final strike grants 10% Haste for 10 sec and increases the critical strike chance of your next Mortal Strike by 100%.	own
+71	Arms	hero	1270709	Cut to the Bone	true	true		0			Mortal Strike critical strikes increase your Rend and Deep Wounds damage by 15% for 8 sec.	own
+71	Arms	hero	1270704	Decimator	true	true		0			Demolish's final strike applies Deep Wounds to all targets at 100% effectiveness.	own
+71	Arms	hero	386628	Unhinged	true			0				own
+71	Arms	hero	1270718	Deadly Focus	true			0				own
+71	Arms	hero	1270717	Violent Euphoria	true			0				own
+71	Arms	talent	1271948	Javelineer	true	true		0			Range of your thrown abilities is increased by 5 yards. Damage dealt by Champion's Spear, Shattering Throw, and Wrecking Throw increased by 20%. Shattering Throw and Wrecking Throw silence non-players for 3 sec.	own
+71	Arms	talent	1271926	Field Dressing	true	true		0			Healing received increased by 3% and all self-healing increased by an additional 10%.	own
+71	Arms	talent	1273075	Mass Execution	true	true		0			Cleave and Whirlwind deal 20% additional damage to targets below 35% health.	own
+71	Arms	talent	107574	Avatar	false	true		90000			Transform into a colossus, increasing all damage you deal by 20% and reducing damage you take from area of effect attacks by 5% for 20 sec.	own
+71	Arms	talent	1269314	Master of Warfare	true	true		0			Your single target melee abilities have a chance to upgrade Slam to Heroic Strike. All modifiers and talents that affect Slam also affect Heroic Strike. |T132282:24|t 	own
+71	Arms	talent	1269306	Master of Warfare	true	true		0			Each stack of Master of Warfare increases Mortal Strike, Cleave, and Overpower damage by 2.5% and critical strike damage by 2.5%.	own
+71	Arms	talent	1269307	Master of Warfare	true	true		0			Heroic Strike increases the damage you deal to enemies affected by your next Colossus Smash by an additional 3.0%. Stacks up to 5 times.	own
+71	Arms	baseline	6603	Auto Attack	false			0			Automatically attacks a target in melee with an equipped weapon. This ability can be toggled on or off.	own
+71	Arms	baseline	83958	Mobile Banking	false			3600000			Summons a Guild Chest that allows access to your guild bank for 5 min. Only guild members with guild reputation of friendly and above are allowed to use a Guild Chest.	own
+71	Arms	baseline	1231411	Recuperate	false			0			Take a breather, prepare some food and have a meal. Restores 50% of your maximum health over 10 sec.	own
+71	Arms	baseline	125439	Revive Battle Pets	false			480000			Heals and resurrects all of your battle pets to 100% health.	own
+71	Arms	baseline	58984	Shadowmeld	false			120000			Activate to slip into the shadows, reducing the chance for enemies to detect your presence. Lasts until cancelled or upon moving. Any threat is restored versus enemies still in combat upon cancellation of this effect.	own
+71	Arms	baseline	251463	Vindicaar Matrix Crystal	false			0			Unlock powers at the Vindicaar's Matrix Core to use while on Argus. 	own
+71	Arms	baseline	6673	Battle Shout	false			0			Increases the attack power of all raid and party members within 100 yards by 5% for 1 |4hour:hrs;.	own
+71	Arms	baseline	18499	Berserker Rage	false			60000			Go berserk, removing and granting immunity to Fear, Sap, and some Incapacitate effects for 6 sec. Removes all movement speed-impairing effects.	own
+71	Arms	baseline	100	Charge	false		2	1500	17000		Charge to an enemy, dealing 892 Physical damage, rooting it for 1 sec. |cFFFFFFFFGenerates 20 Rage.|r	own
+71	Arms	baseline	163201	Execute	false			6000			Attempts to finish off a foe, causing up to 31,223 Physical damage based on Rage spent. Only usable on enemies that have less than 20% health.	own
+71	Arms	baseline	1715	Hamstring	false			0			Maims the enemy for 637 Physical damage, reducing movement speed by 50% for 15 sec.	own
+71	Arms	baseline	57755	Heroic Throw	false			6000			Throws your weapon at the enemy, causing 1,486 Physical damage. Generates high threat.	own
+71	Arms	baseline	6552	Pummel	false			15000			Pummels the target, interrupting spellcasting and preventing any spell in that school from being cast for 5 sec.	own
+71	Arms	baseline	2565	Shield Block	false		1	1000	13573		Raise your shield, blocking all melee attacks against you for 6 sec.	own
+71	Arms	baseline	23922	Shield Slam	false			9000			Slams the target with your shield, causing 12,243 Physical damage. |cFFFFFFFFGenerates 15 Rage.|r	own
+71	Arms	baseline	1464	Slam	false			0			Slams an opponent, causing 19,497 Physical damage.	own
+71	Arms	baseline	355	Taunt	false			8000			Taunts the target to attack you, and increases the threat you generate against them by 800% for 6 sec.	own
+71	Arms	baseline	260708	Sweeping Strikes	false			30000			Your next 12 damaging single-target abilities hit 1 additional target within 8 yds for 100% damage. Lasts 30 sec.	own
+71	Arms	baseline	23881	Bloodthirst	false			4500			Assault the target in a bloodthirsty craze, dealing 18,018 Physical damage and restoring 3% of your health. |cFFFFFFFFGenerates 8 Rage and has a 30% chance to Enrage you.|r	own
+71	Arms	baseline	184364	Enraged Regeneration	false			120000			Reduces damage taken by 30% and Bloodthirst restores an additional 20% health for 8 sec. Usable while stunned or incapacitated.	own
+71	Arms	baseline	5308	Execute	false			6000			Attempt to finish off a wounded foe, causing 34,632 Physical damage. Only usable on enemies that have less than 20% health. 	own
+71	Arms	baseline	385059	Odyn's Fury	false			45000			Unleashes your power, dealing 21,626 Physical damage and an additional 24,296 Bleed damage over 4 sec to all enemies within 12 yards. Deals reduced damage beyond 8 targets. |cFFFFFFFFEnrages you and generates 20 Rage.|r 	own
+71	Arms	baseline	85288	Raging Blow	false		1	0	8000		A mighty blow with both weapons that deals a total of 12,258 Physical damage. |cFFFFFFFFGenerates 12 Rage.|r	own
+71	Arms	baseline	184367	Rampage	false			0			Unleash a series of 4 brutal strikes for a total of 19,433 Physical damage. |cFFFFFFFFEnrages you.|r	own
+71	Arms	baseline	1719	Recklessness	false			90000			Go berserk, increasing all Rage generation by 50% and granting your abilities 20% increased critical strike chance for 12 sec.	own
+71	Arms	baseline	190411	Whirlwind	false			0			Unleashes a whirlwind of steel, striking all nearby enemies for 11,326 Physical damage. Deals reduced damage beyond 5 targets.	own
+71	Arms	baseline	1161	Challenging Shout	false			120000			Taunts all enemies within 10 yds to attack you for 6 sec, and increases the threat you generate against them by 800% for 6 sec.	own
+71	Arms	baseline	1160	Demoralizing Shout	false			45000			Demoralizes all enemies within 10 yards, reducing the damage they deal to you by 20% for 8 sec.	own
+71	Arms	baseline	20243	Devastate	false			0			A direct strike, dealing 5,441 Physical damage.	own
+71	Arms	baseline	386071	Disrupting Shout	false			90000			Taunts all enemies within 14 yds to attack you for 6 sec, interrupts all spellcasting within 14 yds and prevents any spell in that school from being cast for 6 sec. Increases the threat you generate against the target by 800%. 	own
+71	Arms	baseline	190456	Ignore Pain	false			1000			Fight through the pain, ignoring 50% of damage taken for 12 sec sec or until 32,925 damage has been prevented.	own
+71	Arms	baseline	6572	Revenge	false			0			Swing in a wide arc, dealing 11,465 Physical damage to all enemies in front of you. Deals reduced damage beyond 5 targets. Your successful dodges and parries have a chance to make your next Revenge cost no Rage.	own
+71	Arms	baseline	385952	Shield Charge	false			45000			Charge to an enemy with your shield, granting you Shield Block and dealing 35,679 Physical damage to it and 11,400 Physical damage to all enemies within 10 yards. Also stuns the primary target for 4 sec. |cFFFFFFFFGenerates 20 Rage.|r	own
+71	Arms	baseline	871	Shield Wall	false		1	8000	162000		Reduces all damage you take by 40% for 8 sec.	own
+71	Arms	baseline	1680	Whirlwind	false			0		845	Unleashes a whirlwind of steel, hitting your primary target with Slam and striking all nearby targets for 11,170 Physical damage. Deals reduced damage beyond 5 targets.	own

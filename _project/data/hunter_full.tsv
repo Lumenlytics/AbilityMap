@@ -1,0 +1,389 @@
+specID	specName	source	spellID	name	passive	selected	charges	cooldownMS	rechargeMS	overrideSpellID	description	origin
+255	Survival	talent	187707	Muzzle	false			15000			Interrupts spellcasting, preventing any spell in that school from being cast for 5 sec.	sweep
+255	Survival	hero	1253751	Stargazer	true			0			Consuming Tip of the Spear grants 2% increased critical strike damage for 10 sec. Multiple applications may overlap.	sweep
+255	Survival	hero	1253807	Open Fire	true			0			Flamefang Pitch damage increased by 15%.	sweep
+255	Survival	hero	472357	Better Together	true			0			Damage dealt by your pets is increased by 2%. Barbed Shot damage increased by 10%.	sweep
+255	Survival	hero	1253852	Lunar Calling	true			0			Takedown summons your Sentinel Owl and your chance to summon your Sentinel Owl is increased by an additional 10% during Takedown.	sweep
+255	Survival	hero	472741	Stampede!	true			0			Casting Bestial Wrath grants Howl of the Pack Leader and causes your next Kill Command to rouse the nearby wildlife into a Stampede, charging your target and dealing 7,320 Physical damage over 7 sec.	sweep
+255	Survival	hero	472707	Shell Cover	true			0			Survival of the Fittest now summons a Turtle to aid you, further increasing its damage reduction effect by 10%.	sweep
+255	Survival	hero	472660	No Mercy	true			0			Your Bleed effects deal 10% increased damage.	sweep
+255	Survival	hero	1253846	Arcane Talons	true			0			Sentinel's Mark further increases the damage of Wildfire Bomb by 50% 	sweep
+255	Survival	hero	450379	Invigorating Pulse	true			0			Kill Command grants an additional 5 Focus and its damage is increased by 20%.  Maximum Focus increased by 25.	sweep
+255	Survival	hero	472476	Ursine Fury	true			0			When your Bear is summoned, it is joined by 2 Dire Beasts.	sweep
+255	Survival	hero	472524	Sharpened Claws	true			0			The damage of your Bear's Rend Flesh is increased by 15%.	sweep
+255	Survival	hero	1253825	Moon's Blessing	true			0			Consuming Tip of the Spear has a 10% increased chance to summon your Sentinel Owl. When your Sentinel Owl applies Sentinel's Mark, reduce the cooldown of Wildfire Bomb by 4.0 sec.	sweep
+255	Survival	hero	1253599	Sentinel	true			0			Your Eagle is replaced with a Sentinel Owl that applies an enhanced Sentinel's Mark. |T3636840:24|t|cffffffffSentinel's Mark|r Your next Wildfire Bomb deals 40% increased direct damage to the marked target.	sweep
+255	Survival	hero	1253732	Lunar Storm	true			0			When Sentinel's Mark is consumed, it summons a barrage of 4 lunar missiles, each dealing 5,105 Arcane damage to enemies within 10 yds.	sweep
+255	Survival	hero	472719	Slicked Shoes	true			0			When Disengage removes a movement impairing effect, its cooldown is reduced by 4 sec.	sweep
+255	Survival	hero	1268705	Masterful Call	true			0			The duration of Master's Call is increased by 2 sec and it increases the movement speed of its target by 20%.	sweep
+255	Survival	hero	1253887	Conditioning	true			0			Your movement speed is increased by 8%. Aspect of the Cheetah's cooldown is reduced by 30 sec.	sweep
+255	Survival	hero	1253892	Scout's Vigil	true			0			Enemy detection radius reduced by 10 yds. While in Camouflage, your stealth detection radius is increased by 25 yds.	sweep
+255	Survival	hero	1253831	Sanctified Armaments	true			0			An additional 15% of Raptor Strike's damage is dealt as Arcane damage over 6 sec.	sweep
+255	Survival	hero	472550	Fury of the Wyvern	true			0			Your pet's attacks increase your Wyvern's damage bonus by 1%, up to 10%. Casting Kill Command extends the duration of your Wyvern by 0.5 sec, up to 5 additional sec.	sweep
+255	Survival	hero	472358	Pack Mentality	true			0			Howl of the Pack Leader increases the damage of your Kill Command by 50%. Summoning a Beast reduces the cooldown of Barbed Shot by 4.0 sec.	sweep
+255	Survival	hero	472639	Hogstrider	true			0			When your Boar deals damage, the damage of your next Cobra Shot is increased by 200%. Each additional enemy damaged by your Boar causes Cobra Shot to strike 1 additional target, up to 4.	sweep
+255	Survival	hero	450373	Don't Look Back	true			0			Consuming Sentinel's Mark grants you an absorb shield equal to 10.0% of your maximum health.	sweep
+255	Survival	hero	1253830	Can't Miss, Won't Miss	true			0			Tip of the Spear damage bonus increased by 4%. Takedown duration increased by 2 sec.	sweep
+255	Survival	hero	471876	Howl of the Pack Leader	true			0			While in combat, every 30 sec your next Kill Command summons the aid of a Beast. |T773276:24|t Wyvern A Wyvern descends from the skies, letting out a battle cry that increases the damage of you and your pets by 10% for 12 sec. |T132184:24|t Boar A Boar charges through your target 1 time, dealing 36,756 damage to nearby enemies and an additional 30,630 physical damage to its primary target. Damage reduced beyond 5 targets. |T132183:24|t Bear A Bear leaps into the fray, rending the flesh of your enemies, dealing 12,040 damage over 10 sec to up to 8 nearby enemies.	sweep
+255	Survival	hero	472352	Dire Summons	true			0			Kill Command reduces the cooldown of Howl of the Pack Leader by 1.0 sec. Cobra Shot reduces the cooldown of Howl of the Pack Leader by 1.0 sec.	sweep
+255	Survival	talent	1251592	Flamefang Pitch	false		1	0	60000		Toss a fiery concoction that explodes violently upon reaching its destination, dealing 15,315 Fire damage to enemies in its area. Damage reduced beyond 8 targets. After landing, your Flamefang Pitch ignites nearby terrain, dealing 10,210 Fire damage to enemies in its area over 8 sec.	sweep
+255	Survival	talent	259489	Kill Command	false		2	0	5000		Give the command to kill, causing your pet to savagely deal 7,657 Physical damage to the enemy. |cFFFFFFFFGenerates 15 Focus.|r	sweep
+255	Survival	talent	1262409	Lethal Calibration	true			0			Wildfire Bomb reduces the cooldown of Boomstick by 2.0 sec for each enemy hit, up to 10 sec.	sweep
+255	Survival	talent	186270	Raptor Strike	false			0			A vicious slash dealing 10,037 Physical damage.	sweep
+255	Survival	talent	260285	Tip of the Spear	true			0			Kill Command increases the direct damage of your other abilities by 15%, stacking up to 3 times.	sweep
+255	Survival	talent	259495	Wildfire Bomb	false		1	0	18000		Hurl a bomb at the target, exploding for 856 Fire damage in a cone and coating enemies in wildfire, scorching them for 3,214 Fire damage over 6 sec. Deals reduced damage beyond 8 targets. Deals 80% increased damage to your primary target.	sweep
+255	Survival	talent	460198	Wildfire Infusion	true			0			Kill Command damage increased by 15%. Kill Command reduces the cooldown of Wildfire Bomb by 1.0 sec.	sweep
+255	Survival	talent	260248	Bloodseeker	true			0			You and your pet gain 10% attack speed for every bleeding enemy within 12 yds.	sweep
+255	Survival	talent	378934	Lunge	true			0			The damage of your auto-attacks is increased by 25%. Your Agility is increased by 2%, increased by an additional 2% while dual-wielding.	sweep
+255	Survival	talent	459964	Flanker's Advantage	true			0			Kill Command grants an additional 5 Focus and its critical strike chance is increased by 10%.	sweep
+255	Survival	talent	378937	Explosives Expert	true			0			Wildfire Bomb, Boomstick, and Flamefang Pitch damage increased by 5%.	sweep
+255	Survival	talent	1257011	Vulnerability	true			0			Raptor Strike and Boomstick deal 20% increased critical strike damage.	sweep
+255	Survival	talent	462036	Blackrock Munitions	true			0			Wildfire Bomb and Flamefang Pitch deal 20% increased critical strike damage.	sweep
+255	Survival	talent	264332	Guerrilla Tactics	true			0			Wildfire Bomb now has 2 charges, and the initial explosion deals 15% increased damage.	sweep
+255	Survival	talent	321290	Improved Wildfire Bomb	true			0			Wildfire Bomb deals 6% additional damage.	sweep
+255	Survival	talent	1267003	Precision Strikes	true			0			Your auto shot damage is increased by 25%.	sweep
+255	Survival	talent	385539	Rejuvenating Wind	true			0			Exhilaration now also heals you for an additional 12.0% of your maximum health over 8 sec.	sweep
+255	Survival	talent	343242	Wilderness Medicine	true			0			Mend Pet heals for an additional 25% of your pet's health over its duration, and has a 25% chance to dispel a magic effect each time it heals your pet.	sweep
+255	Survival	talent	459502	Serrated Tips	true			0			You gain 2% more critical strike from critical strike sources.	sweep
+255	Survival	talent	459527	Unnatural Causes	true			0			Your damage over time effects deal 10% increased damage. This effect is increased by 50% on targets below 20% health.	sweep
+255	Survival	talent	459517	Emergency Salve	true			0			Feign Death and Aspect of the Turtle removes poison and disease effects from you.	sweep
+255	Survival	talent	459542	Specialized Arsenal	true			0			Kill Command deals 10% increased damage. 	sweep
+255	Survival	talent	388039	Lone Survivor	true			0			The duration of Survival of the Fittest is increased by 2.0 sec.	sweep
+255	Survival	talent	187698	Tar Trap	false			30000			Hurls a tar trap to the target location that creates a 8 yd radius pool of tar around itself for 30 sec when the first enemy approaches. All enemies have 50% reduced movement speed while in the area of effect. Limit 1. Trap will exist for 1 min.	sweep
+255	Survival	talent	1513	Scare Beast	false			0			Scares a beast, causing it to run in fear for up to 20 sec.  Damage caused may interrupt the effect.  Only one beast can be feared at a time.	sweep
+255	Survival	talent	459507	Territorial Instincts	true			0			The cooldown of Intimidation is reduced by 20 sec.	sweep
+255	Survival	talent	1258509	Guttural Roar	true			0			Intimidation now also stuns nearby enemies for 1.0 sec.	sweep
+255	Survival	talent	343244	Disruptive Rounds	true			0			When Counter Shot interrupts a cast, gain 30 Focus.	sweep
+255	Survival	talent	459534	Trigger Finger	true			0			Haste increased by 2%.	sweep
+255	Survival	talent	270581	Natural Mending	true			0			Exhilaration's cooldown is reduced by 30 sec.	sweep
+255	Survival	talent	378002	Pathfinding	true			0			Movement speed increased by 4%.	sweep
+255	Survival	talent	459450	Padded Armor	true			0			Survival of the Fittest gains an additional charge.	sweep
+255	Survival	talent	5116	Concussive Shot	false			5000			Dazes the target, slowing movement speed by 50% for 6 sec.	sweep
+255	Survival	talent	378004	Keen Eyesight	true			0			Critical strike chance increased by 2%.	sweep
+255	Survival	talent	109215	Posthaste	true			0			Disengage also frees you from all movement impairing effects and increases your movement speed by 50% for 4 sec.	sweep
+255	Survival	talent	459546	No Hard Feelings	true			0			When Misdirection targets your pet, it reduces the damage they take by 50% for 5 sec. The cooldown of Misdirection is reduced by 5 sec.	sweep
+255	Survival	talent	1268868	Improved Snaring	true			0			Wing Clip slows an additional 25%. Concussive Shot slows an additional 10%.	sweep
+255	Survival	talent	459983	Kodo Tranquilizer	true			0			Tranquilizing Shot removes 1 additional Magic effect from up to 2 nearby targets.	sweep
+255	Survival	talent	459991	Devilsaur Tranquilizer	true			0			If Tranquilizing Shot removes only an Enrage effect, its cooldown is reduced by 5 sec.	sweep
+255	Survival	talent	266921	Born To Be Wild	true			0			The cooldown of Aspect of the Cheetah, and Aspect of the Turtle are reduced by 15 sec.	sweep
+255	Survival	talent	343247	Improved Traps	true			0			The cooldown of Tar Trap and Freezing Trap is reduced by 5.0 sec.	sweep
+255	Survival	talent	34477	Misdirection	false			30000			Misdirects all threat you cause to the targeted party or raid member, beginning with your next attack within 30 sec and lasting for 8 sec.	sweep
+255	Survival	talent	264735	Survival of the Fittest	false		1	0	90000		Reduces all damage you and your pet take by 30% for 6 sec.	sweep
+255	Survival	talent	384799	Hunter's Avoidance	true			0			Damage taken from area of effect attacks reduced by 5%.	sweep
+255	Survival	talent	1258485	Improved Aspect of the Turtle	true			0			The cooldown of Aspect of the Turtle is reduced by 30 sec.	sweep
+255	Survival	talent	459506	Kindling Flare	true			0			Flare's radius is increased by 50%.	sweep
+255	Survival	talent	19577	Intimidation	false			60000			Commands your pet to intimidate the target stunning your target for 5 sec.	sweep
+255	Survival	talent	1253053	Shower of Blood	true			0			Your Bleed effects deal 8% increased damage.	sweep
+255	Survival	talent	1253137	Sic 'Em	true			0			When Strike as One critically strikes, it bleeds its target for an additional 1,204 damage over 5 sec.	sweep
+255	Survival	talent	459939	Outland Venom	true			0			Each damage over time effect on a target increases the critical strike damage they receive from you by 4%.	sweep
+255	Survival	talent	385737	Bloody Claws	true			0			Each stack of Mongoose Fury also increases the damage of Strike as One by 10%.	sweep
+255	Survival	talent	1252738	Wallop	true			0			Gaining a stack of Mongoose Fury has a 20% chance to increase the damage of your next Raptor Strike by 50%.	sweep
+255	Survival	talent	1253172	Shrapnel Bomb	true			0			Wildfire Bomb's periodic effect is now a Bleed and grants you and your pet 15 Focus over 3 sec.	sweep
+255	Survival	talent	1253176	Flamebreak	true			0			All Fire damage dealt is increased by 8%.	sweep
+255	Survival	talent	1252708	Mongoose Fury	true			0			Raptor Strike increases the damage of Raptor Strike by 10% for 8 sec. Multiple applications may overlap.	sweep
+255	Survival	talent	1262442	Bonding	true			0			Mastery increased by 3%. You gain 5% increased Mastery from all Mastery sources.	sweep
+255	Survival	talent	378955	Killer Companion	true			0			All damage dealt by your pet is increased by 10%.	sweep
+255	Survival	talent	378950	Sweeping Spear	true			0			Raptor Strike damage increased by 10%.	sweep
+255	Survival	talent	1253945	Mongoose Rounds	true			0			Damaging one or more enemies with your Boomstick grants you 1 stack of Mongoose Fury. |T1376044:24|t |cffffffffMongoose Fury|r Raptor Strike damage increased by 10%.	sweep
+255	Survival	talent	1261229	Wildfire Shells	true			0			Damaging one or more enemies with your Boomstick reduces the cooldown of Wildfire Bomb by 2.0 sec.	sweep
+255	Survival	talent	459843	Grenade Juggler	true			0			Flamefang Pitch gains 1 additional charge.  Throwing your Flamefang Pitch grants 1 charge of Wildfire Bomb.	sweep
+255	Survival	talent	1252931	Shellshock	true			0			Your Boomstick's damage is increased by 40% when striking a single target. Each additional target reduces this bonus by 5%.	sweep
+255	Survival	talent	1251790	Savagery	true			0			Takedown cooldown reduced by 15 sec.	sweep
+255	Survival	talent	1251717	Strike as One	true			0			Consuming Tip of the Spear provokes your pet to attack your target, dealing 4,594 Physical damage. All damage dealt by your pet is increased by 30%.	sweep
+255	Survival	talent	1250646	Takedown	false			90000			You and your pet leap to your target and strike as one, dealing 45,945 Physical damage. Your pet frees itself from roots when it leaps. For the next 8 sec, the damage dealt by you and your pet is increased by 20%. |cFFFFFFFFGenerates 50 Focus.|r	sweep
+255	Survival	talent	1261193	Boomstick	false			60000			Unload a series of 4 shotgun blasts 20 yds in front of you, dealing 13,177 Physical damage over 2.5 sec. Deals reduced damage beyond 8 targets.	sweep
+255	Survival	talent	1272139	Twin Fangs	true			0			Takedown grants 3 stacks of Tip of the Spear.	sweep
+255	Survival	talent	459455	Scout's Instincts	true			0			You cannot be slowed below 80% of your normal movement speed while Aspect of the Cheetah is active.	sweep
+255	Survival	talent	1258486	Improved Feign Death	true			0			The cooldown of Feign Death is reduced by 5 sec.	sweep
+255	Survival	talent	1258407	Improved Aspect of the Cheetah	true			0			The cooldown of Aspect of the Cheetah is reduced by 30 sec.	sweep
+255	Survival	talent	1258404	Catlike Reflexes	true			0			Aspect of the Cheetah's initial burst of speed is increased by 2.0 sec.	sweep
+255	Survival	talent	1258402	Touch of Grass	true			0			Your maximum health is increased by 5%.	sweep
+255	Survival	talent	109248	Binding Shot	false			45000			Fires a magical projectile, tethering the enemy and any other enemies within 5 yds for 10 sec, stunning them for 3 sec if they move more than 5 yds from the arrow.	sweep
+255	Survival	talent	19801	Tranquilizing Shot	false			10000			Removes 1 Enrage and 1 Magic effect from an enemy target.	sweep
+255	Survival	hero	1264775	Sharpened Fangs	true			0			Your mastery is increased by 3%.	sweep
+255	Survival	hero	1264781	Lethal Barbs	true			0			Your auto shot grants 1 Focus to you and your pet. Auto shot damage increased by 25%.	sweep
+255	Survival	hero	1264797	Hoof and Blade	true			0			Hogstrider further increases the damage of Cobra Shot by 50% and it now strikes up to 3 additional targets.	sweep
+255	Survival	hero	1264792	Wyvern's Gaze	true			0			The damage bonus from your Wyvern now lasts an additional 2.0 sec.	sweep
+255	Survival	hero	1264903	Radiant Edge	true			0			Your Moonlight Chakram deals 25% increased damage each time it bounces.	sweep
+255	Survival	hero	1264902	Moonlight Chakram	true			0			For 15 sec after casting Takedown, Takedown is replaced with Moonlight Chakram. |T6035310:24|t |cffffffffMoonlight Chakram|r Throw a chakram blessed with moonlight at your current target that will rapidly deal 1,542 Physical damage 7 times, bouncing to other targets if they are nearby.	sweep
+255	Survival	hero	1264904	Twilight Requiem	true			0			When your Moonlight Chakram expires, it summons an explosion of moonlight, dealing 5,105 Arcane damage to nearby enemies. Damage reduced beyond 8 targets.	sweep
+255	Survival	hero	1266069	Stalk and Strike	true			0			Throwing your Moonlight Chakram reduces the cooldown of Wildfire Bomb by 10 sec.	sweep
+255	Survival	talent	459460	Tar-Coated Bindings	true			0			Binding Shot's stun duration is increased by 1 sec.	sweep
+255	Survival	talent	472729	Horsehair Tether	true			0			When an enemy is stunned by Binding Shot, it is dragged to Binding Shot's center.	sweep
+255	Survival	talent	1268671	Cold Feet	true			0			When your Freezing Trap breaks, the victim's movement speed is reduced by 70% for 4 sec.	sweep
+255	Survival	talent	1267218	Shell Wall	true			0			Damage taken during Aspect of the Turtle is reduced by an additional 20%.	sweep
+255	Survival	talent	199921	Trailblazer	true			0			Your movement speed is increased by 30% anytime you have not attacked for 3 sec.	sweep
+255	Survival	talent	459488	Moment of Opportunity	true			0			When a trap triggers, gain 30% increased movement speed for 3 sec.	sweep
+255	Survival	talent	199483	Camouflage	false			60000			You and your pet blend into the surroundings and gain stealth for 1 min. While camouflaged, you will heal for 2% of maximum health every 1 sec.	sweep
+255	Survival	talent	1268871	Combat Experience	true			0			Your Agility is increased by 3%.	sweep
+255	Survival	talent	1272154	Primal Surge	true			0			Kill Command grants 1 additional stack of Tip of the Spear. Tip of the Spear's damage bonus is increased by 5%.	sweep
+255	Survival	talent	1252943	Wildfire Imbuement	true			0			Throwing your Flamefang Pitch imbues your weapon with flame, causing you and your pet's auto-attacks to deal an additional 1,021 Fire damage for 10 sec.	sweep
+255	Survival	talent	1256938	Flanked	true			0			Takedown damage increased by 50% and it now strikes 4 additional nearby targets. During Takedown, your attack speed is increased by 100%.	sweep
+255	Survival	talent	1272136	Quick Reload	true			0			Boomstick's cooldown is reduced by 15 sec.	sweep
+255	Survival	talent	1251718	Two Against Many	true			0			Strike as One damages 2 additional enemies and its damage is increased by 10% for each enemy it strikes beyond the first.	sweep
+255	Survival	talent	53480	Roar of Sacrifice	false			120000			Instructs your pet to protect a friendly target, reducing their damage taken by 15%, but 50% of all damage taken by that target is transferred to your pet.  Lasts 10 sec or until your pet's health drops below 25%.	sweep
+255	Survival	talent	1272094	Guardian's Hide	true			0			Your pet protects you at all times, reducing the damage you take by 3%. Your pet receives 100% of the damage it mitigates.	sweep
+255	Survival	talent	1259003	Raptor Swipe	true			0			Raptor Strike has a 25% chance to upgrade itself to a Raptor Swipe, dealing 7,147 Physical damage to all enemies within 15 yds in front of you. Damage reduced beyond 5 targets.	sweep
+255	Survival	talent	1259017	Raptor Swipe	true			0			Raptor Strike, Wildfire Bomb, and Raptor Swipe damage increased by 10%. Raptor Swipe deals 35% increased damage to its primary target.	sweep
+255	Survival	talent	1259019	Raptor Swipe	true			0			Raptor Strike now has a 100% chance to upgrade itself to a Raptor Swipe. Raptor Swipes that benefit from Tip of the Spear provoke an additional Strike as One at 300% effectiveness.	sweep
+253	Beast Mastery	hero	467902	Banshee's Mark	true			0			Black Arrow and Bleak Powder critical strike damage increased by 10%.	sweep
+253	Beast Mastery	hero	467644	The Bell Tolls	true			0			All pet damage increased by 6%. Dire Beast damage increased by 10%.	sweep
+253	Beast Mastery	hero	430709	Smoke Screen	true			0			Exhilaration grants you 3 sec of Survival of the Fittest. Survival of the Fittest activates Exhilaration at 50% effectiveness.	sweep
+253	Beast Mastery	hero	430712	Dark Chains	true			0			While in combat, Disengage will chain the closest target to the ground, causing them to move 40% slower until they move 8 yards away.	sweep
+253	Beast Mastery	hero	467741	Shadow Dagger	true			0			While in combat, Disengage releases a fan of shadow daggers, dealing 12 Shadow damage per second and reducing affected target's movement speed by 30% for 6 sec.	sweep
+253	Beast Mastery	hero	467749	Bleak Arrows	true			0			Your auto shot now deals Shadow damage, allowing it to bypass armor. Auto shot damage increased by 100%.	sweep
+253	Beast Mastery	hero	472357	Better Together	true			0			Damage dealt by your pets is increased by 2%. Barbed Shot damage increased by 10%.	sweep
+253	Beast Mastery	hero	472741	Stampede!	true			0			Casting Bestial Wrath grants Howl of the Pack Leader and causes your next Kill Command to rouse the nearby wildlife into a Stampede, charging your target and dealing 7,320 Physical damage over 7 sec.	sweep
+253	Beast Mastery	hero	472707	Shell Cover	true			0			Survival of the Fittest now summons a Turtle to aid you, further increasing its damage reduction effect by 10%.	sweep
+253	Beast Mastery	hero	469638	Soul Drinker	true			0			Kill Command has a 20% chance and Barbed Shot has a 50% chance to grant Deathblow. |T132208:24|t |cffffffffDeathblow|r The cooldown of Kill Shot is reset. Your next Kill Shot can be used on any target, regardless of their current health.	sweep
+253	Beast Mastery	hero	472660	No Mercy	true			0			Your Bleed effects deal 10% increased damage.	sweep
+253	Beast Mastery	hero	472476	Ursine Fury	true			0			When your Bear is summoned, it is joined by 2 Dire Beasts.	sweep
+253	Beast Mastery	hero	472524	Sharpened Claws	true			0			The damage of your Bear's Rend Flesh is increased by 15%.	sweep
+253	Beast Mastery	hero	467911	Bleak Powder	true			0			Black Arrow now explodes in a cloud of shadow and sulfur on impact, dealing 1,355 Shadow damage to all enemies within an 8 yd cone behind the target. Damage reduced beyond 8 targets.	sweep
+253	Beast Mastery	hero	472719	Slicked Shoes	true			0			When Disengage removes a movement impairing effect, its cooldown is reduced by 4 sec.	sweep
+253	Beast Mastery	hero	1268705	Masterful Call	true			0			The duration of Master's Call is increased by 2 sec and it increases the movement speed of its target by 20%.	sweep
+253	Beast Mastery	hero	1235397	Umbral Reach	true			0			Bleak Powder now applies Black Arrow's periodic effect to all enemies it damages. If Bleak Powder damages 2 or more enemies, gain Beast Cleave if talented. 	sweep
+253	Beast Mastery	hero	1264291	Blighted Quiver	true			0			You fire 2 additional Black Arrows during Withering Fire's barrage. Beast Cleave and Kill Cleave damage increased by 5%.	sweep
+253	Beast Mastery	hero	472550	Fury of the Wyvern	true			0			Your pet's attacks increase your Wyvern's damage bonus by 1%, up to 10%. Casting Kill Command extends the duration of your Wyvern by 0.5 sec, up to 5 additional sec.	sweep
+253	Beast Mastery	hero	472358	Pack Mentality	true			0			Howl of the Pack Leader increases the damage of your Kill Command by 50%. Summoning a Beast reduces the cooldown of Barbed Shot by 4.0 sec.	sweep
+253	Beast Mastery	hero	467897	Ebon Bowstring	true			0			Casting Black Arrow has a 15% chance to grant Deathblow. |T132208:24|t |cffffffffDeathblow|r The cooldown of Kill Shot is reset. Your next Kill Shot can be used on any target, regardless of their current health.	sweep
+253	Beast Mastery	hero	1277565	Through the Eyes	true			0			Black Arrow deals 20% increased damage to enemies affected by Black Arrow's periodic damage.	sweep
+253	Beast Mastery	hero	472639	Hogstrider	true			0			When your Boar deals damage, the damage of your next Cobra Shot is increased by 200%. Each additional enemy damaged by your Boar causes Cobra Shot to strike 1 additional target, up to 4.	sweep
+253	Beast Mastery	hero	471876	Howl of the Pack Leader	true			0			While in combat, every 30 sec your next Kill Command summons the aid of a Beast. |T773276:24|t Wyvern A Wyvern descends from the skies, letting out a battle cry that increases the damage of you and your pets by 10% for 12 sec. |T132184:24|t Boar A Boar charges through your target 1 time, dealing 36,756 damage to nearby enemies and an additional 30,630 physical damage to its primary target. Damage reduced beyond 5 targets. |T132183:24|t Bear A Bear leaps into the fray, rending the flesh of your enemies, dealing 12,040 damage over 10 sec to up to 8 nearby enemies.	sweep
+253	Beast Mastery	hero	472352	Dire Summons	true			0			Kill Command reduces the cooldown of Howl of the Pack Leader by 1.0 sec. Cobra Shot reduces the cooldown of Howl of the Pack Leader by 1.0 sec.	sweep
+253	Beast Mastery	hero	466990	Withering Fire	true			0			Bestial Wrath causes you to surrender to darkness, granting you Withering Fire for 10 sec and Deathblow. |T136194:24|t |cffffffffWithering Fire|r Casting Black Arrow fires a barrage of 2 additional Black Arrows at nearby targets at 50% effectiveness, prioritizing enemies that aren't affected by Black Arrow's damage over time effect.	sweep
+253	Beast Mastery	talent	147362	Counter Shot	false			24000			Interrupts spellcasting, preventing any spell in that school from being cast for 5 sec.	sweep
+253	Beast Mastery	talent	1264934	Frenzy	true			0			Increases the attack speed of your active pets by 20%.	sweep
+253	Beast Mastery	talent	1217524	Dire Cleave	true			0			When summoned, Dire Beasts gain Beast Cleave at 100% effectiveness for 8.0 sec.	sweep
+253	Beast Mastery	talent	378209	Training Expert	true			0			All pet damage dealt increased by 3%.	sweep
+253	Beast Mastery	talent	378442	Wild Instincts	true			0			When your primary pet uses Stomp, apply Barbed Shot to a target hit by that Stomp. This Barbed Shot will not cause an extra Stomp.	sweep
+253	Beast Mastery	talent	407412	Bloody Frenzy	true			0			Bestial Wrath causes your Barbed Shot to deal damage 100% faster for 10 sec.	sweep
+253	Beast Mastery	talent	19574	Bestial Wrath	false			90000			Sends you and your pet into a rage, instantly dealing 20,420 Physical damage to its target, and increasing all damage you both deal by 20% for 15 sec. Removes all crowd control effects from your pet. 	sweep
+253	Beast Mastery	talent	115939	Beast Cleave	true			0			After you Wild Thrash, your pet's melee attacks also strike all nearby enemies for 40% of the damage for the next 8.0 sec. Deals reduced damage beyond 8 targets.	sweep
+253	Beast Mastery	talent	193532	Scent of Blood	true			0			Activating Bestial Wrath grants 1 charge of Barbed Shot.	sweep
+253	Beast Mastery	talent	393933	War Orders	true			0			Barbed Shot deals 10% increased damage, and applying Barbed Shot reduces the cooldown of Kill Command by 3.0 sec.	sweep
+253	Beast Mastery	talent	468695	Snakeskin Quiver	true			0			Your auto shot has a 15% chance to also fire a Cobra Shot at your target.	sweep
+253	Beast Mastery	talent	378244	Cobra Senses	true			0			Cobra Shot Focus cost reduced by 5. Cobra Shot damage increased by 35%. 	sweep
+253	Beast Mastery	talent	1265051	Thrill of the Hunt	true			0			Barbed Shot critical strike chance increased by 5%. Cobra Shot critical strike chance increased by 15%.	sweep
+253	Beast Mastery	talent	34026	Kill Command	false		1	500	7500		Give the command to kill, causing your pet to charge your target and savagely deal 5,258 Physical damage to the enemy.	sweep
+253	Beast Mastery	talent	199530	Stomp	true			0			When you cast Barbed Shot, your pet stomps the ground, dealing 3,675 Physical damage to all nearby enemies.	sweep
+253	Beast Mastery	talent	386870	Brutal Companion	true			0			Barbed Shot has a 25% chance to cause your pet to use its special attack and deal 50% bonus damage.	sweep
+253	Beast Mastery	talent	191384	Aspect of the Beast	true			0			Increases the damage of Bite, Claw, Smack and the effectiveness of your pet's unique abilities by 30%. Increases the effectiveness of your pet's Predator's Thirst, Endurance Training, and Pathfinding passives by 50%.	sweep
+253	Beast Mastery	talent	469880	Barbed Scales	true			0			Casting Cobra Shot reduces the cooldown of Barbed Shot by 2 sec.	sweep
+253	Beast Mastery	talent	193455	Cobra Shot	false			0			A quick shot causing 1,697 Physical damage. Reduces the cooldown of Kill Command by 1 sec.	sweep
+253	Beast Mastery	talent	378207	Kill Cleave	true			0			While Beast Cleave is active, Kill Command now also strikes nearby enemies for 40% of damage dealt. Deals reduced damage beyond 8 targets.	sweep
+253	Beast Mastery	talent	424557	Savagery	true			0			Kill Command damage is increased by 10%. Barbed Shot lasts 2.0 sec longer.	sweep
+253	Beast Mastery	talent	459550	Go for the Throat	true			0			Kill Command deals increased critical strike damage equal to 100% of your critical strike chance.	sweep
+253	Beast Mastery	talent	1265044	Jagged Wounds	true			0			All bleed damage dealt by you and your pets  increased by 10%.	sweep
+253	Beast Mastery	talent	424558	Master Handler	true			0			Each time Barbed Shot deals damage, the cooldown of Kill Command is reduced by 0.50 sec.	sweep
+253	Beast Mastery	talent	1265052	Heart of the Pack	true			0			Summoning a Dire Beast grants 0.50% haste for 8 sec.	sweep
+253	Beast Mastery	talent	1272099	Bloodshed	true			0			Bestial Wrath provokes your pets to tear into your target, causing your target to bleed for 36,756 damage over 12 sec. 	sweep
+253	Beast Mastery	talent	1264359	Wild Thrash	false			8000			Command your pet to thrash all enemies within 10 yds, dealing 4,875 Physical damage to them. Damage is increased by 200% if Wild Thrash hits 2 or more enemies. Deals reduced damage beyond 8 targets.	sweep
+253	Beast Mastery	talent	273887	Killer Instinct	true			0			Kill Command deals 10% increased damage.	sweep
+253	Beast Mastery	talent	378743	Dire Command	true			0			Kill Command has a 20% chance to also summon a Dire Beast to attack your target for 8 sec.	sweep
+253	Beast Mastery	talent	385810	Dire Frenzy	true			0			Dire Beast lasts an additional 1 sec and deals 10% increased damage.	sweep
+253	Beast Mastery	talent	269737	Alpha Predator	true			0			Kill Command now has 2 charges, and deals 15% increased damage.	sweep
+253	Beast Mastery	talent	459552	Laceration	true			0			When your pet attacks critically strike, they cause their target to bleed for 8% of the damage dealt over 6 sec. 	sweep
+253	Beast Mastery	talent	459693	Thundering Hooves	true			0			Bestial Wrath causes all active pets to Stomp at 200% effectiveness. Stomp damage increased by 30%.	sweep
+253	Beast Mastery	talent	392053	Piercing Fangs	true			0			While Bestial Wrath is active, your pet's critical damage dealt is increased by 35%.	sweep
+253	Beast Mastery	talent	468701	Serpentine Strikes	true			0			Cobra Shot critical damage dealt increased by 50%. When Cobra Shot critically strikes, it refunds 10 Focus.	sweep
+253	Beast Mastery	talent	231548	The Beast Within	true			0			Reduce the cooldown of Bestial Wrath by 60 sec.	sweep
+253	Beast Mastery	talent	321014	Pack Tactics	true			0			Barbed Shot now instantly grants 25 Focus. Passive Focus generation increased by 75%.	sweep
+253	Beast Mastery	talent	199532	Killer Cobra	true			0			While Bestial Wrath is active, Cobra Shot resets the cooldown on Kill Command.	sweep
+253	Beast Mastery	talent	120679	Dire Beast	true			0			Damage from your bleed effects has a 4% chance of attracting a powerful wild beast that attacks your target for 8 sec.	sweep
+253	Beast Mastery	talent	217200	Barbed Shot	false		2	0	18000		Fire a shot that tears through your enemy, causing them to bleed for 2,112 damage over 12 sec. If Barbed Shot is reapplied, any remaining damage will be added to the new Barbed Shot. |cFFFFFFFFGenerates 20 Focus over 8 sec.|r	sweep
+253	Beast Mastery	talent	1267003	Precision Strikes	true			0			Your auto shot damage is increased by 25%.	sweep
+253	Beast Mastery	talent	385539	Rejuvenating Wind	true			0			Exhilaration now also heals you for an additional 12.0% of your maximum health over 8 sec.	sweep
+253	Beast Mastery	talent	343242	Wilderness Medicine	true			0			Mend Pet heals for an additional 25% of your pet's health over its duration, and has a 25% chance to dispel a magic effect each time it heals your pet.	sweep
+253	Beast Mastery	talent	459502	Serrated Tips	true			0			You gain 2% more critical strike from critical strike sources.	sweep
+253	Beast Mastery	talent	459527	Unnatural Causes	true			0			Your damage over time effects deal 10% increased damage. This effect is increased by 50% on targets below 20% health.	sweep
+253	Beast Mastery	talent	459517	Emergency Salve	true			0			Feign Death and Aspect of the Turtle removes poison and disease effects from you.	sweep
+253	Beast Mastery	talent	459542	Specialized Arsenal	true			0			Kill Command deals 10% increased damage. 	sweep
+253	Beast Mastery	talent	388039	Lone Survivor	true			0			The duration of Survival of the Fittest is increased by 2.0 sec.	sweep
+253	Beast Mastery	talent	187698	Tar Trap	false			30000			Hurls a tar trap to the target location that creates a 8 yd radius pool of tar around itself for 30 sec when the first enemy approaches. All enemies have 50% reduced movement speed while in the area of effect. Limit 1. Trap will exist for 1 min.	sweep
+253	Beast Mastery	talent	1513	Scare Beast	false			0			Scares a beast, causing it to run in fear for up to 20 sec.  Damage caused may interrupt the effect.  Only one beast can be feared at a time.	sweep
+253	Beast Mastery	talent	459507	Territorial Instincts	true			0			The cooldown of Intimidation is reduced by 20 sec.	sweep
+253	Beast Mastery	talent	1258509	Guttural Roar	true			0			Intimidation now also stuns nearby enemies for 1.0 sec.	sweep
+253	Beast Mastery	talent	343244	Disruptive Rounds	true			0			When Counter Shot interrupts a cast, gain 30 Focus.	sweep
+253	Beast Mastery	talent	459534	Trigger Finger	true			0			Haste increased by 2%.	sweep
+253	Beast Mastery	talent	19577	Intimidation	false			60000			Commands your pet to intimidate the target stunning your target for 5 sec.	sweep
+253	Beast Mastery	talent	270581	Natural Mending	true			0			Exhilaration's cooldown is reduced by 30 sec.	sweep
+253	Beast Mastery	talent	378002	Pathfinding	true			0			Movement speed increased by 4%.	sweep
+253	Beast Mastery	talent	459450	Padded Armor	true			0			Survival of the Fittest gains an additional charge.	sweep
+253	Beast Mastery	talent	5116	Concussive Shot	false			5000			Dazes the target, slowing movement speed by 50% for 6 sec.	sweep
+253	Beast Mastery	talent	378004	Keen Eyesight	true			0			Critical strike chance increased by 2%.	sweep
+253	Beast Mastery	talent	109215	Posthaste	true			0			Disengage also frees you from all movement impairing effects and increases your movement speed by 50% for 4 sec.	sweep
+253	Beast Mastery	talent	459546	No Hard Feelings	true			0			When Misdirection targets your pet, it reduces the damage they take by 50% for 5 sec. The cooldown of Misdirection is reduced by 5 sec.	sweep
+253	Beast Mastery	talent	1268868	Improved Snaring	true			0			Wing Clip slows an additional 25%. Concussive Shot slows an additional 10%.	sweep
+253	Beast Mastery	talent	459983	Kodo Tranquilizer	true			0			Tranquilizing Shot removes 1 additional Magic effect from up to 2 nearby targets.	sweep
+253	Beast Mastery	talent	459991	Devilsaur Tranquilizer	true			0			If Tranquilizing Shot removes only an Enrage effect, its cooldown is reduced by 5 sec.	sweep
+253	Beast Mastery	talent	266921	Born To Be Wild	true			0			The cooldown of Aspect of the Cheetah, and Aspect of the Turtle are reduced by 15 sec.	sweep
+253	Beast Mastery	talent	343247	Improved Traps	true			0			The cooldown of Tar Trap and Freezing Trap is reduced by 5.0 sec.	sweep
+253	Beast Mastery	talent	34477	Misdirection	false			30000			Misdirects all threat you cause to the targeted party or raid member, beginning with your next attack within 30 sec and lasting for 8 sec.	sweep
+253	Beast Mastery	talent	264735	Survival of the Fittest	false		1	0	90000		Reduces all damage you and your pet take by 30% for 6 sec.	sweep
+253	Beast Mastery	talent	384799	Hunter's Avoidance	true			0			Damage taken from area of effect attacks reduced by 5%.	sweep
+253	Beast Mastery	talent	1258485	Improved Aspect of the Turtle	true			0			The cooldown of Aspect of the Turtle is reduced by 30 sec.	sweep
+253	Beast Mastery	talent	459506	Kindling Flare	true			0			Flare's radius is increased by 50%.	sweep
+253	Beast Mastery	talent	1232739	Wildspeaker	true			0			Dire Beasts will now obey your Kill Command, dealing its damage at 30% effectiveness. Bestial Wrath now sends your Dire Beasts into a rage, increasing their damage dealt by 10% for 15 sec. Dire Beasts summoned during a Bestial Wrath will benefit at a reduced duration.	sweep
+253	Beast Mastery	talent	459730	Huntmaster's Call	true			0			Summoning a Dire Beast 8 times sounds the Horn of Valor, summoning either Hati or Fenryr to battle. |cFFFFFFFFHati|r Increases the damage of all your pets by 4%. |cFFFFFFFFFenryr|r Pounces your primary target, inflicting a heavy bleed that deals 20,420 damage over 8 sec and grants you 4% Haste.	sweep
+253	Beast Mastery	talent	459455	Scout's Instincts	true			0			You cannot be slowed below 80% of your normal movement speed while Aspect of the Cheetah is active.	sweep
+253	Beast Mastery	talent	1258486	Improved Feign Death	true			0			The cooldown of Feign Death is reduced by 5 sec.	sweep
+253	Beast Mastery	talent	1258407	Improved Aspect of the Cheetah	true			0			The cooldown of Aspect of the Cheetah is reduced by 30 sec.	sweep
+253	Beast Mastery	talent	1258404	Catlike Reflexes	true			0			Aspect of the Cheetah's initial burst of speed is increased by 2.0 sec.	sweep
+253	Beast Mastery	talent	1258402	Touch of Grass	true			0			Your maximum health is increased by 5%.	sweep
+253	Beast Mastery	talent	109248	Binding Shot	false			45000			Fires a magical projectile, tethering the enemy and any other enemies within 5 yds for 10 sec, stunning them for 3 sec if they move more than 5 yds from the arrow.	sweep
+253	Beast Mastery	talent	19801	Tranquilizing Shot	false			10000			Removes 1 Enrage and 1 Magic effect from an enemy target.	sweep
+253	Beast Mastery	hero	1264690	Pact of the Hollow	true			0			Kill Command causes your Dark Hound to Shadow Thrash, dealing 5,360 Shadow damage to up to 8 nearby enemies.	sweep
+253	Beast Mastery	hero	1264290	Wailing Dead	true			0			Bestial Wrath summons a Dark Hound. For 15 sec after casting Bestial Wrath, Bestial Wrath is replaced with Wailing Arrow. |T132323:24|t |cffffffffWailing Arrow|r Fire an enchanted arrow, dealing 35,735 Shadow damage to your target and an additional 17,867 Shadow damage to all enemies within 8 yds of your target. Non-Player targets struck by a Wailing Arrow have their spellcasting interrupted and are silenced for 1 sec. |cFFFFFFFFGrants Deathblow.|r	sweep
+253	Beast Mastery	hero	1264289	Corpsecaller	true			0			When summoning a Dire Beast, you have a 10% chance to instead summon a Dark Hound that deals significantly increased damage.	sweep
+253	Beast Mastery	hero	1264775	Sharpened Fangs	true			0			Your mastery is increased by 3%.	sweep
+253	Beast Mastery	hero	1264781	Lethal Barbs	true			0			Your auto shot grants 1 Focus to you and your pet. Auto shot damage increased by 25%.	sweep
+253	Beast Mastery	hero	1264797	Hoof and Blade	true			0			Hogstrider further increases the damage of Cobra Shot by 50% and it now strikes up to 3 additional targets.	sweep
+253	Beast Mastery	hero	1264792	Wyvern's Gaze	true			0			The damage bonus from your Wyvern now lasts an additional 2.0 sec.	sweep
+253	Beast Mastery	hero	466930	Black Arrow	false		1	0	10000		You attempt to finish off a wounded target, dealing 1,889 Shadow damage and 10,210 Shadow damage over 8 sec. Only usable on enemies above 80% health or below 20% health.	sweep
+253	Beast Mastery	talent	459460	Tar-Coated Bindings	true			0			Binding Shot's stun duration is increased by 1 sec.	sweep
+253	Beast Mastery	talent	472729	Horsehair Tether	true			0			When an enemy is stunned by Binding Shot, it is dragged to Binding Shot's center.	sweep
+253	Beast Mastery	talent	1268671	Cold Feet	true			0			When your Freezing Trap breaks, the victim's movement speed is reduced by 70% for 4 sec.	sweep
+253	Beast Mastery	talent	1267218	Shell Wall	true			0			Damage taken during Aspect of the Turtle is reduced by an additional 20%.	sweep
+253	Beast Mastery	talent	199921	Trailblazer	true			0			Your movement speed is increased by 30% anytime you have not attacked for 3 sec.	sweep
+253	Beast Mastery	talent	459488	Moment of Opportunity	true			0			When a trap triggers, gain 30% increased movement speed for 3 sec.	sweep
+253	Beast Mastery	talent	199483	Camouflage	false			60000			You and your pet blend into the surroundings and gain stealth for 1 min. While camouflaged, you will heal for 2% of maximum health every 1 sec.	sweep
+253	Beast Mastery	talent	1268871	Combat Experience	true			0			Your Agility is increased by 3%.	sweep
+253	Beast Mastery	talent	267116	Animal Companion	true			0			Your Call Pet additionally summons the pet from the bonus slot in your stable. This pet will obey your Kill Command, but cannot use pet family abilities.	sweep
+253	Beast Mastery	talent	474746	Solitary Companion	true			0			Your pet damage is increased by 35% and your pet is 10% larger.	sweep
+253	Beast Mastery	talent	53480	Roar of Sacrifice	false			120000			Instructs your pet to protect a friendly target, reducing their damage taken by 15%, but 50% of all damage taken by that target is transferred to your pet.  Lasts 10 sec or until your pet's health drops below 25%.	sweep
+253	Beast Mastery	talent	1272094	Guardian's Hide	true			0			Your pet protects you at all times, reducing the damage you take by 3%. Your pet receives 100% of the damage it mitigates.	sweep
+253	Beast Mastery	talent	1273043	Nature's Ally	true			0			Bestial Wrath summons an Animal Companion from your Stable to fight alongside you for 15 sec. The summoned Animal Companion obeys your Kill Command, Wild Thrash, and Stomps alongside your other pets.	sweep
+253	Beast Mastery	talent	1273065	Nature's Ally	true			0			Damage dealt by your pets increased by 5%. Bestial Wrath strikes 2 additional targets.	sweep
+253	Beast Mastery	talent	1273126	Nature's Ally	true			0			Barbed Shot and Cobra Shot damage increased by 15%. Barbed Shot, Cobra Shot, and Black Arrow increases the damage of your next Kill Command by 30%.	sweep
+254	Marksmanship	hero	467902	Banshee's Mark	true			0			Black Arrow and Bleak Powder critical strike damage increased by 10%.	sweep
+254	Marksmanship	hero	467644	The Bell Tolls	true			0			All pet damage increased by 6%. Dire Beast damage increased by 10%.	sweep
+254	Marksmanship	hero	1253751	Stargazer	true			0			Consuming Tip of the Spear grants 2% increased critical strike damage for 10 sec. Multiple applications may overlap.	sweep
+254	Marksmanship	hero	1253807	Open Fire	true			0			Flamefang Pitch damage increased by 15%.	sweep
+254	Marksmanship	hero	430709	Smoke Screen	true			0			Exhilaration grants you 3 sec of Survival of the Fittest. Survival of the Fittest activates Exhilaration at 50% effectiveness.	sweep
+254	Marksmanship	hero	430712	Dark Chains	true			0			While in combat, Disengage will chain the closest target to the ground, causing them to move 40% slower until they move 8 yards away.	sweep
+254	Marksmanship	hero	467741	Shadow Dagger	true			0			While in combat, Disengage releases a fan of shadow daggers, dealing 12 Shadow damage per second and reducing affected target's movement speed by 30% for 6 sec.	sweep
+254	Marksmanship	hero	467749	Bleak Arrows	true			0			Your auto shot now deals Shadow damage, allowing it to bypass armor. Auto shot damage increased by 100%.	sweep
+254	Marksmanship	hero	1253852	Lunar Calling	true			0			Takedown summons your Sentinel Owl and your chance to summon your Sentinel Owl is increased by an additional 10% during Takedown.	sweep
+254	Marksmanship	hero	469638	Soul Drinker	true			0			Kill Command has a 20% chance and Barbed Shot has a 50% chance to grant Deathblow. |T132208:24|t |cffffffffDeathblow|r The cooldown of Kill Shot is reset. Your next Kill Shot can be used on any target, regardless of their current health.	sweep
+254	Marksmanship	hero	1253846	Arcane Talons	true			0			Sentinel's Mark further increases the damage of Wildfire Bomb by 50% 	sweep
+254	Marksmanship	hero	450379	Invigorating Pulse	true			0			Kill Command grants an additional 5 Focus and its damage is increased by 20%.  Maximum Focus increased by 25.	sweep
+254	Marksmanship	hero	1253825	Moon's Blessing	true			0			Consuming Tip of the Spear has a 10% increased chance to summon your Sentinel Owl. When your Sentinel Owl applies Sentinel's Mark, reduce the cooldown of Wildfire Bomb by 4.0 sec.	sweep
+254	Marksmanship	hero	467911	Bleak Powder	true			0			Black Arrow now explodes in a cloud of shadow and sulfur on impact, dealing 1,355 Shadow damage to all enemies within an 8 yd cone behind the target. Damage reduced beyond 8 targets.	sweep
+254	Marksmanship	hero	1253599	Sentinel	true			0			Your Eagle is replaced with a Sentinel Owl that applies an enhanced Sentinel's Mark. |T3636840:24|t|cffffffffSentinel's Mark|r Your next Wildfire Bomb deals 40% increased direct damage to the marked target.	sweep
+254	Marksmanship	hero	1253732	Lunar Storm	true			0			When Sentinel's Mark is consumed, it summons a barrage of 4 lunar missiles, each dealing 5,105 Arcane damage to enemies within 10 yds.	sweep
+254	Marksmanship	hero	1253887	Conditioning	true			0			Your movement speed is increased by 8%. Aspect of the Cheetah's cooldown is reduced by 30 sec.	sweep
+254	Marksmanship	hero	1253892	Scout's Vigil	true			0			Enemy detection radius reduced by 10 yds. While in Camouflage, your stealth detection radius is increased by 25 yds.	sweep
+254	Marksmanship	hero	1253831	Sanctified Armaments	true			0			An additional 15% of Raptor Strike's damage is dealt as Arcane damage over 6 sec.	sweep
+254	Marksmanship	hero	1235397	Umbral Reach	true			0			Bleak Powder now applies Black Arrow's periodic effect to all enemies it damages. If Bleak Powder damages 2 or more enemies, gain Beast Cleave if talented. 	sweep
+254	Marksmanship	hero	1264291	Blighted Quiver	true			0			You fire 2 additional Black Arrows during Withering Fire's barrage. Beast Cleave and Kill Cleave damage increased by 5%.	sweep
+254	Marksmanship	hero	467897	Ebon Bowstring	true			0			Casting Black Arrow has a 15% chance to grant Deathblow. |T132208:24|t |cffffffffDeathblow|r The cooldown of Kill Shot is reset. Your next Kill Shot can be used on any target, regardless of their current health.	sweep
+254	Marksmanship	hero	1277565	Through the Eyes	true			0			Black Arrow deals 20% increased damage to enemies affected by Black Arrow's periodic damage.	sweep
+254	Marksmanship	hero	466932	Black Arrow	true			0			Your Kill Shot is replaced with Black Arrow. |T5927620:24|t |cffffffffBlack Arrow|r You attempt to finish off a wounded target, dealing 1,889 Shadow damage and 10,210 Shadow damage over 8 sec. Only usable on enemies above 80% health or below 20% health.	sweep
+254	Marksmanship	hero	450373	Don't Look Back	true			0			Consuming Sentinel's Mark grants you an absorb shield equal to 10.0% of your maximum health.	sweep
+254	Marksmanship	hero	1253830	Can't Miss, Won't Miss	true			0			Tip of the Spear damage bonus increased by 4%. Takedown duration increased by 2 sec.	sweep
+254	Marksmanship	hero	466990	Withering Fire	true			0			Bestial Wrath causes you to surrender to darkness, granting you Withering Fire for 10 sec and Deathblow. |T136194:24|t |cffffffffWithering Fire|r Casting Black Arrow fires a barrage of 2 additional Black Arrows at nearby targets at 50% effectiveness, prioritizing enemies that aren't affected by Black Arrow's damage over time effect.	sweep
+254	Marksmanship	talent	1267003	Precision Strikes	true			0			Your auto shot damage is increased by 25%.	sweep
+254	Marksmanship	talent	385539	Rejuvenating Wind	true			0			Exhilaration now also heals you for an additional 12.0% of your maximum health over 8 sec.	sweep
+254	Marksmanship	talent	343242	Wilderness Medicine	true			0			Mend Pet heals for an additional 25% of your pet's health over its duration, and has a 25% chance to dispel a magic effect each time it heals your pet.	sweep
+254	Marksmanship	talent	459502	Serrated Tips	true			0			You gain 2% more critical strike from critical strike sources.	sweep
+254	Marksmanship	talent	459527	Unnatural Causes	true			0			Your damage over time effects deal 10% increased damage. This effect is increased by 50% on targets below 20% health.	sweep
+254	Marksmanship	talent	459517	Emergency Salve	true			0			Feign Death and Aspect of the Turtle removes poison and disease effects from you.	sweep
+254	Marksmanship	talent	459542	Specialized Arsenal	true			0			Kill Command deals 10% increased damage. 	sweep
+254	Marksmanship	talent	388039	Lone Survivor	true			0			The duration of Survival of the Fittest is increased by 2.0 sec.	sweep
+254	Marksmanship	talent	187698	Tar Trap	false			30000			Hurls a tar trap to the target location that creates a 8 yd radius pool of tar around itself for 30 sec when the first enemy approaches. All enemies have 50% reduced movement speed while in the area of effect. Limit 1. Trap will exist for 1 min.	sweep
+254	Marksmanship	talent	1513	Scare Beast	false			0			Scares a beast, causing it to run in fear for up to 20 sec.  Damage caused may interrupt the effect.  Only one beast can be feared at a time.	sweep
+254	Marksmanship	talent	459507	Territorial Instincts	true			0			The cooldown of Intimidation is reduced by 20 sec.	sweep
+254	Marksmanship	talent	1258509	Guttural Roar	true			0			Intimidation now also stuns nearby enemies for 1.0 sec.	sweep
+254	Marksmanship	talent	343244	Disruptive Rounds	true			0			When Counter Shot interrupts a cast, gain 30 Focus.	sweep
+254	Marksmanship	talent	459534	Trigger Finger	true			0			Haste increased by 2%.	sweep
+254	Marksmanship	talent	270581	Natural Mending	true			0			Exhilaration's cooldown is reduced by 30 sec.	sweep
+254	Marksmanship	talent	147362	Counter Shot	false			24000			Interrupts spellcasting, preventing any spell in that school from being cast for 5 sec.	sweep
+254	Marksmanship	talent	378002	Pathfinding	true			0			Movement speed increased by 4%.	sweep
+254	Marksmanship	talent	459450	Padded Armor	true			0			Survival of the Fittest gains an additional charge.	sweep
+254	Marksmanship	talent	5116	Concussive Shot	false			5000			Dazes the target, slowing movement speed by 50% for 6 sec.	sweep
+254	Marksmanship	talent	378004	Keen Eyesight	true			0			Critical strike chance increased by 2%.	sweep
+254	Marksmanship	talent	109215	Posthaste	true			0			Disengage also frees you from all movement impairing effects and increases your movement speed by 50% for 4 sec.	sweep
+254	Marksmanship	talent	459546	No Hard Feelings	true			0			When Misdirection targets your pet, it reduces the damage they take by 50% for 5 sec. The cooldown of Misdirection is reduced by 5 sec.	sweep
+254	Marksmanship	talent	1268868	Improved Snaring	true			0			Wing Clip slows an additional 25%. Concussive Shot slows an additional 10%.	sweep
+254	Marksmanship	talent	459983	Kodo Tranquilizer	true			0			Tranquilizing Shot removes 1 additional Magic effect from up to 2 nearby targets.	sweep
+254	Marksmanship	talent	459991	Devilsaur Tranquilizer	true			0			If Tranquilizing Shot removes only an Enrage effect, its cooldown is reduced by 5 sec.	sweep
+254	Marksmanship	talent	266921	Born To Be Wild	true			0			The cooldown of Aspect of the Cheetah, and Aspect of the Turtle are reduced by 15 sec.	sweep
+254	Marksmanship	talent	343247	Improved Traps	true			0			The cooldown of Tar Trap and Freezing Trap is reduced by 5.0 sec.	sweep
+254	Marksmanship	talent	34477	Misdirection	false			30000			Misdirects all threat you cause to the targeted party or raid member, beginning with your next attack within 30 sec and lasting for 8 sec.	sweep
+254	Marksmanship	talent	264735	Survival of the Fittest	false		1	0	90000		Reduces all damage you and your pet take by 30% for 6 sec.	sweep
+254	Marksmanship	talent	384799	Hunter's Avoidance	true			0			Damage taken from area of effect attacks reduced by 5%.	sweep
+254	Marksmanship	talent	1258485	Improved Aspect of the Turtle	true			0			The cooldown of Aspect of the Turtle is reduced by 30 sec.	sweep
+254	Marksmanship	talent	459506	Kindling Flare	true			0			Flare's radius is increased by 50%.	sweep
+254	Marksmanship	talent	288613	Trueshot	false			120000			Increases your critical strike chance by 10% and critical strike damage by 20% for 15 sec. |T135130:24|t |cffffffffAimed Shot|r Cooldown recovers 40% faster. |T461115:24|t |cffffffffRapid Fire|r Cooldown recovers 60% faster.	sweep
+254	Marksmanship	talent	1232955	Unmatched Precision	true			0			The damage bonus of Precise Shots is increased by an additional 10%.	sweep
+254	Marksmanship	talent	473523	Windrunner Quiver	true			0			Consuming Precise Shots has a 30% to grant Precise Shots. The damage bonus of Precise Shots is increased by an additional 15%.	sweep
+254	Marksmanship	talent	1277572	Critical Precision	true			0			Precise Shots now increases the critical strike chance of Arcane Shot and Multi-Shot by 10%	sweep
+254	Marksmanship	talent	260243	Volley	false			45000			Rain a volley of arrows down over 6 sec, dealing up to 9,110 Physical damage to any enemy in the area, and gain the effects of Trick Shots for as long as Volley is active.	sweep
+254	Marksmanship	talent	257621	Trick Shots	true			0			When Multi-Shot hits 3 or more targets, your next Aimed Shot or Rapid Fire will ricochet and hit up to 5 additional targets for 60% of normal damage.	sweep
+254	Marksmanship	talent	470945	Aspect of the Hydra	true			0			Aimed Shot, Rapid Fire, and Arcane Shot now hit 1 additional target for 35% of their damage.	sweep
+254	Marksmanship	talent	260404	Calling the Shots	true			0			Trueshot's cooldown is reduced by 30 sec.	sweep
+254	Marksmanship	talent	474738	Unerring Vision	true			0			Trueshot now increases your critical strike chance by an additional 10% and increases your critical strike damage by an additional 20%.	sweep
+254	Marksmanship	talent	471350	Obsidian Arrowhead	true			0			The damage of your auto shot is increased by 25% and its critical strike chance is increased by 15%.	sweep
+254	Marksmanship	talent	471348	On Target	true			0			Your Haste is increased by 2%.	sweep
+254	Marksmanship	talent	400456	Salvo	true			0			Volley now also applies Explosive Shot to up to 2 targets hit. |T236178:24|t |cffffffffExplosive Shot|r Fires an explosive shot at your target. After 3 sec, the shot will explode, dealing 3,156 Fire damage to all enemies within 8 yds. Deals reduced damage beyond 5 targets.	sweep
+254	Marksmanship	talent	257044	Rapid Fire	false			16000			Shoot a stream of 7 shots at your target over 1.7 sec, dealing a total of 2,755 Physical damage. Usable while moving. |cFFFFFFFFEach shot generates 3 Focus.|r	sweep
+254	Marksmanship	talent	389019	Bulletstorm	true			0			Damage from Rapid Fire increases the damage of Aimed Shot by 1% for 15 sec, stacking up to 15 times. New stacks do not refresh duration and are removed upon casting Rapid Fire.	sweep
+254	Marksmanship	talent	459783	Penetrating Shots	true			0			Gain critical strike damage equal to 25% of your critical strike chance.	sweep
+254	Marksmanship	talent	471366	Tensile Bowstring	true			0			Trueshot now also reduces the cast time of Aimed Shot by 40% and reduces the Focus cost of Aimed Shot by 60%.	sweep
+254	Marksmanship	talent	471363	Headshot	true			0			Damage from Kill Shot increases the damage your target receives from Kill Shot by 3%, stacking up to 10 times.	sweep
+254	Marksmanship	talent	321460	Deadeye	true			0			Kill Shot now has 2 charges and has its cooldown reduced by 2.0 sec.	sweep
+254	Marksmanship	talent	473369	Eagle's Accuracy	true			0			Aimed Shot deals 5% increased damage. Rapid Fire deals 10% increased damage.	sweep
+254	Marksmanship	talent	260309	Master Marksman	true			0			Your ranged ability critical strikes cause the target to bleed for an additional 10% of the damage dealt over 6 sec.	sweep
+254	Marksmanship	talent	459794	Quick Draw	true			0			Rapid Fire shoots 3 additional shots. Aimed Shot grants 50% increased movement speed for 2 sec, decaying rapidly over its duration.	sweep
+254	Marksmanship	talent	260240	Precise Shots	true			0			Aimed Shot causes your next Arcane Shot or Multi-Shot to deal 50% more damage and cost 60% less Focus. Precise Shots benefits Kill Shot's damage at 100% effectiveness.	sweep
+254	Marksmanship	talent	459802	Small Game Hunter	true			0			Explosive Shot deals 15% increased damage and Volley deals 25% increased damage.	sweep
+254	Marksmanship	talent	1277546	Focus Fire	true			0			When Surging Shots resets the cooldown of Rapid Fire, the damage of your next Rapid Fire is increased by 20%.	sweep
+254	Marksmanship	talent	19434	Aimed Shot	false		2	0	15000		A powerful aimed shot that deals 4,392 Physical damage.	sweep
+254	Marksmanship	talent	470943	Feathered Frenzy	true			0			Trueshot sends your Spotting Eagle into a frenzy, instantly applying Spotter's Mark to your target.  During Trueshot, your chance to apply Spotter's Mark is increased by 100%.	sweep
+254	Marksmanship	talent	204089	Bullseye	true			0			When your abilities damage a target below 20% health, you gain 1% increased critical strike chance for 6 sec, stacking up to 30 times.	sweep
+254	Marksmanship	talent	474456	Tenacious	true			0			Your Spotting Eagle gains the Tenacity specialization, granting you Endurance Training and Air Superiority. |T236180:24|t |cffffffffEndurance Training|r You gain 5% increased maximum health. |T6352450:24|t |cffffffffAir Superiority|r Your Spotting Eagle alerts you to oncoming danger, reducing all damage you take by 3%	sweep
+254	Marksmanship	talent	474440	Cunning	true			0			Your Spotting Eagle gains the Cunning specialization, granting you Master's Call and Pathfinding. |T236189:24|t |cffffffffMaster's Call|r Your pet removes all root and movement impairing effects from itself and a friendly target, and grants immunity to all such effects for 4 sec. |T348567:24|t |cffffffffPathfinding|r Your movement speed is increased by 8%.	sweep
+254	Marksmanship	talent	378767	Focused Aim	true			0			Consuming Precise Shots reduces the cooldown of Aimed Shot by 2.00 sec.	sweep
+254	Marksmanship	talent	474421	Intimidation	false			60000			Your Spotting Eagle descends from the skies, stunning your target for 5 sec. This ability does not require line of sight when used against players.	sweep
+254	Marksmanship	talent	1277548	Unload	true			0			When Rapid Fire begins and finishes channeling, it releases an Arcane Shot at 100% effectiveness. If your target is below 20% health, Rapid Fire instead releases Kill Shots.	sweep
+254	Marksmanship	talent	466867	Avian Specialization	true			0			The damage bonus of Spotter's Mark is increased by 20%. Additionally, your Eagle learns how to Fetch. |T6352452:24|t |cffffffffSpotter's Mark|r Damaging an enemy with abilities empowered by Precise Shots has a 30% chance to apply Spotter's Mark to the primary target, causing your next Aimed Shot to deal 20% increased damage to the target. 	sweep
+254	Marksmanship	talent	1223323	Unbreakable Bond	true			0			Regain access to Call Pet. While outdoors, your pet deals 15% increased damage and takes 15% reduced damage.	sweep
+254	Marksmanship	talent	391559	Surging Shots	true			0			Rapid Fire deals 35% additional damage, and Aimed Shot has a 15% chance to reset the cooldown of Rapid Fire.	sweep
+254	Marksmanship	talent	378913	Light Ammo	true			0			Trick Shots now causes Aimed Shot and Rapid Fire to ricochet to 2 additional targets. Aspect of the Hydra's damage bonus is increased by 15%.	sweep
+254	Marksmanship	talent	194595	Lock and Load	true			0			Your ranged auto attacks have a 10% chance to trigger Lock and Load, causing your next Aimed Shot to cost no Focus and be instant.	sweep
+254	Marksmanship	talent	471428	Incendiary Ammunition	true			0			Bulletstorm now increases your critical strike damage by 2%. Additionally, Bulletstorm now stacks 5 more times.	sweep
+254	Marksmanship	talent	459455	Scout's Instincts	true			0			You cannot be slowed below 80% of your normal movement speed while Aspect of the Cheetah is active.	sweep
+254	Marksmanship	talent	1258486	Improved Feign Death	true			0			The cooldown of Feign Death is reduced by 5 sec.	sweep
+254	Marksmanship	talent	1258407	Improved Aspect of the Cheetah	true			0			The cooldown of Aspect of the Cheetah is reduced by 30 sec.	sweep
+254	Marksmanship	talent	1258404	Catlike Reflexes	true			0			Aspect of the Cheetah's initial burst of speed is increased by 2.0 sec.	sweep
+254	Marksmanship	talent	1258402	Touch of Grass	true			0			Your maximum health is increased by 5%.	sweep
+254	Marksmanship	talent	109248	Binding Shot	false			45000			Fires a magical projectile, tethering the enemy and any other enemies within 5 yds for 10 sec, stunning them for 3 sec if they move more than 5 yds from the arrow.	sweep
+254	Marksmanship	talent	19801	Tranquilizing Shot	false			10000			Removes 1 Enrage and 1 Magic effect from an enemy target.	sweep
+254	Marksmanship	talent	53351	Kill Shot	false		1	0	10000		You attempt to finish off a wounded target, dealing 3,796 Physical damage. Only usable on enemies with less than 20% health.	sweep
+254	Marksmanship	talent	343248	Deathblow	true			0			Kill Command has a 0% chance to grant Deathblow. |T132208:24|t |cffffffffDeathblow|r The cooldown of Kill Shot is reset. Your next Kill Shot can be used on any target, regardless of their current health.	sweep
+254	Marksmanship	hero	1264690	Pact of the Hollow	true			0			Kill Command causes your Dark Hound to Shadow Thrash, dealing 5,360 Shadow damage to up to 8 nearby enemies.	sweep
+254	Marksmanship	hero	1264290	Wailing Dead	true			0			Bestial Wrath summons a Dark Hound. For 15 sec after casting Bestial Wrath, Bestial Wrath is replaced with Wailing Arrow. |T132323:24|t |cffffffffWailing Arrow|r Fire an enchanted arrow, dealing 35,735 Shadow damage to your target and an additional 17,867 Shadow damage to all enemies within 8 yds of your target. Non-Player targets struck by a Wailing Arrow have their spellcasting interrupted and are silenced for 1 sec. |cFFFFFFFFGrants Deathblow.|r	sweep
+254	Marksmanship	hero	1264289	Corpsecaller	true			0			When summoning a Dire Beast, you have a 10% chance to instead summon a Dark Hound that deals significantly increased damage.	sweep
+254	Marksmanship	hero	1264903	Radiant Edge	true			0			Your Moonlight Chakram deals 25% increased damage each time it bounces.	sweep
+254	Marksmanship	hero	1264902	Moonlight Chakram	true			0			For 15 sec after casting Takedown, Takedown is replaced with Moonlight Chakram. |T6035310:24|t |cffffffffMoonlight Chakram|r Throw a chakram blessed with moonlight at your current target that will rapidly deal 1,542 Physical damage 7 times, bouncing to other targets if they are nearby.	sweep
+254	Marksmanship	talent	473370	Double Tap	true			0			Casting Trueshot or Volley grants Double Tap, causing your next Aimed Shot to fire again at 80% power, or your next Rapid Fire to fire 80% additional shots during its channel.	sweep
+254	Marksmanship	hero	1264904	Twilight Requiem	true			0			When your Moonlight Chakram expires, it summons an explosion of moonlight, dealing 5,105 Arcane damage to nearby enemies. Damage reduced beyond 8 targets.	sweep
+254	Marksmanship	hero	1266069	Stalk and Strike	true			0			Throwing your Moonlight Chakram reduces the cooldown of Wildfire Bomb by 10 sec.	sweep
+254	Marksmanship	talent	459460	Tar-Coated Bindings	true			0			Binding Shot's stun duration is increased by 1 sec.	sweep
+254	Marksmanship	talent	472729	Horsehair Tether	true			0			When an enemy is stunned by Binding Shot, it is dragged to Binding Shot's center.	sweep
+254	Marksmanship	talent	1268671	Cold Feet	true			0			When your Freezing Trap breaks, the victim's movement speed is reduced by 70% for 4 sec.	sweep
+254	Marksmanship	talent	1267218	Shell Wall	true			0			Damage taken during Aspect of the Turtle is reduced by an additional 20%.	sweep
+254	Marksmanship	talent	199921	Trailblazer	true			0			Your movement speed is increased by 30% anytime you have not attacked for 3 sec.	sweep
+254	Marksmanship	talent	459488	Moment of Opportunity	true			0			When a trap triggers, gain 30% increased movement speed for 3 sec.	sweep
+254	Marksmanship	talent	199483	Camouflage	false			60000			You and your pet blend into the surroundings and gain stealth for 1 min. While camouflaged, you will heal for 2% of maximum health every 1 sec.	sweep
+254	Marksmanship	talent	1268871	Combat Experience	true			0			Your Agility is increased by 3%.	sweep
+254	Marksmanship	talent	53480	Roar of Sacrifice	false			120000			Instructs your pet to protect a friendly target, reducing their damage taken by 15%, but 50% of all damage taken by that target is transferred to your pet.  Lasts 10 sec or until your pet's health drops below 25%.	sweep
+254	Marksmanship	talent	1272094	Guardian's Hide	true			0			Your pet protects you at all times, reducing the damage you take by 3%. Your pet receives 100% of the damage it mitigates.	sweep
+254	Marksmanship	talent	1273132	Take Aim	true			0			Rapid Fire damage increased by 25%. Each shot fired from Rapid Fire reduces the cooldown of Aimed Shot by 0.50 sec. 	sweep
+254	Marksmanship	talent	1273129	Take Aim	true			0			Aimed Shot's critical strike damage is increased by 25% of your critical strike chance. The damage of your other ranged abilities is increased by 3%.	sweep
+254	Marksmanship	talent	1273128	Take Aim	true			0			Aimed Shot always critically strikes.	sweep
+254	Marksmanship	talent	473385	No Scope	true			0			Rapid Fire grants Precise Shots.	sweep
+254	Marksmanship	talent	473520	Shrapnel Shot	true			0			Casting Explosive Shot has a 100% chance to grant Lock and Load.	sweep
+254	Marksmanship	talent	471369	Precision Detonation	true			0			When Aimed Shot damages a target affected by your Explosive Shot, Explosive Shot instantly explodes, dealing 20% increased damage.	sweep
+254	Marksmanship	talent	212431	Explosive Shot	false			30000			Fires an explosive shot at your target. After 3 sec, the shot will explode, dealing 3,156 Fire damage to all enemies within 8 yds. Deals reduced damage beyond 5 targets.	sweep
