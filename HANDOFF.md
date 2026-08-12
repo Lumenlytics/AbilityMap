@@ -53,5 +53,17 @@ Re-fetch it from the matching simc release when refreshing `Data/`.
 
 ## Notes
 
-This repo has **no chat of its own**. Doc work routes to the Skopos chat, which authored
-this file and the rest of AbilityMap's documentation.
+This repo has **no chat of its own**, which is why it went without a HANDOFF until
+2026-08-11. Doc work was routed here from the Skopos chat on Marshall's instruction,
+relayed through Sniffer.
+
+⚠ That routing was justified on the grounds that the Skopos chat authored AbilityMap's
+documentation. **Git does not support that claim** and it should not be repeated: the
+promotion commit `da08ee9` (2026-07-29) is co-authored by a *Fable 5* session, not this
+one, and its message says the addon was "promoted from unversioned live folder" — so
+`README.md` predates version control and its author is not recorded anywhere. Treat
+authorship of the pre-2026-07-29 docs as unknown.
+
+**AbilityMap is Marshall's addon** (`## Author: Ryrin`). Phalanx *consumes* it via
+`OptionalDeps`; it did not write it. Skopos has no relationship to it beyond this
+routing.
