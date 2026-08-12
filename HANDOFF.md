@@ -33,9 +33,21 @@ is simply describing the previous patch.
 
 ## Consumers
 
-`Phalanx` declares `## OptionalDeps: AbilityMap` — verified in its `.toc`. Treat the
-runtime `_G.AbilityMap` shape as a **published API**: a breaking change to it breaks
-another of Marshall's addons, silently, at load.
+`Phalanx` declares `## OptionalDeps: AbilityMap` — verified in its `.toc`.
+
+⚠ **The coupling is looser than that declaration suggests.** An earlier version of this
+section said a breaking change to `_G.AbilityMap` would break Phalanx silently at load.
+That was inferred from the `.toc` line without checking whether anything calls the API.
+It does not. Grepping Phalanx finds the `OptionalDeps` declaration, two source
+*comments* noting that its class tokens follow AbilityMap's convention, and prose in its
+own docs — **no call into `_G.AbilityMap` anywhere**. Phalanx's `HANDOFF.md` states it
+outright: *"it can consume AbilityMap via `## OptionalDeps` but doesn't need it for this
+phase"*, and its taxonomy data is *"independent of the aura pipeline"*.
+
+So today the relationship is a declared optional dependency plus naming-convention
+alignment, not a live data consumer. **Do not treat the runtime shape as frozen on
+Phalanx's behalf** until something actually reads it. Re-check before assuming either
+way — this is exactly the kind of claim that gets repeated once written down.
 
 ## Layout
 
@@ -53,9 +65,12 @@ Re-fetch it from the matching simc release when refreshing `Data/`.
 
 ## Notes
 
-This repo has **no chat of its own**, which is why it went without a HANDOFF until
-2026-08-11. Doc work was routed here from the Skopos chat on Marshall's instruction,
-relayed through Sniffer.
+**OWNER: the Sniffer / hub session** (assigned by Marshall, 2026-08-11). Route work here.
+
+This repo had no chat of its own, which is why it went without a HANDOFF until
+2026-08-11. This file was written from the Skopos chat under a temporary routing that
+has since been superseded — Skopos does **not** own this addon and should not be sent
+its work.
 
 ⚠ That routing was justified on the grounds that the Skopos chat authored AbilityMap's
 documentation. **Git does not support that claim** and it should not be repeated: the
