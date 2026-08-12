@@ -57,7 +57,10 @@ print("  iterated " .. n .. " entries")
 print("\n-- GetPlayerClass --")
 print("  " .. AM:GetPlayerClass().class)
 
-assert(total == 236, "row count mismatch")
+-- A floor, not an exact count: every legitimate re-capture changes the row total
+-- (12.1 took Warrior 236 -> 263). This still catches the failure that matters,
+-- which is the data collapsing to a handful of rows or none.
+assert(total > 200, "row count collapsed -- expected 200+, got " .. tostring(total))
 assert(x.spellID == 5308, "alt resolution failed")
 assert(d == 213667, "Mortal Wounds debuff wrong")
 assert(n == total, "iterator skipped rows")

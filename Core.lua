@@ -2,7 +2,7 @@
   AbilityMap -- shared ability -> buff/debuff data library
   --------------------------------------------------------------------------
   A read-only dataset any addon can consume. Every entry was captured from a
-  live client (WoW 12.0.7 / build 68453) rather than guessed, and each aura ID
+  live client (WoW 12.1.0 / build 69273) rather than guessed, and each aura ID
   is individually verified -- an ability's aura is very often a DIFFERENT spell
   ID than the cast (Shield Block 2565 -> buff 132404).
 
@@ -31,8 +31,8 @@ ns.data = ns.data or {}
 local AbilityMap = {}
 _G.AbilityMap = AbilityMap
 
-AbilityMap.VERSION = "1.0.0"
-AbilityMap.BUILD   = "12.0.7 (68453)"
+AbilityMap.VERSION = "2.1.0"
+AbilityMap.BUILD   = "12.1.0 (69273)"
 
 -- Normalize "warrior" / "Warrior" / "WARRIOR" to the class token.
 local function tok(class)
