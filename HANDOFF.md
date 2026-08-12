@@ -1,0 +1,57 @@
+# AbilityMap — handoff
+
+A shared **data library**, not a UI addon. Every ability, talent and PvP talent mapped
+to its buff/debuff aura ID, base cooldown, charges and description — captured from a
+live client rather than guessed. Other addons read it at runtime through
+`_G.AbilityMap`; nothing here draws a frame.
+
+## Shared references — read at session start
+
+**Read `C:\Users\Marshall Sisler\Projects\WoW\SHARED-REFERENCES.md` at session start.**
+It indexes the Midnight knowledge base and the other shared docs. **Reading shared
+references is expected, not a lane violation** — the one-chat-per-addon rule restricts
+writing, never reading.
+
+⛔ **Do not cite `_project\knowledge\WoW-Midnight-Addon-Dev-KnowledgeBase.md`** — the
+copy inside this repo is a frozen 2026-07-19 snapshot, pre-12.1, and now carries an
+ARCHIVE banner. It is kept only as an artifact of the research phase. The live doc is
+`Projects\WoW\WoW-Midnight-Addon-Dev-KnowledgeBase.md`.
+
+## Status
+
+- **v2.0.0**, repo #11, public at `github.com/Lumenlytics/AbilityMap`. Promoted
+  2026-07-29 from an unversioned live folder — before that it existed **only** in
+  `Interface\AddOns`, unbacked, and was the one real exception to "the live folder is
+  disposable". That is resolved: it is ordinary build output now like the other repos.
+- `.toc` declares `## Interface: 120000, 120100`, so it is already flagged for 12.1.
+- Ships `Core.lua` plus `Data\<Class>.lua` for all **13** classes.
+
+⚠ **The data is captured against 12.0.7 (build 68453)** — README says so in its first
+line. 12.1 went live 2026-08-11 at build `120100` with class tuning, so **`Data/` needs
+a refresh pass** and the README's build reference is stale. Nothing is broken; the data
+is simply describing the previous patch.
+
+## Consumers
+
+`Phalanx` declares `## OptionalDeps: AbilityMap` — verified in its `.toc`. Treat the
+runtime `_G.AbilityMap` shape as a **published API**: a breaking change to it breaks
+another of Marshall's addons, silently, at load.
+
+## Layout
+
+| Path | What it is |
+|---|---|
+| `Core.lua`, `Data\*.lua` | the shipped addon — this is what other addons read |
+| `_project\scripts\` | the build pipeline that regenerates `Data/` |
+| `_project\output\AbilityMap.xlsx` | human-readable dataset: Summary tab + one per class |
+| `_project\simc\` | **gitignored** — ~17 MB of SimulationCraft spell dumps |
+| `_project\knowledge\` | research artifacts, including the archived pre-12.1 KB |
+| `_project\CAPTURE_CHECKLIST.md` | the capture procedure |
+
+`_project/simc/` is deliberately not committed: it is regenerable third-party output.
+Re-fetch it from the matching simc release when refreshing `Data/`.
+
+## Notes
+
+This repo has **no chat of its own**. Doc work routes to the Skopos chat, which authored
+this file and the rest of AbilityMap's documentation.

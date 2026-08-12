@@ -1,3 +1,21 @@
+> # ⛔ ARCHIVE — DO NOT CITE
+>
+> **This is a frozen snapshot from 2026-07-19, kept only as an artifact of
+> AbilityMap's research phase. It is PRE-12.1 and materially wrong for the
+> live client.**
+>
+> **The maintained copy is:**
+> `C:\Users\Marshall Sisler\Projects\WoW\WoW-Midnight-Addon-Dev-KnowledgeBase.md`
+>
+> Missing from this file: the 12.1 aura **directionality policy**,
+> `ManagedAuraContainer`, the widened **17-API identity-secret list**, the
+> **Lua-error** behaviour of secret aura reads (they throw, they don't return
+> secrets), the PTR build 68914 additions, and the elevated `C_Secrets`
+> policy-vs-probe guidance.
+>
+> Banner added 2026-08-12 after two sessions cited this copy by mistake and one
+> nearly drew 12.1 conclusions from it.
+
 # World of Warcraft Retail (Midnight) — Addon Development Knowledge Base
 
 **A practical reference manual for building modern Retail addons.**
