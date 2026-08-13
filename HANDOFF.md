@@ -57,6 +57,32 @@ the same `move-folders` pattern Gleaner_Data uses. Verified deploying 2026-08-12
 - `_project/CAPTURE_CHECKLIST.md` still lists 17 unresolved Warrior auras from
   the v1.6 pass — worth another `/ccx watch` run.
 
+## When does the data actually need re-capturing?
+
+AbilityMap stores **cooldowns, charges, aura IDs, talent renames, descriptions**
+— it does **not** store damage numbers. Most hotfixes are therefore invisible to
+it. Confirmed 2026-08-12: the post-launch 12.1 hotfixes changed nothing in this
+dataset.
+
+| Change | Re-capture? |
+|---|---|
+| Damage/healing % tuning | ❌ no — not stored |
+| PvP-only modifiers | ❌ no |
+| Cooldown or charge changes | ✅ yes |
+| New/changed aura, or a talent rename | ✅ yes |
+| New patch (client build bumps) | ✅ yes |
+| New spec or class | ✅ yes |
+
+**Cheap way to decide without reading patch notes:** re-run `/ccx sweep`, then
+diff the new dump's `meta` and per-class ability counts against
+`_project/data/ccxmap-*.lua`. `sweepAt`, `sweepSpells` and `sweepSpecs` settle it
+in seconds — and that same diff proves whether a sweep actually ran, since the
+addon rewrites SavedVariables on every reload whether or not you swept.
+
+Server-side hotfixes do **not** bump the client build, so an unchanged build in
+`.build.info` is not evidence that nothing changed. Compare the capture, not the
+build number.
+
 ## The refresh pipeline
 
 1. In game: `/reload`, confirm **CCXMap** is enabled in the addon list.
