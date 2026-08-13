@@ -1,3 +1,13 @@
 # SimulationCraft spell-data dumps (~17 MB) — regenerable third-party output.
 # Re-fetch from the matching simc release when refreshing Data/, don't commit.
 _project/simc/
+
+# Pipeline intermediates. All regenerable by re-running the pipeline against a
+# dump in _project/data/, so committing them just adds churn. The INPUT dumps in
+# _project/data/ ARE committed — those are the irreplaceable capture artifacts.
+_project/scripts/__pycache__/
+_project/scripts/ccxmap.lua
+_project/scripts/*_full.tsv
+_project/scripts/*_rows.json
+_project/scripts/captured_auras.json
+_project/scripts/*.err
