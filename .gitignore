@@ -11,3 +11,10 @@ _project/scripts/*_full.tsv
 _project/scripts/*_rows.json
 _project/scripts/captured_auras.json
 _project/scripts/*.err
+
+# Local secrets — the BigWigsMods packager auto-loads .env from the repo root or cwd
+# (CF_API_KEY, WAGO_API_TOKEN, WOWI_API_TOKEN). Never commit it. Added fleet-wide
+# 2026-08-15 after the TimeIsMoney chat found 8 of 9 repos had no guard.
+.env
+.env.*
+!.env.example
