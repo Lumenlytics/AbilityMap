@@ -1,3 +1,14 @@
+<!-- FLEET
+addon: AbilityMap
+version: 2.1.0
+status: SHIPPED
+owner-chat: Sniffer
+needs-marshall: none
+next-action: refresh the SimC aura seed to 12.1 (only affects seeded, non-verified aura IDs)
+broadcast-read: 2026-08-14
+updated: 2026-08-14
+-->
+
 # AbilityMap — Handoff
 
 **Owner: the Sniffer (hub) session.** Assigned by Marshall 2026-08-12 — AbilityMap
