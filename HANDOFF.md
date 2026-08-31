@@ -9,6 +9,8 @@ broadcast-read: 2026-08-14
 updated: 2026-08-14
 -->
 
+> **Sniffer is the hub as well as this addon's owner.** Hub state, build queue and rules live in `Projects\WoW\Sniffer\HANDOFF.md` — read that first, this second.
+
 # AbilityMap — Handoff
 
 **Owner: the Sniffer (hub) session.** Assigned by Marshall 2026-08-12 — AbilityMap
