@@ -4,9 +4,9 @@ version: 2.1.0
 status: SHIPPED
 owner-chat: Sniffer
 needs-marshall: none
-next-action: refresh the SimC aura seed to 12.1 (only affects seeded, non-verified aura IDs)
-broadcast-read: 2026-08-14
-updated: 2026-08-14
+next-action: refresh the SimC aura seed to 12.1 (only affects seeded, non-verified aura IDs); also close the SEEDED flag on Warrior 446035 (Slayer Bladestorm override, added 2026-08-31) once Marshall dumps `C_UnitAuras.GetPlayerAuraBySpellID(446035)` mid-Bladestorm — no urgency
+broadcast-read: 2026-08-31
+updated: 2026-08-31
 -->
 
 > **Sniffer is the hub as well as this addon's owner.** Hub state, build queue and rules live in `Projects\WoW\Sniffer\HANDOFF.md` — read that first, this second.
